@@ -14,7 +14,7 @@
 
 - **Aciclovir** → Ciprofloxacino
 - **Ampicilina** → Cotrimoxazol
-- **Bicarbonato sÃ³dico** → Ampicilina, Cefazolina, Ceftazidima, Ceftriaxona, Ciprofloxacino, Clindamicina
+- **Bicarbonato sódico** → Ampicilina, Cefazolina, Ceftazidima, Ceftriaxona, Ciprofloxacino, Clindamicina
 - **Canrenoato de potasio** → Ambroxol
 - **Caspofungina** → Furosemida
 - **Cefazolina** → Cotrimoxazol
@@ -32,15 +32,15 @@
 - **Difenhidramina** → Aciclovir, Calcio gluconato, Cefazolina, Cefotaxima, Ceftazidima, Ceftriaxona, Clindamicina, Cloxacilina
 - **Dopamina** → Aciclovir, Ampicilina, Cefazolina, Cotrimoxazol
 - **Eritromicina** → Calcio gluconato, Cefotaxima, Cefuroxima
-- **FenitoÃ­na** → Fentanilo, Midazolam, Noradrenalina, Ranitidina
+- **Fenitoína** → Fentanilo, Midazolam, Noradrenalina, Ranitidina
 - **Fentanilo** → Cotrimoxazol
 - **Fluconazol** → Ampicilina, Calcio gluconato, Cefotaxima, Ceftazidima, Ceftriaxona, Cefuroxima, Clindamicina, Difenhidramina
 - **Furosemida** → Ciprofloxacino, Cotrimoxazol, Difenhidramina, Dopamina, Eritromicina
 - **Gentamicina** → Aciclovir, Anfotericina B, Calcio gluconato, Cefazolina, Cefotaxima, Ceftazidima, Ceftriaxona, Clindamicina, Cloxacilina
-- **Heparina sÃ³dica** → Ciprofloxacino, Cotrimoxazol, Difenhidramina, Dopamina
+- **Heparina sódica** → Ciprofloxacino, Cotrimoxazol, Difenhidramina, Dopamina
 - **Hidrocortisona** → Calcio cloruro, Ceftriaxona, Clindamicina, Midazolam, Tiamina
 - **Levofloxacino** → Furosemida
-- **Linezolid** → Anfotericina B, Ceftriaxona, Cotrimoxazol, Eritromicina, FenitoÃ­na
+- **Linezolid** → Anfotericina B, Ceftriaxona, Cotrimoxazol, Eritromicina, Fenitoína
 - **Lorazepam** → Ampicilina, Clindamicina
 - **Magnesio sulfato** → Ceftriaxona, Cefuroxima, Ciprofloxacino
 - **Meropenem** → Aciclovir, Ampicilina
@@ -53,7 +53,7 @@
 - **Propofol** → Cotrimoxazol, Vancomicina
 - **Rocuronio** → Ketamina
 - **Tobramicina** → Aciclovir, Ampicilina, Cefazolina, Cefotaxima, Ceftazidima, Ceftriaxona, Cefuroxima, Clindamicina, Cloxacilina
-- **Vancomicina** → Bicarbonato sÃ³dico, Cefazolina, Cefepima, Cefotaxima, Ceftazidima, Ceftriaxona, Ciprofloxacino, Clindamicina, Cloxacilina, Cotrimoxazol, Fenobarbital, Hidrocortisona, Omeprazol, Pantoprazol, Propofol
+- **Vancomicina** → Bicarbonato sódico, Cefazolina, Cefepima, Cefotaxima, Ceftazidima, Ceftriaxona, Ciprofloxacino, Clindamicina, Cloxacilina, Cotrimoxazol, Fenobarbital, Hidrocortisona, Omeprazol, Pantoprazol, Propofol
 - **Vitamina K** → Ciprofloxacino, Furosemida
 
 ## Incompatibilidades de la matriz base
