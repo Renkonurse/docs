@@ -150,3 +150,21 @@ Se ha validado en poblaciones médicas, quirúrgicas y de rehabilitación, y en 
 - **Sensibilidad alta y especificidad limitada**: útil para descartar riesgo.
 - No recoge factores ambientales ni otros dispositivos.
 - Reevaluar al ingreso, por turnos y tras una caída.
+---
+## Evidencia y referencias
+
+- **Morse JM.** *Preventing Patient Falls*. Thousand Oaks: Sage; 1997.
+- **Morse JM, et al.** A prospective study of fall risk factors. *Can J Nurs Res* 1989.
+- **Oliver D, et al.** Risk factors and risk assessment tools for falls in hospital in-patients: a systematic review. *Age Ageing* 2004.
+
+> La escala identifica riesgo, no predice lesiones. Debe complementarse con una valoración multifactorial y medidas ambientales; reevaluar tras cada caída.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Morse Fall Scale** | Riesgo de caídas |
+| **Downton** | Alternativa de cribado |
+| **Prevención de caídas** | Medidas y entorno |
+| **Cuidados de enfermería** | Registro y reevaluación |
