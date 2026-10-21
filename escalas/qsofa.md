@@ -122,3 +122,21 @@ Está recomendado como **herramienta de cribado** para decidir la evaluación y 
 - Se aplica **fuera de la UCI**; en UCI usar SOFA.
 - La alteración del estado mental debe ser **nueva** respecto al basal.
 - Registrar el resultado y **reevaluar con frecuencia**: el deterioro puede ser rápido.
+---
+## Evidencia y referencias
+
+- **Singer M, et al.** The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). *JAMA* 2016;315:801-810.
+- **Evans L, et al.** Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021. *Intensive Care Med* 2021.
+- **Seymour CW, et al.** Assessment of clinical criteria for sepsis. *JAMA* 2016;315:762-774.
+
+> qSOFA es un cribado fuera de la UCI; no descarta sepsis y no debe usarse solo para decidir. La SSC 2021 recomienda no emplearlo como única herramienta de cribado.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **qSOFA** | Cribado de sepsis |
+| **SOFA** | Disfunción orgánica |
+| **Código sepsis** | Activación y tratamiento |
+| **NEWS2** | Deterioro clínico |
