@@ -493,3 +493,14 @@ AG = 138 − (100 + 18) = 20 mEq/L → ELEVADO (> 12)
 - **Ca:** corregido = Ca + 0,8 × (4,0 − albúmina); gluconato 10 % 1 g = **90 mg** (2,25 mmol); cloruro 10 % 1 g = **273 mg** (6,8 mmol).
 - **Osm = 2×Na + glucosa/18 + BUN/2,8**; **AG = Na − (Cl + HCO₃)**, normal 8-12.
 - Corregir **despacio**, con **monitorización ECG** y **analítica de control**; ajustar en insuficiencia renal.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Corrección de iones** | Sodio, potasio, calcio, magnesio y fósforo |
+| **Gasometría** | Ácido-base y electrolitos |
+| **Sodio y agua libre** | Hiponatremia e hipernatremia |
+| **Valores de referencia** | Rangos analíticos |
