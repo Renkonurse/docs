@@ -216,3 +216,14 @@ Recomendación: valorar carga de volumen y reevaluar tras la expansión
 - Patrones: **IC bajo + RVS altas** (cardiogénico/hipovolémico) · **IC alto + RVS bajas** (distributivo) · **congestión** según PCP/PVC.
 - **Calibrar y nivelar** el sistema; registrar condiciones de medida y dosis de vasoactivos.
 - Interpretación **conjunta** con la clínica, la diuresis y el lactato.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Hemodinámica** | Monitorización y parámetros |
+| **PiCCO / PVC** | Precarga y gasto |
+| **Monitores avanzados** | Edwards, MostCare, Swan-Ganz y PiCCO |
+| **Shock crítico** | Interpretación integrada |
