@@ -397,3 +397,14 @@ El proyecto Neumonía Zero aplica **de forma simultánea** un paquete de medidas
 ## Fuentes
 
 > 📖 **Fuentes:** Kalil AC, et al. IDSA/ATS HAP/VAP guidelines. Clin Infect Dis 2016;63:e61-e111. · NICE: https://www.nice.org.uk · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Neumonía Zero** | Prevención de la NAVM |
+| **Vía aérea** | Tubo y traqueostomía |
+| **Aspiración de secreciones** | Técnica y cuidados |
+| **Ventilación mecánica** | Parámetros y destete |
