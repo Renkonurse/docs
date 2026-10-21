@@ -131,3 +131,21 @@ La valoración de la asincronía requiere **interpretación experta de las curva
 - Antes de sedar más, **descartar dolor, hipoxia, secreciones, fugas y auto-PEEP**.
 - La asincronía mantenida **prolonga la ventilación mecánica** y empeora el confort.
 - Requiere **formación en lectura de curvas** y registro seriado.
+---
+## Evidencia y referencias
+
+- **Thille AW, et al.** Patient-ventilator asynchrony during assisted mechanical ventilation. *Intensive Care Med* 2006;32:1515-1522.
+- **Blanch L, et al.** Validation of the Better Care system to detect ineffective efforts during expiration in mechanically ventilated patients. *Intensive Care Med* 2012.
+- **Pham T, et al.** Asynchrony consequences and management. *Crit Care Clin* 2018.
+
+> El índice cuantifica ciclos asincrónicos; un valor > 10 % se considera relevante, pero la interpretación depende del tipo de asincronía y de la clínica. No sustituye la lectura de las curvas.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Asincronía (VAS)** | Porcentaje de ciclos asincrónicos |
+| **Modos ventilatorios** | Ajuste de trigger, flujo y ciclado |
+| **Alarmas respiratorias** | Deterioro y auto-PEEP |
+| **Sedoanalgesia** | Confort y esfuerzo |
