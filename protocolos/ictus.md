@@ -332,3 +332,14 @@ Se deriva a **centro con unidad de ictus, neurorradiología intervencionista o n
 ## Fuentes
 
 > 📖 **Fuentes:** Powers WJ, et al. AHA/ASA Guidelines for the Early Management of Acute Ischemic Stroke. Stroke 2019;50:e344-e418. · NICE: https://www.nice.org.uk · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Código ictus** | Valoración y activación |
+| **Alertas neurológicas** | Deterioro y aviso |
+| **Glasgow / FOUR** | Nivel de consciencia |
+| **ECG** | Fibrilación auricular y otras causas |
