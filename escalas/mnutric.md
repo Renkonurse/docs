@@ -144,3 +144,21 @@ Es la versión **más utilizada en la práctica clínica** por no requerir una d
 - Evitar la **sobrealimentación** en pacientes de bajo riesgo.
 - No mide desnutrición previa: mide **riesgo modificable con la nutrición**.
 - Monitorizar **tolerancia** y **síndrome de realimentación**.
+---
+## Evidencia y referencias
+
+- **Heyland DK, et al.** Identifying critically ill patients who benefit the most from nutrition therapy: the development and initial validation of a novel risk assessment tool. *Crit Care* 2011;15:R268.
+- **Rahman A, et al.** Identifying critically-ill patients who will benefit most from nutritional therapy: further validation of the modified NUTRIC nutritional risk assessment tool. *Clin Nutr* 2016;35:158-162.
+- **Compher C, et al.** ASPEN guidelines for the provision of nutrition support therapy in the adult critically ill patient. *JPEN* 2022.
+
+> mNUTRIC no requiere IL-6, lo que facilita su uso. Un valor ≥ 5 identifica alto riesgo nutricional y puede orientar una nutrición más agresiva, sin olvidar la tolerancia.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **mNUTRIC** | Riesgo nutricional sin IL-6 |
+| **NUTRIC** | Versión con IL-6 |
+| **Nutrición enteral** | Inicio y progresión |
+| **Síndrome de realimentación** | Prevención y control |
