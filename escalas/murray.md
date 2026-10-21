@@ -142,3 +142,21 @@ Con la publicación de la **definición de Berlín (2012)** y de las guías post
 - Los infiltrados se valoran por **cuadrantes** y con variabilidad interobservador.
 - Es una medida de **gravedad y seguimiento**, no un criterio diagnóstico aislado.
 - Repetir cada 24 h para valorar la **respuesta al tratamiento**.
+---
+## Evidencia y referencias
+
+- **Murray JF, et al.** An expanded definition of the adult respiratory distress syndrome. *Am Rev Respir Dis* 1988;138:720-723.
+- **ARDS Definition Task Force.** Acute respiratory distress syndrome: the Berlin Definition. *JAMA* 2012;307:2526-2533.
+- **Fan E, et al.** ATS/ESICM/SCCM Clinical Practice Guideline: Mechanical Ventilation in Adult Patients with ARDS. *Am J Respir Crit Care Med* 2017.
+
+> El LIS de Murray es histórico; la definición vigente es la de Berlín (PaO₂/FiO₂ ≤ 300 con PEEP ≥ 5). No usar el LIS aislado para definir SDRA.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Escala de Murray** | Gravedad radiológica y de oxigenación |
+| **SDRA** | Definición de Berlín y manejo |
+| **PaFi** | Oxigenación |
+| **Ventilación protectora** | Volumen y presión |
