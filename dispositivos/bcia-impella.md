@@ -205,4 +205,41 @@ Documento técnico completo de los **dispositivos de asistencia circulatoria**: 
 - **Material de emergencia a pie de cama** y comprobado en cada turno.
 - **Movilización planificada** con el equipo.
 
+## 10. Evidencia y referencias
+
+- **Thiele H, et al.** Intra-aortic balloon counterpulsation in acute myocardial infarction complicated by cardiogenic shock (IABP-SHOCK II). *N Engl J Med* 2012;367:1287-1296.
+- **ELSO.** General Guidelines for All ECLS Cases. 2021.
+- **Ouweneel DM, et al.** Extracorporeal life support during cardiac arrest and cardiogenic shock: a systematic review and meta-analysis. *Intensive Care Med* 2016.
+- **Schrage B, et al.** Impella support for cardiogenic shock in Germany: a matched-pair analysis. *Circulation* 2019.
+- **Lynn-McHale Wiegand DJ, ed.** *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
+- **Marino PL.** *The ICU Book*. 4th ed. Wolters Kluwer.
+
+> La evidencia no demuestra superioridad universal del BCIA en el shock cardiogénico; su indicación debe individualizarse. La Impella aporta soporte y descarga del VI, pero se asocia a hemólisis y complicaciones vasculares.
+
+---
+
+## 11. Errores frecuentes
+
+| Error | Consecuencia | Cómo evitarlo |
+|---|---|---|
+| Usar suero fisiológico en la purga de Impella | Corrosión del motor | Dextrosa 5 % + bicarbonato según protocolo |
+| No comprobar la perfusión distal | Isquemia de la extremidad | Pulsos, temperatura, color y relleno cada hora |
+| Silenciar alarmas sin valorar al paciente | Deterioro hemodinámico | Primero paciente, después dispositivo |
+| Confundir la anticoagulación del BCIA con la de Impella | Sangrado o trombosis | Protocolo específico para cada dispositivo |
+| Movilizar sin planificar | Desplazamiento del dispositivo | Planificar con el equipo y comprobar fijación |
+| No vigilar la hemólisis | Lesión renal y anemia | LDH, haptoglobina, orina y hemoglobina |
+| No tener material de emergencia | Retraso en la reparación | Checklist a pie de cama |
+
+---
+
+## 12. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **BCIA** | Indicaciones, montaje, alarmas y cuidados |
+| **Impella 5.5** | Purga, parámetros y complicaciones |
+| **Cuidados comunes** | Checklist de enfermería |
+| **Shock cardiogénico** | Diagnóstico y manejo inicial |
+| **ECMO** | Alternativa o combinación de soporte |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
