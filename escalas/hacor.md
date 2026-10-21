@@ -145,3 +145,20 @@ La app muestra además el **desglose por componentes**, imprescindible para sabe
 - Es una ayuda a la decisión, **no una orden de intubación**.
 
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+---
+## Evidencia y referencias
+
+- **Duan J, et al.** Assessment of heart rate, acidosis, consciousness, oxygenation, and respiratory rate to predict noninvasive ventilation failure in hypoxemic patients. *Intensive Care Med* 2017;43:192-199.
+- **Rochwerg B, et al.** Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. *Eur Respir J* 2017.
+
+> Predice fracaso de VMNI en insuficiencia respiratoria hipoxémica; no sustituye la valoración clínica ni la decisión de intubar. Reevaluar a las 1-2 horas y tras cambios.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **HACOR** | Predicción de fracaso de VMNI |
+| **VMNI** | Indicaciones y ajuste |
+| **Gasometría** | pH y PaO₂/FiO₂ |
+| **Alto flujo** | Alternativa de soporte |
