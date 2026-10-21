@@ -130,3 +130,21 @@ Su **validación psicométrica formal es limitada**: se trata de una escala clí
 - **Inspeccionar y palpar** el punto de inserción y el trayecto.
 - **Documentar** el grado en cada valoración.
 - Complementar con medidas de **prevención** y retirada precoz.
+---
+## Evidencia y referencias
+
+- **Jackson A.** Visual Infusion Phlebitis Score (VIP). NHS; 1998.
+- **Gallant P, Schultz AA.** Evaluation of a visual infusion phlebitis scale for determining appropriate discontinuation of peripheral intravenous catheters. *J Infus Nurs* 2006;29:338-345.
+- **INS.** Infusion Therapy Standards of Practice (9.ª ed. 2024).
+
+> La escala es visual; un VIP ≥ 2 indica retirada del catéter según el protocolo. Debe registrarse en cada turno y siempre ante dolor, eritema o induración.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **VIP score** | Flebitis por infusión |
+| **Maddox** | Alternativa visual |
+| **Accesos vasculares** | Cuidados y retirada |
+| **Flebitis** | Prevención y registro |
