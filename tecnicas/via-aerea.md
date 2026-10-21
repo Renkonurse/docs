@@ -362,4 +362,24 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 - [Neumonía Zero: prevención de la NAVM](../protocolos/neumonia-zero.md)
 - [Modos ventilatorios](modos-ventilatorios.md)
 
+## 15. Evidencia y referencias
+
+- **Frerk C, et al.** Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. *Br J Anaesth* 2015;115:827-848.
+- **Apfelbaum JL, et al.** 2022 American Society of Anesthesiologists Practice Guidelines for Management of the Difficult Airway. *Anesthesiology* 2022;136:31-81.
+- **Cook TM, et al.** Major complications of airway management in the UK: results of the Fourth National Audit Project (NAP4). *Br J Anaesth* 2011;106:617-631.
+- **AHA.** Advanced Cardiovascular Life Support (ACLS) Guidelines (edición vigente).
+
+> La evidencia respalda la preoxigenación, la planificación de la vía aérea difícil, la confirmación de la posición y el algoritmo de rescate.
+
+---
+
+## 16. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Vía aérea** | Intubación, manejo y complicaciones |
+| **Tubos: complicaciones** | Obstrucción, desplazamiento y extubación |
+| **Alarmas respiratorias** | Deterioro y DOPES |
+| **RCP / SVA** | Vía aérea en la parada |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
