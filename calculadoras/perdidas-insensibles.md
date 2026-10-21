@@ -173,3 +173,14 @@ Neto          = 600 − 300 = 300 mL     → añadir a Egresos
 - **Agua endógena = 12,5 × horas** (300 mL/24 h).
 - **Total P.I. = basal + fiebre + sudor**; **neto = total − agua endógena**.
 - A Monitorización se envía el **total**, no el neto. Registrar temperatura, sudoración y estado respiratorio en cada turno.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Pérdidas insensibles** | Estimación |
+| **Balance hídrico** | Balance total |
+| **Termorregulación** | Fiebre y pérdidas |
+| **Quemados** | Reposición y monitorización |
