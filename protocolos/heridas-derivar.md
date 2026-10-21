@@ -397,3 +397,14 @@ Esta sección responde a la pantalla **Cuando derivar (Heridas)**: recoge los **
 ## Fuentes
 
 > 📖 **Fuentes:** NICE: https://www.nice.org.uk · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · SEEIUC: https://www.seeiuc.org
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Heridas: derivar** | Valoración y criterios |
+| **Curas** | Técnica y apósitos |
+| **Prevención de UPP** | Escalas y medidas |
+| **Infección de herida** | Signos de alarma |
