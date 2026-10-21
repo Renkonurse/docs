@@ -176,3 +176,29 @@ Registro mínimo **cada hora**: RPM, flujo, P_ven, P_art, ΔP, FiO₂ y flujo de
 | **SvO₂** | Saturación venosa mixta de oxígeno |
 | **ACT / TTPa** | Tiempo de coagulación activado / tiempo de tromboplastina parcial activada |
 | **BIS** | Índice biespectral (profundidad de sedación) |
+
+---
+
+## 13. Evidencia y referencias
+
+- **ELSO.** General Guidelines for All ECLS Cases. Extracorporeal Life Support Organization, 2021 (actualizaciones sucesivas).
+- **Combes A, et al.** Extracorporeal membrane oxygenation for severe acute respiratory distress syndrome (EOLIA). *N Engl J Med* 2018;378:1965-1975.
+- **Peek GJ, et al.** Efficacy and economic assessment of conventional ventilatory support versus extracorporeal membrane oxygenation for severe adult respiratory failure (CESAR). *Lancet* 2009;374:1351-1363.
+- **Brodie D, Bacchetta M.** Extracorporeal membrane oxygenation for ARDS in adults. *N Engl J Med* 2011;365:1905-1914.
+- **Manual del sistema CardioHelp** (Getinge/Maquet): montaje, cebado y alarmas.
+
+> La evidencia respalda el uso de ECMO en centros con experiencia, con circuito y anticoagulación protocolizados, y con vigilancia estrecha de las complicaciones mecánicas.
+
+---
+
+## 14. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **ECMO: circuito** | Componentes, montaje, cebado y alarmas |
+| **ECMO: anticoagulación** | Heparina, ACT y complicaciones |
+| **ECMO: destete** | Weaning y decanulación |
+| **Cuidados de ECMO** | Checklist de enfermería |
+| **ECMO (general)** | Indicaciones y configuración VV/VA |
+
+> ⚠️ Documento orientativo: adáptalo al protocolo de tu unidad y a la indicación médica.
