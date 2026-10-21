@@ -121,3 +121,20 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque no s
 - **No está implementado como pantalla propia** en la app: usar CAM-ICU + RASS.
 - No sustituye al CAM-ICU para el diagnóstico.
 - Lo importante es la **tendencia** y la actuación sobre las causas.
+---
+## Evidencia y referencias
+
+- **Khan BA, et al.** The CAM-ICU-7 delirium severity scale: a novel delirium severity instrument for use in the intensive care unit. *Crit Care Med* 2017;45:851-857.
+- **Devlin JW, et al.** PADIS Guidelines. *Crit Care Med* 2018;46:e825-e873.
+
+> Mide gravedad, no sustituye al diagnóstico del CAM-ICU. La puntuación debe interpretarse junto con la evolución clínica y la causa del delirium.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **CAM-ICU-7** | Gravedad del delirium |
+| **CAM-ICU** | Diagnóstico de delirium |
+| **RASS** | Nivel de sedación |
+| **Delirium** | Medidas no farmacológicas y seguimiento |
