@@ -158,3 +158,21 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque var�
 - Depende de la **calidad de la documentación**; hay que verificar cada diagnóstico.
 - No mide fragilidad ni gravedad aguda: combinarlo con **CFS**, **Barthel**, **SOFA**.
 - Actualizarlo cuando aparezcan nuevos diagnósticos.
+---
+## Evidencia y referencias
+
+- **Charlson ME, et al.** A new method of classifying prognostic comorbidity in longitudinal studies: development and validation. *J Chronic Dis* 1987;40:373-383.
+- **Quan H, et al.** Coding algorithms for defining comorbidities in ICD-9-CM and ICD-10 administrative data. *Med Care* 2005.
+- **Charlson M, et al.** Validation of a combined comorbidity index. *J Clin Epidemiol* 1994.
+
+> El índice predice mortalidad a largo plazo, no la gravedad aguda. La codificación y la edad modifican la puntuación; no debe sustituir la valoración clínica.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Índice de Charlson** | Comorbilidad y pronóstico |
+| **SOFA / NEWS2** | Gravedad aguda |
+| **Valoración inicial** | Antecedentes y riesgo global |
+| **Decisiones clínicas** | Estratificación pronóstica |
