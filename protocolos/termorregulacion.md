@@ -388,3 +388,14 @@ Complementa a los grados anteriores porque permite clasificar al paciente sin te
 - NICE: https://www.nice.org.uk
 
 > Estas recomendaciones son orientativas y no sustituyen al juicio clínico ni a los protocolos específicos de cada centro.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Termorregulación** | Fiebre, hipotermia y control dirigido |
+| **Código sepsis** | Foco infeccioso |
+| **Hemodinámica** | Respuesta al frío/calor |
+| **Cuidados de enfermería** | Monitorización y confort |
