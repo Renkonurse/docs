@@ -322,3 +322,14 @@ Avisar al médico de forma **inmediata** ante cualquiera de los siguientes:
 
 - **Singer P, et al.** ESPEN practical guideline: nutrition in the ICU. *Clin Nutr* 2023.
 - **NICE.** Nutrition support in adults (CG32). https://www.nice.org.uk
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Síndrome de realimentación** | Riesgo, prevención y tratamiento |
+| **NUTRIC / mNUTRIC** | Riesgo nutricional |
+| **Nutrición enteral** | Inicio y progresión |
+| **Corrección de iones** | Fósforo, potasio y magnesio |
