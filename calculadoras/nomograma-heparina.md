@@ -150,3 +150,14 @@ Si el protocolo indica ajustar a 70 kg de peso ajustado:
 - **Plaquetas seriadas**: vigilar TIH; **Hb y signos de sangrado**.
 - **Protamina** como antídoto en hemorragia grave, según protocolo.
 - Ajustar el **peso** (real o ajustado) y los objetivos al **protocolo del centro**.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Nomograma de heparina** | Ajuste de dosis |
+| **Anticoagulantes** | Heparina y alternativas |
+| **TRRC: anticoagulación** | Citrato y heparina |
+| **ECMO: anticoagulación** | ACT y TTPa |
