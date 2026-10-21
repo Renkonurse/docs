@@ -224,4 +224,25 @@ No suele haber contraindicaciones absolutas, pero deben valorarse:
 - **No vigilar** el punto de inserción ni los signos sistémicos.
 - **Forzar** el catéter obstruido con lavado a presión.
 
+## 13. Evidencia y referencias
+
+- **O'Grady NP, et al.** Guidelines for the Prevention of Intravascular Catheter-Related Infections. CDC, 2011 (actualización 2017).
+- **INS.** Infusion Therapy Standards of Practice (9.ª ed. 2024).
+- **Loveday HP, et al.** epic3: National Evidence-Based Guidelines for Preventing Healthcare-Associated Infections. *J Hosp Infect* 2014.
+- **Parienti JJ, et al.** Intravascular complications of central venous catheterization by insertion site. *N Engl J Med* 2015;373:1220-1229.
+- **AIUM.** Practice Guideline for the Performance of Ultrasound-Guided Vascular Access.
+
+> La evidencia respalda la elección del sitio según el paciente, la ecografía, la barrera estéril máxima y la retirada precoz.
+
+---
+
+## 14. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **CVC** | Inserción, cuidados y complicaciones |
+| **Canalización ecoguiada** | Técnica con ecografía |
+| **Bacteriemia Zero** | Prevención de infección |
+| **Accesos vasculares** | Elección del dispositivo |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
