@@ -123,3 +123,21 @@ Está **recomendada por las guías PADIS (2018)** como herramienta de referencia
 - Valorar **antes** del rescate de sedoanalgesia y registrar con las dosis del turno.
 - La agitación obliga a **buscar causa** antes de aumentar la sedación.
 - No es interpretable con **bloqueo neuromuscular**.
+---
+## Evidencia y referencias
+
+- **Sessler CN, et al.** The Richmond Agitation-Sedation Scale: validity and reliability in adult intensive care unit patients. *Am J Respir Crit Care Med* 2002;166:1338-1344.
+- **Ely EW, et al.** Monitoring sedation status over time in ICU patients: reliability and validity of the Richmond Agitation-Sedation Scale. *JAMA* 2003.
+- **Devlin JW, et al.** PADIS Guidelines. *Crit Care Med* 2018.
+
+> Requiere formación y reevaluación frecuente. El objetivo habitual es RASS 0 a −2; debe registrarse antes de valorar delirium o dolor.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **RASS** | Agitación-sedación |
+| **CAM-ICU** | Delirium |
+| **Sedoanalgesia** | Objetivo y titulación |
+| **Destete** | Nivel de consciencia |
