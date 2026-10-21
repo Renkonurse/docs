@@ -331,3 +331,14 @@ Unidad de Cuidados Intensivos y paciente crítico con TRRC, habitualmente **hemo
 
 ## Fuentes
 > 📖 **Fuentes:** KDIGO. Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · NICE: https://www.nice.org.uk · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **TRRC: anticoagulación** | Citrato regional y heparina |
+| **Nomograma de heparina** | Ajuste de dosis |
+| **ECMO: anticoagulación** | Comparación de protocolos |
+| **Coagulación** | Pruebas y transfusión |
