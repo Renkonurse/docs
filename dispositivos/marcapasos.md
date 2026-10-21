@@ -176,4 +176,40 @@ Documento técnico completo del **marcapasos temporal**: transitorio (transvenos
 - **Ante pérdida de captura**: avisar al médico de inmediato.
 - En el **transcutáneo**: verificar **captura eléctrica y mecánica** y tener el **carro de parada** preparado.
 
+## 11. Evidencia y referencias
+
+- **Kusumoto FM, et al.** 2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay. *Circulation* 2019;140:e382-e482.
+- **Brignole M, et al.** 2013 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy. *Eur Heart J* 2013;34:2281-2329.
+- **Epstein AE, et al.** 2012 ACCF/AHA/HRS focused update incorporated into the ACCF/AHA/HRS 2008 guidelines for device-based therapy of cardiac rhythm abnormalities. *Circulation* 2013.
+- **Lynn-McHale Wiegand DJ, ed.** *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
+- **Marino PL.** *The ICU Book*. 4th ed. Wolters Kluwer.
+
+> La evidencia respalda la comprobación de captura y sensibilidad, el registro de parámetros, la fijación sin tracción y la disponibilidad de recambio de batería.
+
+---
+
+## 12. Errores frecuentes
+
+| Error | Consecuencia | Cómo evitarlo |
+|---|---|---|
+| Confundir captura con sensibilidad | Estimulación inadecuada o inhibición | Comprobar espiga-QRS y detección de latidos propios |
+| Programar la salida al umbral exacto | Pérdida de captura | Salida al doble del umbral |
+| No comprobar la captura mecánica en el transcutáneo | Isquemia o parada no detectada | Palpar pulso y valorar perfusión |
+| Silenciar alarmas sin revisar | Bradicardia o asistolia | Primero paciente, luego conexiones y programación |
+| No fijar cables y generador | Desplazamiento del electrodo | Fijación estable y brazo inmovilizado |
+| No tener batería de recambio | Interrupción de la estimulación | Recambio disponible y comprobado |
+| Usar electrocauterización sin precaución | Inhibición del marcapasos | Modo asíncrono y monitorización |
+
+---
+
+## 13. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Marcapasos transitorio** | Parámetros, colocación y cuidados |
+| **Marcapasos epicárdico temporal** | Comprobación de umbral y captura |
+| **Marcapasos transcutáneo** | Colocación de parches y captura mecánica |
+| **ECG** | Interpretación del ritmo y de la espiga |
+| **RCP / SVA** | Bradicardia con inestabilidad y parada |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
