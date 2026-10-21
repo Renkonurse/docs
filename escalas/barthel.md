@@ -130,3 +130,21 @@ Su principal limitación psicométrica son los **efectos techo y suelo**: no dis
 - Útil para **planificar el alta** y los recursos.
 - Reevaluar periódicamente y tras cambios clínicos.
 - Registrar la **ayuda real** prestada, no la capacidad potencial.
+---
+## Evidencia y referencias
+
+- **Mahoney FI, Barthel DW.** Functional evaluation: the Barthel Index. *Md State Med J* 1965;14:61-65.
+- **Collin C, et al.** The Barthel ADL Index: a reliability study. *Int Disabil Stud* 1988;10:61-63.
+- **Quinn TJ, et al.** Barthel Index of Activities of Daily Living: item response theory analysis. *Stroke* 2011.
+
+> Es una medida robusta de independencia básica, con efecto techo en pacientes de alta funcionalidad. No mide calidad de vida ni funciones cognitivas.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Índice de Barthel** | Puntuación de independencia en AVD |
+| **Escalas de dependencia** | Comparación con otras medidas |
+| **Cuidados básicos** | Planificación de ayudas |
+| **Rehabilitación** | Seguimiento funcional |
