@@ -170,3 +170,21 @@ Es una de las escalas de gravedad más utilizadas en UCI y se ha validado en mú
 - La **sedación** sobreestima el componente neurológico.
 - Los tratamientos instaurados (vasoactivos, diálisis, ventilación) modifican la puntuación.
 - Es un **predictor poblacional**, no una herramienta individual de decisión.
+---
+## Evidencia y referencias
+
+- **Vincent JL, et al.** The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure. *Intensive Care Med* 1996;22:707-710.
+- **Singer M, et al.** The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). *JAMA* 2016;315:801-810.
+- **Evans L, et al.** Surviving Sepsis Campaign 2021. *Intensive Care Med* 2021.
+
+> SOFA describe disfunción orgánica; no es una herramienta de triaje ni de decisión aislada. Se asume una puntuación basal de 0 si no hay datos previos, lo que puede sobreestimar el cambio.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **SOFA** | Disfunción orgánica |
+| **qSOFA** | Cribado de sepsis |
+| **Código sepsis** | Activación y tratamiento |
+| **Gasometría / hemodinámica** | Datos para el cálculo |
