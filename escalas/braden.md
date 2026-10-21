@@ -162,3 +162,21 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque var�
 - No recoge factores específicos de UCI (vasopresores, dispositivos).
 - Las subescalas **orientan la intervención** concreta.
 - Formación y consenso del equipo para reducir la variabilidad.
+---
+## Evidencia y referencias
+
+- **Bergstrom N, et al.** The Braden Scale for predicting pressure sore risk. *Nurs Res* 1987;36:205-210.
+- **Pancorbo-Hidalgo PL, et al.** Risk assessment scales for pressure ulcer prevention: a systematic review. *J Adv Nurs* 2006.
+- **NPIAP/EPUAP/PPPIA.** Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline. 2019.
+
+> La escala tiene validez predictiva moderada; ninguna escala sustituye la valoración clínica de la piel y de los factores de riesgo.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Escala de Braden** | Riesgo de úlceras por presión |
+| **Prevención de UPP** | Medidas según el nivel de riesgo |
+| **Cuidados de la piel** | Inspección y protección |
+| **EMINA / Cubbin & Jackson** | Alternativas en planta y críticos |
