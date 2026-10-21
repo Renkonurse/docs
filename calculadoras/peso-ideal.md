@@ -167,3 +167,14 @@ por debajo de 152,4 cm y que el resultado es orientativo.
 - En **ventilación mecánica** y en **nutrición** el peso de referencia no es siempre el real.
 - Validar la fórmula solo con **tallas ≥ 152,4 cm**.
 - Registrar siempre **sexo, talla y peso** utilizados para reproducir el cálculo.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Peso ideal** | Peso ideal y ajustado |
+| **Volumen corriente protector** | VT por peso ideal |
+| **Función renal** | Cockcroft-Gault |
+| **Perfusiones** | Dosis por kg |
