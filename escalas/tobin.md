@@ -121,3 +121,21 @@ Su gran ventaja es que se mide de forma sencilla, no invasiva y a pie de cama, y
 - Si es **> 130**, suspender la prueba y corregir causas.
 - Documentar FR y VT medidos, no solo el índice.
 - Repetir y valorar la **tendencia**.
+---
+## Evidencia y referencias
+
+- **Yang KL, Tobin MJ.** A prospective study of indexes predicting the outcome of trials of weaning from mechanical ventilation. *N Engl J Med* 1991;324:1445-1450.
+- **Boles JM, et al.** Weaning from mechanical ventilation. *Eur Respir J* 2007.
+- **MacIntyre NR.** Evidence-based guidelines for weaning and discontinuing ventilatory support. *Respir Care* 2016.
+
+> El RSBI < 105 orienta a éxito, pero no decide por sí solo la extubación. Hay que valorar la causa de la insuficiencia, la tos, las secreciones y la vía aérea.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Índice de Tobin (RSBI)** | Predicción de destete |
+| **Weaning y extubación** | Criterios y prueba |
+| **Modos ventilatorios** | PSV y tubo en T |
+| **Alto flujo** | Soporte post-extubación |
