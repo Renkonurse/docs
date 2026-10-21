@@ -398,3 +398,14 @@ UCI de adultos y pediátrica, unidades de críticos, reanimación posquirúrgica
 ## Fuentes
 
 > 📖 **Fuentes:** Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · AACN: https://www.aacn.org · SEEIUC: https://www.seeiuc.org
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Seguridad y continuidad** | Checklist de turno y transferencia |
+| **Transporte** | Traslado seguro |
+| **Riesgos** | Caídas, UPP y errores de medicación |
+| **Cuidados de enfermería** | Registro y comunicación |
