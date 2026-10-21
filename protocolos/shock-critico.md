@@ -315,3 +315,14 @@ Avisa de inmediato al facultativo si aparece cualquiera de estos signos:
 - **Evans L, et al.** Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. *Crit Care Med* 2021;49:e1063-e1143.
 - **Marino PL.** The ICU Book. 4th ed. Wolters Kluwer.
 - **Nolan JP, et al.** European Resuscitation Council Guidelines 2021. *Resuscitation* 2021;161:1-60.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Shock crítico** | Tipos y manejo inicial |
+| **Hemodinámica** | PAM, gasto y perfusión |
+| **PiCCO / PVC** | Precarga y respuesta a volumen |
+| **Vasopresores** | Fármacos y objetivos |
