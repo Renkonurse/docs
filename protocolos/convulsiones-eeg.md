@@ -374,3 +374,14 @@ Cuando el estatus persiste o recidiva tras 24 horas de anestésicos, revisar la 
 ## Fuentes
 
 > 📖 **Fuentes:** Brophy GM, et al. Neurocritical Care Society. Guidelines for status epilepticus. Neurocrit Care 2012;17:3-23. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Convulsiones y EEG** | Reconocimiento y tratamiento escalonado |
+| **Alertas neurológicas** | Deterioro y aviso |
+| **Sedación y delirium** | Fármacos y monitorización |
+| **TCE / HIC** | Prevención de lesión secundaria |
