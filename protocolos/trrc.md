@@ -357,3 +357,14 @@ Rangos orientativos de referencia para adulto; los límites reales los fijan la 
 
 ## Fuentes
 > 📖 **Fuentes:** KDIGO. Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **TRRC** | Indicaciones y manejo |
+| **TRRC: modalidades** | SCUF, CVVH, CVVHD y CVVHDF |
+| **TRRC: anticoagulación** | Citrato y heparina |
+| **TRRC: problemas** | Alarmas y complicaciones |
