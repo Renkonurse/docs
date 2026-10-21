@@ -178,3 +178,14 @@ CKD-EPI: se calcula igualmente; puede diferir y debe interpretarse con el estadi
 - Estadios KDIGO G1-G5: ≥ 90 · 60-89 · 45-59 · 30-44 · 15-29 · < 15.
 - En el **paciente crítico** la creatinina puede ser normal pese a fallo renal.
 - Registrar edad, peso y creatinina correctos y **confirmar las unidades**.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Función renal estimada** | Cockcroft-Gault y CKD-EPI |
+| **Peso ideal** | Elección del peso |
+| **Corrección de iones** | Ajuste de fármacos |
+| **Fármacos de alto riesgo** | Dosis y monitorización |
