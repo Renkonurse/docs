@@ -388,3 +388,14 @@ La duración se individualiza según la evolución clínica, los hemocultivos de
 - Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
 - NICE: https://www.nice.org.uk
 - SEEIUC: https://www.seeiuc.org
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Bacteriemia Zero** | Prevención de la bacteriemia por catéter |
+| **Accesos vasculares** | Inserción y mantenimiento |
+| **CVC / PICC** | Cuidados específicos |
+| **Curas** | Apósitos y antisepsia |
