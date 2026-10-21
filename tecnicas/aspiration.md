@@ -226,4 +226,24 @@ Registrar en cada turno y tras cada procedimiento:
 - **Descuidar la humidificación**: secreciones espesas, tapones y obstrucción.
 - **No registrar** el procedimiento ni las características de las secreciones.
 
+## 14. Evidencia y referencias
+
+- **AARC.** Clinical Practice Guideline: Endotracheal suctioning of mechanically ventilated patients with artificial airways. *Respir Care* 2010;55:758-764.
+- **Pedersen CM, et al.** Endotracheal suctioning of the adult intubated patient—what is the evidence? *Intensive Crit Care Nurs* 2009.
+- **Maggiore SM, et al.** Decreasing the adverse effects of endotracheal suctioning during mechanical ventilation. *Crit Care Med* 2003.
+- **AACN.** Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+> La evidencia respalda la aspiración solo cuando está indicada, con técnica estéril, presión controlada y vigilancia de la oxigenación.
+
+---
+
+## 15. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Aspiración de secreciones** | Técnica y cuidados |
+| **Alarmas respiratorias** | Obstrucción y desaturación |
+| **Neumonía Zero** | Prevención de la NAVM |
+| **Vía aérea** | Tubo, traqueostomía y emergencias |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
