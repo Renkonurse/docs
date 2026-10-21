@@ -159,3 +159,21 @@ Su principal fortaleza es que se calcula con **constantes de monitorización rut
 - La **tendencia ascendente** es la señal de alarma más útil.
 - Determina la **frecuencia de monitorización y a quién avisar**.
 - No sustituye al **juicio clínico** ni a las escalas de gravedad específicas.
+---
+## Evidencia y referencias
+
+- **Royal College of Physicians.** National Early Warning Score (NEWS) 2: standardising the assessment of acute-illness severity in the NHS. 2017.
+- **Smith GB, et al.** The ability of the National Early Warning Score (NEWS) to discriminate patients at risk of early cardiac arrest, unanticipated intensive care unit admission, and death. *Resuscitation* 2013.
+- **NICE.** Acutely ill adults in hospital: recognising and responding to deterioration. 2007 (actualización).
+
+> Es una herramienta de alerta y respuesta, no un diagnóstico. Un NEWS2 alto exige valoración clínica urgente y escalado; no sustituye la impresión del equipo.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **NEWS2** | Deterioro y escalado |
+| **qSOFA** | Cribado de sepsis |
+| **Alertas clínicas** | Respuesta y aviso |
+| **Constantes vitales** | Registro y tendencia |
