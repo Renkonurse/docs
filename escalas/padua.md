@@ -124,3 +124,21 @@ Está incluida en las **recomendaciones de tromboprofilaxis** de las principales
 - Vigilar **signos de TVP/TEP y de sangrado**.
 - En **UCI** casi todos puntúan ≥ 4: su capacidad de discriminación es limitada.
 - Complementar con **movilización precoz** y medidas mecánicas si procede.
+---
+## Evidencia y referencias
+
+- **Barbar S, et al.** A risk assessment model for the identification of hospitalized medical patients at risk for venous thromboembolism: the Padua Prediction Score. *J Thromb Haemost* 2010;8:2450-2457.
+- **Konstantinides SV, et al.** 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism. *Eur Heart J* 2020;41:543-603.
+- **ACCP.** Antithrombotic therapy for VTE disease: CHEST Guideline. 2016 (actualización).
+
+> La escala identifica riesgo trombótico; no valora el riesgo de sangrado. La decisión de profilaxis debe equilibrar ambos y ajustarse a la función renal y al contexto.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Escala de Padua** | Riesgo tromboembólico |
+| **Profilaxis de TEV** | Medidas mecánicas y farmacológicas |
+| **Sangrado** | Contraindicaciones y vigilancia |
+| **Cuidados de enfermería** | Movilización y registro |
