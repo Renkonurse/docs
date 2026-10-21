@@ -351,3 +351,14 @@ La pantalla permite **guardar la gasometría en Monitorización** (en el pacient
 - Respiratorias: **24 + 0,1/0,35 × (PaCO₂ − 40)** (acidosis) y **24 − 0,2/0,45 × (40 − PaCO₂)** (alcalosis).
 - **AG = Na − (Cl + HCO₃)**, normal 8-12; **delta-delta = (AG − 12)/(24 − HCO₃⁻)**.
 - La interpretación es **orientativa**: valorar siempre el contexto clínico completo.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Gasometría** | Interpretación ácido-base |
+| **PAFI** | Oxigenación |
+| **Corrección de iones** | Electrolitos |
+| **Valores de referencia** | Rangos y unidades |
