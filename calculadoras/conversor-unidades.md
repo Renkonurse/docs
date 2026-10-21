@@ -1,6 +1,6 @@
 # Conversor de unidades de uso frecuente en UCI
 
-> 📖 **Fuentes:** MSD Manual Professional: https://www.msdmanuals.com/professional · SEEIUC: https://www.seeiuc.org · AACN: https://www.aacn.org
+> 📖 **Fuentes:** MSD Manual Professional · SEEIUC · AACN · Institute for Safe Medication Practices (ISMP). *High-alert medications*. · WHO. *Medication Without Harm*. · The Joint Commission. *National Patient Safety Goals*.
 
 ## 1. Qué calcula y para qué sirve clínicamente
 
@@ -14,6 +14,8 @@ Sirve para:
 - **Calcular la concentración** de una disolución (mg/mL).
 
 Es una herramienta de apoyo al **cálculo de enfermería**; no decide la prescripción.
+
+> ⚠️ **Aviso:** La mayoría de los errores graves de medicación en UCI son errores de **unidad** o de **coma decimal** (10×, 100×, 1000×). El conversor ayuda, pero no sustituye la doble comprobación independiente.
 
 ---
 
@@ -47,6 +49,16 @@ h → min: × 60           min → h: ÷ 60
 | Concentración | mg/mL |
 | Peso | kg · g |
 | Tiempo | h · min |
+
+### 2.1 De dónde sale la fórmula de gotas/min
+
+Si un equipo administra **20 gotas por mL**, entonces:
+
+```
+gotas/min = (mL/h × 20 gotas/mL) / 60 min/h
+```
+
+El factor **60** convierte horas en minutos; el factor **20** es la calibración del equipo. Un microgotero tiene **60 microgotas/mL**, por lo que el resultado cambia.
 
 ---
 
@@ -97,7 +109,7 @@ El formateo usa hasta **3 decimales** y muestra `0` si el valor es cero.
 
 ---
 
-## 5. Ejemplos numéricos resueltos (3)
+## 5. Ejemplos numéricos resueltos
 
 **Ejemplo A — masa**
 
@@ -120,9 +132,31 @@ gotas/min = 90 × 20 / 60 = 30 gotas/min
 72 kg × 1000 = 72 000 g
 ```
 
+**Ejemplo D — microgotero**
+
+```
+30 ml/h con equipo de 60 microgotas/mL:
+microgotas/min = 30 × 60 / 60 = 30 microgotas/min
+```
+
 ---
 
-## 6. Limitaciones y errores frecuentes
+## 6. Fármacos de alto riesgo: comprobaciones específicas
+
+| Fármaco | Unidad habitual | Error frecuente | Comprobación |
+|---|---|---|---|
+| **Insulina** | UI | Confundir UI con mL o mg | Usar jeringa de insulina; doble comprobación |
+| **Heparina** | UI | Confundir UI con mg | Verificar concentración y bomba |
+| **Noradrenalina** | µg/min o µg/kg/min | Confundir µg/min con mL/h | Etiquetar la dilución y la velocidad |
+| **Adrenalina** | µg/min o mg/h | Error ×1000 | Doble comprobación |
+| **Morfina / fentanilo** | mg o µg | Confundir mg con µg | Etiquetar y comprobar con otro profesional |
+| **Cloruro potásico** | mEq o mmol | Confundir mEq con mL | Nunca en bolo; bomba y dilución |
+| **Calcio** | mg o mmol | Confundir gluconato con cloruro | Verificar la sal y la concentración |
+| **Bicarbonato** | mEq | Confundir mEq con mL | Comprobar la presentación |
+
+---
+
+## 7. Limitaciones y errores frecuentes
 
 | Limitación / error | Comentario |
 |---|---|
@@ -134,10 +168,12 @@ gotas/min = 90 × 20 / 60 = 30 gotas/min
 | **No verificar el tipo de equipo** | Gotas/min incorrectas |
 | **No etiquetar** la disolución | Riesgo de error de administración |
 | **Sobrecarga de decimales** en la pantalla | La app limita a 3 decimales |
+| **Confundir mEq, mmol y mg** | Son unidades distintas; no convertir sin factor |
+| **Usar el peso real en obesidad** | Algunos fármacos se dosifican por peso ideal |
 
 ---
 
-## 7. Cuándo NO usarla
+## 8. Cuándo NO usarla
 
 - **Fármacos en UI** (heparina, insulina) o **dosis biológicas**: no se convierten por peso.
 - **Cálculo de dosis por kg** o de velocidad de perfusión: usar [perfusiones](perfusiones.md).
@@ -148,7 +184,20 @@ gotas/min = 90 × 20 / 60 = 30 gotas/min
 
 ---
 
-## 8. Relación con otras escalas y parámetros
+## 9. Lista de comprobación antes de administrar
+
+1. ¿La unidad del campo coincide con la prescripción?
+2. ¿El equipo es de 20 gotas/mL o microgotero?
+3. ¿La concentración calculada coincide con la preparada?
+4. ¿La jeringa o la bolsa está etiquetada?
+5. ¿La velocidad tiene sentido clínico (no es 10× o 100×)?
+6. ¿Otra persona ha verificado el cálculo?
+7. ¿El paciente y la vía son correctos?
+8. ¿Hay bomba de infusión y alarmas configuradas?
+
+---
+
+## 10. Relación con otras escalas y parámetros
 
 - **[Perfusiones](perfusiones.md)**: velocidades, factores de goteo y diluciones.
 - **[Corrección de iones](correccion-iones.md)**: conversiones mmol/L ↔ mg/dL (Mg 2,43; P 3,10; Ca 4,008).
@@ -158,7 +207,17 @@ gotas/min = 90 × 20 / 60 = 30 gotas/min
 
 ---
 
-## 9. Puntos clave
+## 11. Evidencia y referencias
+
+- **ISMP.** Lista de medicamentos de alto riesgo en hospitales y recomendaciones de seguridad.
+- **WHO.** *Medication Without Harm*: iniciativa global para reducir el daño evitable por medicación.
+- **The Joint Commission.** National Patient Safety Goals: identificación, comunicación y seguridad de medicación.
+- **SEEIUC / AACN:** recomendaciones de cálculo y administración de perfusiones.
+- **Fichas técnicas** de los fármacos (AEMPS, BNF).
+
+---
+
+## 12. Puntos clave
 
 - **mg ↔ µg ↔ g** con factor 1000; **kg ↔ g** con factor 1000.
 - **gotas/min = ml/h × factor / 60**; el conversor asume **20 gotas/mL**.
@@ -166,3 +225,17 @@ gotas/min = 90 × 20 / 60 = 30 gotas/min
 - **UI no se convierte** a mg: mantener 1:1 y comprobar la dilución.
 - Comprobar **siempre** la unidad del campo y el tipo de equipo.
 - Redondear **solo al final** y verificar con doble comprobación los fármacos de alto riesgo.
+
+---
+
+## 13. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Conversor de unidades** | Masa, velocidad, concentración y peso |
+| **Perfusiones** | Cálculo de dosis y velocidades |
+| **Corrección de iones** | Conversiones mmol/L ↔ mg/dL |
+| **Incompatibilidades** | Concentración y diluyente |
+| **Fármacos de alto riesgo** | Doble comprobación |
+
+> ⚠️ Documento orientativo: adáptalo al protocolo de tu unidad y a la indicación médica.
