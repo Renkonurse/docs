@@ -150,3 +150,21 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque var�
 - No sustituye a la **inspección de la piel**.
 - El factor **nutrición** permite coordinar con la unidad de nutrición.
 - Formación y consenso del equipo para reducir la variabilidad.
+---
+## Evidencia y referencias
+
+- **Roca-Biosca A, et al.** Validación de las escalas de valoración de riesgo de úlceras por presión EMINA y EVARUCI en pacientes críticos. *Enferm Intensiva* 2015;26:15-23.
+- **GNEAUPP.** Escala EMINA de valoración del riesgo de úlceras por presión.
+- **Pancorbo-Hidalgo PL, et al.** Risk assessment scales for pressure ulcer prevention: a systematic review. *J Adv Nurs* 2006.
+
+> Escala validada en España, con punto de corte > 4. Como toda escala, debe acompañarse de inspección de la piel y de medidas preventivas.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **EMINA** | Riesgo de UPP |
+| **Braden** | Alternativa de uso internacional |
+| **Prevención de UPP** | Medidas según riesgo |
+| **Cuidados de la piel** | Inspección y registro |
