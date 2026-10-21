@@ -181,4 +181,40 @@ Documento técnico completo del **PICC (catéter central de inserción periféri
 - Elige **el calibre más fino y el menor número de luces** que cubra la terapia: menos calibre = menos trombosis y menos flebitis.
 - Si la vena es fina (< 3 mm) o hay antecedentes de trombosis, valora otro acceso o un calibre menor.
 
-> 📖 **Fuentes:** INS Infusion Therapy Standards of Practice · Moureau N, et al. *J Infus Nurs* · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier. · NICE: https://www.nice.org.uk
+## 11. Evidencia y referencias
+
+- **INS.** Infusion Therapy Standards of Practice. *Journal of Infusion Nursing* (edición vigente, 9.ª ed. 2024).
+- **O'Grady NP, et al.** Guidelines for the Prevention of Intravascular Catheter-Related Infections. CDC, 2011 (actualización 2017).
+- **Loveday HP, et al.** epic3: National Evidence-Based Guidelines for Preventing Healthcare-Associated Infections in NHS Hospitals in England. *J Hosp Infect* 2014.
+- **Chopra V, et al.** PICC-associated bloodstream infections: prevalence, patterns, and predictors. *Am J Med* 2014.
+- **NICE.** Guidance on central venous access devices and infection prevention.
+- **Moureau N, et al.** PICC insertion and care: evidence-based practice. *J Infus Nurs* (revisiones sucesivas).
+
+> La evidencia respalda la inserción ecoguiada, la barrera estéril máxima, la clorhexidina alcohólica al 2 %, la confirmación de la punta y la revisión diaria de la necesidad del catéter.
+
+---
+
+## 12. Errores frecuentes
+
+| Error | Consecuencia | Cómo evitarlo |
+|---|---|---|
+| Insertar sin ecografía | Más intentos, punción arterial, neumotórax | Ecografía y elección de vena adecuada |
+| No confirmar la punta | Arritmias, malposición, trombosis | Radiografía o ecografía antes de usar |
+| Forzar el lavado ante resistencia | Rotura del catéter, embolia | No forzar; comprobar llaves y posición |
+| Extraer sangre de forma rutinaria | Obstrucción, infección, anemia | Reservar para la indicación |
+| No medir el brazo al inicio | No se detecta trombosis | Medir y registrar la circunferencia basal |
+| Apósito sucio o húmedo | Infección | Cambiar según protocolo |
+| Retirar sin comprobar la longitud | Restos intravasculares | Registrar la longitud extraída |
+
+---
+
+## 13. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **PICC** | Inserción, cuidados, complicaciones y retirada |
+| **Accesos vasculares** | Elección del dispositivo y cuidados generales |
+| **Bacteriemia Zero** | Prevención de la infección relacionada con catéter |
+| **Cuidados de accesos** | Curas, fijación y vigilancia |
+
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
