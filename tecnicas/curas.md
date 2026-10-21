@@ -399,4 +399,25 @@ Marco de referencia **basado en la evidencia** para la cura de heridas (Schultz 
 
 **Regla práctica**: en cada cura valora las 4 letras y actúa sobre la que esté alterada. Si la herida no progresa en 2-4 semanas, revisa T, I, M y E antes de cambiar de producto.
 
-> 📖 **Fuentes:** Schultz GS, et al. *Wound bed preparation: a systematic approach to wound management*. Wound Repair Regen 2003;11(Suppl 1):S1-S28. · NPIAP/EPUAP/PPPIA. *Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline*. 2019. · GNEAUPP. · NICE: https://www.nice.org.uk
+## 16. Evidencia y referencias
+
+- **Schultz GS, et al.** Wound bed preparation: a systematic approach to wound management. *Wound Repair Regen* 2003;11(Suppl 1):S1-S28.
+- **NPIAP/EPUAP/PPPIA.** Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline. 2019.
+- **GNEAUPP.** Guía de práctica clínica para la prevención y tratamiento de las úlceras por presión. 2025.
+- **Cochrane Wounds Group.** Revisiones sistemáticas sobre apósitos y desbridamiento.
+- **NICE.** Guidance on wound care and pressure ulcers.
+
+> La evidencia respalda la preparación del lecho, la humedad equilibrada, el desbridamiento cuando procede y la protección perilesional.
+
+---
+
+## 17. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Curas** | Técnica y selección de apósitos |
+| **Heridas: derivar** | Valoración y criterios de derivación |
+| **Prevención de UPP** | Escalas y cuidados |
+| **Infección de herida** | Signos de alarma |
+
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
