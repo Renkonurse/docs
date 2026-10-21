@@ -147,4 +147,27 @@ Antes de avisar, comprobar el peso del paciente, la UF neta programada, que las 
 | **PBP** | Presión prebomba (arterial) |
 | **Pven** | Presión venosa (retorno) |
 | **TRRC / CRRT** | Terapia de reemplazo renal continuo |
-| **TPE** | Plasmaféresis terapéutica |
+## 12. Evidencia y referencias
+
+- **KDIGO.** Clinical Practice Guideline for Acute Kidney Injury. *Kidney Int Suppl* 2012;2:1-138.
+- **ADQI.** Consensos de anticoagulación regional con citrato, dosis de TRRC y manejo del circuito.
+- **STARRT-AKI Investigators.** Timing of initiation of renal-replacement therapy in acute kidney injury. *N Engl J Med* 2020;383:240-251.
+- **Neri M, et al.** Nomenclature for renal replacement therapy and blood purification techniques in critically ill patients. *Crit Care* 2016.
+- **Lynn-McHale Wiegand DJ, ed.** *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
+- **Manuales de Baxter Prismaflex, Fresenius multiFiltrate y Nikkiso Aquarius.**
+
+> La evidencia respalda la monitorización de presiones y de la fracción de filtración, la anticoagulación regional con citrato cuando está indicada y la revisión de la necesidad del circuito.
+
+---
+
+## 13. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **TRRC: parámetros y alarmas** | Presiones, TMP, FF y actuación |
+| **TRRC: modalidades** | SCUF, CVVH, CVVHD y CVVHDF |
+| **TRRC: anticoagulación** | Citrato regional y heparina |
+| **TRRC: problemas frecuentes** | Coagulación, pérdida de acceso y alarmas |
+| **Cuidados de TRRC** | Checklist por turno |
+
+> ⚠️ Documento orientativo: adáptalo al protocolo de tu unidad y a la indicación médica.
