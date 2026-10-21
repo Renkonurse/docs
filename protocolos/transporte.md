@@ -394,3 +394,14 @@ NEWS2 puntúa frecuencia respiratoria, saturación de oxígeno, uso de oxígeno 
 
 - Las dosis, los umbrales y las frecuencias son orientativos: aplica siempre la prescripción médica y el protocolo del centro.
 - Este protocolo no sustituye al juicio clínico ni a los procedimientos específicos de cada unidad.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Transporte del paciente crítico** | Checklist y traslado |
+| **ECMO** | Traslado con soporte |
+| **Shock crítico** | Estabilización previa |
+| **Seguridad y continuidad** | Transferencia de información |
