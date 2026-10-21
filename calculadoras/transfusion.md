@@ -162,3 +162,14 @@ La app muestra el dato como referencia; **no** calcula el número de unidades.
 - Ante cualquier signo de reacción: **parar**, mantener la vía con suero fisiológico, avisar y remitir muestras.
 - Transfundir **la mínima cantidad eficaz** y **reevaluar** después de cada unidad.
 - La transfusión **no sustituye** al control del foco del sangrado ni al tratamiento de la causa de la anemia.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Transfusión** | Umbrales y procedimiento |
+| **Reacciones adversas** | Reconocimiento y actuación |
+| **Valores de referencia** | Hemoglobina y plaquetas |
+| **Coagulación** | Pruebas y tratamiento |
