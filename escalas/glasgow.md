@@ -138,3 +138,21 @@ Su **fiabilidad interobservador** es moderada-buena para el total y algo menor p
 - La sedación, la analgesia y el bloqueo neuromuscular falsean la puntuación.
 - Lo importante es la **evolución seriada**, no un valor aislado.
 - La app muestra el total con el desglose y permite enviar el resultado a Monitorización.
+---
+## Evidencia y referencias
+
+- **Teasdale G, Jennett B.** Assessment of coma and impaired consciousness: a practical scale. *Lancet* 1974;2:81-84.
+- **Teasdale G, et al.** The Glasgow Coma Scale at 40 years. *Lancet Neurol* 2014.
+- **ENLS 6.0.** Neurocritical Care Society, 2024.
+
+> Registrar siempre el desglose (O, V, M): la suma oculta información y el componente verbal no es valorable en intubados. Un descenso ≥ 2 puntos es significativo.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Escala de Glasgow** | Nivel de consciencia |
+| **FOUR** | Alternativa en intubados |
+| **TCE / HIC** | Deterioro y escalado |
+| **Alertas neurológicas** | Actuación ante cambios |
