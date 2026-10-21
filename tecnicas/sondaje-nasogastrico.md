@@ -225,4 +225,24 @@ Documento técnico completo del **sondaje nasogástrico (SNG)** en el paciente c
 - **Fijar con tracción** o presionando la nariz.
 - **No registrar** la marca ni las comprobaciones.
 
+## 14. Evidencia y referencias
+
+- **Metheny NA, et al.** AACN Practice Alert: Verification of feeding tube placement. *Crit Care Nurse* (actualizaciones sucesivas).
+- **Compher C, et al.** Guidelines for the provision of nutrition support therapy in the adult critically ill patient: American Society for Parenteral and Enteral Nutrition (ASPEN). *JPEN J Parenter Enteral Nutr* 2022.
+- **NICE.** Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral nutrition. 2006 (actualización).
+- **AACN.** Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+> La evidencia respalda la comprobación de la posición, la fijación segura, la nutrición enteral precoz y la prevención de la aspiración.
+
+---
+
+## 15. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Sondaje nasogástrico** | Inserción, comprobación y cuidados |
+| **Nutrición enteral** | Progresión y complicaciones |
+| **Neumonía Zero** | Prevención de la aspiración |
+| **Cuidados de enfermería** | Checklist y registro |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
