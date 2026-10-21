@@ -333,3 +333,14 @@ La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soport
 ## Fuentes
 
 > 📖 **Fuentes:** ELSO. General Guidelines for All ECLS Cases. 2021 (https://www.elso.org). · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **ECMO: anticoagulación** | Heparina, ACT y complicaciones |
+| **Nomograma de heparina** | Ajuste de dosis |
+| **TRRC: anticoagulación** | Citrato y heparina |
+| **Coagulación** | Pruebas y transfusión |
