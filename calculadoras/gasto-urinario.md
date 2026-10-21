@@ -190,3 +190,14 @@ GU = 500 / (52,4 × 8) = 500 / 419,2 = 1,19 mL/kg/h  → poliuria ligera
 - Medir el volumen real y las **horas reales**; registrar por turnos y valorar la **tendencia**.
 - Comprobar siempre que la sonda y el colector funcionan antes de atribuir la oliguria al paciente.
 - La diuresis orienta, pero se interpreta junto al **balance**, la **PAM**, el **lactato** y la **creatinina**.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Gasto urinario** | Diuresis horaria |
+| **Balance hídrico** | Ingresos y pérdidas |
+| **Shock crítico** | Perfusión renal |
+| **Función renal** | Creatinina y filtrado |
