@@ -163,3 +163,14 @@ Para diagnosticar SDRA deben cumplirse **las 4**:
 - Repetir con la **misma FiO₂ y PEEP**; registrar siempre PEEP, VT y Pplat.
 - Tomar la muestra en condiciones adecuadas (jeringa heparinizada, sin burbujas, procesado precoz).
 - El PAFI orienta, pero la decisión clínica es del equipo.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **PAFI** | PaO₂/FiO₂ |
+| **SDRA** | Definición de Berlín |
+| **Gasometría** | Oxigenación |
+| **Ventilación protectora** | PEEP y volumen |
