@@ -209,3 +209,14 @@ Agua libre   = 0,50 × 60 × (128/140 − 1) = 30 × (−0,08571) = −2,57 L
 - Corregir **≤ 8-10 mEq/L/24 h** (hipo) y **≤ 10-12 mEq/L/24 h** (hiper).
 - **Repetir iones cada 2-4 h** y vigilar la **clínica neurológica**.
 - Ojo con la **discrepancia de signo** entre la pantalla F1 y el módulo Iones: prevalece la interpretación clínica.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Sodio y agua libre** | Déficit y corrección |
+| **Corrección de iones** | Sodio y potasio |
+| **Gasometría** | Osmolaridad y equilibrio |
+| **Valores de referencia** | Rangos |
