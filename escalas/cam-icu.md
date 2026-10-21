@@ -161,3 +161,21 @@ Estas cifras proceden del estudio original y de validaciones posteriores; pueden
 - El delirium **hipoactivo** es el más frecuente y el más infradiagnosticado.
 - Aplicarlo **cada turno** y siempre ante cambios del estado mental.
 - Ante un resultado positivo: **buscar y tratar la causa** y aplicar medidas no farmacológicas.
+---
+## Evidencia y referencias
+
+- **Ely EW, et al.** Delirium in mechanically ventilated patients: validity and reliability of the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU). *JAMA* 2001;286:2703-2710.
+- **Devlin JW, et al.** PADIS Guidelines. *Crit Care Med* 2018;46:e825-e873.
+- **Barr J, et al.** Clinical practice guidelines for the management of pain, agitation, and delirium in adult patients in the ICU. *Crit Care Med* 2013.
+
+> Requiere un RASS previo y un paciente que responda a estímulos. No diagnostica delirium en sedación profunda; hay que reevaluar cuando el paciente esté más despierto.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **CAM-ICU** | Detección de delirium |
+| **RASS** | Nivel de sedación previo |
+| **CAM-ICU-7** | Gravedad del delirium |
+| **Sedoanalgesia y delirium** | Prevención y manejo |
