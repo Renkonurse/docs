@@ -398,3 +398,14 @@ El proceso de donación se ordena en **ocho fases consecutivas**:
 ## Fuentes
 
 > 📖 **Fuentes:** Organización Nacional de Trasplantes (ONT): https://www.ont.es · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Donante de órganos** | Muerte encefálica y mantenimiento |
+| **Transporte** | Traslado y continuidad |
+| **Hemodinámica** | Soporte y perfusión |
+| **Termorregulación** | Control térmico |
