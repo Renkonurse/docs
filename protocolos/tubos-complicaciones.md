@@ -388,3 +388,14 @@ Avisar al médico de forma inmediata ante:
 ## Fuentes
 
 > 📖 **Fuentes:** Difficult Airway Society. Extubation guidelines. Br J Anaesth 2012;108:357-362. · Kalil AC, et al. IDSA/ATS HAP/VAP guidelines. Clin Infect Dis 2016;63:e61-e111. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Tubos: complicaciones** | Obstrucción, desplazamiento y extubación |
+| **Vía aérea** | Manejo y rescate |
+| **Alarmas respiratorias** | Deterioro y DOPES |
+| **Aspiración de secreciones** | Permeabilidad |
