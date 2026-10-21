@@ -136,3 +136,21 @@ Está **recomendada por las guías PADIS 2018** (junto con la BPS) y es una de l
 - **Reevaluar tras la analgesia** y registrar la intervención.
 - Recomendada por **PADIS 2018** junto con la BPS.
 - No es valorable con **bloqueo neuromuscular**.
+---
+## Evidencia y referencias
+
+- **Gélinas C, et al.** Validation of the Critical-Care Pain Observation Tool in adult patients. *Am J Crit Care* 2006;15:420-427.
+- **Gélinas C, et al.** Pain assessment in the critically ill adult: recent evidence and new trends. *Intensive Crit Care Nurs* 2016.
+- **Devlin JW, et al.** PADIS Guidelines. *Crit Care Med* 2018.
+
+> Es observacional y requiere respuesta motora; no es válida en pacientes con bloqueo neuromuscular. Debe valorarse en reposo y durante procedimientos.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **CPOT** | Dolor en paciente no comunicativo |
+| **ESCID** | Alternativa validada en español |
+| **EVA** | Dolor en paciente comunicativo |
+| **Sedoanalgesia** | Analgesia y rescates |
