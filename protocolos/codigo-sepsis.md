@@ -344,3 +344,14 @@ Confirma la estabilidad hemodinámica y respiratoria antes de mover al paciente,
 - Evans L, et al. Surviving Sepsis Campaign 2021. Crit Care Med 2021;49:e1063-e1143.
 - Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
 - Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Código Sepsis** | Detección y actuación en la primera hora |
+| **qSOFA / SOFA** | Cribado y disfunción orgánica |
+| **Hemodinámica** | PAM, lactato y perfusión |
+| **Vasopresores** | Noradrenalina y objetivos |
