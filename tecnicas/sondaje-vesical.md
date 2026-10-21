@@ -217,4 +217,25 @@ Documento técnico completo del **sondaje vesical** en el paciente crítico: ind
 - **No evaluar** la retirada precoz.
 - **No registrar** la diuresis ni las incidencias.
 
+## 14. Evidencia y referencias
+
+- **Gould CV, et al.** Guideline for Prevention of Catheter-Associated Urinary Tract Infections. CDC, 2009 (actualización 2019).
+- **Hooton TM, et al.** Diagnosis, prevention, and treatment of catheter-associated urinary tract infection in adults: 2009 international clinical practice guidelines. *Clin Infect Dis* 2010;50:625-663.
+- **NICE.** Healthcare-associated infections: prevention and control in primary and community care. 2012 (actualización).
+- **ITU-Zero.** Proyecto de prevención de infección urinaria asociada a sondaje vesical (Ministerio de Sanidad, España).
+- **EAUN.** Catheterisation: indwelling catheters in adults. European Association of Urology Nurses.
+
+> La evidencia respalda la indicación justificada, la técnica aséptica, el sistema cerrado y la retirada precoz.
+
+---
+
+## 15. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Sondaje vesical** | Indicaciones, inserción y cuidados |
+| **ITU-Zero** | Prevención de la infección urinaria |
+| **Cuidados de enfermería** | Checklist y registro |
+| **Balance hídrico** | Diuresis y control de líquidos |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
