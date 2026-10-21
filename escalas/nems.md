@@ -126,3 +126,21 @@ Su utilidad principal es **de gestión**, no clínica: no predice la mortalidad 
 - Su fiabilidad depende del **registro y del consenso del equipo**.
 - Sirve para **estimar plantillas** y comparar unidades o periodos.
 - Debe completarse con escalas clínicas (SOFA, NEWS2).
+---
+## Evidencia y referencias
+
+- **Miranda DR, et al.** Nine equivalents of nursing manpower use score (NEMS). *Intensive Care Med* 1997;23:760-765.
+- **Moreno R, Morais P.** Outcome prediction in intensive care: NEMS. *Intensive Care Med* 1998;24:1251-1256.
+- **Lynn-McHale Wiegand DJ, ed.** *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
+
+> Mide carga de trabajo y consumo de recursos, no gravedad clínica. Su comparación entre unidades exige criterios homogéneos.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **NEMS** | Carga de trabajo de enfermería |
+| **EMINA** | Alternativa de carga de trabajo |
+| **SOFA** | Gravedad clínica |
+| **Gestión de cuidados** | Plantillas y asignación |
