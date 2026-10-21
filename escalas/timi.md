@@ -118,3 +118,21 @@ Su utilidad para **identificar a los pacientes que más se benefician de una est
 - **No es aplicable al STEMI** (tiene su propio score).
 - No mide el **riesgo hemorrágico**.
 - Complementa a **Killip** y a la valoración clínica.
+---
+## Evidencia y referencias
+
+- **Antman EM, et al.** The TIMI risk score for unstable angina/non-ST elevation MI. *JAMA* 2000;284:835-842.
+- **Ibanez B, et al.** 2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation. *Eur Heart J* 2018.
+- **Collet JP, et al.** 2020 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation. *Eur Heart J* 2021.
+
+> El TIMI clásico se aplica a UA/NSTEMI; no es el mismo que el TIMI de STEMI. Complementa a Killip y a la valoración hemodinámica.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **TIMI Risk Score** | Riesgo en SCA sin ST |
+| **Killip** | Gravedad hemodinámica |
+| **SCA** | Estratificación y tratamiento |
+| **Hemodinámica** | Shock y perfusión |
