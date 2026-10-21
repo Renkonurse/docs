@@ -380,3 +380,14 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 ## Fuentes
 
 > 📖 **Fuentes:** Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · NICE: https://www.nice.org.uk
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Alertas neurológicas** | Deterioro y actuación inmediata |
+| **TCE / HIC** | Manejo de la PIC y la PPC |
+| **Glasgow / FOUR** | Valoración seriada |
+| **Sedación y delirium** | Confusión y agitación |
