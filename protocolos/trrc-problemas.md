@@ -328,3 +328,14 @@ Calcio iónico, calcio total, magnesio, fósforo, sodio, potasio, gasometría y 
 
 ## Fuentes
 > 📖 **Fuentes:** KDIGO. Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **TRRC: problemas frecuentes** | Coagulación y pérdida de acceso |
+| **TRRC: parámetros y alarmas** | Presiones y actuación |
+| **TRRC: cebado** | Montaje y checklist |
+| **TRRC: anticoagulación** | Citrato y heparina |
