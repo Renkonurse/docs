@@ -251,4 +251,41 @@ Catéter venoso **periférico de inserción** (no central), de 8-20 cm, cuya pun
 - **Vuelve lenta y redondeada** (sin oscilaciones) → sistema **sobreamortiguado** (subestima la sistólica).
 - **Normal**: 1-2 oscilaciones antes de estabilizarse.
 
-> 📖 **Fuentes:** Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier. · Marino PL. *The ICU Book*. 4th ed. Wolters Kluwer. · SEEIUC: https://www.seeiuc.org
+## 12. Evidencia y referencias
+
+- **O'Grady NP, et al.** Guidelines for the Prevention of Intravascular Catheter-Related Infections. CDC, 2011 (actualización 2017).
+- **INS.** Infusion Therapy Standards of Practice. *Journal of Infusion Nursing* (9.ª ed. 2024).
+- **Loveday HP, et al.** epic3: National Evidence-Based Guidelines for Preventing Healthcare-Associated Infections. *J Hosp Infect* 2014.
+- **Pronovost P, et al.** An intervention to decrease catheter-related bloodstream infections in the ICU. *N Engl J Med* 2006;355:2725-2732.
+- **Bacteriemia Zero.** Proyecto de prevención de bacteriemia relacionada con catéter en UCI (Ministerio de Sanidad, España).
+- **Lynn-McHale Wiegand DJ, ed.** *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
+
+> La evidencia respalda la inserción ecoguiada, la barrera estéril máxima, la clorhexidina alcohólica al 2 %, la revisión diaria y la retirada precoz.
+
+---
+
+## 13. Errores frecuentes
+
+| Error | Consecuencia | Cómo evitarlo |
+|---|---|---|
+| Insertar sin ecografía | Más intentos y complicaciones | Ecografía siempre que sea posible |
+| No confirmar la posición | Neumotórax, malposición, arritmias | Radiografía o ecografía según el acceso |
+| Administrar fármacos por vía arterial | Isquemia, necrosis | Identificar y señalizar la línea arterial |
+| No nivelar el transductor arterial | Presión falsamente alta o baja | Nivelar en el eje flebostático y poner a cero |
+| Mantener el catéter sin indicación | Infección y trombosis | Revisión diaria y retirada precoz |
+| Manipular sin desinfectar conectores | Bacteriemia | Scrub the hub y sistema cerrado |
+| No vigilar la perfusión distal | Isquemia silente | Pulsos, temperatura, color y relleno |
+
+---
+
+## 14. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Accesos vasculares** | Tipos, indicaciones y cuidados |
+| **Cuidados del acceso vascular** | Checklist de mantenimiento |
+| **Bacteriemia Zero** | Prevención de infección |
+| **PICC / CVC / midline** | Detalle por dispositivo |
+| **Catéter arterial** | Cero, amortiguación y test de rebote |
+
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
