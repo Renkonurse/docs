@@ -397,3 +397,14 @@ Ante cualquier disfunción mecánica, la prioridad es la seguridad del paciente 
 ## Fuentes
 
 > 📖 **Fuentes:** ELSO. General Guidelines for All ECLS Cases. 2021 (https://www.elso.org). · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **ECMO** | Fundamentos y configuración |
+| **ECMO: circuito** | Montaje, cebado y alarmas |
+| **ECMO: anticoagulación** | Heparina y complicaciones |
+| **ECMO: destete** | Weaning y decanulación |
