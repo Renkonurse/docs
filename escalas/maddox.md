@@ -121,3 +121,21 @@ Su **validación psicométrica formal es limitada** en comparación con otras es
 - Valorar **en cada turno** y tras fármacos irritantes.
 - **Palpar** el trayecto venoso, no solo inspeccionar.
 - **Documentar fecha, hora y grado** en cada valoración.
+---
+## Evidencia y referencias
+
+- **Maddox RR, et al.** Double-blind study to investigate methods to prevent cephalothin-induced phlebitis. *Am J Hosp Pharm* 1977;34:29-34.
+- **Lynn-McHale Wiegand DJ, ed.** *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
+- **INS.** Infusion Therapy Standards of Practice (9.ª ed. 2024).
+
+> Es una escala visual y subjetiva; estandariza la valoración, pero no sustituye la inspección del punto de inserción ni la retirada ante signos de flebitis.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Escala de Maddox** | Flebitis del catéter periférico |
+| **VIP score** | Alternativa visual |
+| **Accesos vasculares** | Cuidados y retirada |
+| **Flebitis** | Prevención y registro |
