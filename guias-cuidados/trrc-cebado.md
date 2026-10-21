@@ -169,4 +169,28 @@ En las **primeras horas** vigilar con especial atención:
 - La **heparina del cebado cuenta** como dosis administrada al paciente.
 - **Recircular** el circuito si no se conecta de inmediato.
 - **Registrar** set, filtro, lote, hora y responsable: es la trazabilidad del circuito.
-- Ante cualquier duda, **avisar antes de conectar**: es más fácil resolver un problema en el circuito que en el paciente.
+## 11. Evidencia y referencias
+
+- **KDIGO.** Clinical Practice Guideline for Acute Kidney Injury. *Kidney Int Suppl* 2012;2:1-138.
+- **ADQI.** Consensos de cebado, anticoagulación regional con citrato y dosis de TRRC.
+- **Neri M, et al.** Nomenclature for renal replacement therapy and blood purification techniques in critically ill patients. *Crit Care* 2016.
+- **Lynn-McHale Wiegand DJ, ed.** *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
+- **Baxter.** Manual del sistema Prismaflex / Prismax y sets ST.
+- **Fresenius Medical Care.** Manual del operador de multiFiltrate / multiFiltratePRO y módulo Ci-Ca.
+- **Nikkiso.** Manual del sistema Aquarius.
+
+> La evidencia y los manuales coinciden en la importancia del cebado completo, la eliminación de aire, el test de fugas y la comprobación del catéter antes de conectar.
+
+---
+
+## 12. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **TRRC: cebado** | Montaje y checklist |
+| **TRRC: parámetros y alarmas** | Presiones y actuación |
+| **TRRC: anticoagulación** | Citrato y heparina |
+| **TRRC: problemas frecuentes** | Coagulación y pérdida de acceso |
+| **Cuidados de TRRC** | Vigilancia por turno |
+
+> ⚠️ Documento orientativo: adáptalo al protocolo de tu unidad y a la indicación médica.
