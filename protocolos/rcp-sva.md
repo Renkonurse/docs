@@ -395,3 +395,14 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 ## Fuentes
 
 > 📖 **Fuentes:** Nolan JP, et al. European Resuscitation Council Guidelines 2021. Resuscitation 2021;161:1-60. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **RCP / SVA** | Algoritmos y actuación |
+| **ECG** | Ritmos de parada |
+| **Vía aérea** | Manejo avanzado |
+| **Marcapasos** | Bradicardia y estimulación |
