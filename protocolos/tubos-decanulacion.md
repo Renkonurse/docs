@@ -398,3 +398,14 @@ Avisar al médico de forma inmediata ante:
 ## Fuentes
 
 > 📖 **Fuentes:** Difficult Airway Society. Extubation guidelines. Br J Anaesth 2012;108:357-362. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · NICE: https://www.nice.org.uk
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Decanulación de traqueostomía** | Criterios y procedimiento |
+| **Tubos: complicaciones** | Obstrucción y desplazamiento |
+| **Vía aérea** | Manejo y rescate |
+| **Weaning y extubación** | Destete y soporte |
