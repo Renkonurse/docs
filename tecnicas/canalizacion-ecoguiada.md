@@ -200,4 +200,25 @@ Documento técnico de la **canalización de accesos vasculares guiada por ecogra
 - **No confirmar la posición** del CVC/PICC antes de su uso.
 - **No registrar** la técnica ni los intentos.
 
+## 13. Evidencia y referencias
+
+- **AIUM.** Practice Guideline for the Performance of Ultrasound-Guided Vascular Access. American Institute of Ultrasound in Medicine.
+- **Brass P, et al.** Ultrasound guidance versus anatomical landmarks for internal jugular vein catheterization. *Cochrane Database Syst Rev* 2015;1:CD006962.
+- **Saugel B, et al.** Ultrasound-guided central venous catheter placement: a structured review and recommendations. *Crit Care* 2017;21:225.
+- **O'Grady NP, et al.** CDC Guidelines for the Prevention of Intravascular Catheter-Related Infections. 2011 (actualización 2017).
+- **INS.** Infusion Therapy Standards of Practice (9.ª ed. 2024).
+
+> La evidencia respalda la ecografía en tiempo real, la técnica estéril y la confirmación de la posición antes del uso.
+
+---
+
+## 14. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Canalización ecoguiada** | Técnica paso a paso |
+| **CVC** | Inserción, cuidados y complicaciones |
+| **Accesos vasculares** | Elección del dispositivo |
+| **Bacteriemia Zero** | Prevención de infección |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
