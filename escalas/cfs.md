@@ -124,3 +124,20 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque var�
 - Se asocia a **mortalidad y peor recuperación funcional** en el paciente crítico.
 - Ayuda en las **decisiones compartidas** de intensidad terapéutica y en la planificación del alta.
 - En la app se registra como **nivel único**, sin suma de puntos.
+---
+## Evidencia y referencias
+
+- **Rockwood K, et al.** A global clinical measure of fitness and frailty in elderly people. *CMAJ* 2005;173:489-495.
+- **Guideline on frailty in critical care.** Recomendaciones de valoración geriátrica.
+
+> Es una escala clínica global con componente subjetivo; requiere información previa del paciente o de la familia. No debe usarse de forma aislada para limitar tratamientos.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **CFS** | Fragilidad clínica |
+| **Valoración geriátrica** | Función previa y pronóstico |
+| **Barthel** | Independencia funcional |
+| **Ética y limitación** | Toma de decisiones compartida |
