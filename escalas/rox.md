@@ -121,3 +121,21 @@ El índice ha sido validado en cohortes posteriores y en distintos contextos de 
 - La **tendencia descendente** es un signo de alarma.
 - No incorpora el **trabajo respiratorio**: integrarlo con la valoración clínica.
 - Solo válido con **CNAF**, no con ventilación mecánica.
+---
+## Evidencia y referencias
+
+- **Roca O, et al.** Predicting success of high-flow nasal cannula in pneumonia patients with hypoxemic respiratory failure: the utility of the ROX index. *J Crit Care* 2016;35:200-205.
+- **Roca O, et al.** An index combining respiratory rate and oxygenation to predict outcome of nasal high-flow therapy. *Am J Respir Crit Care Med* 2019;199:1368-1376.
+- **Rochwerg B, et al.** The role for high-flow nasal cannula in adults: a clinical practice guideline. *Intensive Care Med* 2020.
+
+> ROX ≥ 4,88 sugiere éxito y < 3,85 alto riesgo de fracaso. Debe calcularse con la FiO₂ y la SpO₂ del momento, y repetirse a las 2, 6 y 12 horas.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Índice ROX** | Predicción de fracaso de HFNC |
+| **Alto flujo** | Parámetros y criterios de escalada |
+| **Gasometría** | Oxigenación y PaCO₂ |
+| **VMNI / intubación** | Alternativas de soporte |
