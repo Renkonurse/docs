@@ -153,3 +153,21 @@ Se ha validado en múltiples cohortes internacionales, con y sin IL-6. No se inc
 - Usar el **APACHE II y SOFA del ingreso**.
 - No mide desnutrición previa: mide **riesgo modificable con la nutrición**.
 - Monitorizar la **tolerancia** y el **síndrome de realimentación**.
+---
+## Evidencia y referencias
+
+- **Heyland DK, et al.** Identifying critically ill patients who benefit the most from nutrition therapy: the development and initial validation of a novel risk assessment tool. *Crit Care* 2011;15:R268.
+- **Rahman A, et al.** Further validation of the modified NUTRIC nutritional risk assessment tool. *Clin Nutr* 2016.
+- **Compher C, et al.** ASPEN guidelines for the provision of nutrition support therapy in the adult critically ill patient. *JPEN* 2022.
+
+> La versión original incluye IL-6, que no está disponible de forma rutinaria; por eso se usa mNUTRIC. La puntuación orienta, no impone una terapia nutricional agresiva.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **NUTRIC** | Riesgo nutricional con IL-6 |
+| **mNUTRIC** | Versión sin IL-6 |
+| **Nutrición enteral** | Inicio y progresión |
+| **Síndrome de realimentación** | Prevención y control |
