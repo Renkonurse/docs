@@ -140,3 +140,21 @@ Su fiabilidad depende de la **formación del explorador** y de la **colaboració
 - La ICU-AW se asocia a **más ventilación, estancia y mortalidad**.
 - La **movilización precoz** es la intervención clave.
 - Repetir de forma **seriada** para valorar la evolución.
+---
+## Evidencia y referencias
+
+- **Kleyweg RP, et al.** Interobserver agreement in the assessment of muscle strength and functional abilities in Guillain-Barré syndrome. *Muscle Nerve* 1991;14:1103-1109.
+- **Hough CL, et al.** Manual muscle strength testing of critically ill patients: feasibility and interobserver agreement. *Crit Care* 2011.
+- **Fan E, et al.** An official ATS clinical practice guideline: the diagnosis of intensive care unit-acquired weakness. *Am J Respir Crit Care Med* 2014.
+
+> Requiere cooperación y ausencia de sedación profunda. Un MRC Sum Score < 48/60 orienta a debilidad adquirida en UCI; la fuerza debe valorarse junto con la función y la evolución.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **MRC Sum Score** | Fuerza muscular global |
+| **Debilidad adquirida** | Diagnóstico y prevención |
+| **Rehabilitación** | Movilización precoz |
+| **Destete** | Fuerza y tolerancia |
