@@ -162,3 +162,29 @@ Antes de iniciar o modificar una modalidad, comprobar y registrar:
 | **FF** | Fracción de filtración |
 | **TMP** | Presión transmembrana |
 | **RCA** | Anticoagulación regional con citrato |
+
+---
+
+## 11. Evidencia y referencias
+
+- **KDIGO.** Clinical Practice Guideline for Acute Kidney Injury. *Kidney Int Suppl* 2012;2:1-138.
+- **STARRT-AKI Investigators.** Timing of initiation of renal-replacement therapy in acute kidney injury. *N Engl J Med* 2020;383:240-251.
+- **Neri M, et al.** Nomenclature for renal replacement therapy and blood purification techniques in critically ill patients. *Crit Care* 2016.
+- **ADQI.** Consensos de dosis, anticoagulación y manejo del circuito de TRRC.
+- **Manuales de Baxter Prismaflex, Fresenius multiFiltrate y Nikkiso Aquarius.**
+
+> La evidencia respalda una dosis de efluente de 20-25 mL/kg/h, la anticoagulación regional con citrato cuando está indicada y la reevaluación frecuente de la modalidad.
+
+---
+
+## 12. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **TRRC: modalidades** | SCUF, CVVH, CVVHD y CVVHDF |
+| **TRRC: parámetros y alarmas** | Presiones, TMP y FF |
+| **TRRC: anticoagulación** | Citrato regional y heparina |
+| **TRRC: problemas frecuentes** | Coagulación y pérdida de acceso |
+| **Cuidados de TRRC** | Checklist por turno |
+
+> ⚠️ Documento orientativo: adáptalo al protocolo de tu unidad y a la indicación médica.
