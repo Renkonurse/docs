@@ -388,3 +388,14 @@ Se requiere la combinación de **clínica compatible + alteración del sedimento
 ## Fuentes
 
 > 📖 **Fuentes:** Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · NICE: https://www.nice.org.uk · SEEIUC: https://www.seeiuc.org
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **ITU-Zero** | Prevención de infección urinaria |
+| **Sondaje vesical** | Indicación y cuidados |
+| **Balance hídrico** | Diuresis y control |
+| **Cuidados de enfermería** | Checklist y registro |
