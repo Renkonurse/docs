@@ -194,3 +194,14 @@ VT a 8 mL/kg = 528 mL
 - Medir la **Pplat con pausa inspiratoria** y usar el **PEEP total**.
 - **Pplat ≤ 30 cmH₂O** y aceptar **hipercapnia permisiva** (pH ≥ 7,20-7,25) antes que presiones dañinas.
 - El cálculo orienta; la programación final es del equipo prescriptor.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Volumen corriente protector** | PBW, VT y driving pressure |
+| **Modos ventilatorios** | Ajuste y monitorización |
+| **SDRA** | Ventilación protectora |
+| **PAFI** | Oxigenación |
