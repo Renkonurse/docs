@@ -149,3 +149,21 @@ Su principal limitación psicométrica es la **especificidad limitada** (clasifi
 - No recoge factores del **entorno** ni los dispositivos.
 - Observar la **deambulación** en lugar de inferirla.
 - Complementar con la valoración clínica y del entorno.
+---
+## Evidencia y referencias
+
+- **Downton JH.** *Falls in the elderly*. London: Edward Arnold; 1993.
+- **Oliver D, et al.** Risk factors and risk assessment tools for falls in hospital in-patients: a systematic review. *Age Ageing* 2004.
+- **NICE.** Falls in older people: assessment after a fall and preventing further falls. 2013 (actualización).
+
+> La escala tiene una precisión moderada; no sustituye la valoración multifactorial ni las medidas ambientales. Reevaluar tras cada caída y al cambiar de unidad.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Escala de Downton** | Riesgo de caídas |
+| **Morse Fall Scale** | Alternativa de cribado |
+| **Prevención de caídas** | Medidas y entorno |
+| **Cuidados de enfermería** | Registro y reevaluación |
