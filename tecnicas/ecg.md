@@ -188,4 +188,24 @@ Datos del paciente y calidad del trazado → FC → ritmo → eje → P → PR �
 - Comparar **siempre** con el ECG previo y desconfiar de los «cambios» aislados del monitor.
 - Ninguna herramienta sustituye la **correlación clínica**: el ECG se interpreta con el paciente delante.
 
+## 8. Evidencia y referencias
+
+- **Kligfield P, et al.** Recommendations for the standardization and interpretation of the electrocardiogram. *J Am Coll Cardiol* 2007;49:1109-1127.
+- **Wagner GS, et al.** AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram. *Circulation* 2009;119:e262-e270.
+- **Ibanez B, et al.** 2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation. *Eur Heart J* 2018;39:119-177.
+- **AHA.** Advanced Cardiovascular Life Support (ACLS) Guidelines (edición vigente).
+
+> La evidencia respalda la sistemática de lectura, la correlación con el paciente y la comparación con el ECG previo.
+
+---
+
+## 9. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **ECG** | Lectura sistemática e interpretación |
+| **RCP / SVA** | Ritmos de parada y actuación |
+| **Marcapasos** | Espiga, captura y sensibilidad |
+| **Gasometría** | Alteraciones electrolíticas y del QT |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
