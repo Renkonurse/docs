@@ -171,3 +171,19 @@ Este cuadro reúne, en una sola página, **qué mide cada escala de la app, su r
 - Los resultados de **riesgo alto** se comunican al equipo y se documentan con hora y receptor.
 
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+---
+## Evidencia y referencias
+
+Las referencias de cada escala están en su documento individual y en la línea de fuentes de esta página. Para las citas primarias más relevantes: Teasdale y Jennett (Glasgow, 1974), Wijdicks (FOUR, 2005), Ely (CAM-ICU, 2001), Sessler (RASS, 2002), Gélinas (CPOT, 2006), Singer (Sepsis-3, 2016) y Royal College of Physicians (NEWS2, 2017).
+
+> Este cuadro es un resumen docente; la validez y los puntos de corte deben verificarse en el documento de cada escala y en la publicación original.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Escalas clínicas** | Cuadro de referencia rápida |
+| **Neurología** | Glasgow, FOUR, CAM-ICU, RASS |
+| **Dolor y sedación** | EVA, CPOT, ESCID |
+| **Riesgo y nutrición** | Braden, EMINA, NUTRIC, Padua |
