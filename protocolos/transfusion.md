@@ -379,3 +379,14 @@ Escalado:
 ## Fuentes
 
 > 📖 **Fuentes:** NICE: https://www.nice.org.uk · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Transfusiones** | Umbrales y procedimiento |
+| **Reacciones adversas** | Reconocimiento y actuación |
+| **Valores de referencia** | Hemoglobina y coagulación |
+| **Coagulación** | Pruebas y tratamiento |
