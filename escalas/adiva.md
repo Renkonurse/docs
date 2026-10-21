@@ -120,3 +120,20 @@ Su aplicación en otras poblaciones (médicos, UCI, pediatría) no está validad
 - Desarrollada en **pacientes quirúrgicos**: usarla como orientación.
 - Registrar factores, intentos, técnica y resultado.
 - No sustituye al juicio clínico ni a la valoración del acceso.
+---
+## Evidencia y referencias
+
+- **van Loon FHJ, et al.** Development of the A-DIVA Scale: a clinical predictive scale to identify difficult intravenous access in adult patients based on clinical observations. *Medicine (Baltimore)* 2016;95:e3428.
+- **Lynn-McHale Wiegand DJ, ed.** *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
+
+> La escala se desarrolló en pacientes quirúrgicos y no está validada en pediatría. Debe orientar la elección de personal experto y ecografía, no sustituir la valoración del acceso.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Escala A-DIVA** | Cálculo del riesgo de acceso venoso difícil |
+| **Accesos vasculares** | Elección del dispositivo y la técnica |
+| **Canalización ecoguiada** | Alternativa en acceso difícil |
+| **PICC / CVC** | Escalada a acceso central |
