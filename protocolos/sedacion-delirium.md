@@ -397,3 +397,14 @@ Avisa al médico de guardia **de inmediato** ante cualquiera de estas situacione
 ## Fuentes
 
 > 📖 **Fuentes:** Devlin JW, et al. PADIS Guidelines. Crit Care Med 2018;46:e825-e873. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Sedación y delirium** | Objetivos y manejo |
+| **RASS** | Nivel de sedación |
+| **CAM-ICU / CAM-ICU-7** | Diagnóstico y gravedad |
+| **CPOT / ESCID** | Dolor en el paciente crítico |
