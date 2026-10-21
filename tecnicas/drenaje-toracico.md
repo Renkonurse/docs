@@ -246,4 +246,13 @@ Avisar al médico de inmediato ante cualquiera de estas situaciones:
 
 > 📖 **Fuentes:** British Thoracic Society. Guideline for pleural disease. *Thorax* 2023;78(Suppl 3):s1-s42. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier. · Marino PL. *The ICU Book*. 4th ed. Wolters Kluwer. · SEEIUC: https://www.seeiuc.org
 
+## 15. Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Drenaje torácico** | Inserción, cuidados y retirada |
+| **Neumotórax / derrame** | Indicaciones y manejo |
+| **Alarmas respiratorias** | Fuga, obstrucción y desaturación |
+| **Cuidados de enfermería** | Checklist y registro |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
