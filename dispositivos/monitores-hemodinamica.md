@@ -203,7 +203,7 @@ Arritmias, perforación, infección, trombosis, malposición e interpretación e
 
 ---
 
-## 7. Evidencia y lecturas de referencia
+## 7. Evidencia y referencias
 
 - Evans L, et al. **Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021.** *Intensive Care Med.* 2021.
 - Cecconi M, et al. **Consensus on circulatory shock and hemodynamic monitoring.** *Intensive Care Med.* 2014.
