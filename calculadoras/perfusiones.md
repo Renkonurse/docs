@@ -212,3 +212,14 @@ Cada perfusión guarda **nombre, masa, volumen, diluyente, notas y rango clínic
 - **Doble comprobación**, etiquetado de bomba y línea, y recalculo tras cada cambio.
 - Comprobar la **compatibilidad** antes de compartir vía; fotoprotección si procede.
 - Las dosis son orientativas: **manda la prescripción y el protocolo del centro**.
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Perfusiones** | Dosis y velocidad |
+| **Conversor de unidades** | mg, µg y gotas/min |
+| **Incompatibilidades** | Mezclas y diluyentes |
+| **Vasopresores** | Fármacos de alto riesgo |
