@@ -129,3 +129,21 @@ Es una de las escalas de riesgo de UPP **específicas de críticos** más citada
 - Reevaluar periódicamente y ante cambios clínicos.
 - **No sustituye a la inspección de la piel**.
 - Atención a la orientación de la escala (4 = menor riesgo) y a los textos antiguos del panel.
+---
+## Evidencia y referencias
+
+- **Cubbin B, Jackson C.** Trial of a pressure area risk calculator for intensive therapy patients. *Intensive Care Nurs* 1991;7:40-44.
+- **Pancorbo-Hidalgo PL, et al.** Risk assessment scales for pressure ulcer prevention: a systematic review. *J Adv Nurs* 2006.
+- **NPIAP/EPUAP/PPPIA.** Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline. 2019.
+
+> Es específica del paciente crítico, pero su validación externa es limitada. En planta pueden usarse Braden o EMINA.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Cubbin & Jackson** | Riesgo de UPP en UCI |
+| **Braden / EMINA** | Alternativas en otros contextos |
+| **Prevención de UPP** | Medidas y superficies |
+| **Cuidados de la piel** | Inspección y registro |
