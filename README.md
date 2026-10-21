@@ -116,6 +116,7 @@ Cada pantalla de la app enlaza aquí con su documento completo y, cuando existe,
 - [Marcapasos: transitorio, epicárdico y transcutáneo](dispositivos/marcapasos.md)
 - [PICC (catéter central de inserción periférica)](dispositivos/picc.md)
 - [Monitorización hemodinámica: PiCCO y PVC](dispositivos/picco-pvc.md)
+- [Monitores de hemodinámica avanzada: Edwards, MostCare, PiCCO y Swan-Ganz](dispositivos/monitores-hemodinamica.md)
 
 ## 🧑‍⚕️ Cuidados
 - [Cuidados de los accesos vasculares y dispositivos invasivos](guias-cuidados/accesos-vasculares.md)
