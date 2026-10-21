@@ -149,3 +149,20 @@ Las guías **PADIS 2018** recomiendan el uso de escalas observacionales de dolor
 - Es la alternativa **validada en español** a la EVA; recomendada por PADIS y SEEIUC.
 - No es valorable con **bloqueo neuromuscular**.
 - Si el dolor persiste pese al tratamiento, **buscar otras causas**.
+---
+## Evidencia y referencias
+
+- **Latorre-Marco I, et al.** Psychometric validation of the behavioral indicators of pain scale (ESCID) in mechanically ventilated and unable to self-report critical care patients. *Med Intensiva* 2016;40:463-473.
+- **Devlin JW, et al.** PADIS Guidelines. *Crit Care Med* 2018;46:e825-e873.
+
+> Es observacional y no válida con bloqueo neuromuscular. Debe aplicarse en reposo y durante procedimientos; la tendencia guía la analgesia.
+
+---
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **ESCID** | Dolor en paciente no comunicativo |
+| **CPOT** | Alternativa internacional |
+| **EVA** | Dolor en paciente comunicativo |
+| **Sedoanalgesia** | Analgesia y rescates |
