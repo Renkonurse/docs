@@ -397,3 +397,14 @@ Cuando hay indicadores de recuperación y estabilidad hemodinámica, se reduce e
 > 📖 **Fuentes:** ELSO. General Guidelines for All ECLS Cases. 2021 (https://www.elso.org). · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
 
 - Fuente complementaria: protocolo ECMO de la unidad (secciones 13 y 14).
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **ECMO: destete** | Weaning y decanulación |
+| **Weaning y extubación** | Criterios de soporte |
+| **Transporte** | Traslado del paciente con ECMO |
+| **ECMO: circuito** | Complicaciones y alarmas |
