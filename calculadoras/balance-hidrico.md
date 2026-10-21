@@ -183,3 +183,14 @@ Diuresis por kg = 2000 / 80 = 25,0
 - **Diuresis < 0,5 mL/kg/h** alerta de oliguria (ojo con la unidad del campo: mL/24 h).
 - Pesar al paciente **a diario** y usar el **mismo peso** de forma coherente.
 - Vigilar signos de **sobrecarga** (edemas, crepitantes, disnea) y de **depleción** (taquicardia, hipotensión, oliguria).
+
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Balance hídrico** | Ingresos, pérdidas y Balance |
+| **Gasto urinario** | Diuresis y perfusión |
+| **Pérdidas insensibles** | Estimación de pérdidas |
+| **Peso ideal** | Peso de referencia |
