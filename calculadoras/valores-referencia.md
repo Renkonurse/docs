@@ -121,4 +121,15 @@ Agua libre = 0,5 × 60 × (158/140 − 1) = 30 × 0,1286 ≈ **3,9 L**. Se repon
 - La **tendencia** y la respuesta al tratamiento valen más que una cifra aislada.
 - La reposición de electrolitos es una **actividad de alto riesgo**: vía, velocidad, bomba y permeabilidad verificadas.
 
+---
+
+## Correspondencia con la app
+
+| Pantalla / contenido | Relación |
+|---|---|
+| **Valores de referencia** | Rangos analíticos |
+| **Gasometría** | pH, PaO₂, PaCO₂ y bicarbonato |
+| **Corrección de iones** | Electrolitos |
+| **Hemodinámica** | Lactato y perfusión |
+
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
