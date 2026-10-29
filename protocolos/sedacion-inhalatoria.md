@@ -1,198 +1,179 @@
-# Sedación inhalatoria (AnaConDa / isoflurano)
-
-> 📖 **Fuentes:** Devlin JW, et al. *PADIS Guidelines*. Crit Care Med 2018;46:e825-e873. · Sackey PV, et al. *Isoflurane sedation in intensive care*. Crit Care Med 2004;32:1417-1424. · SEDAR (Sociedad Española de Anestesiología, Reanimación y Terapéutica del Dolor). · Ficha técnica del isoflurano y del sevoflurano (AEMPS/CIMA). · Manual del sistema AnaConDa (Sedana Medical). · Marino PL. *The ICU Book*. 4th ed.
-
-La sedación inhalatoria administra un **anestésico volátil** (habitualmente isoflurano o sevoflurano) a través de un dispositivo conectado al circuito del respirador. Es una alternativa a la sedación intravenosa en pacientes seleccionados, especialmente cuando esta es difícil de ajustar o cuando se busca un despertar rápido.
-
+---
+layout: default
+title: "Sedación inhalatoria (Sedaconda / isoflurano)"
 ---
 
-## 1. Definición y objetivo
+# Sedación inhalatoria: isoflurano y sistema Sedaconda/AnaConDa
 
-- **Objetivo:** mantener un nivel de sedación y analgesia adecuado (habitualmente RASS −2 a 0) con un fármaco de acción rápida y fácil titulación.
-- **Ámbito:** UCI adulta, pacientes con ventilación mecánica invasiva y sedación prolongada o difícil.
-- **No es una técnica de primera línea universal:** requiere formación, equipo específico, control de la exposición ambiental y criterios de selección.
+## 1. Concepto y fundamento
 
----
+La sedación inhalatoria administra un **anestésico volátil mediante el circuito de ventilación mecánica**. Es una alternativa a la sedación intravenosa en pacientes críticos adultos, especialmente cuando se necesita sedación profunda, prolongada o difícil de controlar.
 
-## 2. Ventajas y limitaciones
+El anestésico líquido llega mediante una bomba de jeringa a un dispositivo que lo vaporiza. Desde los alvéolos pasa a la sangre y actúa sobre el sistema nervioso central, favoreciendo la neurotransmisión inhibitoria y reduciendo la excitatoria.
 
-### 2.1 Ventajas
+El **isoflurano se elimina fundamentalmente por el pulmón**, con metabolismo escaso. Esto facilita ajustar la sedación y obtener un despertar relativamente rápido tras suspenderlo, aunque depende de la ventilación, la situación neurológica y los demás medicamentos.
 
-- **Despertar rápido y predecible**, con menos acumulación que los fármacos intravenosos.
-- Menor tolerancia y menos síndrome de abstinencia en tratamientos prolongados.
-- **Broncodilatación**, útil en broncoespasmo o estatus asmático.
-- Buena estabilidad hemodinámica a dosis bajas.
-- Puede facilitar el destete y la evaluación neurológica.
-- No depende de la función renal o hepática para su eliminación principal (se elimina por vía pulmonar).
+**No sustituye a la analgesia:** debe mantenerse un tratamiento del dolor adaptado al paciente.
 
-### 2.2 Limitaciones
+## 2. Ventajas
 
-- Requiere un **dispositivo específico** (AnaConDa) y un respirador compatible.
-- Necesita **captación de gases** para proteger al personal.
-- Puede aumentar el **espacio muerto** y la resistencia del circuito.
-- No está exenta de **hipotensión, sobresedación o contaminación ambiental**.
-- La experiencia y la disponibilidad varían según el centro.
+- Menor dependencia de la función renal y hepática para su eliminación.
+- Menor acumulación que algunos tratamientos intravenosos prolongados.
+- Ajuste de la profundidad de sedación y posibilidad de despertares para exploración neurológica.
+- **Efecto broncodilatador**, de interés en broncoespasmo grave.
+- Posible reducción de las necesidades de opioides.
 
----
+No garantiza estabilidad hemodinámica ni prevención del delirium. La dosis se ajusta a la **mínima necesaria para el objetivo prescrito**.
 
-## 3. Indicaciones y selección del paciente
+## 3. Indicaciones
 
-### 3.1 Indicaciones orientativas
+Puede considerarse en pacientes con ventilación mecánica invasiva que presentan:
 
-- Sedación prolongada con **dificultad para ajustar** fármacos intravenosos.
-- **Broncoespasmo grave** o estatus asmático que requiere sedación profunda.
-- **SDRA** con necesidad de sedación y relajación controladas.
-- **Destete difícil** en el que se quiere un despertar rápido.
-- Pacientes con **tolerancia** a benzodiacepinas o propofol.
-- Situaciones en las que se busca reducir el tiempo hasta la evaluación neurológica.
+- Necesidad de **sedación moderada-profunda o prolongada**.
+- Sedación difícil con tratamientos intravenosos.
+- Problemas de acumulación o tolerancia a otros sedantes.
+- Broncoespasmo grave o estatus asmático que dificulta la ventilación.
+- Necesidad de valoraciones neurológicas frecuentes.
+- Disfunción renal o hepática que complica el manejo de otros sedantes.
 
-### 3.2 Contraindicaciones y precauciones
+En situaciones seleccionadas puede utilizarse durante ECMO o como rescate en estatus epiléptico refractario, con supervisión especializada.
 
-| Situación | Motivo |
+**La profundidad depende de la indicación clínica: no todos los pacientes necesitan sedación profunda.**
+
+## 4. Contraindicaciones y precauciones
+
+Contraindicaciones principales:
+
+- Hipersensibilidad al anestésico.
+- Susceptibilidad conocida o sospechada a **hipertermia maligna**.
+- Enfermedades neuromusculares de riesgo, especialmente distrofia de Duchenne.
+- Fístula broncopleural con fuga aérea importante.
+- Hipertensión intracraneal no controlada o determinadas lesiones neurológicas sin monitorización adecuada.
+
+Extremar la vigilancia en inestabilidad hemodinámica, shock, embarazo, hepatopatía y personas mayores.
+
+Revisar otros fármacos que puedan favorecer **hipotensión, prolongación del QT o arritmias**. El escaso metabolismo hepático no implica ausencia de riesgos o interacciones.
+
+## 5. Configuración proximal y distal
+
+### Proximal
+
+El dispositivo se sitúa **entre el tubo endotraqueal y la pieza en Y**. Retiene gran parte del anestésico espirado y lo devuelve durante la siguiente inspiración, reduciendo el consumo. Actúa como intercambiador de calor y humedad, pero añade espacio muerto y puede favorecer retención de CO₂.
+
+Mantenerlo correctamente orientado, aproximadamente a **45°**, evitando la entrada de secreciones. En proximal **no se combina con humidificación activa**; evitar filtros o conexiones innecesarios.
+
+### Distal
+
+Se coloca **a la salida inspiratoria del ventilador**. Actúa como vaporizador, pero pierde la recuperación del anestésico espirado. Necesita **humidificación activa** y aumenta el consumo de anestésico y del sistema de captación.
+
+Puede ser necesaria ante hipercapnia relacionada con el espacio muerto, volúmenes corrientes pequeños o determinadas combinaciones con óxido nítrico.
+
+Comprobar el montaje para los modelos concretos de ventilador y dispositivo. **El ACD que administra y conserva anestésico no es el recipiente que capta los gases eliminados.**
+
+## 6. Material, preparación e inicio
+
+Material: anestésico, adaptador de carga, jeringa y línea específicas, bomba compatible, ACD y sistema de captación de gases. Preparar humidificación activa si la configuración es distal.
+
+1. Comprobar prescripción, objetivos de sedación y analgesia y contraindicaciones.
+2. Revisar situación hemodinámica y ventilatoria basal.
+3. Verificar conexiones, orientación, ausencia de fugas y humidificación correspondiente.
+4. Disponer de capnografía, monitorización del anestésico y control de la profundidad de sedación.
+5. Planificar la transición desde la sedación intravenosa, evitando periodos sin cobertura.
+
+**El cebado se realiza electrónicamente con la bomba y conforme al dispositivo utilizado, nunca empujando manualmente la jeringa.**
+
+El inicio y los ajustes se realizan según prescripción, respuesta clínica, concentración de anestésico y tolerancia hemodinámica. **Los mL/h y la CAM/MAC no son objetivos universales.**
+
+## 7. Monitorización
+
+### Sedación y analgesia
+
+Valorar **RASS** cuando sea evaluable. Complementar con **BIS u otra monitorización cerebral** en sedación profunda, especialmente con bloqueo neuromuscular. Evaluar dolor mediante autoinforme o escala adecuada; controlar **TOF** si recibe bloqueantes. Valorar delirium con **CAM-ICU** cuando el nivel de consciencia permita aplicarla.
+
+**La ausencia de movimiento no demuestra sedación ni analgesia suficientes.**
+
+### Ventilación
+
+Vigilar SpO₂, EtCO₂, volumen corriente, volumen minuto, presiones y adaptación. Controlar gasometría según evolución, especialmente ante hipercapnia o acidosis; **EtCO₂ no sustituye siempre a PaCO₂**.
+
+Reevaluar sedación tras cambios importantes del ventilador: los cambios en ventilación pueden modificar la concentración y eliminación del anestésico.
+
+### Hemodinámica y seguridad
+
+Vigilar presión arterial, frecuencia cardíaca, ritmo y temperatura, especialmente tras inicio e incrementos. Revisar QT, interacciones y electrolitos cuando corresponda. Individualizar vigilancia renal y analítica en tratamientos prolongados.
+
+## 8. Cuidados de enfermería y recambios
+
+- Comprobar prescripción, anestésico, jeringa y programación de la bomba al inicio del turno y tras cada cambio.
+- Vigilar nivel de jeringa, línea y suministro efectivo; revisar secreciones, condensación y permeabilidad del dispositivo.
+- Ante despertar inesperado, comprobar bomba, jeringa vacía, burbujas, interrupción del suministro, fugas, conexiones y orientación **antes de aumentar dosis**. Evaluar también dolor y causas clínicas.
+- Mantener operativa la captación de gases y minimizar desconexiones. La ventilación del entorno no sustituye la captación ni el control de exposición laboral.
+- Recambiar el dispositivo en el intervalo indicado para el modelo, habitualmente **cada 24 horas**.
+- Utilizar una jeringa nueva cuando se agote: **no rellenar la usada**. No transferir adaptadores de un solo uso entre botellas.
+- Registrar recambios y consumo del absorbente; sustituirlo según su capacidad e instrucciones. Mantenerlo sujeto al ventilador, no en el suelo.
+
+## 9. Aspiración y nebulizaciones
+
+Utilizar preferentemente **aspiración cerrada** para reducir desconexiones, pérdida de reclutamiento y liberación ambiental de anestésico.
+
+La posición del nebulizador depende de la configuración: en proximal se sitúa del lado del paciente respecto al reflector; en distal, el montaje se adapta a la humidificación activa.
+
+Comprobar compatibilidad de conectores y medicamentos nebulizados. Algunos productos, como **N-acetilcisteína o anfotericina B**, pueden alterar el funcionamiento del reflector.
+
+Evitar conexiones innecesarias, tracción sobre el tubo y acumulación de líquido. No modificar el montaje sin garantizar ventilación, humidificación y continuidad de la sedación.
+
+## 10. Complicaciones y criterios de aviso
+
+| Problema | Vigilancia y actuación |
 |---|---|
-| **Hipertermia maligna** o antecedente familiar | Contraindicación absoluta de los volátiles |
-| **Hipersensibilidad** al agente | Evitar el fármaco |
-| **Inestabilidad hemodinámica grave** | Riesgo de hipotensión; corregir primero |
-| **Hipertensión intracraneal** | Los volátiles pueden aumentar el flujo sanguíneo cerebral; valorar riesgo-beneficio |
-| **Vía aérea difícil o circuito no compatible** | No permite un montaje seguro |
-| **Ausencia de captación de gases** | Exposición del personal |
-| **Embarazo del personal** | Valorar la exposición y las medidas de protección |
-| **Paciente con traqueostomía** | Puede adaptarse, pero requiere un montaje específico |
+| **Hipotensión** | Valorar repercusión, profundidad de sedación y otras causas; avisar al equipo. |
+| **Sobresedación** | Revisar aporte, monitorización y cambios ventilatorios; ajustar según prescripción. |
+| **Agitación o despertar inesperado** | Comprobar dolor, bomba, jeringa, línea, fugas y circuito antes de aumentar dosis. |
+| **Hipercapnia o acidosis** | Evaluar ventilación, espacio muerto y obstrucción; valorar cambio de configuración si persiste. |
+| **Arritmias** | Revisar QT, interacciones y electrolitos; tratamiento específico. |
+| **Obstrucción o rotura** | Actuar de inmediato para mantener ventilación y sedación seguras. |
+| **Midriasis nueva** | Valoración neurológica urgente, sin atribuirla inicialmente al anestésico. |
+| **Sospecha de exposición ambiental** | Revisar captación y fugas, proteger al personal y asegurar una alternativa de sedación si se interrumpe el aporte. |
 
----
+### Hipertermia maligna
 
-## 4. Sistema AnaConDa
+Aumento inexplicado de CO₂, taquicardia, rigidez, acidosis o elevación térmica son señales de alarma. **Es una emergencia:** suspender el desencadenante, activar ayuda y preparar tratamiento específico con dantroleno y soporte. **No esperar a que aparezca fiebre alta.**
 
-### 4.1 Componentes
+## 11. Traslado y retirada
 
-- **Cámara con filtro de carbón activado** que retiene el anestésico en la espiración y lo devuelve en la inspiración (recirculación).
-- **Línea de infusión** conectada a una bomba de jeringa.
-- **Puerto de llenado** y **conexión al circuito**.
-- **Sistema de captación/evacuación de gases** (scavenging).
-- **Membrana o filtro** que evita el paso de secreciones.
+### Traslado
 
-### 4.2 Consideraciones de montaje
+Planificar continuidad de sedación, analgesia y monitorización, autonomía de la bomba y control de gases. Si el montaje no permite mantener la terapia con seguridad, organizar una transición temporal a sedación intravenosa. **Un espacio abierto no garantiza ausencia de exposición ambiental.**
 
-- Se coloca **entre el tubo endotraqueal y el circuito espiratorio**, respetando el sentido del flujo.
-- **Sustituye al humidificador**: no usar un humidificador caliente en el mismo circuito.
-- Aumenta el **espacio muerto**; puede ser necesario ajustar la ventilación.
-- Debe cambiarse **cada 24 horas** o según el protocolo y el fabricante, y siempre con cada cambio de circuito.
-- La línea de infusión debe purgarse y comprobarse antes de conectar.
+### Retirada
 
----
+Reducir progresivamente el anestésico según el objetivo clínico. Conservar el reflector después de detener la bomba prolonga la eliminación del anestésico retenido; retirarlo acelera el lavado.
 
-## 5. Montaje paso a paso
+Ante agitación, investigar dolor, hipoxemia, delirium y otras causas. Puede valorarse dexmedetomidina en situaciones seleccionadas, bajo decisión clínica.
 
-1. Comprobar la indicación, la ausencia de contraindicaciones y el consentimiento según protocolo.
-2. Revisar el respirador y el monitor de agente anestésico; comprobar que el módulo está disponible.
-3. Colocar el **AnaConDa** entre el tubo y el circuito, en la posición indicada por el fabricante.
-4. Conectar la **línea de infusión** a la bomba y purgarla con el anestésico.
-5. Conectar el **sistema de captación** y comprobar que funciona.
-6. Comprobar la **capnografía**, la ausencia de fugas y la ventilación.
-7. Ajustar la dosis inicial según peso, edad, hemodinámica y profundidad deseada.
-8. Registrar el montaje, la dosis, la hora y los parámetros basales.
+Los tiempos de despertar varían. **Despertar no equivale a estar preparado para extubación:** evaluar ventilación, protección de vía aérea y demás criterios clínicos.
 
----
+## 12. Registro de enfermería
 
-## 6. Dosis y monitorización
+Documentar cada turno y ante cambios relevantes:
 
-### 6.1 Dosis orientativas
+- Objetivo y profundidad de sedación, analgesia y bloqueo neuromuscular.
+- Velocidad y ajustes del anestésico; otros sedantes y analgésicos.
+- Configuración, humidificación y parámetros ventilatorios.
+- RASS/BIS, valoración del dolor y TOF cuando corresponda; evaluación de delirium si es aplicable.
+- Recambios, incidencias y respuesta clínica; inicio, motivo y finalización de la terapia.
 
-| Parámetro | Rango orientativo |
-|---|---|
-| **Isoflurano (inicio)** | 1-3 mL/h |
-| **Concentración objetivo** | MAC 0,5-1,5 |
-| **Profundidad de sedación** | RASS −2 a 0 |
-| **Sevoflurano** | Según ficha técnica y protocolo; ajustar a MAC objetivo |
+El anestésico inhalado se registra como tratamiento, **no como aporte intravenoso del balance hídrico**.
 
-La dosis se titula por **respuesta clínica** (RASS, hemodinámica, ventilación) y por la **concentración espirada** si el monitor la mide. No existe una dosis fija: el mismo mL/h puede producir efectos distintos según el paciente y el circuito.
+## Fuentes
 
-### 6.2 Qué monitorizar
+- Guía de sedación inhalada en UCI de la **SEDAR** (García-Montoto F, et al. *Rev Esp Anestesiol Reanim*. 2024;71:90-111).
+- Abordaje práctico del **GTSAD-SEMICYUC** (Contreras S, et al. *Med Intensiva*. 2024;48:467-476).
+- Ensayo **SEDD** (Meiser A, et al. *Lancet Respir Med*. 2021;9:1231-1240).
+- Metaanálisis de ECA (Yamamoto T, et al. *Crit Care*. 2025;29:227).
+- Ficha técnica de **SEDACONDA 100 % isoflurano** (AEMPS/CIMA, nº 86293) e instrucciones del dispositivo Sedaconda ACD de Sedana Medical.
+- **PADIS 2018 (SCCM)** como marco general de sedación.
 
-- **RASS** cada 2-4 horas y tras cada cambio de dosis.
-- **CAM-ICU** para delirium cuando el paciente está despierto.
-- **MAC / concentración espirada** si está disponible.
-- **Hemodinámica:** presión arterial, frecuencia cardiaca, perfusión.
-- **Ventilación:** capnografía, SpO₂, presiones, volumen corriente.
-- **Temperatura:** descartar hipertermia.
-- **Función renal y electrolitos** en tratamientos prolongados.
-- **Exposición ambiental:** comprobar la captación y la ventilación de la habitación.
+## Correspondencia con la app
 
----
-
-## 7. Cuidados de enfermería
-
-- Verificar la **dosis, la jeringa y la bomba** al inicio del turno y tras cada cambio.
-- Comprobar el **nivel de anestésico** y la permeabilidad de la línea.
-- Vigilar la **profundidad de sedación** y evitar la sobresedación.
-- Comprobar la **capnografía** y la permeabilidad de la vía aérea.
-- Aspirar secreciones con técnica estéril; valorar el cambio de dispositivo si hay obstrucción.
-- Cambiar el **AnaConDa cada 24 horas** o según protocolo.
-- Comprobar el **sistema de captación** y la ventilación de la habitación.
-- Registrar dosis, RASS, eventos y cambios.
-- Proteger la jeringa y el sistema de la luz y de la contaminación.
-
----
-
-## 8. Complicaciones y actuación
-
-| Complicación | Reconocimiento | Actuación |
-|---|---|---|
-| **Hipotensión** | Descenso de presión arterial, taquicardia o bradicardia | Reducir dosis, valorar volumen, avisar |
-| **Sobresedación** | RASS < −3, apnea, bradipnea | Reducir o suspender, ventilar si precisa, avisar |
-| **Obstrucción del dispositivo** | Presión alta, dificultad para ventilar, secreciones | Aspirar, valorar cambio, avisar |
-| **Fuga o desconexión** | Capnografía ausente, alarma de presión baja | Reconectar y comprobar |
-| **Contaminación ambiental** | Olor, síntomas del personal, mal funcionamiento de la captación | Detener la infusión, ventilar, revisar el sistema |
-| **Hipertermia** | Temperatura elevada sin foco | Suspender, enfriar, descartar hipertermia maligna |
-| **Nefrotoxicidad por fluoruro** | Tratamiento muy prolongado, alteración renal | Valorar cambio de estrategia, control analítico |
-| **Síndrome de abstinencia** | Agitación al retirar | Retirada gradual según protocolo |
-
----
-
-## 9. Criterios de aviso
-
-- Hipotensión o bradicardia mantenidas.
-- RASS < −3 o agitación con dosis crecientes.
-- Fuga aérea, capnografía ausente o imposibilidad de mantener la concentración.
-- Sospecha de obstrucción del dispositivo.
-- Fiebre o hipertermia.
-- Síntomas en el personal (mareo, cefalea, irritación) que sugieran exposición.
-- Deterioro renal en tratamientos prolongados.
-
----
-
-## 10. Seguridad del personal
-
-- Comprobar que el **scavenging** está conectado y funciona.
-- Mantener la **ventilación de la habitación** y evitar fugas.
-- No manipular el sistema sin las precauciones indicadas.
-- Usar **guantes y protección** según el protocolo.
-- Si hay olor a anestésico, detener la infusión y revisar el montaje.
-- Las personas embarazadas o con exposición frecuente deben seguir las recomendaciones del servicio de prevención.
-
----
-
-## 11. Evidencia y referencias
-
-- **Devlin JW, et al.** Clinical Practice Guidelines for the Prevention and Management of Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU (PADIS). *Crit Care Med* 2018;46:e825-e873.
-- **Sackey PV, et al.** Isoflurane sedation in intensive care: a comparative study with midazolam. *Crit Care Med* 2004;32:1417-1424.
-- **SEDAR.** Recomendaciones de sedación y analgesia en el paciente crítico.
-- **Fichas técnicas** de isoflurano y sevoflurano (AEMPS/CIMA).
-- **Manual del sistema AnaConDa** (Sedana Medical): montaje, recambio y seguridad.
-- **Marino PL.** *The ICU Book*. 4th ed. Wolters Kluwer.
-
-> La evidencia sobre sedación inhalatoria en UCI es menor que la de los fármacos intravenosos. La indicación debe individualizarse y el protocolo local prevalece.
-
----
-
-## 12. Correspondencia con la app
-
-| Pantalla / contenido | Relación |
-|---|---|
-| **Sedación inhalatoria (AnaConDa)** | Montaje, dosis y complicaciones |
-| **Sedación, analgesia y delirium** | RASS, CAM-ICU y alternativas intravenosas |
-| **Weaning y extubación** | Despertar rápido y evaluación neurológica |
-| **Alarmas respiratorias** | Obstrucción, fuga y capnografía |
-| **Broncoespasmo / asma grave** | Efecto broncodilatador |
-
-> ⚠️ Documento orientativo: adáptalo al protocolo de tu unidad y a la indicación médica.
+Pantalla **Sedación inhalatoria (isoflurano)** del módulo Respiratorio. Los doce apartados corresponden a los bloques desplegables de la pantalla. El enlace «Ver documento completo» conserva la dirección `https://renkonurse.github.io/docs/protocolos/sedacion-inhalatoria`.
