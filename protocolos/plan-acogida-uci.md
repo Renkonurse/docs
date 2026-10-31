@@ -14,22 +14,7 @@ La unidad de cuidados intensivos (UCI) es una organización de profesionales san
 
 El proceso de adaptación a una UCI es exigente. Esta guía pretende facilitar la incorporación recogiendo lo esencial: estructura, dinámica, recursos y expectativas.
 
-## 2. Estructura física
-
-Una UCI polivalente típica se organiza en módulos:
-
-| Módulo | Camas | Características |
-|---|---|---|
-| A1 / B1 | 6 | Sala diáfana (3 camas) + boxes individuales (3) |
-| A2 / B2 | 12 | Boxes individuales con exclusa (algunos) + habitaciones dobles |
-
-- Las camas de sala diáfana permiten visión directa desde el control.
-- Los boxes individuales con exclusa se reservan para pacientes con infecciones de transmisión aérea o necesidades de aislamiento.
-- Habitaciones dobles: dos camas por habitación, cortina separadora.
-
-**Total habitual:** 30-36 camas abiertas de forma permanente, con posibilidad de ampliar.
-
-## 3. Personal y turnos
+## 2. Personal y turnos
 
 ### Equipo de enfermería
 - **Supervisión:** responsable de la gestión, coordinación y calidad asistencial.
@@ -40,7 +25,7 @@ Una UCI polivalente típica se organiza en módulos:
 - Turnos de mañana, tarde y noche en sistema de rotación.
 - Cambio de turno: 30 minutos de solapamiento para la relevo estructurado (SBAR).
 
-## 4. Primer día: qué hacer
+## 3. Primer día: qué hacer
 
 1. **Presentarse** en la unidad 15 minutos antes del turno.
 2. **Localizar** los recursos esenciales:
@@ -52,7 +37,7 @@ Una UCI polivalente típica se organiza en módulos:
 3. **Familiarizarse** con el sistema informático y la historia clínica electrónica.
 4. **Acompañar** a una enfermera/o experimentado durante las primeras jornadas (periodo de tutorización).
 
-## 5. Dinámica asistencial
+## 4. Dinámica asistencial
 
 ### Cambio de turno
 - **Relevo al pie de la cama** con estructura SBAR:
@@ -72,7 +57,7 @@ Una UCI polivalente típica se organiza en módulos:
 - Identificación correcta del paciente antes de administrar cualquier fármaco.
 - Doble comprobación de bombas de infusión al cambiar turno.
 
-## 6. Monitorización básica
+## 5. Monitorización básica
 
 Todo paciente de UCI lleva monitorización continua de:
 
@@ -86,7 +71,7 @@ Todo paciente de UCI lleva monitorización continua de:
 
 **Las alarmas no se silencian sin comprobar la causa.**
 
-## 7. Soportes frecuentes
+## 6. Soportes frecuentes
 
 ### Ventilación mecánica
 - Verificar parámetros prescritos: modo, VT, PEEP, FiO₂.
@@ -102,14 +87,14 @@ Todo paciente de UCI lleva monitorización continua de:
 - TRRC (terapia renal de reemplazo): conocer el circuito, anticoagulación y alarmas.
 - Control de balance horario estricto.
 
-## 8. Comunicación con la familia
+## 7. Comunicación con la familia
 
 - Horario de visitas establecido por la unidad.
 - Información médica diaria; enfermería informa sobre confort, descanso y cuidados.
 - Mantener confidencialidad y no dar pronóstico.
 - Llamar a la familia si hay cambio significativo.
 
-## 9. Recomendaciones para la incorporation
+## 8. Recomendaciones para la incorporation
 
 - **Pregunta todo:** es mejor preguntar dos veces que cometer un error.
 - **No trabajes sola/o los primeros días:** acompaña y sé acompañado/a.
@@ -117,7 +102,7 @@ Todo paciente de UCI lleva monitorización continua de:
 - **Descansa:** los primeros turnos son intensos; cuida tu descanso.
 - **Busca ayuda:** ante dudas clínicas urgentes, el equipo y la supervisión están para apoyar.
 
-## 10. Cuestionario de autoevaluación
+## 9. Cuestionario de autoevaluación
 
 Después del periodo de adaptación, deberías ser capaz de:
 
