@@ -145,3 +145,7 @@ Cada pantalla de la app enlaza aquí con su documento completo y, cuando existe,
 **Total: 114 documentos.**
 
 > ⚠️ Documentación orientativa para profesionales. No sustituye al juicio clínico ni a los protocolos de cada centro.
+
+## Nueva guía de imagen
+
+- [Rx de tórax y posición de dispositivos: lectura segura](tecnicas/radiografia-torax.html)

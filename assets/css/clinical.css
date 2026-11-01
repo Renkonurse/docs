@@ -1,0 +1,57 @@
+:root {
+  color-scheme: light;
+  --accent: #087f8c;
+  --accent-dark: #075a64;
+  --accent-soft: #e5f4f5;
+  --ink: #20313f;
+  --muted: #5b6b78;
+  --line: #dce5eb;
+  --paper: #fff;
+  --canvas: #f3f6f9;
+  font-family: Inter, "Segoe UI", Roboto, Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--canvas); color: var(--ink); line-height: 1.68; }
+.area-protocolos, .area-guias-cuidados { --accent: #087f8c; --accent-dark: #075a64; --accent-soft: #e5f4f5; }
+.area-tecnicas, .area-dispositivos { --accent: #00838f; --accent-dark: #00565e; --accent-soft: #dff3f5; }
+.area-escalas { --accent: #7c54a2; --accent-dark: #553577; --accent-soft: #f0e9f7; }
+.area-calculadoras { --accent: #1976a8; --accent-dark: #105174; --accent-soft: #e5f2f9; }
+.area-farmacos { --accent: #b45309; --accent-dark: #78350f; --accent-soft: #fff1df; }
+.skip-link { position: absolute; left: -9999px; top: 0; background: #fff; padding: .7rem; z-index: 5; }
+.skip-link:focus { left: .5rem; }
+.site-header { background: var(--paper); border-bottom: 1px solid var(--line); }
+.header-inner { max-width: 1040px; margin: auto; padding: 15px 22px; display: flex; gap: 24px; align-items: center; justify-content: space-between; }
+.brand { color: var(--accent-dark); font-size: 1.13rem; font-weight: 800; text-decoration: none; }
+.brand span { font-size: .78rem; font-weight: 600; color: var(--muted); }
+nav { display: flex; gap: 18px; flex-wrap: wrap; }
+nav a, .document-footer a { color: var(--accent-dark); font-weight: 650; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.page-shell { max-width: 1040px; margin: 30px auto; padding: 0 20px; }
+.clinical-document { --content-width: 820px; max-width: var(--content-width); margin: auto; padding: 0 0 30px; overflow: hidden; background: var(--paper); border: 1px solid var(--line); border-radius: 20px; box-shadow: 0 10px 32px #23384a0b; }
+.clinical-document > :not(.guide-hero):not(.guide-tabs):not(.clinical-section-card):not(.document-footer) { margin-left: clamp(18px, 4vw, 30px); margin-right: clamp(18px, 4vw, 30px); }
+.guide-hero { padding: 24px clamp(20px, 4vw, 32px) 20px; color: #fff; background: linear-gradient(115deg, var(--accent-dark), var(--accent), color-mix(in srgb, var(--accent) 62%, #38c6d6)); }
+.guide-hero h1 { margin: 0; padding: 0; border: 0; color: #fff; font-size: clamp(1.35rem, 4vw, 1.9rem); letter-spacing: .005em; text-transform: uppercase; }
+.guide-hero .guide-subtitle { margin: .35rem 0 0; color: #e8fbff; font-size: .96rem; line-height: 1.4; }
+.guide-tabs { position: sticky; top: 0; z-index: 3; display: flex; gap: 7px; overflow-x: auto; padding: 10px 14px; background: #edf4f6; scrollbar-width: none; }
+.guide-tabs::-webkit-scrollbar { display: none; }
+.guide-tabs a { flex: 0 0 auto; padding: 8px 13px; border-radius: 999px; background: #d9e8ec; color: var(--ink); font-size: .84rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
+.guide-tabs a:hover, .guide-tabs a:focus-visible { background: var(--accent-dark); color: #fff; }
+.clinical-section-card { scroll-margin-top: 64px; margin: 10px clamp(12px, 3vw, 18px); padding: 0 clamp(14px, 2.6vw, 20px) 14px; border: 1px solid var(--line); border-radius: 16px; background: #fff; box-shadow: 0 3px 12px #23384a0b; }
+.clinical-section-card > :last-child { margin-bottom: 0; }
+h1, h2, h3, h4 { line-height: 1.28; color: var(--ink); }
+h1 { margin: 0 0 1.25rem; padding-bottom: 1rem; border-bottom: 3px solid var(--accent); font-size: clamp(1.8rem, 4vw, 2.5rem); letter-spacing: -.025em; }
+.clinical-section-card > h2 { margin: 0 calc(0px - clamp(14px, 2.6vw, 20px)) .8rem; padding: .8rem clamp(14px, 2.6vw, 20px); border: 0; border-bottom: 1px solid color-mix(in srgb, var(--accent) 20%, white); border-radius: 15px 15px 0 0; background: var(--accent-soft); color: var(--accent-dark); font-size: 1.12rem; }
+h2 { margin: 2.2rem 0 .8rem; padding-left: .8rem; border-left: 4px solid var(--accent); font-size: 1.45rem; }
+h3 { margin: 1.5rem 0 .55rem; color: var(--accent-dark); font-size: 1.13rem; }
+p, li { font-size: 1rem; }
+a { color: var(--accent-dark); }
+blockquote { margin: 1.2rem 0; padding: .9rem 1.15rem; border: 1px solid color-mix(in srgb, var(--accent) 20%, white); border-left: 4px solid var(--accent); border-radius: 10px; background: var(--accent-soft); }
+blockquote p { margin: .25rem 0; }
+table { display: block; width: 100%; overflow-x: auto; border-collapse: collapse; margin: 1.2rem 0; }
+th, td { padding: .7rem .8rem; border: 1px solid var(--line); text-align: left; vertical-align: top; }
+th { background: var(--accent-soft); color: var(--accent-dark); }
+tr:nth-child(even) td { background: #f8fafc; }
+hr { margin: 2rem 0; border: 0; border-top: 1px solid var(--line); }
+code { padding: .12rem .35rem; border-radius: 5px; background: #eef2f5; }
+.document-footer { margin: 2rem clamp(18px, 4vw, 30px) 0; padding-top: 1.2rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
+.document-footer p { font-size: .9rem; }
+@media (max-width: 600px) { .header-inner { align-items: flex-start; flex-direction: column; gap: 8px; } .page-shell { margin: 12px auto; padding: 0 10px; } .clinical-document { border-radius: 14px; } .guide-hero { padding: 20px 18px 16px; } .guide-tabs { margin-bottom: 4px; } .clinical-section-card { margin: 9px 10px; padding: 0 13px 12px; border-radius: 13px; } .clinical-section-card > h2 { margin: 0 -13px .7rem; border-radius: 12px 12px 0 0; padding: .72rem 13px; font-size: 1.02rem; } .clinical-document > :not(.guide-hero):not(.guide-tabs):not(.clinical-section-card):not(.document-footer) { margin-left: 18px; margin-right: 18px; } nav:not(.guide-tabs) { gap: 14px; } }

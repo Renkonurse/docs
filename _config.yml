@@ -2,3 +2,10 @@ title: RenCoNurse CriticalCare — Documentación
 description: Protocolos, escalas, técnicas y calculadoras de enfermería de UCI (documentación ampliada de la app).
 theme: jekyll-theme-cayman
 markdown: kramdown
+baseurl: /docs
+url: https://renkonurse.github.io
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
