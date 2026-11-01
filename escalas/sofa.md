@@ -1,3 +1,7 @@
+---
+layout: default
+title: "SOFA (Sequential Organ Failure Assessment)"
+---
 # SOFA (Sequential Organ Failure Assessment)
 
 > 📖 **Fuentes:** Vincent JL, Moreno R, Takala J, et al. *The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure.* Intensive Care Med. 1996;22(7):707-710. · Singer M, Deutschman CS, Seymour CW, et al. *The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3).* JAMA. 2016;315(8):801-810. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer.
@@ -19,7 +23,7 @@ Sirve para:
 - **Pacientes adultos críticos** ingresados en UCI, con o sin infección.
 - **Pacientes con sospecha de infección** en los que hay que valorar disfunción orgánica (Sepsis-3).
 - Requiere **analítica** (gasometría, plaquetas, bilirrubina, creatinina) y **parámetros hemodinámicos y ventilatorios**.
-- **No es una herramienta de cribado** a pie de cama: para eso se usa el **qSOFA** fuera de la UCI.
+- **No es una herramienta de cribado** a pie de cama. Para identificar deterioro se debe usar el sistema validado localmente (p. ej., NEWS2 u otro); qSOFA puede aportar información pronóstica, pero no debe ser el cribado único.
 - No está diseñado para **población pediátrica** (existe el pSOFA) ni para pacientes no críticos.
 
 ## Cómo se puntúa
@@ -126,7 +130,7 @@ Es una de las escalas de gravedad más utilizadas en UCI y se ha validado en mú
 
 ## Limitaciones y errores frecuentes
 
-- No es una escala de **cribado** a pie de cama: requiere analítica y parámetros que no siempre están disponibles de inmediato (para cribado rápido usar **qSOFA**, `qsofa.md`).
+- No es una escala de **cribado** a pie de cama: requiere analítica y parámetros que no siempre están disponibles de inmediato. Usa el sistema local de alerta y respuesta; qSOFA no es un sustituto de cribado validado (`qsofa.md`).
 - Puede verse alterado por **tratamientos instaurados** (vasoactivos, ventilación, diálisis) que modifican la puntuación sin cambiar la fisiología de base.
 - En pacientes con **insuficiencia hepática o renal crónica** los valores basales pueden estar alterados y sobreestimar la disfunción aguda.
 - En pacientes **sedados o con bloqueo neuromuscular** el componente neurológico (Glasgow) sobreestima la disfunción.
@@ -154,7 +158,7 @@ Es una de las escalas de gravedad más utilizadas en UCI y se ha validado en mú
 
 ## Relación con otras escalas
 
-- **qSOFA:** cribado rápido de sepsis fuera de la UCI; no sustituye al SOFA.
+- **qSOFA:** puntuación de riesgo pronóstico; no es cribado diagnóstico ni sustituye al SOFA.
 - **Glasgow y FOUR:** fuente del componente neurológico del SOFA.
 - **Murray (LIS):** cuantifica específicamente la lesión pulmonar.
 - **Killip y TIMI:** escalas específicas del síndrome coronario agudo.
@@ -170,7 +174,9 @@ Es una de las escalas de gravedad más utilizadas en UCI y se ha validado en mú
 - La **sedación** sobreestima el componente neurológico.
 - Los tratamientos instaurados (vasoactivos, diálisis, ventilación) modifican la puntuación.
 - Es un **predictor poblacional**, no una herramienta individual de decisión.
+
 ---
+
 ## Evidencia y referencias
 
 - **Vincent JL, et al.** The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure. *Intensive Care Med* 1996;22:707-710.
@@ -180,6 +186,7 @@ Es una de las escalas de gravedad más utilizadas en UCI y se ha validado en mú
 > SOFA describe disfunción orgánica; no es una herramienta de triaje ni de decisión aislada. Se asume una puntuación basal de 0 si no hay datos previos, lo que puede sobreestimar el cambio.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

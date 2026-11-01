@@ -1,3 +1,7 @@
+---
+layout: default
+title: "TRRC: modalidades (SCUF, CVVH, CVVHD y CVVHDF) — indicaciones, parámetros y cuidados"
+---
 # TRRC: modalidades (SCUF, CVVH, CVVHD y CVVHDF) — indicaciones, parámetros y cuidados
 
 > 📖 **Fuentes:** KDIGO. Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138 (dosis de efluente 20-25 mL/kg/h). · ADQI (Acute Dialysis Quality Initiative). Consensos sobre dosis y prescripción de TRRC (https://www.adqi.org). · NICE. Renal replacement therapy and conservative management. NG107, 2018 (https://www.nice.org.uk/guidance/ng107). · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Manuales de las máquinas de TRRC (Baxter Prismaflex, Fresenius multiFiltrate, Nikkiso Aquarius). · Sociedad Española de Enfermería Intensiva y Crítica (SEEIUC) (https://www.seeiuc.org).
@@ -165,7 +169,7 @@ Antes de iniciar o modificar una modalidad, comprobar y registrar:
 
 ---
 
-## 11. Evidencia y referencias
+## Evidencia y referencias
 
 - **KDIGO.** Clinical Practice Guideline for Acute Kidney Injury. *Kidney Int Suppl* 2012;2:1-138.
 - **STARRT-AKI Investigators.** Timing of initiation of renal-replacement therapy in acute kidney injury. *N Engl J Med* 2020;383:240-251.
@@ -177,7 +181,7 @@ Antes de iniciar o modificar una modalidad, comprobar y registrar:
 
 ---
 
-## 12. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

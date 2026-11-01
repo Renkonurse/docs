@@ -1,182 +1,59 @@
+---
+layout: default
+title: "Alarmas del ventilador: interpretación y actuación"
+---
 # Alarmas del ventilador: interpretación y actuación
 
-> 📖 **Fuentes:** AARC Clinical Practice Guideline: Management of Airway Alarms. *Respir Care* 2015. · ECRI Institute. *Top 10 Health Technology Hazards*. · Manuales de Dräger, Hamilton Medical y Getinge/Maquet. · Marino PL. *The ICU Book*. 4th ed. · Tobin MJ. *Principles and Practice of Mechanical Ventilation*. 3rd ed.
+> Referencia técnica consultada: HAMILTON-C6, software 2.0.x, Operator's Manual 624945/05, 31/01/2025, apartados 5.6.3, 5.7 y 9.4. https://www.hamilton-medical.com/dam/jcr:03a3fea1-08c1-408b-8052-ee0e2e56b6f8/HAMILTON-C6_ops-manual_v2.0.x_en_624945.05.2026-05-05-08-50-10.pdf. Mecánica/SDRA: ESICM 2023, doi:10.1007/s00134-023-07050-7. **No equivale a cotejo de todos los modelos Dräger/Hamilton/Getinge ni a manual operativo universal.**
 
-Las alarmas del ventilador son un **sistema de seguridad**, no un ruido que haya que silenciar. Su objetivo es avisar de un cambio en el paciente, en la vía aérea o en el equipo antes de que produzca daño. La regla de oro es siempre la misma: **primero el paciente, después el circuito y por último la máquina**.
+## 1. Paciente primero y rescate
+Valorar de inmediato respuesta, respiración/expansión, oxigenación, circulación, vía aérea y equipo. La alarma es un aviso, no un diagnóstico; la falta de alarma tampoco garantiza ventilación segura. Si hay deterioro o no puede mantenerse soporte efectivo, pedir ayuda y aplicar rescate según entrenamiento/protocolo, **sin completar antes la lista de comprobación**.
 
----
+## 2. Diez fichas de la app: interpretación y límites
+| Ficha | Qué comprobar e interpretar |
+|---|---|
+| **Presión pico alta** | Resistencia, distensibilidad, tos/esfuerzo, tubo, filtros y circuito. Aspirar solo con indicación; no repetir aspiración antes de pedir ayuda. Algunos equipos limitan inspiración al alcanzar presión: comprobar VT realmente entregado. |
+| **Meseta alta** | Medición válida sin flujo, condiciones de pausa, esfuerzo y fugas; integrar VT, PEEP total, pulmón y pared torácica. No equivale a pico ni existe como alarma independiente en todo modelo. |
+| **VT bajo** | Comparar inspirado/espirado, ventilación minuto, señal y paciente; puede deberse a fuga, límite de presión, mecánica, esfuerzo o sensor. No inferir una causa única del valor. |
+| **Apnea** | Comprobar respiración real y ciclos/intentos detectados. Revisar si el modo tiene respaldo, si está activo y qué entrega; detección, tiempos y respuesta dependen del equipo. |
+| **Fuga/desconexión** | Recorrer conexiones y valorar posición de tubo/cánula y cuff con técnica adecuada. No sobreinflar ni avanzar el tubo/reinsertar traqueostomía a ciegas para corregir una fuga. |
+| **Frecuencia alta** | Correlacionar respiración observada y curvas: puede ser taquipnea, doble disparo o autodisparo por fuga/agua/sensibilidad. No sedar automáticamente por el número. |
+| **SpO₂ baja** | Señal, pulso, perfusión y sensor en paralelo a clínica/ventilación. SpO₂ es estimación, no PaO₂ ni medida de CO₂; verificar con gasometría si procede, sin retrasar ayuda. |
+| **FiO₂ alta mantenida** | Necesidad creciente y tendencia gasométrica según objetivo. No reducir oxígeno a costa de hipoxemia ni iniciar reclutamiento de alta presión automáticamente. |
+| **Auto-PEEP** | Flujo espiratorio, tiempo espiratorio, obstrucción y condiciones de medición. No toda PEEP alta es intrínseca: considerar circuito/valva; ajustes y pausas por personal formado. |
+| **Suministro O₂/aire** | Estado clínico, fuente/conexiones y alternativa con autonomía suficiente. El fallo de un gas no produce idéntica respuesta en todos los ventiladores; no asumir FiO₂ o soporte conservados. |
 
-## 1. Principios de seguridad
+VT alto tampoco demuestra por sí solo hiperinsuflación dinámica: valorar objetivo protector, peso predicho, modo, esfuerzo y calidad de medición con el equipo.
 
-1. **Valorar al paciente antes de tocar el ventilador**: consciencia, esfuerzo respiratorio, color, SpO₂, frecuencia cardiaca y presión arterial.
-2. **No silenciar una alarma sin identificar la causa.** Si hay que silenciarla para explorar, hacerlo el tiempo mínimo y con el paciente a la vista.
-3. **Nunca desactivar de forma permanente** una alarma de presión, volumen, apnea u oxigenación.
-4. **Individualizar los límites** al inicio del turno y tras cada cambio de parámetros. Un límite demasiado amplio deja de proteger; uno demasiado estrecho genera fatiga de alarmas.
-5. **Registrar** la alarma, la causa, la actuación y la respuesta.
-6. **Ante un deterioro brusco, desconectar y ventilar con bolsa autoinflable** con oxígeno al 100 % mientras se busca la causa. Es la maniobra más segura si no se sabe si el problema es del paciente o del respirador.
+## 3. Límites de alarma y equipo concreto
+Confirmar modelo, versión, modo y configuración. No copiar límites o tiempos de otro ventilador; algunos ajustes de alarma afectan también a límites de entrega. No elevarlos, desactivarlos o ampliar retardos solo para evitar sonido. Mantener vigilancia durante cualquier pausa sonora autorizada y no dejar al paciente sin supervisión.
 
-> ⚠️ **Aviso:** En un paciente con traqueostomía o tubo endotraqueal, una alarma de presión alta que no cede tras aspirar obliga a descartar obstrucción, neumotórax o desplazamiento del tubo. No esperar a la siguiente gasometría.
+Las funciones automáticas o el respaldo de apnea no sustituyen verificar ventilación efectiva. Consultar el manual disponible del equipo y coordinar mantenimiento/biomedicina cuando hay fallo técnico, sin abandonar soporte clínico.
 
----
+## 4. Registro y relevo
+Documentar hora, mensaje literal, valores/límites y modo, situación del paciente, hallazgos, medidas, respuesta y a quién se avisó. Diferenciar causa confirmada de sospecha/no aclarada. Revisar alarmas, sensores, reserva y plan de contingencia en relevo/traslado.
 
-## 2. Clasificación de las alarmas
-
-| Grupo | Alarmas habituales | Qué vigila |
-|---|---|---|
-| **Presión** | Presión pico alta/baja, presión meseta alta | Resistencia de la vía aérea, compliance, fugas |
-| **Volumen** | Volumen corriente espirado bajo/alto, volumen minuto bajo/alto | Ventilación real administrada |
-| **Flujo** | Flujo inspiratorio bajo, flujo espiratorio prolongado | Obstrucción, fugas, auto-PEEP |
-| **Frecuencia** | Apnea, frecuencia alta/baja | Drive del paciente, sedación, fatiga |
-| **Oxigenación** | SpO₂ baja, FiO₂ alta | Hipoxemia, shunt, problema del sensor |
-| **Capnografía** | EtCO₂ bajo/alto, ausencia de onda | Ventilación, perfusión, desconexión |
-| **Técnicas** | Fallo de energía, batería, gas, sensor, válvula | Funcionamiento del equipo |
-
----
-
-## 3. Alarmas de presión
-
-### 3.1 Presión pico alta
-
-La presión pico refleja la **presión necesaria para vencer la resistencia de la vía aérea y la compliance del sistema respiratorio**. Sube cuando hay obstrucción, rigidez o un problema que impide el flujo.
-
-| Causa | Pista clínica | Actuación inmediata |
-|---|---|---|
-| **Secreciones espesas o tapón** | Roncus, aumento del trabajo, pico y meseta altos | Aspirar; valorar lavado con suero fisiológico si está indicado |
-| **Broncoespasmo** | Sibilancias, espiración prolongada, auto-PEEP | Broncodilatador según prescripción; valorar sedoanalgesia |
-| **Mordida del tubo** | Paciente agitado, dificultad para ventilar | Cánula de Guedel o relajación según protocolo; avisar |
-| **Acodadura o compresión del circuito** | Circuito doblado, paciente encima | Deshacer la acodadura; comprobar todo el recorrido |
-| **Agua condensada en el circuito** | Burbujeo, oscilaciones | Vaciar trampas, orientar tubos hacia abajo |
-| **Neumotórax** | Asimetría, desaturación, hipotensión, enfisema subcutáneo | Aviso urgente; preparar drenaje torácico |
-| **Edema pulmonar o SDRA** | Pico y meseta altos, hipoxemia | Ajustar PEEP y volumen según protocolo; avisar |
-| **Distensión abdominal** | Abdomen tenso, dificultad para ventilar | Sonda nasogástrica, valorar causa; avisar |
-| **Asincronía o doble disparo** | Esfuerzo contra el ventilador, picos irregulares | Valorar analgesia/sedación; revisar trigger y tiempos |
-| **PEEP o auto-PEEP elevados** | Espiración incompleta, atrapamiento | Aumentar tiempo espiratorio, tratar la causa |
-
-**Secuencia práctica:** comprobar al paciente → aspirar si procede → revisar circuito y tubo → comprobar cuff → valorar broncodilatador → avisar si no cede.
-
-### 3.2 Presión pico baja
-
-| Causa | Pista clínica | Actuación |
-|---|---|---|
-| **Desconexión** | Alarmas de volumen y apnea, paciente puede hablar | Reconectar y comprobar la ventilación |
-| **Fuga en el circuito** | Ruido, volumen espirado bajo | Revisar conexiones, humidificador y trampas |
-| **Fuga del cuff** | Fuga audible, volumen espirado bajo | Reinflar a 20-30 cmH₂O; si no se mantiene, avisar |
-| **Desplazamiento del tubo** | Cambio de voz, fuga, dificultad para ventilar | Comprobar fijación y posición; avisar |
-| **Fístula broncopleural** | Aire por el drenaje, fuga persistente | Avisar; valorar ventilación con presión limitada |
-
-### 3.3 Presión meseta alta
-
-La presión meseta se mide con una **pausa inspiratoria** y refleja la presión alveolar. Si la meseta es alta con pico normal, el problema es de **compliance** (pulmón, pared torácica o abdomen); si pico y meseta suben juntos, el problema es **resistivo** u obstructivo.
-
-- Objetivo habitual en ventilación protectora: **meseta ≤ 30 cmH₂O** y **presión de distensión (driving pressure) ≤ 15 cmH₂O**.
-- Causas: SDRA, edema, neumotórax, derrame, distensión abdominal, rigidez de pared.
-- Actuación: comprobar medida, revisar sedación y volumen, valorar PEEP, avisar.
+La pantalla conserva diez desplegables para consulta; no está conectada al ventilador ni es una alarma clínica real.
 
 ---
 
-## 4. Alarmas de volumen y frecuencia
+## Clasificación y comprobaciones complementarias
 
-### 4.1 Volumen corriente espirado bajo
+La guía ampliada agrupa avisos de presión, volumen, frecuencia/apnea, oxigenación, capnografía y fallos técnicos. El nombre, la disponibilidad y la prioridad de cada alarma dependen del equipo; esta clasificación no afirma que exista una alarma independiente para cada variable.
 
-- **Fuga**: circuito, cuff, tubo, drenaje torácico.
-- **Obstrucción**: secreciones, acodadura, broncoespasmo.
-- **Ventilación insuficiente**: sedación profunda, fatiga, apnea.
-- Actuación: comparar VT programado y espirado; si la diferencia es > 10-15 %, buscar fuga u obstrucción.
+### Capnografía
+- EtCO₂ bajo o pérdida de onda: comprobar al paciente, vía aérea, conexiones, sensor y perfusión. Una desconexión, fuga, alteración de ventilación o bajo gasto pueden contribuir; el valor aislado no identifica una causa única.
+- EtCO₂ alto: valorar ventilación efectiva, vía aérea, esfuerzo, producción de CO₂ y contexto clínico. No ajustar parámetros ni sedación automáticamente a partir del número.
+- Si hay sospecha de parada o ventilación ineficaz, activar ayuda y el algoritmo correspondiente sin retrasarlo para completar la revisión técnica.
 
-### 4.2 Volumen corriente alto
+### Preparación del rescate y prevención
+Revisar en cada turno fijación y posición externa del tubo/cánula, circuito, humidificación, sensores, fuentes de gases, alimentación y batería. Tener disponible el material de soporte alternativo indicado para el paciente y personal entrenado para utilizarlo.
 
-- **Sobredistensión** por volumen o presión excesivos.
-- **Auto-disparo** o trigger demasiado sensible.
-- **Compensación de fugas** activada.
-- Actuación: revisar límites, trigger, sedación y compliance; ajustar volumen al peso ideal.
-
-### 4.3 Apnea
-
-- **Sedación o analgesia profunda**, fatiga neuromuscular, lesión neurológica.
-- **Desconexión** o fallo del trigger.
-- **Prueba de apnea** en muerte encefálica (contexto controlado).
-- Actuación: comprobar al paciente, ventilar con bolsa si no respira, revisar circuito y sedación, avisar.
-
-### 4.4 Frecuencia alta
-
-- Dolor, ansiedad, fiebre, hipoxemia, acidosis, sepsis.
-- Auto-disparo, asincronía, trigger demasiado sensible.
-- Actuación: tratar la causa; valorar analgesia/sedación; revisar trigger y soporte.
+El recordatorio **DOPES** (desplazamiento, obstrucción, neumotórax, equipo y apilamiento de ciclos) organiza causas posibles de deterioro, pero no es un diagnóstico ni obliga a completar una secuencia antes de rescatar al paciente. La desconexión y ventilación manual no se presentan como maniobra universal: actuar según situación, entrenamiento y protocolo.
 
 ---
 
-## 5. Alarmas de oxigenación y capnografía
-
-### 5.1 SpO₂ baja
-
-1. Comprobar la onda de pulso y la perfusión del dedo (sensor frío, hipotensión, movimiento).
-2. Valorar al paciente: esfuerzo, secreciones, auscultación, simetría.
-3. Comprobar FiO₂, PEEP, circuito y tubo.
-4. Aspirar si hay secreciones; valorar reclutamiento según protocolo.
-5. Avisar si no mejora o si hay hipotensión, bradicardia o deterioro de consciencia.
-
-### 5.2 EtCO₂ bajo
-
-- **Desconexión** o fuga (la causa más frecuente y urgente).
-- Hiperventilación, bajo gasto cardiaco, parada circulatoria.
-- Actuación: comprobar circuito y paciente; si hay parada, iniciar RCP.
-
-### 5.3 EtCO₂ alto
-
-- Hipoventilación, obstrucción, fatiga, sedación.
-- Fiebre, sepsis, hipermetabolismo, hipertermia maligna.
-- Actuación: comprobar permeabilidad de la vía aérea, ventilación y hemodinámica; avisar.
-
----
-
-## 6. Asincronía paciente-ventilador
-
-| Tipo | Qué se ve | Actuación |
-|---|---|---|
-| **Trigger inefectivo** | Esfuerzo sin ciclo, caída de presión no detectada | Bajar el trigger, reducir auto-PEEP, valorar soporte |
-| **Doble disparo** | Dos ciclos seguidos, VT alto | Aumentar tiempo inspiratorio o sedación; revisar demanda |
-| **Lucha por flujo** | Paciente “chupa” durante la inspiración | Aumentar flujo inspiratorio o usar rampa adecuada |
-| **Ciclado precoz/tardío** | El paciente espira antes o sigue inspirando | Ajustar criterio de ciclado (porcentaje de flujo) |
-| **Auto-disparo** | Ciclos sin esfuerzo, FR alta | Revisar trigger, fugas, latido cardiaco, secreciones |
-
-La asincronía mantenida aumenta el trabajo respiratorio, el riesgo de auto-PEEP y la duración de la ventilación. No se resuelve solo subiendo la sedación: hay que identificar el mecanismo.
-
----
-
-## 7. Auto-PEEP (PEEP intrínseco)
-
-- **Qué es:** presión alveolar positiva al final de la espiración por vaciamiento incompleto.
-- **Cómo se detecta:** flujo espiratorio que no llega a cero antes del siguiente ciclo; en ventilación controlada, pausa espiratoria.
-- **Consecuencias:** más presión intratorácica, hipotensión, barotrauma, mayor trabajo respiratorio.
-- **Actuación:** tratar la obstrucción, aumentar el tiempo espiratorio, reducir la frecuencia, valorar PEEP externa, optimizar sedación y analgesia.
-
----
-
-## 8. Cuidados de enfermería y prevención
-
-- Comprobar **fijación del tubo** y presión del cuff (**20-30 cmH₂O**) al inicio del turno y tras cada movilización.
-- Revisar el **circuito completo** en cada turno: conexiones, trampas de agua, humidificador y válvulas.
-- Mantener el **humidificador** con agua estéril y sin exceso.
-- Aspirar secreciones con técnica estéril y solo cuando sea necesario.
-- Individualizar los límites de alarma y documentarlos.
-- Vigilar la **sincronía**, la tendencia de la SpO₂, el EtCO₂ y la hemodinámica.
-- Ante un deterioro brusco: **DOPES** (Displacement, Obstruction, Pneumothorax, Equipment, Stacked breaths).
-- Preparar el material de emergencia: bolsa autoinflable, mascarilla, oxígeno, aspiración, tubo de repuesto y cánula de Guedel.
-
----
-
-## 9. Criterios de aviso inmediato
-
-- Desaturación que no corrige con FiO₂ al 100 % o Ventilación manual.
-- Hipotensión, bradicardia o deterioro de consciencia.
-- Sospecha de neumotórax o de obstrucción completa de la vía aérea.
-- Presión pico > 40 cmH₂O o meseta > 30 cmH₂O que no cede.
-- Apnea sin recuperación espontánea.
-- Fuga de aire que no se controla o desplazamiento del tubo.
-
----
-
-## 10. Evidencia y referencias
+## Evidencia y referencias
 
 - **AARC.** Clinical Practice Guideline: Management of Airway Alarms. *Respiratory Care* 2015.
 - **ECRI Institute.** Top 10 Health Technology Hazards (ediciones sucesivas): las alarmas de ventilador figuran entre los riesgos evitables.
@@ -189,7 +66,7 @@ La asincronía mantenida aumenta el trabajo respiratorio, el riesgo de auto-PEEP
 
 ---
 
-## 11. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

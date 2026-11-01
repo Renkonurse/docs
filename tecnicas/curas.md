@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Curas de heridas y UPP"
+---
 # Curas de heridas y UPP
 
 > 📖 **Fuentes:** NPIAP/EPUAP/PPPIA. *Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline*. 2019. · GNEAUPP. *Guía de práctica clínica para la prevención y tratamiento de las UPP*. · NICE: https://www.nice.org.uk
@@ -232,7 +236,7 @@ Documento técnico completo de las **curas de heridas y úlceras por presión (U
 - **Herida oncológica o fúngica** → oncología / cuidados paliativos.
 - **Dehiscencia con evisceración** → **quirófano urgente**.
 
-> También se detallan en [`protocolos/heridas-derivar.md`](../protocolos/heridas-derivar.md).
+> También se detallan en [`protocolos/heridas-derivar.md`](../protocolos/heridas-derivar.html).
 
 ---
 
@@ -399,7 +403,11 @@ Marco de referencia **basado en la evidencia** para la cura de heridas (Schultz 
 
 **Regla práctica**: en cada cura valora las 4 letras y actúa sobre la que esté alterada. Si la herida no progresa en 2-4 semanas, revisa T, I, M y E antes de cambiar de producto.
 
-## 16. Evidencia y referencias
+> 📖 **Fuentes:** Schultz GS, et al. *Wound bed preparation: a systematic approach to wound management*. Wound Repair Regen 2003;11(Suppl 1):S1-S28. · NPIAP/EPUAP/PPPIA. *Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline*. 2019. · GNEAUPP. · NICE: https://www.nice.org.uk
+
+---
+
+## Evidencia y referencias
 
 - **Schultz GS, et al.** Wound bed preparation: a systematic approach to wound management. *Wound Repair Regen* 2003;11(Suppl 1):S1-S28.
 - **NPIAP/EPUAP/PPPIA.** Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline. 2019.
@@ -411,7 +419,7 @@ Marco de referencia **basado en la evidencia** para la cura de heridas (Schultz 
 
 ---
 
-## 17. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

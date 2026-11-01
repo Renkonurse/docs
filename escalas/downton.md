@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Escala de Downton (riesgo de caídas en el paciente hospitalizado)"
+---
 # Escala de Downton (riesgo de caídas en el paciente hospitalizado)
 
 > 📖 **Fuentes:** Downton JH. *Falls in the elderly.* 1993 (origen del índice de riesgo de caídas de Downton). · Nyberg L, Gustafson Y. *Using the Downton index to predict those prone to falls in stroke rehabilitation.* Stroke. 1996;27(10):1821-1824. · MSD Manual Professional: https://www.msdmanuals.com/professional
@@ -149,7 +153,9 @@ Su principal limitación psicométrica es la **especificidad limitada** (clasifi
 - No recoge factores del **entorno** ni los dispositivos.
 - Observar la **deambulación** en lugar de inferirla.
 - Complementar con la valoración clínica y del entorno.
+
 ---
+
 ## Evidencia y referencias
 
 - **Downton JH.** *Falls in the elderly*. London: Edward Arnold; 1993.
@@ -159,6 +165,7 @@ Su principal limitación psicométrica es la **especificidad limitada** (clasifi
 > La escala tiene una precisión moderada; no sustituye la valoración multifactorial ni las medidas ambientales. Reevaluar tras cada caída y al cambiar de unidad.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

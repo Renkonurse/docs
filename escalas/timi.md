@@ -1,3 +1,7 @@
+---
+layout: default
+title: "TIMI Risk Score (síndrome coronario agudo sin elevación del ST · UA/NSTEMI)"
+---
 # TIMI Risk Score (síndrome coronario agudo sin elevación del ST · UA/NSTEMI)
 
 > 📖 **Fuentes:** Antman EM, Cohen M, Bernink PJLM, et al. *The TIMI risk score for unstable angina/non-ST elevation MI: a method for prognostication and therapeutic decision making.* JAMA. 2000;284(7):835-842. · SEEIUC: https://www.seeiuc.org
@@ -118,7 +122,9 @@ Su utilidad para **identificar a los pacientes que más se benefician de una est
 - **No es aplicable al STEMI** (tiene su propio score).
 - No mide el **riesgo hemorrágico**.
 - Complementa a **Killip** y a la valoración clínica.
+
 ---
+
 ## Evidencia y referencias
 
 - **Antman EM, et al.** The TIMI risk score for unstable angina/non-ST elevation MI. *JAMA* 2000;284:835-842.
@@ -128,6 +134,7 @@ Su utilidad para **identificar a los pacientes que más se benefician de una est
 > El TIMI clásico se aplica a UA/NSTEMI; no es el mismo que el TIMI de STEMI. Complementa a Killip y a la valoración hemodinámica.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

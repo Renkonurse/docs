@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Sondaje vesical"
+---
 # Sondaje vesical
 
 > 📖 **Fuentes:** Loveday HP, et al. epic3: National Evidence-Based Guidelines for Preventing HCAI. *J Hosp Infect* 2014. · NICE: https://www.nice.org.uk · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
@@ -217,7 +221,11 @@ Documento técnico completo del **sondaje vesical** en el paciente crítico: ind
 - **No evaluar** la retirada precoz.
 - **No registrar** la diuresis ni las incidencias.
 
-## 14. Evidencia y referencias
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+
+---
+
+## Evidencia y referencias
 
 - **Gould CV, et al.** Guideline for Prevention of Catheter-Associated Urinary Tract Infections. CDC, 2009 (actualización 2019).
 - **Hooton TM, et al.** Diagnosis, prevention, and treatment of catheter-associated urinary tract infection in adults: 2009 international clinical practice guidelines. *Clin Infect Dis* 2010;50:625-663.
@@ -229,7 +237,7 @@ Documento técnico completo del **sondaje vesical** en el paciente crítico: ind
 
 ---
 
-## 15. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

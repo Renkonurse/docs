@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Escala de Murray (LIS · Lung Injury Score)"
+---
 # Escala de Murray (LIS · Lung Injury Score)
 
 > 📖 **Fuentes:** Murray JF, Matthay MA, Luce JM, Flick MR. *An expanded definition of the adult respiratory distress syndrome.* Am Rev Respir Dis. 1988;138(3):720-723. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer.
@@ -87,13 +91,15 @@ La app calcula el cociente a partir de la PaO₂ (`es_pao2_label`, mmHg) y la Fi
 
 ## Puntuación total e interpretación
 
-| LIS (suma/4) | Significado | Cadena en la app | Actuación de enfermería |
+| LIS (suma/4) | Lectura | Cadena en la app | Actuación de enfermería |
 |---|---|---|---|
-| 0 | Sin lesión pulmonar | `es_info_puntuacion_0` · (`es_sin_lesion_pulmonar`) | Ventilación protectora según indicación; vigilancia habitual |
-| 0,1 - 2,5 | SDRA leve | `es_info_puntuacion_leve` · (`es_lesion_pulmonar_leve`) | Mantener ventilación protectora, vigilar oxigenación y evolución |
-| > 2,5 | SDRA moderado-grave | `es_info_puntuacion_moderada_grave` · (`es_lesion_pulmonar_grave`) | Ventilación protectora estricta (volumen tidal bajo, limitación de presión, PEEP óptima), valorar pronación y otras medidas; comunicar al equipo |
+| 0 | Sin lesión pulmonar | `es_sin_lesion_pulmonar` | Ventilación protectora según indicación; vigilancia habitual |
+| 0,1 – 2,5 | Lesión leve-moderada | `es_lesion_pulmonar_leve` | Mantener ventilación protectora, vigilar oxigenación y evolución |
+| > 2,5 | Lesión grave | `es_lesion_pulmonar_grave` | Ventilación protectora, control de la causa y vigilancia estrecha; valorar con el equipo pronación y otras medidas |
 
-Un LIS **> 2,5** identifica al paciente con **lesión pulmonar grave**: requiere ventilación protectora (volumen tidal bajo, limitación de presión, PEEP óptima), control de la causa y vigilancia estrecha. La tendencia del LIS es útil para valorar la **respuesta al tratamiento** (pronación, PEEP, bloqueo neuromuscular en casos seleccionados).
+La app solo calcula el LIS cuando los **cuatro componentes** son válidos (`es_murray_interpretacion`). Si falta uno, no imputa cero ni estima el valor ausente: un LIS incompleto no es un LIS bajo.
+
+Un LIS **> 2,5** corresponde a lesión pulmonar grave en la descripción original. Orienta a revisar la ventilación protectora, el control de la causa y la vigilancia, pero no convierte por sí solo la pronación o el bloqueo neuromuscular en indicaciones automáticas: son decisiones clínicas. La tendencia del LIS es útil para valorar la respuesta al tratamiento.
 
 ## Validez
 
@@ -106,10 +112,11 @@ Con la publicación de la **definición de Berlín (2012)** y de las guías post
 - Los infiltrados se valoran de forma **subjetiva** en la radiografía, lo que introduce variabilidad entre observadores.
 - La **compliance estática** requiere que el paciente esté en ventilación mecánica controlada y sin esfuerzo espontáneo para ser fiable.
 - No sustituye a los **criterios de Berlín** para la clasificación del SDRA ni a la valoración clínica global.
-- En el paciente **no intubado** (CNAF, ventilación no invasiva) algunos componentes pueden no ser medibles.
+- En el paciente **no intubado** (CNAF, ventilación no invasiva) algunos componentes pueden no ser medibles y el índice no debe completarse por inferencia.
 - La **PEEP y la compliance** pueden cambiar rápidamente; la puntuación es una fotografía del momento.
 - La PaO₂/FiO₂ puede verse alterada por la altitud, la FiO₂ administrada y el tiempo de evolución.
 - No incorpora otros factores pronósticos (edad, comorbilidad, sepsis de origen).
+- Un LIS calculado con un componente estimado o imputado **no es comparable** con otro obtenido con los cuatro medidos.
 
 ## Ejemplo práctico resuelto
 
@@ -120,9 +127,9 @@ Con la publicación de la **definición de Berlín (2012)** y de las guías post
 - **PEEP:** 12 cmH₂O → **3**.
 - **Compliance estática:** 30 mL/cmH₂O → **3**.
 
-**Suma = 12; LIS = 12 / 4 = 3,0** → **SDRA moderado-grave (> 2,5)**.
+**Suma = 12; LIS = 12 / 4 = 3,0** → lesión pulmonar grave (> 2,5).
 
-**Actuación de enfermería:** registrar el LIS y los datos empleados (gasometría, FiO₂, PEEP, compliance, Rx), garantizar la ventilación protectora (volumen tidal 6 mL/kg de peso ideal, presión meseta < 30 cmH₂O, PEEP ajustada), vigilar la oxigenación y la hemodinámica, valorar con el equipo la pronación y la sedación/relajación si procede, y repetir la valoración cada 24 h para seguir la evolución.
+**Actuación de enfermería:** registrar el LIS y los datos empleados (gasometría, FiO₂, PEEP, compliance, Rx), mantener la ventilación protectora según indicación y protocolo, vigilar la oxigenación y la hemodinámica, comentar con el equipo la pronación y la sedación/relajación si procede, y repetir la valoración para seguir la evolución.
 
 ## Relación con otras escalas
 
@@ -136,13 +143,16 @@ Con la publicación de la **definición de Berlín (2012)** y de las guías post
 
 - Cuantifica la **gravedad del SDRA** con **4 componentes** de 0 a 4.
 - **LIS = suma / 4**, con resultado de **0 a 4**.
-- **0** sin lesión; **0,1-2,5** SDRA leve; **> 2,5** SDRA moderado-grave.
+- **0** sin lesión; **0,1-2,5** lesión leve-moderada; **> 2,5** lesión grave.
+- Solo se calcula con los **cuatro componentes** válidos; no se imputan ausencias.
 - Requiere **gasometría, radiografía, PEEP y compliance estática** del mismo momento.
 - La **compliance** debe medirse en ventilación controlada sin esfuerzo espontáneo.
 - Los infiltrados se valoran por **cuadrantes** y con variabilidad interobservador.
 - Es una medida de **gravedad y seguimiento**, no un criterio diagnóstico aislado.
 - Repetir cada 24 h para valorar la **respuesta al tratamiento**.
+
 ---
+
 ## Evidencia y referencias
 
 - **Murray JF, et al.** An expanded definition of the adult respiratory distress syndrome. *Am Rev Respir Dis* 1988;138:720-723.
@@ -152,6 +162,7 @@ Con la publicación de la **definición de Berlín (2012)** y de las guías post
 > El LIS de Murray es histórico; la definición vigente es la de Berlín (PaO₂/FiO₂ ≤ 300 con PEEP ≥ 5). No usar el LIS aislado para definir SDRA.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

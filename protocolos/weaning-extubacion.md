@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Destete (weaning) y extubación del paciente crítico"
+---
 # Destete (weaning) y extubación del paciente crítico
 
 > 📖 **Fuentes:** Schmidt GA, et al. ATS/ACCP/ESICM/SCCM. Liberation from mechanical ventilation. Chest 2017;152:1063-1072. · Difficult Airway Society. Extubation guidelines. Br J Anaesth 2012;108:357-362. · ARDS Definition Task Force. Berlin definition. JAMA 2012;307:2526-2533.

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Clasificación de Killip (infarto agudo de miocardio)"
+---
 # Clasificación de Killip (infarto agudo de miocardio)
 
 > 📖 **Fuentes:** Killip T, Kimball JT. *Treatment of myocardial infarction in a coronary care unit: a two year experience with 250 patients.* Am J Cardiol. 1967;20(4):457-464. · SEEIUC: https://www.seeiuc.org
@@ -119,7 +123,9 @@ Las cifras de mortalidad aproximada por clase que muestra la app proceden de est
 - **Clase III-IV**: activación inmediata del equipo y de los recursos de críticos.
 - Tiene **variabilidad interobservador** (sobre todo I-II).
 - Complementa al **TIMI** y a las escalas de gravedad general.
+
 ---
+
 ## Evidencia y referencias
 
 - **Killip T, Kimball JT.** Treatment of myocardial infarction in a coronary care unit: a two year experience with 250 patients. *Am J Cardiol* 1967;20:457-464.
@@ -129,6 +135,7 @@ Las cifras de mortalidad aproximada por clase que muestra la app proceden de est
 > La clasificación es bedside y tiene variabilidad interobservador; complementa al TIMI y a la valoración hemodinámica. No sustituye la estratificación moderna del SCA.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

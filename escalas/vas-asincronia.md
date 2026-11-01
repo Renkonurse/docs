@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Asincronía paciente-ventilador (VAS · índice de asincronía)"
+---
 # Asincronía paciente-ventilador (VAS · índice de asincronía)
 
 > 📖 **Fuentes:** Thille AW, Rodriguez P, Cabello B, Lellouche F, Brochard L. *Patient-ventilator asynchrony during assisted mechanical ventilation.* Intensive Care Med. 2006;32(10):1515-1522. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer.
@@ -131,7 +135,9 @@ La valoración de la asincronía requiere **interpretación experta de las curva
 - Antes de sedar más, **descartar dolor, hipoxia, secreciones, fugas y auto-PEEP**.
 - La asincronía mantenida **prolonga la ventilación mecánica** y empeora el confort.
 - Requiere **formación en lectura de curvas** y registro seriado.
+
 ---
+
 ## Evidencia y referencias
 
 - **Thille AW, et al.** Patient-ventilator asynchrony during assisted mechanical ventilation. *Intensive Care Med* 2006;32:1515-1522.
@@ -141,6 +147,7 @@ La valoración de la asincronía requiere **interpretación experta de las curva
 > El índice cuantifica ciclos asincrónicos; un valor > 10 % se considera relevante, pero la interpretación depende del tipo de asincronía y de la clínica. No sustituye la lectura de las curvas.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

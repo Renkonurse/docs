@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Bacteriemia Zero: prevención y cuidados del catéter venoso central"
+---
 # Bacteriemia Zero: prevención y cuidados del catéter venoso central
 
 > 📖 **Fuentes:** O'Grady NP, et al. CDC Guidelines for Prevention of Intravascular Catheter-Related Infections (base de Bacteriemia Zero). · Loveday HP, et al. epic3: National Evidence-Based Guidelines for Preventing HCAI. J Hosp Infect 2014. · SEEIUC: https://www.seeiuc.org

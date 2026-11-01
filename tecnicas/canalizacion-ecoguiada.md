@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Canalización ecoguiada de accesos vasculares"
+---
 # Canalización ecoguiada de accesos vasculares
 
-> 📖 **Fuentes:** Moureau N, et al. INS Infusion Therapy Standards of Practice. *J Infus Nurs*. · van Loon FHJ, et al. A-DIVA scale. *Crit Care* 2016;20:363. · NICE: https://www.nice.org.uk
+> 📖 **Fuentes:** CDC. Summary of Recommendations for Prevention of Intravascular Catheter-Related Infections: https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html · WHO. *Guidelines for the prevention of bloodstream infections and other infections associated with the use of intravascular catheters*. 2024 · van Loon FHJ, et al. A-DIVA scale. *Crit Care*. 2016;20:363.
 
 Documento técnico de la **canalización de accesos vasculares guiada por ecografía** (vías periféricas difíciles, catéter arterial, CVC y PICC). Recoge el contenido de la app (pantallas *Cuidados del acceso vascular* y escala *A-DIVA*) y lo completa con la práctica clínica establecida.
 
@@ -41,10 +45,10 @@ Documento técnico de la **canalización de accesos vasculares guiada por ecogra
 ---
 
 ## 4. Material necesario
-- **Ecógrafo** con **transductor lineal de alta frecuencia** (7-15 MHz) y **modo Doppler** (color/pulsado).
+- **Ecógrafo** con **transductor lineal de alta frecuencia** y Doppler cuando se requiera para identificar anatomía/flujo.
 - **Funda estéril para el transductor** y **gel estéril** (para técnicas con barrera estéril).
 - **Gel conductor** no estéril para valoración previa.
-- **Antiséptico**: **clorhexidina alcohólica al 2 %** (dejar secar unos 30 s).
+- **Antiséptico**: producto aprobado por protocolo (habitualmente clorhexidina alcohólica en la concentración indicada por la guía local); dejar secar completamente según fabricante. Si está contraindicada, emplear alternativa validada.
 - **Guantes estériles** y, en CVC/PICC, **barrera estéril máxima**: gorro, mascarilla, bata, paño estéril grande.
 - **Campo estéril**.
 - **Catéter/aguja** adecuado al objetivo:
@@ -89,7 +93,7 @@ Documento técnico de la **canalización de accesos vasculares guiada por ecogra
 
 ### 6.1. Valoración ecográfica previa
 1. **Explorar el vaso** en eje transversal (visión en "diana").
-2. **Diferenciar vena de arteria**: la **vena es compresible** con el transductor, la **arteria no**; usar **Doppler color/pulsado** para confirmar.
+2. **Diferenciar vena de arteria**: integrar compresibilidad, pulsatilidad, anatomía y Doppler cuando sea necesario; la compresibilidad aislada no excluye trombosis parcial ni identifica siempre el vaso de forma fiable.
 3. **Medir el diámetro** y la **profundidad** del vaso.
 4. **Descartar trombosis** (ausencia de compresibilidad, material ecogénico intraluminal).
 5. **Elegir el punto de punción** con el mejor trayecto y la mejor ventana.
@@ -100,7 +104,7 @@ Documento técnico de la **canalización de accesos vasculares guiada por ecogra
 3. **Técnica en eje corto (transversal, *out-of-plane*)** o **eje largo (longitudinal, *in-plane*)**:
    - **Eje corto**: más fácil de aprender y de corregir la dirección; requiere confirmar que la punta está dentro del vaso.
    - **Eje largo**: permite ver toda la aguja, útil en vasos profundos.
-4. **Aspirar suavemente** durante el avance para detectar el **reflujo** (sangre venosa oscura y sin pulso en la vena; sangre roja y pulsátil en la arteria).
+4. Avanzar bajo visualización ecográfica apropiada y confirmar posición intravascular por el método específico del dispositivo. **No identificar el vaso solo por color o pulsatilidad de la sangre**: shock, hipoxemia, iluminación y condiciones de flujo pueden alterar estos signos.
 5. **Confirmar la guía en el vaso** (si la técnica la utiliza) mediante visión ecográfica en dos planos.
 6. **Avanzar el catéter** sobre la guía o directamente según la técnica, y **retirar la guía**.
 7. **Conectar** el sistema correspondiente (llave, alargadera, sistema de presión arterial, etc.).
@@ -111,7 +115,7 @@ Documento técnico de la **canalización de accesos vasculares guiada por ecogra
 ### 6.3. Comprobaciones específicas por acceso
 - **Periférico**: reflujo, infusión sin resistencia, ausencia de extravasación; valorar la **flebitis** (escala Maddox).
 - **Arterial**: **curva de presión arterial** adecuada y concordante; comprobar la **perfusión distal** (pulsos, color, temperatura, relleno capilar); calibrar el sistema.
-- **CVC**: **confirmar la posición** (radiografía de tórax: punta en la **vena cava superior**, en la unión cavoauricular; descartar neumotórax); comprobar **reflujo en todas las luces**; fijar sin tracción.
+- **CVC**: confirmar posición de la punta y descartar complicaciones con el método validado para el acceso/dispositivo (ECG intracavitario, ecografía, radiografía u otro protocolo); comprobar luces y no usar para infusión hasta completar las verificaciones exigidas por el centro.
 - **PICC**: **confirmar la posición de la punta** (radiografía/ecografía); controlar el punto de inserción y la **medida del brazo**.
 
 ---
@@ -130,7 +134,7 @@ Documento técnico de la **canalización de accesos vasculares guiada por ecogra
 ## 8. Cuidados de enfermería
 - **Higiene de manos** antes y después de cualquier manipulación.
 - **Antisepsia con clorhexidina alcohólica al 2 %** (dejar secar unos 30 s).
-- **Apósito transparente semipermeable**: cambio cada **7 días** o antes si está **sucio, húmedo o despegado**.
+- **Apósito transparente semipermeable**: cambiar si está **sucio, húmedo o despegado**; los intervalos programados dependen del tipo de acceso y del protocolo (p. ej., CVC de corta duración: referencia CDC de 7 días para transparente; no extrapolar a todos los catéteres).
 - **Mantener el sistema cerrado**: llaves, conectores y tapones; **desinfectar los conectores** antes de cada uso ("scrub the hub").
 - **Revisar el punto de inserción cada turno**: enrojecimiento, dolor, supuración, hematoma.
 - **Retirada precoz** del catéter cuando ya no sea necesario.
@@ -200,7 +204,11 @@ Documento técnico de la **canalización de accesos vasculares guiada por ecogra
 - **No confirmar la posición** del CVC/PICC antes de su uso.
 - **No registrar** la técnica ni los intentos.
 
-## 13. Evidencia y referencias
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+
+---
+
+## Evidencia y referencias
 
 - **AIUM.** Practice Guideline for the Performance of Ultrasound-Guided Vascular Access. American Institute of Ultrasound in Medicine.
 - **Brass P, et al.** Ultrasound guidance versus anatomical landmarks for internal jugular vein catheterization. *Cochrane Database Syst Rev* 2015;1:CD006962.
@@ -212,7 +220,7 @@ Documento técnico de la **canalización de accesos vasculares guiada por ecogra
 
 ---
 
-## 14. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

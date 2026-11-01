@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Cálculo de perfusiones y dosis"
+---
 # Cálculo de perfusiones y dosis
 
 > 📖 **Fuentes:** Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · SEEIUC: https://www.seeiuc.org · MSD Manual Professional: https://www.msdmanuals.com/professional
@@ -171,7 +175,7 @@ Cada perfusión guarda **nombre, masa, volumen, diluyente, notas y rango clínic
 |---|---|
 | Confundir **µg y mg** (×1000) | Sobredosis o infradosificación grave |
 | Introducir la dosis «por minuto» cuando el campo es «por hora» | Error ×60 |
-| Usar el **peso real** en obesidad sin criterio | Sobredosis → ver [peso ideal](peso-ideal.md) |
+| Usar el **peso real** en obesidad sin criterio | Sobredosis → ver [peso ideal](peso-ideal.html) |
 | Mezclar fármacos **incompatibles** | Precipitación, pérdida de efecto |
 | No recalcular tras cambiar la dilución | Velocidad errónea |
 | **UI tratadas como mg** | Dosis biológica incorrecta |
@@ -195,12 +199,12 @@ Cada perfusión guarda **nombre, masa, volumen, diluyente, notas y rango clínic
 
 ## 9. Relación con otras escalas y parámetros
 
-- **[Conversor de unidades](conversor-unidades.md)**: masa, velocidad, concentración y peso.
-- **[Peso ideal](peso-ideal.md)**: elección del peso para la dosis.
-- **[Hemodinámica](hemodinamica.md)**: los vasoactivos calculados aquí se titulan según IC/RVS/PAM.
-- **[Nomograma de heparina](nomograma-heparina.md)**: perfusión de HNF con ajuste por TTPa.
-- **[Gasometría](gasometria.md)** y **[gasto urinario](gasto-urinario.md)**: monitorización de la respuesta.
-- **[Corrección de iones](correccion-iones.md)**: velocidades máximas de reposición.
+- **[Conversor de unidades](conversor-unidades.html)**: masa, velocidad, concentración y peso.
+- **[Peso ideal](peso-ideal.html)**: elección del peso para la dosis.
+- **[Hemodinámica](hemodinamica.html)**: los vasoactivos calculados aquí se titulan según IC/RVS/PAM.
+- **[Nomograma de heparina](nomograma-heparina.html)**: perfusión de HNF con ajuste por TTPa.
+- **[Gasometría](gasometria.html)** y **[gasto urinario](gasto-urinario.html)**: monitorización de la respuesta.
+- **[Corrección de iones](correccion-iones.html)**: velocidades máximas de reposición.
 
 ---
 

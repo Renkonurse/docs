@@ -1,3 +1,7 @@
+---
+layout: default
+title: "NEWS2 (National Early Warning Score 2)"
+---
 # NEWS2 (National Early Warning Score 2)
 
 > 📖 **Fuentes:** Royal College of Physicians. *National Early Warning Score (NEWS) 2: standardising the assessment of acute-illness severity in the NHS.* London: RCP; 2017. · SEEIUC: https://www.seeiuc.org
@@ -143,7 +147,7 @@ Su principal fortaleza es que se calcula con **constantes de monitorización rut
 
 ## Relación con otras escalas
 
-- **qSOFA:** cribado rápido de sepsis; ambos pueden aplicarse simultáneamente ante sospecha de infección.
+- **qSOFA:** puntuación pronóstica en sospecha de infección; no sustituye el sistema de cribado/respuesta ni debe usarse de forma aislada.
 - **SOFA:** cuantifica la disfunción orgánica; se usa cuando el paciente requiere valoración de gravedad.
 - **Glasgow y FOUR:** valoran la consciencia con más detalle cuando hay deterioro neurológico.
 - **RASS y CAM-ICU:** valoran sedación y delirium en el paciente crítico.
@@ -159,7 +163,9 @@ Su principal fortaleza es que se calcula con **constantes de monitorización rut
 - La **tendencia ascendente** es la señal de alarma más útil.
 - Determina la **frecuencia de monitorización y a quién avisar**.
 - No sustituye al **juicio clínico** ni a las escalas de gravedad específicas.
+
 ---
+
 ## Evidencia y referencias
 
 - **Royal College of Physicians.** National Early Warning Score (NEWS) 2: standardising the assessment of acute-illness severity in the NHS. 2017.
@@ -169,6 +175,7 @@ Su principal fortaleza es que se calcula con **constantes de monitorización rut
 > Es una herramienta de alerta y respuesta, no un diagnóstico. Un NEWS2 alto exige valoración clínica urgente y escalado; no sustituye la impresión del equipo.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

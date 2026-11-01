@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Escala A-DIVA (predicción de acceso venoso difícil)"
+---
 # Escala A-DIVA (predicción de acceso venoso difícil)
 
 > 📖 **Fuentes:** van Loon FHJ, Puijn LAPM, Houthoofd S, Bouwman ARA. *Development of the A-DIVA Scale: a clinical predictive scale to identify difficult intravenous access in adult patients based on clinical observations.* Medicine (Baltimore). 2016;95(16):e3428. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care.* 7th ed. Elsevier.
@@ -120,7 +124,9 @@ Su aplicación en otras poblaciones (médicos, UCI, pediatría) no está validad
 - Desarrollada en **pacientes quirúrgicos**: usarla como orientación.
 - Registrar factores, intentos, técnica y resultado.
 - No sustituye al juicio clínico ni a la valoración del acceso.
+
 ---
+
 ## Evidencia y referencias
 
 - **van Loon FHJ, et al.** Development of the A-DIVA Scale: a clinical predictive scale to identify difficult intravenous access in adult patients based on clinical observations. *Medicine (Baltimore)* 2016;95:e3428.
@@ -129,6 +135,7 @@ Su aplicación en otras poblaciones (médicos, UCI, pediatría) no está validad
 > La escala se desarrolló en pacientes quirúrgicos y no está validada en pediatría. Debe orientar la elección de personal experto y ecografía, no sustituir la valoración del acceso.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "mNUTRIC (NUTRIC modificado, sin IL-6)"
+---
 # mNUTRIC (NUTRIC modificado, sin IL-6)
 
 > 📖 **Fuentes:** Rahman A, Hasan RM, Agarwala R, Martin C, Day AG, Heyland DK. *Identifying critically-ill patients who will benefit most from nutritional therapy: further validation of the «modified NUTRIC» nutritional risk assessment tool.* Clin Nutr. 2016;35(1):158-162. · Heyland DK, Dhaliwal R, Jiang X, Day AG. *Identifying critically ill patients who benefit the most from nutrition therapy: the development and initial validation of a novel risk assessment tool (NUTRIC).* Crit Care Med. 2011;39(4):795-801. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer.
@@ -144,16 +148,19 @@ Es la versión **más utilizada en la práctica clínica** por no requerir una d
 - Evitar la **sobrealimentación** en pacientes de bajo riesgo.
 - No mide desnutrición previa: mide **riesgo modificable con la nutrición**.
 - Monitorizar **tolerancia** y **síndrome de realimentación**.
+
 ---
+
 ## Evidencia y referencias
 
 - **Heyland DK, et al.** Identifying critically ill patients who benefit the most from nutrition therapy: the development and initial validation of a novel risk assessment tool. *Crit Care* 2011;15:R268.
 - **Rahman A, et al.** Identifying critically-ill patients who will benefit most from nutritional therapy: further validation of the modified NUTRIC nutritional risk assessment tool. *Clin Nutr* 2016;35:158-162.
 - **Compher C, et al.** ASPEN guidelines for the provision of nutrition support therapy in the adult critically ill patient. *JPEN* 2022.
 
-> mNUTRIC no requiere IL-6, lo que facilita su uso. Un valor ≥ 5 identifica alto riesgo nutricional y puede orientar una nutrición más agresiva, sin olvidar la tolerancia.
+> mNUTRIC no requiere IL-6, lo que facilita su uso. Un valor ≥ 5 identifica alto riesgo nutricional; el aporte y su progresión se individualizan según situación clínica, tolerancia y riesgo de realimentación, no se intensifican automáticamente por la puntuación.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Ventilación protectora: PBW, volumen corriente, driving pressure y compliance"
+---
 # Ventilación protectora: PBW, volumen corriente, driving pressure y compliance
 
 > 📖 **Fuentes:** ARDSNet. Ventilation with lower tidal volumes. N Engl J Med 2000;342:1301-1308. · ARDS Definition Task Force. Berlin definition. JAMA 2012;307:2526-2533. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
@@ -175,13 +179,13 @@ VT a 8 mL/kg = 528 mL
 
 ## 8. Relación con otras escalas y parámetros
 
-- **[PAFI](pafi.md)** y **[gasometría](gasometria.md)**: la oxigenación y el diagnóstico de SDRA.
+- **[PAFI](pafi.html)** y **[gasometría](gasometria.html)**: la oxigenación y el diagnóstico de SDRA.
 - **[Criterios de Berlín]**: el VT protector forma parte del manejo del SDRA.
-- **[Murray](../escalas/murray.md)** y **[SOFA](../escalas/sofa.md)**: gravedad del daño pulmonar y disfunción orgánica.
-- **[ROX](../escalas/rox.md)**: índice de oxigenación en CNAF.
-- **[Weaning y extubación](../protocolos/weaning-extubacion.md)**: transición del soporte.
-- **[Alarmas respiratorias](../guias-cuidados/alarmas-respiratorias.md)**: presiones, VT y alarmas del ventilador.
-- **[Peso ideal](peso-ideal.md)**: el PBW es la fórmula de Devine expresada en centímetros.
+- **[Murray](../escalas/murray.html)** y **[SOFA](../escalas/sofa.html)**: gravedad del daño pulmonar y disfunción orgánica.
+- **[ROX](../escalas/rox.html)**: índice de oxigenación en CNAF.
+- **[Weaning y extubación](../protocolos/weaning-extubacion.html)**: transición del soporte.
+- **[Alarmas respiratorias](../guias-cuidados/alarmas-respiratorias.html)**: presiones, VT y alarmas del ventilador.
+- **[Peso ideal](peso-ideal.html)**: el PBW es la fórmula de Devine expresada en centímetros.
 
 ---
 

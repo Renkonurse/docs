@@ -1,6 +1,10 @@
+---
+layout: default
+title: "ECMO: cuidados de enfermería y actuación ante emergencias"
+---
 # ECMO: cuidados de enfermería y actuación ante emergencias
 
-> 📖 **Fuentes:** ELSO. General Guidelines for All ECLS Cases. 2021. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · AACN: https://www.aacn.org
+> Fuentes y alcance: ELSO VV adulto 2021, Tonna et al., doi:10.1097/MAT.0000000000001432, https://pmc.ncbi.nlm.nih.gov/articles/PMC8315725/ (consultados oxigenación/CO₂, recirculación, hemodinámica, fluidos y ventilación). ELSO VA adulto 2021, doi:10.1097/MAT.0000000000001510 (identificados extractos de monitorización, no cotejo íntegro). **No es un manual de emergencias de Cardiohelp ni de otros modelos.** Tarjetas operativas, límites y anticoagulación requieren documentos vigentes del sistema/centro.
 
 > 🖥️ **Correspondencia con la app:** `EcmoCuidadosActivity`, `EcmoComplicacionesActivity`, `EcmoCircuitoActivity` y `EcmoAnticoagulacionActivity` (`feature_cardio`).
 
@@ -9,8 +13,8 @@
 ## 1. Objetivo y ámbito
 
 - **Objetivo:** mantener la **asistencia extracorpórea segura y eficaz**, vigilar el circuito y las cánulas, prevenir las complicaciones (sangrado, trombosis, embolia, infección, isquemia distal) y detectar y resolver con rapidez las emergencias.
-- **Ámbito:** UCI de adultos y pediátrica con **ECMO venovenoso (VV)**, **venoarterial (VA)** o configuraciones híbridas, y con dispositivos de asistencia circulatoria asociados.
-- **Principio:** el circuito **no es oclusivo** y **no tiene relación fija entre rpm y flujo**: cuando se detiene la bomba, hay que **clampar siempre**.
+- Síntesis adulta: VV, VA y montajes híbridos tienen fisiología/riesgos diferentes; pediatría/neonatos no reciben automáticamente estas recomendaciones.
+- No hay relación fija rpm-flujo. Parada/reinicio, clamps y coordinación de gas/sangre dependen de circuito/evento; no convertir esta ficha en una secuencia universal. Una bomba centrífuga detenida puede permitir flujo inverso según gradientes/configuración.
 
 ## 2. Fundamento y evidencia
 
@@ -18,7 +22,7 @@
 - El **contacto de la sangre con superficies no biológicas** genera un estado de hipercoagulabilidad y riesgo trombótico, por lo que se precisa **anticoagulación** con vigilancia estrecha y control del riesgo hemorrágico.
 - Las complicaciones más frecuentes son **hemorrágicas** (sobre todo en las zonas de canulación), seguidas de las **mecánicas** (trombosis, rotura, fallo de membrana) y las **médicas** (trombopenia, infección, Arlequín, aturdimiento miocárdico).
 - La **supervivencia** depende de la selección del paciente, de la experiencia del equipo, del **mantenimiento del flujo** y del control de las complicaciones.
-- La **movilización precoz** en pacientes seleccionados con ECMO es segura y mejora los resultados funcionales.
+- Movilización puede considerarse en pacientes seleccionados con equipo entrenado, evaluación y rescate; no está libre de riesgos ni demuestra beneficio universal.
 
 ## 3. Valoración del paciente y del circuito
 
@@ -26,7 +30,7 @@
 
 - **Hemodinámica:** PA invasiva, FC, perfusión periférica, lactato, diuresis, saturación venosa.
 - **Respiratoria:** SpO₂, gasometría pre/post membrana, parámetros del respirador, auscultación.
-- **Neurológica:** nivel de consciencia, pupilas (dos veces por turno), BIS, signos de focalidad.
+- Neuro: componentes explorables, pupilas, focalidad y sedación con condiciones/frecuencia según riesgo. EEG procesado si indicado, no BIS universal 40–60. No esperar al próximo control ante cambio nuevo; despertar solo tras cribado de seguridad.
 - **Térmica y analítica:** temperatura central, hemograma, coagulación, plaquetas, fibrinógeno, iones, función renal y hepática, hemólisis.
 - **Accesos:** cánulas, líneas, puntos de canulación, perfusión distal.
 
@@ -40,12 +44,9 @@
 
 ### 3.3. Valores de presión orientativos
 
-| Presión | Normal | Máximo |
-|---|---|---|
-| **Presión de drenaje (P Ven)** | −10 a −70 | < −100 |
-| **Presión interna** | < 250 | 300 |
-| **Presión de retorno (P Art)** | < 200-250 | hasta 300 |
-| **Gradiente transmembrana (ΔP)** | < 50 | — |
+Identificar sensor, ubicación y referencia/cero; interpretar tendencia junto con flujo, rpm, viscosidad y paciente. **No copiar rangos «normal/máximo» sin modelo/oxigenador/cánulas.** ΔP ascendente no decide recambio por sí solo. «Retorno/arterial» puede ser nombre del segmento, incluso en VV, no presión arterial del paciente.
+
+Succión o drenaje muy negativo con caída de flujo requieren equipo/algoritmo y revisión de esfuerzo, posición, obstrucción, cánula o volumen. No subir rpm para vencer succión ni dar fluidos automáticamente; si se indican, reevaluar respuesta y congestión.
 
 ## 4. Cuidados paso a paso
 
@@ -72,17 +73,15 @@
 
 ### 4.3. Cuidados de las cánulas y curas
 
-- **Cura del punto de inserción cada 24-48 h** o antes si precisa, **siempre estéril**.
-- **Material:** gorro y mascarilla, guantes y batas estériles, paño fenestrado estéril, gasas y compresas estériles, Aquacel, apósito de espuma polimérica, clorhexidina 2 % sin alcohol, jeringa de 20 cc, pinzas estériles, esparadrapo hipoalergénico y tijera estéril.
-- **Técnica:** desinfección del punto de inserción y del catéter con clorhexidina al 2 % sin alcohol → paño fenestrado → limpieza cuidadosa con gasas → Aquacel → apósito de espuma polimérica → cubrir el catéter con compresas estériles.
-- **Fijación** con seda no absorbible, abrazaderas y parches; vigilar diariamente y extremar el cuidado en las movilizaciones.
+- Cura aséptica según sangrado, apósito, piel, fijación y procedimiento; antes si sucio/despegado o hay incidencia, sin intervalo único para todo sistema.
+- Producto antiséptico, material y compatibilidad con cánula/conector según fabricante y protocolo; no imponer una marca/capa o concentración universal ni poner productos incompatibles en plástico/circuito.
+- Durante cura, asegurar control de cánulas por personal suficiente y competente; fijación del sistema conforme al modelo/técnica. No retirar puntos o sujetadores sin plan de sustitución y supervisión.
 - **Manipulación mínima** del circuito; desinfectar las llaves y puertos antes de acceder.
 
 ### 4.4. Anticoagulación
 
-- **Anticoagulante de elección: heparina no fraccionada (HNF)** salvo contraindicación; control por **ACT** (objetivo habitual 160-180 s) o **TTPa ratio**.
-- **Inicio y dosis** según protocolo (p. ej., bolo de 100 UI/kg durante la canulación y perfusión de 2 mg/kg/día); controles cada 20 min al inicio, luego según estabilidad.
-- **Alternativas** si alergia o **TIH**: argatrobán (inicio 0,5 mcg/kg/min, TTPa ratio 1,5-3) o bivalirudina.
+- HNF u otra estrategia según trombosis/sangrado, indicación y protocolo. No se incluyen bolos, velocidades ni ACT universal: pruebas y objetivos dependen de anticoagulante, ensayo y fase; ACT, anti-Xa y TTPa no son intercambiables.
+- Alternativas ante TIH u otras indicaciones requieren decisión experta, función orgánica y pauta concreta. No ajustar por un valor aislado ni asumir que toda trombopenia es TIH; balancear hemorragia/trombosis y calidad de muestra.
 - **Vigilar plaquetas, fibrinógeno, AT III y signos de sangrado**; ver el documento *Anticoagulantes* de `docs/farmacos/`.
 
 ### 4.5. Atención al paciente durante la terapia
@@ -90,8 +89,8 @@
 - **Posición** en decúbito supino con el cabecero ligeramente incorporado; **cabecero 15-30°** para la movilización.
 - **Higiene bucal y ocular** según protocolo.
 - **Observar el contenido gástrico** (sangre).
-- **Pulsioxímetro en el miembro más distal** a la zona de retorno.
-- **Monitorización neurológica con BIS** (registro horario) y **pupilas dos veces por turno**.
+- Sitio de oximetría/muestra según configuración: en VA periférica femoral, radial derecha ayuda a detectar hipoxemia superior; buena muestra femoral/postmembrana no garantiza oxigenación cerebral/coronaria.
+- Neuro según apartado 3.1, sin pausa automática de sedación ni objetivo BIS universal.
 - **Miembro canulado elevado**.
 - **Aplicar los paquetes Zero** (Bacteriemia, Neumonía, ITU), nutrición enteral y prevención de UPP.
 
@@ -125,49 +124,36 @@
 
 ### 5.1. Algoritmo ante emergencia catastrófica
 
-1. **Clampar la línea de retorno** (o arterial) lo más cerca del paciente.
-2. **Bajar las rpm o parar la bomba**, según la situación.
-3. **Clampar la línea de drenaje.**
-4. **Optimizar los parámetros ventilatorios.**
-5. **Optimizar el soporte hemodinámico** con drogas vasoactivas.
-6. **Iniciar RCP** si es necesario.
-7. **CardioHelp® dispone de soporte de emergencia manual** para restablecer el flujo; si hay que cambiar el circuito completo, **avisar al equipo ECMO** (intensivista, enfermería ECMO, cirujano cardiaco, perfusionista) y asegurar **disponibilidad de sangre** (a la pérdida se suma la hemodilución del cebado).
+Activar equipo ECMO/emergencia y usar tarjeta **del evento y modelo** por personal formado. En paralelo valorar circulación/ventilación y proporcionar rescate según algoritmo aplicable; no completar una lista técnica antes de pedir ayuda. Orden de aislamiento, parada/reinicio, clamps y gas depende de localización, aire/sangrado y VV/VA. Accesorios manuales, recambio y recursos de sangre según plan, no una maniobra universal de consola.
 
 ### 5.2. Qué NO hacer
 
 - ✕ **NO manipular las líneas del circuito**, sobre todo la línea venosa paciente-bomba.
 - ✕ **NO ocluir la salida de gases** de la membrana.
-- ✕ **NO mantener el flujo de gas** si se suspende el flujo de sangre de la bomba.
-- ✕ **NO parar la bomba antes de clampar** la línea de retorno.
+- No cambiar gas, bomba, clamps o conexiones por inferencia de esta guía; ejecutar algoritmo específico. No reiniciar circulación ni anular una protección sin resolver/aislar el problema y comprobar seguridad con el equipo.
 
 ### 5.3. Parada cardiaca según el tipo de soporte
 
-- **ECMO VV (emergencia):** no hay soporte cardiaco; **iniciar RCP inmediatamente**, aumentar la FiO₂ del sistema y llamar al equipo ECMO para valorar **convertir a VA**.
-- **ECMO VA (urgencia):** existe soporte cardiaco; **aumentar el flujo**; la RCP puede no ser necesaria salvo que no se consiga un flujo adecuado.
-- **En ambos casos:** resolver la causa precipitante; la **desfibrilación** puede considerarse si es necesario.
+- VV no aporta soporte circulatorio directo: ante ausencia de circulación efectiva, algoritmo de parada sin demoras y coordinación ECMO; conversión de configuración es decisión especializada, no automática.
+- En VA, ausencia de pulso puede coexistir con perfusión por flujo continuo: valorar presión/flujo y signos de circulación con el equipo. Si no hay circulación efectiva, respuesta inmediata y algoritmo; no clasificar toda VA como menos urgente ni subir flujo indiscriminadamente.
+- Desfibrilación cuando esté indicada por ritmo, soporte y protocolo. Mantener precauciones específicas y tratar causa, sin retirar el soporte por comprobar una consola.
 
 ### 5.4. Flujo nulo y alarma de burbujas (CardioHelp®)
 
-- **Modo flujo nulo:** sistema de seguridad que evita el reflujo arterio-venoso; cuando se activa puede impedir modificar las rpm manualmente y hay que desactivarlo. Si el **sensor de flujo se coloca al revés**, la consola eleva las rpm al máximo (5000 rpm): colocar el sensor correctamente, desactivar el flujo 0 y bajar revoluciones.
-- **Alarma de burbujas:** si se detectan burbujas en la línea arterial, la bomba se para hasta resolver el problema. En **VA**, el paro de bomba puede provocar una fístula AV que deteriora la hemodinámica.
-- **Reinicio:** opción 1 (pulsar la casilla de burbuja arterial y **RESET**, después desactivar **CADENAS**); opción 2 (activar **GLOBAL OVERRIDE**, resetear y desactivar CADENAS y luego GLOBAL OVERRIDE).
-- **GLOBAL OVERRIDE** inhabilita intervenciones, alarmas acústicas y prevención de reflujo; se activa con la tecla **S** y se desactiva pulsando el símbolo activo.
+Mensajes, interbloqueos, sensores y respuesta a aire dependen de versión/configuración. Esta revisión **no ha cotejado el manual operativo de la consola** y retira una secuencia genérica de RESET/CADENAS/GLOBAL OVERRIDE que podría desactivar protecciones. Ante alarma, valorar paciente, activar equipo y tarjeta específica; no anular detección/reflujo ni reiniciar por el nombre de un botón. El ajuste correcto de sensor y comprobaciones requiere formación/manual disponible.
 
 ## 6. Complicaciones y cómo actuar
 
 ### 6.1. Mecánicas
 
-- **Rotura de tubuladuras:** clampar retorno → clampar línea venosa → parar bomba → Trendelenburg → ajustar ventilación y soporte cardiovascular → valorar reparación o recambio.
-- **Disfunción de la bomba:** descartar fallo de drenaje; si hay coágulos o desgaste, cambio de circuito; si la bomba está mal posicionada, reclampado y reinicio a 1500 rpm; fallo de motor → bomba manual.
-- **Fallo de membrana:** calcular la PaFi ECMO; lavado con gas si sale vapor de agua; si sale plasma, disfunción; si sale sangre, cambio inmediato. **PaO₂/FiO₂ del oxigenador > 150:** gasometrías cada 4 h y cambio si disminuye; **< 150: cambio de circuito**.
-- **Trombos:** adecuar la anticoagulación, valorar CID/TIH/déficit de AT III, tromboelastograma. **Coágulos > 5 mm o en aumento: cambio de circuito.**
-- **Alteración de presiones / succión:** revisar cánulas y circuito, volemia, descartar taponamiento o neumotórax; reducir rpm si *chattering*.
-- **Decanulación accidental:** control del sangrado, parar bomba, Trendelenburg, ajustar soporte, valorar recanulación y suspender heparina si se descarta.
-- **Embolia aérea:** localizar y solucionar la causa, evacuar burbujas, extraer aire con jeringa o cambiar circuito; si es moderada-severa, clampar retorno, parar bomba, Trendelenburg y ajustar soporte.
+- **Rotura, aire o decanulación:** emergencia, control de sangrado/aislamiento y soporte por tarjeta del sistema y personal entrenado. No reintroducir cánula, aspirar aire con jeringa ni imponer Trendelenburg desde esta síntesis.
+- **Bomba/drenaje:** revisar causa con equipo; rpm de reinicio y accesorios no universales. Fluidos solo si indicados con evaluación de respuesta/congestión.
+- **Membrana:** gases pre/post identificados, flujo, fracción de O₂, presiones/ΔP, hemólisis y paciente. No usar cociente aislado de 150 o coágulo de 5 mm como orden automática de recambio. Sangre/plasma en lado gas exige respuesta urgente específica; no lavado/purgado genérico.
+- **Trombos/presiones:** valorar tendencia, sensores, flujo/viscosidad, anticoagulación y repercusión; ajustes/recambio por equipo y fabricante, no por inspección aislada.
 
 ### 6.2. Médicas
 
-- **Sangrado** (la más frecuente): objetivos orientativos Hb > 8 g/dL, plaquetas > 80 000-100 000/mm³, fibrinógeno > 150 mg/dL, INR < 1,5; medidas hemostáticas locales y quirúrgicas; valorar reducir o suspender la heparina manteniendo flujo > 2 lpm.
+- **Sangrado:** valorar localización, gravedad, perfusión, pruebas y anticoagulante; hemostasia, transfusión y cambios de tratamiento según equipo/protocolo. No umbrales transfusionales o flujo mínimo universales ni suspensión indiscriminada de anticoagulación.
 - **Trombopenia:** consumo por trombos en la membrana; descartar fármacos, dilución e hipoxia; sospecha de **TIH** con la escala de las 4T; alternativa con inhibidores directos de la trombina.
 - **Infección:** ~20 % de los pacientes; curas locales, cultivos, marcadores y antibiótico según etiología.
 - **Síndrome del Arlequín (VA):** hipoxemia del territorio superior por circulación pulmonar significativa; monitorizar con pulsioximetría y valorar actuaciones sobre ventilación, flujo, canulación o descarga del VI.
@@ -204,15 +190,15 @@
 **Puntos clave**
 
 - **Ante cualquier duda sobre el circuito, avisar**: el tiempo es crítico.
-- **Clampar siempre** antes de parar la bomba.
-- **No ocluir la salida de gases** ni mantener el gas sin flujo de sangre.
+- Algoritmo de aislamiento/parada/reinicio y coordinación gas-sangre específico del modelo/evento; esta guía no lo sustituye.
+- No ocluir salida de gas ni anular protecciones por una instrucción genérica.
 - **Un enfermero dedicado a las cánulas** durante la movilización.
 - **El registro horario** de parámetros permite detectar tendencias.
 
 **Errores frecuentes**
 
 - Manipular la línea venosa paciente-bomba.
-- Parar la bomba sin clampar.
+- Ejecutar secuencia de clamps/parada/reinicio sin identificar evento/configuración ni aplicar manual/tarjeta del sistema.
 - Movilizar sin personal suficiente o sin control de las cánulas.
 - Descuidar la perfusión distal en VA.
 - No vigilar la hemólisis ni las plaquetas.

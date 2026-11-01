@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Monitorización hemodinámica avanzada"
+---
 # Monitorización hemodinámica avanzada
 
 > 📖 **Fuentes:** Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · SEEIUC: https://www.seeiuc.org · MSD Manual Professional: https://www.msdmanuals.com/professional
@@ -197,14 +201,14 @@ Recomendación: valorar carga de volumen y reevaluar tras la expansión
 
 ## 8. Relación con otras escalas y parámetros
 
-- **[Shock: tipos y manejo](../protocolos/shock-critico.md)**: clasificación y tratamiento del shock.
-- **[Código Sepsis](../protocolos/codigo-sepsis.md)**: el shock distributivo y la reanimación.
-- **[SOFA](../escalas/sofa.md)** y **[qSOFA](../escalas/qsofa.md)**: disfunción orgánica y cribado.
-- **[Gasto urinario](gasto-urinario.md)**: la diuresis como marcador de perfusión.
-- **[Gasometría](gasometria.md)**: lactato, PAFI y oxigenación.
-- **[PAFI](pafi.md)**: oxigenación en el paciente crítico.
-- **[Perfusiones](perfusiones.md)**: cálculo de dosis de vasoactivos.
-- **[Balance hídrico](balance-hidrico.md)**: la respuesta a volumen y el balance.
+- **[Shock: tipos y manejo](../protocolos/shock-critico.html)**: clasificación y tratamiento del shock.
+- **[Código Sepsis](../protocolos/codigo-sepsis.html)**: el shock distributivo y la reanimación.
+- **[SOFA](../escalas/sofa.html)** cuantifica disfunción orgánica; **[qSOFA](../escalas/qsofa.html)** aporta información pronóstica y no debe usarse como cribado único.
+- **[Gasto urinario](gasto-urinario.html)**: la diuresis como marcador de perfusión.
+- **[Gasometría](gasometria.html)**: lactato, PAFI y oxigenación.
+- **[PAFI](pafi.html)**: oxigenación en el paciente crítico.
+- **[Perfusiones](perfusiones.html)**: cálculo de dosis de vasoactivos.
+- **[Balance hídrico](balance-hidrico.html)**: la respuesta a volumen y el balance.
 
 ---
 

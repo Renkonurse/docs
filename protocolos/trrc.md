@@ -1,3 +1,7 @@
+---
+layout: default
+title: "TRRC (Terapias de Reemplazo Renal Continuo): indicaciones, modalidades y manejo"
+---
 # TRRC (Terapias de Reemplazo Renal Continuo): indicaciones, modalidades y manejo
 
 > 📖 **Fuentes:** KDIGO. Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
@@ -27,10 +31,10 @@ Unidad de Cuidados Intensivos (UCI) y paciente crítico **hemodinámicamente ine
 ### 2.2 Principios físicos de la depuración
 | Mecanismo | Fuerza motriz | Qué elimina | Modalidad |
 |---|---|---|---|
-| **Convección** | Gradiente de presión transmembrana | Agua y solutos de peso medio | CVVH, SCUF |
+| **Convección** | Gradiente de presión transmembrana | Agua y solutos pequeños y medianos, con aclaramiento dependiente del tamaño del soluto y de la membrana | CVVH, CVVHDF |
 | **Difusión** | Gradiente de concentración | Moléculas pequeñas (urea, K, creatinina) | CVVHD |
 | **Convección + difusión** | Ambas | Pequeñas y medianas | CVVHDF |
-| **Adsorción** | Afinidad de membrana | Citoquinas y endotoxinas | Oxiris |
+| **Adsorción** | Afinidad de membrana | Algunas sustancias según la membrana; la relevancia clínica depende del dispositivo y la evidencia disponible | Membranas adsorptivas (p. ej., Oxiris) |
 
 ### 2.3 Repercusión en el paciente crítico
 El circuito extracorpóreo **enfría** la sangre, activa la coagulación y la inflamación y moviliza volumen; exige anticoagulación, control térmico y vigilancia estrecha del balance y de los electrolitos.
@@ -50,7 +54,7 @@ El circuito extracorpóreo **enfría** la sangre, activa la coagulación y la in
 - **Acidosis metabólica grave** (pH < 7,2) no corregible con tratamiento médico.
 - **Uremia sintomática** (urea > 100-150 mg/dl, encefalopatía, pericarditis).
 - **Intoxicaciones dializables** y **rabdomiólisis**.
-- **Sepsis** con fallo renal y liberación de mediadores inflamatorios.
+- La sepsis por sí sola o la intención de retirar mediadores inflamatorios **no son indicaciones rutinarias** de TRRC; se inicia por indicaciones renales/metabólicas o de control de volumen, integradas con el contexto clínico.
 - **Insuficiencia cardíaca** o sobrecarga sin necesidad de depurar solutos (candidata a SCUF).
 
 > ⚠️ **Aviso:** Antes de iniciar, revisar la prescripción, el estado del catéter y la coagulación del paciente.
@@ -82,7 +86,7 @@ Presión arterial, frecuencia cardíaca, saturación, perfusión periférica, te
 ## 5. Actuación PASO A PASO
 
 ### 5.1 Componentes del circuito
-- **Filtro de hemofiltración:** deja pasar agua y solutos pequeños y retiene células y proteínas. Color **rojo brillante = normal**; color **vino oscuro o negro = coagulación**.
+- **Filtro de hemofiltración:** permite el paso de agua y solutos según las características de la membrana y retiene células y la mayoría de las proteínas. El color de la sangre **no permite diagnosticar por sí solo** coagulación del filtro: valorar presiones, alarmas, aspecto del circuito y rendimiento, siguiendo el manual del monitor.
 - **Línea arterial (roja):** paciente → bomba → filtro.
 - **Línea venosa (azul):** filtro → cámara venosa → paciente.
 - **Línea de efluente (amarilla):** filtro → bolsa de desecho; más líneas de reposición y dializado según modalidad.
@@ -151,10 +155,10 @@ El cebado es el conjunto de maniobras que llenan el circuito extracorpóreo con 
 ### 5.5 Modalidades
 | Modalidad | Qué es | Cómo funciona | Indicaciones | Ventajas | Inconvenientes | Cuidados |
 |---|---|---|---|---|---|---|
-| **CVVH** (hemofiltración) | Terapia convectiva: gran volumen de efluente y reposición, sin dializado | La presión transmembrana arrastra agua y solutos medios; la reposición ajusta la UF neta | Sobrecarga hídrica, sepsis, hiperpotasemia y LRA sin depurar moléculas pequeñas | Excelente control del balance y buena eliminación de moléculas medianas | Gran volumen de líquidos estériles; control estrecho de sodio y ácido-base | Vigilar fracción de filtración, peso de bolsas y electrolitos; evitar PTM altas |
+| **CVVH** (hemofiltración) | Terapia convectiva: ultrafiltración con líquido de reposición, sin dializado | El gradiente de presión produce convección; elimina solutos pequeños y medianos según membrana, flujo y predilución/postdilución | LRA que requiere TRRC; seleccionar modalidad según objetivos de depuración y balance | Permite ajustar convección y balance | Consumo de líquido de reposición; la predilución reduce el aclaramiento efectivo | Vigilar dosis prescrita/administrada, fracción de filtración, balance y electrolitos |
 | **CVVHD** (hemodiálisis) | Terapia difusiva: dializado por el compartimento externo | Flujo de dializado en contracorriente; apenas hay reposición | LRA con control de urea, potasio o acidosis sin eliminar moléculas medianas | Muy eficaz para moléculas pequeñas y buen control metabólico | Menor eliminación de mediadores; hiperglucemia si el dializado lleva glucosa | Comprobar flujo y composición del dializado, vigilar glucemia y sodio |
 | **CVVHDF** (hemodiafiltración) | Terapia mixta: convección + difusión en el mismo filtro | Se programan dializado y reposición; el aclaramiento suma ambos | LRA grave con sepsis; depurar a la vez moléculas pequeñas y medianas | Mayor capacidad depurativa; ajuste independiente de convección y difusión | Más compleja de programar, mayor consumo de líquidos y más riesgo de error | Verificar bolsas y etiquetas, balance horario y fracción de filtración |
-| **SCUF** (ultrafiltración lenta continua) | Terapia convectiva de bajo volumen: solo extrae líquido | La bomba de efluente extrae **100-300 ml/h** | Sobrecarga hídrica refractaria o insuficiencia cardíaca sin depurar solutos | Muy bien tolerada y sencilla; apenas modifica electrolitos ni urea | Depuración de solutos escasa; el filtro puede coagularse con flujo muy bajo | Vigilar coagulación del filtro y balance; no esperar corrección de uremia ni potasio |
+| **SCUF** (ultrafiltración lenta continua) | Técnica continua orientada principalmente a extraer líquido, con depuración de solutos mínima | La ultrafiltración neta se prescribe y ajusta según respuesta; no asumir un flujo fijo | Sobrecarga de volumen seleccionada cuando no se requiere depuración significativa de solutos | Permite retirar líquido de forma gradual | No es adecuada para corregir de forma sustancial hiperpotasemia, uremia o acidosis | Vigilar tolerancia hemodinámica y balance; seguir la prescripción y el manual del equipo |
 
 ### 5.6 Parámetros y rangos
 Rangos orientativos de referencia para adulto; los límites reales los fijan la prescripción y el protocolo de la unidad.
@@ -162,14 +166,14 @@ Rangos orientativos de referencia para adulto; los límites reales los fijan la 
 | Parámetro | Rango orientativo | Qué significa | Qué hacer si se sale |
 |---|---|---|---|
 | **Flujo sanguíneo (Qb)** | 150-250 ml/min | Volumen de sangre que pasa por el filtro por minuto; determina eficacia y presiones | Si la presión de acceso cae mucho, bajar Qb y revisar el catéter; si se tolera, subir Qb |
-| **Flujo de efluente (Qeff)** | 20-35 ml/kg/h de efluente total | Suma de UF neta, reposición y dializado | Revisar catéter y presiones antes de aumentar el flujo; no forzar la máquina |
+| **Flujo de efluente (Qeff)** | Según dosis prescrita; en adultos con LRA suele ajustarse para administrar 20-25 ml/kg/h | Suma de efluente de dializado/reposición y ultrafiltración; la dosis efectiva depende, entre otros factores, de predilución e interrupciones | Revisar prescripción, catéter y presiones; no cambiar el flujo sin indicación |
 | **UF neta** | Según prescripción; en fase aguda 0-100 ml/h o 5-10 % del peso | Líquido que realmente se retira al paciente por hora | Si hay hipotensión o taquicardia, reducir la UF neta y avisar; reevaluar el balance del día |
 | **Flujo de reposición** | Según modalidad: prefiltro o postfiltro | Líquido estéril que se devuelve para compensar la convección | Si sube la PTM, pasar parte a prefiltro (predilución); comprobar que las bolsas no se agoten |
 | **Flujo de dializado** | En CVVHD y CVVHDF, 1-2 l/h | Líquido que arrastra solutos por difusión | Comprobar que el dializado correcto está en la balanza correcta |
 | **Fracción de filtración (FF)** | Mantener < 20-25 % | Porcentaje de plasma que se filtra; si es alta, la sangre se concentra y coagula | Si supera el 25 %, aumentar Qb o reducir UF y efluente; avisar si no se corrige |
 | **Presiones del circuito** | Cada máquina define sus límites; vigilar la **tendencia** | Presión de acceso (P.A), prefiltro (P.P), venosa (P.V), efluente (P.E) y transmembrana (PTM) | Revisar líneas, pinzas y catéter antes de silenciar |
 
-> ⚠️ **Aviso:** Dosis recomendada de efluente **20-25 ml/kg/h** (KDIGO); el rango orientativo de la unidad es 20-35 ml/kg/h.
+> ⚠️ **Aviso:** En adultos con LRA, KDIGO recomienda una dosis **administrada** de efluente de 20-25 ml/kg/h. La dosis prescrita puede necesitar ser mayor para compensar interrupciones y predilución; individualizar por indicación, características del paciente y protocolo local. No interpretar 20-35 ml/kg/h como un objetivo universal.
 
 ### 5.7 Anticoagulación
 > ⚠️ **Aviso:** Las dosis son orientativas: la pauta final la fijan el protocolo de la unidad y el médico responsable.

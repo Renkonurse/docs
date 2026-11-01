@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Heridas en el paciente crítico: valoración y criterios de derivación"
+---
 # Heridas en el paciente crítico: valoración y criterios de derivación
 
 > 📖 **Fuentes:** NICE: https://www.nice.org.uk · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · SEEIUC: https://www.seeiuc.org

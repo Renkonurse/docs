@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Índice ROX (ROX Index · Respiratory Rate-Oxygenation Index)"
+---
 # Índice ROX (ROX Index · Respiratory Rate-Oxygenation Index)
 
-> 📖 **Fuentes:** Roca O, Messika J, Caralt B, et al. *Predicting success of high-flow nasal cannula in pneumonia patients with hypoxemic respiratory failure: the utility of the ROX index.* J Crit Care. 2016;35:200-205. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer.
+> 📖 **Fuentes:** Roca O, Messika J, Caralt B, et al. *Predicting success of high-flow nasal cannula in pneumonia patients with hypoxemic respiratory failure: the utility of the ROX index.* J Crit Care. 2016;35:200-205. · Roca O, Caralt B, Messika J, et al. *An index combining respiratory rate and oxygenation to predict outcome of nasal high-flow therapy.* Am J Respir Crit Care Med. 2019;199:1368-1376. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer.
 
 ## Qué mide y para qué sirve
 
@@ -35,7 +39,7 @@ Fórmula que muestra la app (`es_rox_formula`):
 
 > Nota de la app: `es_rox_fio2_fraction_note` recuerda que la FiO₂ se usa en fracción (0,21-1,0); por eso el campo se introduce en % y la app aplica la conversión.
 
-**Momento de medida** (`es_rox_calculation_note`): se calcula a las **2, 6 y 12 horas** del inicio de la CNAF. Un valor descendente sugiere deterioro respiratorio y posible necesidad de intubación.
+**Momento de medida**: se calcula a las **2, 6 y 12 horas** del inicio de la CNAF y ante cambios clínicos. Un valor descendente orienta a deterioro respiratorio, pero no decide por sí solo la intubación.
 
 ## Cómo explorar cada ítem (técnica)
 
@@ -49,19 +53,23 @@ Fórmula que muestra la app (`es_rox_formula`):
 
 ## Puntuación total e interpretación
 
-| ROX | Significado | Cadena en la app | Actuación de enfermería |
-|---|---|---|---|
-| **> 4,88** | Éxito probable · buena respuesta a CNAF | `es_exito_probable` · `es_rox_success_detail` (`es_rox_range_success`) | Mantener la CNAF, vigilar la evolución y repetir el índice según protocolo |
-| **3,85 - 4,88** | Zona intermedia · reevaluar en 2 h y valorar escalada | `es_rox_intermediate` · `es_rox_intermediate_detail` (`es_rox_range_intermediate`) | **Reevaluar en 2 horas**, vigilancia estrecha de FR, SpO₂, FiO₂ y trabajo respiratorio; avisar si empeora |
-| **< 3,85** | Fracaso probable · considerar intubación / escalada de soporte | `es_rox_failure` · `es_rox_failure_detail` (`es_rox_range_failure`) | **Signo de alarma**: comunicar al equipo médico y preparar la escalada de soporte (ventilación no invasiva o intubación) |
+La app muestra tres bandas de referencia (`es_rox_banda_superior`, `es_rox_banda_intermedia`, `es_rox_banda_inferior`). Son orientativas y no equivalen a una predicción individual.
 
-Un ROX **> 4,88** a las 2-12 h apoya el **mantenimiento de la CNAF**. Un ROX **entre 3,85 y 4,88** obliga a **reevaluar en 2 horas**. Un ROX **< 3,85** es un signo de **alarma**. La **tendencia** es más informativa que un valor aislado: debe registrarse la serie temporal (2, 6 y 12 h) para detectar el deterioro precozmente.
+| ROX | Lectura | Cadena en la app | Actuación de enfermería |
+|---|---|---|---|
+| **≥ 4,88** | Riesgo bajo en las cohortes publicadas | `es_rox_banda_superior` · `es_rox_success_detail` | Mantener la CNAF, vigilar la evolución y repetir el índice según protocolo |
+| **3,85 – 4,88** | Zona intermedia | `es_rox_banda_intermedia` · `es_rox_intermediate_detail` | Reevaluar en 2 h, vigilancia estrecha de FR, SpO₂, FiO₂ y trabajo respiratorio; avisar si empeora |
+| **< 3,85** | Mayor riesgo observado | `es_rox_banda_inferior` · `es_rox_failure_detail` | Comunicar al equipo y preparar la escalada de soporte según indicación clínica |
+
+Un ROX **≥ 4,88** apoya el mantenimiento de la CNAF. Un valor **entre 3,85 y 4,88** obliga a reevaluar. Un ROX **< 3,85** es un signo de alarma, no una indicación automática de intubación. La **tendencia** es más informativa que un valor aislado: debe registrarse la serie temporal para detectar el deterioro precozmente.
 
 ## Validez
 
-El índice ROX fue desarrollado y validado por **Roca et al. (J Crit Care 2016)** en **pacientes adultos con neumonía e insuficiencia respiratoria hipoxémica tratados con cánula nasal de alto flujo**. En el estudio original, un **ROX ≥ 4,88** medido a las 2, 6 y 12 horas del inicio de la CNAF se asoció a un **menor riesgo de intubación**, mientras que valores descendentes o inferiores a 3,85 se asociaron a mayor riesgo de fracaso del soporte.
+El índice ROX fue desarrollado por **Roca et al. (J Crit Care 2016)** en **pacientes adultos con neumonía e insuficiencia respiratoria hipoxémica tratados con cánula nasal de alto flujo**. En esa cohorte, un **ROX ≥ 4,88** medido a las 2, 6 y 12 horas se asoció a un **menor riesgo de intubación**, y los valores por debajo de 3,85 a mayor riesgo.
 
-El índice ha sido validado en cohortes posteriores y en distintos contextos de insuficiencia respiratoria hipoxémica, y es una de las herramientas más utilizadas para monitorizar la respuesta a la CNAF. No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque varían según la población, el momento de medición y el desenlace evaluado; para el detalle debe consultarse la publicación original.
+La validación multicéntrica posterior (**Roca et al., Am J Respir Crit Care Med 2019**) estableció puntos de corte distintos según el momento: **2,85 a las 2 h**, **3,47 a las 6 h** y **3,85 a las 12 h**, con 4,88 como referencia de riesgo bajo. Por eso la banda que muestra la app es una referencia y no un umbral único aplicable a cualquier hora.
+
+No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque varían según la población, el momento de medición y el desenlace evaluado; para el detalle debe consultarse la publicación original.
 
 ## Limitaciones y errores frecuentes
 
@@ -72,15 +80,16 @@ El índice ha sido validado en cohortes posteriores y en distintos contextos de 
 - El índice **no incorpora el trabajo respiratorio** ni el uso de musculatura accesoria, que son claves en la decisión de intubar.
 - En pacientes con **enfermedad pulmonar crónica con hipercapnia** la interpretación de la SpO₂ y de la FiO₂ puede requerir matices.
 - La medición aislada es poco informativa: lo importante es la **tendencia** y la respuesta al ajuste de la FiO₂ y del flujo.
+- Los puntos de corte **cambian con el momento de medición** (2,85 / 3,47 / 3,85 / 4,88); comparar valores de horas distintas como si fueran equivalentes induce a error.
 
 ## Ejemplo práctico resuelto
 
 **Caso.** Varón de 62 años con neumonía bilateral e insuficiencia respiratoria hipoxémica, iniciando cánula nasal de alto flujo a 50 L/min con FiO₂ 60 %.
 
 - A las 2 horas: **SpO₂ 94 %**, **FiO₂ 60 %**, **FR 28 rpm**.
-- **ROX = (94 / 0,60) / 28 = 156,7 / 28 = 5,6** → **> 4,88 → éxito probable**.
+- **ROX = (94 / 0,60) / 28 = 156,7 / 28 = 5,6** → por encima de 4,88.
 
-**Actuación de enfermería:** mantener la CNAF con la FiO₂ y el flujo programados, vigilar la tolerancia (FR, SpO₂, trabajo respiratorio, confort), **repetir el ROX a las 6 y 12 horas**, documentar la serie temporal y avisar al equipo si el índice desciende o aparece fatiga respiratoria. Si descendiera por debajo de 3,85, preparar la escalada de soporte.
+**Actuación de enfermería:** mantener la CNAF con la FiO₂ y el flujo programados, vigilar la tolerancia (FR, SpO₂, trabajo respiratorio, confort), **repetir el ROX a las 6 y 12 horas**, documentar la serie temporal y avisar al equipo si el índice desciende o aparece fatiga respiratoria. Si descendiera por debajo de 3,85 a las 12 h, preparar la escalada de soporte.
 
 ## Relación con otras escalas
 
@@ -101,8 +110,8 @@ El índice ha sido validado en cohortes posteriores y en distintos contextos de 
 ## Autoevaluación rápida
 
 1. ¿Qué mide y en quién se aplica? → La **respuesta a la cánula nasal de alto flujo** en el paciente con insuficiencia respiratoria hipoxémica.
-2. ¿Cuál es su rango y su punto de corte? → **> 4,88** éxito probable; **3,85-4,88** zona intermedia; **< 3,85** fracaso probable.
-3. ¿Qué hacer ante un resultado de riesgo (< 3,85)? → **Comunicar** al equipo y preparar la escalada de soporte (VNI o intubación).
+2. ¿Cuál es su rango y sus puntos de corte? → **≥ 4,88** riesgo bajo; **3,85-4,88** zona intermedia; **< 3,85** mayor riesgo. En la validación de 2019 los cortes fueron 2,85 / 3,47 / 3,85 según la hora.
+3. ¿Qué hacer ante un resultado de riesgo (< 3,85)? → **Comunicar** al equipo y preparar la escalada de soporte según indicación clínica.
 4. ¿Cuándo se mide? → A las **2, 6 y 12 horas** del inicio de la CNAF y ante cambios clínicos.
 
 ## Preguntas frecuentes
@@ -115,22 +124,25 @@ El índice ha sido validado en cohortes posteriores y en distintos contextos de 
 
 - Predice la **respuesta a la cánula nasal de alto flujo** en la insuficiencia respiratoria hipoxémica.
 - **ROX = (SpO₂ / FiO₂) / FR**, con la FiO₂ en fracción.
-- **> 4,88** éxito probable; **3,85-4,88** intermedio; **< 3,85** fracaso probable.
-- Se calcula a las **2, 6 y 12 horas** del inicio de la CNAF.
+- **≥ 4,88** riesgo bajo; **3,85-4,88** intermedio; **< 3,85** mayor riesgo.
+- Se calcula a las **2, 6 y 12 horas** del inicio de la CNAF; los cortes de la validación de 2019 son 2,85 / 3,47 / 3,85.
 - Registrar la **FiO₂ real** y una **SpO₂ fiable** en el mismo momento.
 - La **tendencia descendente** es un signo de alarma.
 - No incorpora el **trabajo respiratorio**: integrarlo con la valoración clínica.
 - Solo válido con **CNAF**, no con ventilación mecánica.
+
 ---
+
 ## Evidencia y referencias
 
 - **Roca O, et al.** Predicting success of high-flow nasal cannula in pneumonia patients with hypoxemic respiratory failure: the utility of the ROX index. *J Crit Care* 2016;35:200-205.
 - **Roca O, et al.** An index combining respiratory rate and oxygenation to predict outcome of nasal high-flow therapy. *Am J Respir Crit Care Med* 2019;199:1368-1376.
 - **Rochwerg B, et al.** The role for high-flow nasal cannula in adults: a clinical practice guideline. *Intensive Care Med* 2020.
 
-> ROX ≥ 4,88 sugiere éxito y < 3,85 alto riesgo de fracaso. Debe calcularse con la FiO₂ y la SpO₂ del momento, y repetirse a las 2, 6 y 12 horas.
+> Interpretar ROX con el momento de medida y la población validada: los cortes de fracaso de la validación de 2019 son 2,85 / 3,47 / 3,85 a las 2 / 6 / 12 horas. Registrar valores simultáneos y evolución; no retrasar ayuda ante deterioro clínico por esperar otra medición.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

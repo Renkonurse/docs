@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Vía aérea artificial: tubo orotraqueal y traqueostomía"
+---
 # Vía aérea artificial: tubo orotraqueal y traqueostomía
 
 > 📖 **Fuentes:** Difficult Airway Society. Extubation guidelines. *Br J Anaesth* 2012;108:357-362. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier. · Marino PL. *The ICU Book*. 4th ed. Wolters Kluwer.
@@ -18,17 +22,17 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 ## 2. Indicaciones
 
 ### 2.1. Indicaciones de intubación (vía aérea artificial)
-> ⚠️ **CRÍTICO:** con **Glasgow ≤ 8** la vía aérea **no está protegida**; hay que **intubar antes** de que aparezca la aspiración.
+> ⚠️ **Seguridad:** un Glasgow bajo aumenta la preocupación por la protección de la vía aérea, pero **no determina por sí solo una intubación automática**. Decide el equipo clínico según reflejos protectores, ventilación/oxigenación, evolución, causa reversible y riesgos; prepara soporte de vía aérea y escalado oportunos.
 
 - **Insuficiencia respiratoria grave** (hipoxémica o hipercápnica).
-- **Alteración del nivel de consciencia** con riesgo de aspiración (**Glasgow ≤ 8**).
+- **Incapacidad para proteger la vía aérea** o deterioro de consciencia con riesgo de aspiración, valorados en contexto (Glasgow como parte de la evaluación, no como único umbral).
 - **Obstrucción de la vía aérea superior**.
 - **Necesidad de ventilación mecánica**.
 - **Parada cardiorrespiratoria**.
 - **Protección de la vía aérea durante el traslado**.
 
 ### 2.2. Indicaciones de traqueostomía
-- **Ventilación mecánica prolongada**, habitualmente a partir de las **2-3 semanas**.
+- **Necesidad prevista de ventilación prolongada** o beneficios esperados para manejo de secreciones, confort y destete; el momento se individualiza según evolución y objetivos terapéuticos, no mediante un plazo fijo.
 - **Obstrucción de la vía aérea superior**.
 - **Protección de la vía aérea** en pacientes con **riesgo de aspiración**.
 - **Facilitar el destete** y la **higiene bronquial**.
@@ -105,7 +109,7 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 2. **Aspirar** secreciones si es necesario.
 3. **Administrar** la medicación indicada (inducción y relajación).
 4. **Colocar la cabeza** en posición de olfateo y **retirar la almohada** si procede.
-5. **Aplicar presión cricoidea** si lo indica el equipo (maniobra de Sellick).
+5. **Presión cricoidea:** no aplicarla de forma rutinaria. Si se decide por una indicación concreta, debe realizarla personal entrenado y liberarla si dificulta la ventilación, la laringoscopia o el paso del dispositivo.
 6. **Entregar el laringoscopio y el tubo** al profesional que intuba.
 7. **Retirar el fiador** y **comprobar el balón**.
 8. **Fijar el tubo** con cinta en espiga (técnica Ángel) o dispositivo comercial, con la marca visible.
@@ -117,8 +121,8 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 
 - **Capnografía**: **método de elección** para confirmar la intubación traqueal.
 - **Auscultación** de ambos campos pulmonares y del **epigastrio**.
-- **Condensación en el tubo** con cada ciclo respiratorio.
-- **Radiografía de tórax**: la punta debe quedar **3-5 cm por encima de la carina**.
+- La **capnografía con onda sostenida** es el método principal para confirmar y vigilar la posición traqueal; integrar con evaluación clínica y ventilación bilateral.
+- Confirmar la profundidad y descartar intubación selectiva con exploración clínica y, tras estabilización, imagen cuando esté indicada; la posición radiográfica depende de la anatomía y posición del cuello (no usar una distancia fija como criterio único).
 
 ### 6.3. Fijación del tubo
 - Fijar con **cinta** o con **dispositivo comercial de sujeción**.
@@ -131,8 +135,8 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 ### 6.4. Neumotaponamiento (CRÍTICO)
 > ⚠️ **CRÍTICO:** la presión del balón se mide **siempre con manómetro**, **nunca a ojo** ni palpando el balón.
 
-- La presión del balón debe mantenerse entre **20 y 30 cmH₂O**.
-- Medirla con **manómetro al menos una vez por turno** y **siempre tras movilizaciones, aspiración o cambios de posición**.
+- Mantener la presión del balón en el rango objetivo del protocolo (habitualmente **20-30 cmH₂O**) y usar la mínima presión que asegure el sellado adecuado.
+- Medir con **manómetro** según protocolo y tras cambios clínicos o del tubo; no asumir una frecuencia universal si el centro establece otra.
 - **NUNCA** estimar la presión **palpando el balón** con la jeringa.
 - **Presiones bajas**: riesgo de **microaspiraciones**.
 - **Presiones altas**: **isquemia de la mucosa traqueal, estenosis y fístulas**.
@@ -146,7 +150,7 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 - En el adulto los diámetros habituales son de **7 a 8 mm de diámetro interno**.
 - Lleva **marcas de referencia** para comprobar la **profundidad de inserción**.
 - El **fiador** se utiliza **solo durante la intubación** y se retira después.
-- Existen **tubos con aspiración subglótica** (un puerto de succión por encima del balón que drena las secreciones). Están **recomendados para prevenir la NAVM** si se prevé **ventilación > 48-72 h**.
+- Existen **tubos con aspiración subglótica** (puerto por encima del balón). Pueden considerarse cuando se prevé ventilación prolongada (p. ej., >48-72 h), conforme a disponibilidad, evaluación de riesgos y protocolo local; no sustituyen el resto de medidas preventivas.
 
 ### 7.2. Prevención de la extubación accidental
 - **Conocer el plan de sedación** del paciente.
@@ -165,7 +169,7 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 
 ### 8.2. Tipos de cánulas
 - **Con balón**: permite la **ventilación mecánica** y la **protección de la vía aérea**.
-- **Sin balón**: **no sella** la vía aérea, por lo que **no permite ventilar** ni protege de la aspiración.
+- **Sin balón**: no sella la vía aérea de forma fiable; la posibilidad de ventilación depende del dispositivo y del escenario. Ninguna cánula garantiza por sí sola protección frente a aspiración.
 - **Fenestrada**: permite el **paso del aire para la fonación**.
 - **Metálicas o de plástico**, según las necesidades del paciente.
 - De **distintos diámetros**: siempre debe existir una cánula **del mismo número** y otra **de menor tamaño** disponibles.
@@ -182,7 +186,7 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 - **Aspirar secreciones** solo si precisa, con técnica estéril.
 
 ### 8.4. Fijación
-> ⚠️ **CRÍTICO:** una **fijación deficiente** es la **primera causa de decanulación accidental**.
+> ⚠️ **Seguridad:** una fijación segura reduce desplazamientos y decanulación accidental; el riesgo depende también de la anatomía, el tipo de cánula y la situación clínica.
 
 - Las **cintas** deben quedar **tensas pero permitiendo el paso de uno o dos dedos**.
 - **Comprobar la fijación en cada turno** y tras movilizaciones, aspiraciones o cambios posturales.
@@ -196,11 +200,11 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 - **No cambiar la cánula en las primeras 24-48 horas** sin indicación médica: existe riesgo de **perder el trayecto del estoma**.
 
 ### 8.6. Confort y comunicación
-- El paciente **no puede hablar** mientras el balón está inflado.
+- Con el balón inflado el flujo espiratorio no suele pasar por la laringe y la fonación puede estar impedida; valorar alternativas con el equipo.
 - Facilitar **sistemas alternativos de comunicación**: pizarra, gestos, letras.
 - **Explicar cada procedimiento** antes de realizarlo.
 - Mantener la **boca húmeda y limpia**.
-- Valorar con el equipo la **cánula fenestrada** o el **desinflado del balón** para permitir la **fonación**.
+- Valorar válvula fonatoria, desinflado del balón o cánula fenestrada **solo tras comprobar permeabilidad de vía aérea superior, tolerancia y seguridad**, bajo indicación y supervisión del equipo; nunca colocar una válvula con el balón inflado.
 
 ---
 
@@ -260,12 +264,12 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 - **Deglución segura**, sin riesgo de aspiración.
 - **Secreciones escasas** que no precisan aspiraciones frecuentes.
 - **Buena oxigenación** sin ventilación mecánica.
-- **Tolerancia a la oclusión** de la cánula durante periodos progresivamente más largos.
+- Permeabilidad de la vía aérea superior y tolerancia a las pruebas que indique el protocolo (oclusión, válvula fonatoria u otras; no hay una única prueba universal).
 - **Nivel de consciencia adecuado**.
 
 ### 10.2. Proceso de decanulación
-- **Prueba de oclusión progresiva**: taponar la cánula con el **balón desinflado** durante **periodos crecientes**.
-- **Valorar la tolerancia**: respiración, saturación, voz y disnea.
+- El equipo establece un plan individual de pruebas; si se realiza oclusión, confirmar primero balón completamente desinflado y permeabilidad de vía aérea superior, y vigilar estrechamente. No iniciar ni prolongar ante dificultad respiratoria.
+- Valorar ventilación, oxigenación, tos, secreciones, deglución y capacidad de pedir ayuda; documentar tolerancia y criterios locales.
 - **Retirada de la cánula** por el equipo.
 - **Cubrir el estoma con gasa estéril** y vigilar el cierre: el estoma **cierra solo en días o semanas**.
 - **Enseñar al paciente** a protegerse el estoma al toser y a hablar.
@@ -291,8 +295,8 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 
 **Decanulación accidental:**
 1. **Pedir ayuda**.
-2. Intentar **recolocar la cánula** o introducir una **de menor tamaño** o un **tubo orotraqueal por el estoma**.
-3. Si no es posible, **tapar el estoma con gasa** y **ventilar con bolsa-válvula-mascarilla por la boca** mientras llega la ayuda.
+2. **No reinsertar a ciegas**, especialmente en un estoma reciente: puede crear una falsa vía. Seguir el algoritmo de emergencia del centro y las instrucciones del equipo de vía aérea; una recanulación solo por personal entrenado y con técnica/guía apropiada.
+3. Oxigenar por la cara y/o el estoma según la anatomía y el tipo de traqueostomía; no ocluir el estoma ni ventilar por una vía sin confirmar que sea permeable. Preparar soporte avanzado y vigilar continuamente.
 4. Vigilar la **saturación y el nivel de consciencia**.
 
 ### 10.5. Otras complicaciones a vigilar
@@ -305,7 +309,7 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 ---
 
 ## 11. Retirada / extubación
-- **Valorar los criterios de extubación**: causa resuelta, oxigenación adecuada, hemodinámica estable, nivel de consciencia, tos eficaz, secreciones manejables, prueba de ventilación espontánea superada.
+- Valorar preparación para extubación en conjunto: causa en mejoría, prueba de ventilación espontánea cuando esté indicada, oxigenación, estabilidad, estado neurológico, tos y secreciones; planificar estrategia y riesgo de reintubación. Considerar prueba de fuga del cuff solo en pacientes seleccionados según riesgo y protocolo.
 - **Preparar el material de reintubación** y el carro de vía aérea difícil.
 - **Aspirar** la orofaringe y el tubo antes de la extubación.
 - **Desinflar el balón** y **retirar el tubo** con movimiento suave y continuo, pidiendo al paciente que tosa.
@@ -333,7 +337,7 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 
 ### 13.1. Puntos clave
 - **Confirmar la posición** del tubo con **capnografía**.
-- **Cuff 20-30 cmH₂O** medido con **manómetro cada turno**.
+- Presión del cuff medida con manómetro según protocolo y tras cambios clínicos o del tubo.
 - **Fijación segura** con la marca visible.
 - **Aspiración solo si precisa**, con técnica estéril y **≤ 10-15 s**.
 - **Humidificar siempre**.
@@ -354,15 +358,19 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 
 ## 14. Documentos relacionados
 
-- [Aspiración de secreciones y humidificación de la vía aérea](aspiration.md)
-- [Complicaciones del tubo orotraqueal y de la traqueostomía](../protocolos/tubos-complicaciones.md)
-- [Decanulación de la traqueostomía en el paciente crítico](../protocolos/tubos-decanulacion.md)
-- [Drenaje torácico: cuidados de enfermería y manejo del sistema](drenaje-toracico.md)
-- [Destete (weaning) y extubación del paciente crítico](../protocolos/weaning-extubacion.md)
-- [Neumonía Zero: prevención de la NAVM](../protocolos/neumonia-zero.md)
-- [Modos ventilatorios](modos-ventilatorios.md)
+- [Aspiración de secreciones y humidificación de la vía aérea](aspiration.html)
+- [Complicaciones del tubo orotraqueal y de la traqueostomía](../protocolos/tubos-complicaciones.html)
+- [Decanulación de la traqueostomía en el paciente crítico](../protocolos/tubos-decanulacion.html)
+- [Drenaje torácico: cuidados de enfermería y manejo del sistema](drenaje-toracico.html)
+- [Destete (weaning) y extubación del paciente crítico](../protocolos/weaning-extubacion.html)
+- [Neumonía Zero: prevención de la NAVM](../protocolos/neumonia-zero.html)
+- [Modos ventilatorios](modos-ventilatorios.html)
 
-## 15. Evidencia y referencias
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+
+---
+
+## Evidencia y referencias
 
 - **Frerk C, et al.** Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. *Br J Anaesth* 2015;115:827-848.
 - **Apfelbaum JL, et al.** 2022 American Society of Anesthesiologists Practice Guidelines for Management of the Difficult Airway. *Anesthesiology* 2022;136:31-81.
@@ -373,7 +381,7 @@ Documento técnico completo de la **vía aérea artificial**: tipos, indicacione
 
 ---
 
-## 16. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Escala de Glasgow (GCS · Glasgow Coma Scale)"
+---
 # Escala de Glasgow (GCS · Glasgow Coma Scale)
 
 > 📖 **Fuentes:** Teasdale G, Jennett B. *Assessment of coma and impaired consciousness: a practical scale.* Lancet. 1974;2(7872):81-84. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill.
@@ -9,7 +13,7 @@ La **Escala de Glasgow (GCS)** cuantifica el **nivel de consciencia** a partir d
 Sirve para:
 
 - **Detectar y cuantificar el deterioro neurológico** de forma seriada y reproducible.
-- **Decidir la protección de la vía aérea**: el umbral clásico de intubación es **GCS ≤ 8**.
+- **Orientar la valoración urgente de la vía aérea**: GCS ≤ 8 es una señal de gravedad, pero no determina por sí sola la intubación; se valoran protección de la vía aérea, ventilación, evolución y contexto clínico.
 - **Estratificar la gravedad** del traumatismo craneoencefálico (leve, moderado, grave) y orientar el destino del paciente (planta, UCI, quirófano).
 - **Comunicar** el estado neurológico entre turnos, profesionales y unidades con un lenguaje común.
 - **Alimentar otras escalas**: el componente de consciencia del **SOFA (SNC)** y la valoración **ACVPU del NEWS2** se relacionan directamente con el Glasgow.
@@ -21,7 +25,7 @@ La puntuación se compone del **total (3-15)** y del **desglose O + V + M** (`es
 - **Adultos** con cualquier causa de alteración de la consciencia: traumatismo craneoencefálico, ictus isquémico o hemorrágico, hemorragia subaracnoidea, encefalopatía metabólica o infecciosa, coma posanóxico, intoxicaciones, estatus epiléptico.
 - **Pacientes neurocríticos** en UCI (monitorización seriada) y **pacientes no neurológicos** en los que se quiere objetivar el nivel de consciencia.
 - **Niños mayores** (existe una versión pediátrica específica para lactantes y preescolares).
-- **No es aplicable** de forma fiable en el paciente con **sedación profunda, bloqueo neuromuscular o relajación muscular**, ni en el paciente intubado sin registrar la limitación del componente verbal.
+- **No es aplicable** de forma fiable en el paciente con **sedación profunda o bloqueo neuromuscular**. Si un componente no puede evaluarse (p. ej., respuesta verbal en intubación), regístralo como **no evaluable** según la convención local: no lo puntúes automáticamente como 1 ni presentes una suma como GCS válida.
 
 ## Cómo se puntúa
 
@@ -63,7 +67,7 @@ Se aplica el estímulo necesario y se anota la **mejor respuesta** en cada uno d
 |---|---|
 | Mínimo posible | 3 (O1 + V1 + M1) |
 | Máximo posible | 15 (O4 + V5 + M6) |
-| Registro en la app | `TOTAL GLASGOW` (`es_gcs_total_glasgow`) + resumen O · V · M |
+| Registro en la app | Total solo cuando O, V y M son evaluables; si V no es evaluable, muestra O · V-NT · M sin total. |
 
 ## Cómo explorar cada ítem (técnica)
 
@@ -75,7 +79,7 @@ Se aplica el estímulo necesario y se anota la **mejor respuesta** en cada uno d
 
 **3. Respuesta motora (M).** Empezar con una **orden sencilla** («apriéteme la mano», «levante el pulgar», «mire hacia el techo»). Si no obedece, aplicar **estímulo doloroso** y observar: **localiza** (5, lleva la mano al punto de estímulo), **retira** (4, flexión rápida de retirada), **flexión anormal** (3, descorticación: flexión lenta de brazos y extensión de piernas), **extensión anormal** (2, descerebración: extensión y pronación de brazos, extensión de piernas), **ninguna** (1).
 
-**Regla de oro:** puntuar la **mejor respuesta obtenida** en cada componente y **registrar los tres por separado** además del total (`es_gcs_note_record_components`). En el paciente intubado, registrar la limitación del componente verbal como 'V1' o 'Vt' (`es_gcs_limitation_intubated_patient`).
+**Regla de oro:** puntuar la **mejor respuesta obtenida** en cada componente y **registrar los tres por separado** además del total (`es_gcs_note_record_components`). En el paciente intubado, registrar el componente verbal como no evaluable (V-NT/Vt según convención), sin asignar V1 automáticamente ni calcular un total estándar.
 
 ## Puntuación total e interpretación
 
@@ -84,7 +88,7 @@ Se aplica el estímulo necesario y se anota la **mejor respuesta** en cada uno d
 | 15 | Normal | `es_gcs_bullet_15_normal` | Monitorización habitual y reevaluación por turnos |
 | 13-14 | Leve | `es_gcs_bullet_13_14_mild` | Vigilar tendencia, registrar O+V+M, comunicar cualquier descenso ≥ 2 puntos |
 | 9-12 | Moderado | `es_gcs_bullet_9_12_moderate` | Monitorización estrecha, control de vía aérea, avisar al equipo médico, registrar por turnos |
-| ≤ 8 | Grave (**indicación de intubación**) | `es_gcs_bullet_8_severe_intubation` | **Aviso inmediato** al intensivista; preparar material de vía aérea; posición lateral de seguridad si procede; registrar hora y estímulos |
+| ≤ 8 | Grave; valorar vía aérea de inmediato | `es_gcs_bullet_8_severe_intubation` | **Aviso inmediato** al equipo responsable; valorar protección de vía aérea, ventilación y evolución. La cifra aislada no es indicación automática de intubación. |
 
 Las etiquetas de clasificación de la app son `es_gcs_mild` (leve), `es_gcs_moderate` (moderado) y `es_gcs_severe` (grave).
 
@@ -98,7 +102,7 @@ Su **fiabilidad interobservador** es moderada-buena para el total y algo menor p
 
 ## Limitaciones y errores frecuentes
 
-- **Paciente intubado:** la respuesta verbal no es valorable → registrar 'V1' o 'Vt' (`es_gcs_limitation_intubated_patient`); no inventar una puntuación verbal.
+- **Paciente intubado:** la respuesta verbal no es valorable → registrar **V-NT/Vt** (o la convención local); no asignar V1 solo por la presencia del tubo. No calcular ni comunicar un total estándar si un componente no es evaluable.
 - **Paciente sedado:** interpretar con cautela, ya que la sedación deprime la puntuación (`es_gcs_limitation_sedated_patient`).
 - **Afasia o barrera idiomática:** pueden infravalorar la puntuación (`es_gcs_limitation_aphasia_language_barrier`).
 - **Estímulo inadecuado:** usar siempre el mismo estímulo; la presión supraorbitaria y la del lecho ungueal inducen respuestas distintas.
@@ -112,12 +116,12 @@ Su **fiabilidad interobservador** es moderada-buena para el total y algo menor p
 **Caso.** Varón de 54 años, traumatismo craneoencefálico grave tras accidente de tráfico, intubado y con sedoanalgesia en perfusión.
 
 - **Ojos:** no abre los ojos ni espontáneamente ni a la voz; abre al estímulo doloroso → **O2**.
-- **Verbal:** portador de tubo endotraqueal, no valorable → **V1 (Vt)**.
+- **Verbal:** portador de tubo endotraqueal, no valorable → **V-NT/Vt**, sin puntuación numérica.
 - **Motora:** no obedece órdenes; al estímulo doloroso retira el brazo de forma rápida → **M4**.
 
-**Total: O2 + V1 + M4 = 7 puntos** → **GCS grave (≤ 8)**, con indicación de protección de la vía aérea (ya intubado).
+**Registro: O2 · V-NT · M4.** No se calcula un total estándar porque V no es evaluable. El nivel de consciencia y la vía aérea se valoran con el contexto clínico; el paciente ya está intubado.
 
-**Actuación de enfermería:** registrar el desglose O2-Vt-M4 y la hora, comprobar fijación y permeabilidad del tubo, mantener cabecero a 30°, vigilar reflejos pupilares y signos de hipertensión intracraneal, avisar al intensivista y repetir la valoración en el siguiente control. Dado que el componente verbal no es valorable, complementar con la **FOUR Score**, que explora tronco y respiración.
+**Actuación de enfermería:** registrar O2-V-NT-M4 y la hora, comprobar fijación y permeabilidad del tubo, mantener cabecero a 30°, vigilar reflejos pupilares y signos de hipertensión intracraneal, avisar al intensivista y repetir la valoración en el siguiente control. Dado que el componente verbal no es valorable, complementar con la **FOUR Score**, que explora tronco y respiración.
 
 ## Relación con otras escalas
 
@@ -131,14 +135,16 @@ Su **fiabilidad interobservador** es moderada-buena para el total y algo menor p
 
 - Mide **nivel de consciencia** en tres componentes: O, V y M; el total va de **3 a 15**.
 - Registrar **siempre O + V + M por separado**, no solo el total.
-- **GCS ≤ 8** es el umbral clásico de **protección de la vía aérea**.
+- **GCS ≤ 8** señala gravedad y requiere valoración urgente de la vía aérea; **no** equivale por sí solo a indicación automática de intubación.
 - Un **descenso ≥ 2 puntos** es un signo de alarma y debe comunicarse.
 - La **respuesta motora** es el componente más reproducible y con mayor valor pronóstico.
-- En intubados, el componente verbal se registra como **V1/Vt**; valorar cambiar a **FOUR**.
+- En intubados, registrar el componente verbal como **no evaluable** según convención local; no forzar V1 ni un total. Considerar **FOUR** como complemento.
 - La sedación, la analgesia y el bloqueo neuromuscular falsean la puntuación.
 - Lo importante es la **evolución seriada**, no un valor aislado.
 - La app muestra el total con el desglose y permite enviar el resultado a Monitorización.
+
 ---
+
 ## Evidencia y referencias
 
 - **Teasdale G, Jennett B.** Assessment of coma and impaired consciousness: a practical scale. *Lancet* 1974;2:81-84.
@@ -148,6 +154,7 @@ Su **fiabilidad interobservador** es moderada-buena para el total y algo menor p
 > Registrar siempre el desglose (O, V, M): la suma oculta información y el componente verbal no es valorable en intubados. Un descenso ≥ 2 puntos es significativo.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

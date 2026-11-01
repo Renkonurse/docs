@@ -1,16 +1,19 @@
+---
+layout: default
+title: "Nomograma de heparina no fraccionada"
+---
 # Nomograma de heparina no fraccionada
 
-> 📖 **Fuentes:** Raschke RA, et al. Weight-based heparin nomogram. Ann Intern Med 1993;119:874-881. · SEEIUC: https://www.seeiuc.org · MSD Manual Professional: https://www.msdmanuals.com/professional
+> 📖 **Fuentes:** Raschke RA, et al. Weight-based heparin nomogram. *Ann Intern Med*. 1993;119:874-881. · Protocolo de referencia del hospital; confirmar vigencia, indicación y versión antes de aplicarlo.
 
 ## 1. Qué calcula y para qué sirve clínicamente
 
-La pantalla `NomogramaHeparinaActivity` (`feature_cardio`) es una **calculadora configurable** de **bolo** e **infusión inicial** de **heparina no fraccionada (HNF)** ajustada al peso, e incluye la **tabla de ajuste según el TTPa**. Sirve para:
+La pantalla `NomogramaHeparinaActivity` (`feature_cardio`) es una calculadora configurable de bolo e infusión inicial de HNF por peso y muestra el **nomograma de referencia utilizado en el hospital**. Se conserva como referencia para los centros/equipos que adopten esta pauta; no es universal ni sustituye la validación institucional ni la prescripción.
 
-- Iniciar la anticoagulación con HNF de forma **estandarizada y reproducible**.
-- **Ajustar la velocidad** de infusión según el control analítico (TTPa).
-- Reducir la variabilidad y los errores de dosificación en un fármaco de **alto riesgo**.
+- Calcular bolo e infusión iniciales a partir del peso y los parámetros del esquema.
+- Consultar el nomograma de titulación de referencia del centro.
 
-Se usa en procesos que requieren anticoagulación sistémica: **tromboembolismo pulmonar**, **trombosis venosa profunda**, **síndrome coronario agudo** (según protocolo), **fibrilación auricular** con indicación, **prótesis valvulares** y otros (ver [ECMO: anticoagulación](../protocolos/ecmo-anticoagulacion.md) y [TRRC: anticoagulación](../protocolos/trrc-anticoagulacion.md) cuando proceda).
+Se usa en procesos que requieren anticoagulación sistémica: **tromboembolismo pulmonar**, **trombosis venosa profunda**, **síndrome coronario agudo** (según protocolo), **fibrilación auricular** con indicación, **prótesis valvulares** y otros (ver [ECMO: anticoagulación](../protocolos/ecmo-anticoagulacion.html) y [TRRC: anticoagulación](../protocolos/trrc-anticoagulacion.html) cuando proceda).
 
 ---
 
@@ -40,20 +43,20 @@ Infusión (UI/h)  = peso (kg) × UI/kg/h
 | Variable de entrada | Rango/práctica habitual |
 |---|---|
 | **Peso** | Real o ajustado según protocolo (obesidad) |
-| **Bolo** | 80 UI/kg (configurable, p. ej. 60-80 UI/kg) |
-| **Infusión inicial** | 18 UI/kg/h (configurable, p. ej. 12-18 UI/kg/h) |
-| **TTPa objetivo** | **60-80 s** (equivalente a 1,5-2,5 × control) |
-| **Anti-Xa (alternativa)** | 0,3-0,7 UI/mL |
+| **Bolo** | 80 UI/kg (configurable según indicación/protocolo) |
+| **Infusión inicial** | 18 UI/kg/h (configurable según indicación/protocolo) |
+| **TTPa objetivo** | Método y objetivo dependen de indicación, reactivo/laboratorio y protocolo |
+| **Anti-Xa (alternativa)** | Usar objetivo institucional validado para la indicación; no trasladar rangos entre protocolos |
 | **Plaquetas** | Vigilar descenso (TIH) |
 | **Hemoglobina** | Vigilar sangrado |
 
 ---
 
-## 4. Tabla de ajuste según TTPa
+## 4. Monitorización y titulación
 
-Es la tabla que muestra la app (`f1_hep_tabla_p1`). **TTPa objetivo: 60-80 s.**
+La app muestra el **nomograma de referencia del centro**, con TTPa objetivo 60-80 s. La relación TTPa-heparina depende del reactivo y del laboratorio; aplicar el esquema solo si coincide con la indicación y el protocolo vigente del equipo.
 
-| TTPa | Ajuste (protocolo de la app) | Actuación de enfermería |
+| TTPa | Ajuste (protocolo de referencia) | Actuación de enfermería |
 |---|---|---|
 | **< 35 s** | **Bolo 80 UI/kg** y **subir 4 UI/kg/h** | Administrar bolo según prescripción, subir la bomba, repetir TTPa a las 6 h |
 | **35-49 s** | **Bolo 40 UI/kg** y **subir 2 UI/kg/h** | Bolo y ajuste; registrar hora y nuevo ritmo |
@@ -62,14 +65,14 @@ Es la tabla que muestra la app (`f1_hep_tabla_p1`). **TTPa objetivo: 60-80 s.**
 | **81-100 s** | **Bajar 1 UI/kg/h** | Reducir bomba, vigilar sangrado, control a las 6 h |
 | **> 100 s** | **Parar 30-60 min** y **bajar 2-3 UI/kg/h** | Parar la infusión, avisar al médico, vigilar signos de sangrado, reanudar con el nuevo ritmo |
 
-> El ajuste se expresa **por kg**: pasar de 18 a 20 UI/kg/h en un paciente de 80 kg equivale a subir de 1 440 a 1 600 UI/h. La app **calcula el bolo y la infusión iniciales**; la aplicación de los incrementos de la tabla se hace sobre la velocidad de la bomba.
+> El ajuste se expresa por kg. La app calcula bolo e infusión iniciales; los cambios posteriores se realizan según este protocolo de referencia y la orden vigente.
 
-### Ejemplo de ajuste manual (interpretación de la tabla)
+### Ejemplo de ajuste según el nomograma de referencia
 
 Paciente de **80 kg**, infusión actual **18 UI/kg/h** (= 1 440 UI/h), TTPa **40 s**:
 
 ```
-Corresponde al tramo "35-49 s":
+Corresponde al tramo 35-49 s:
    Bolo 40 UI/kg = 80 × 40 = 3 200 UI
    Subir 2 UI/kg/h → 18 + 2 = 20 UI/kg/h
    Nueva infusión = 80 × 20 = 1 600 UI/h
@@ -79,7 +82,7 @@ Corresponde al tramo "35-49 s":
 
 ## 5. Ejemplos numéricos resueltos
 
-**Ejemplo A — cálculo inicial (nomograma por defecto)**
+**Ejemplo A — cálculo inicial con parámetros por defecto del nomograma de referencia**
 
 ```
 Peso = 80 kg ; bolo 80 UI/kg ; infusión 18 UI/kg/h
@@ -87,7 +90,7 @@ Bolo     = 80 × 80 = 6 400 UI
 Infusión = 80 × 18 = 1 440 UI/h
 ```
 
-**Ejemplo B — nomograma modificado**
+**Ejemplo B — parámetros configurables para otro protocolo**
 
 ```
 Peso = 70 kg ; bolo 60 UI/kg ; infusión 12 UI/kg/h
@@ -95,10 +98,10 @@ Bolo     = 70 × 60 = 4 200 UI
 Infusión = 70 × 12 = 840 UI/h
 ```
 
-**Ejemplo C — paciente obeso (100 kg), protocolo con peso ajustado**
+**Ejemplo C — ilustración de peso de dosificación indicado por protocolo (no recomendación)**
 
 ```
-Si el protocolo indica ajustar a 70 kg de peso ajustado:
+Solo si una prescripción/protocolo determina usar 70 kg como peso de dosificación:
    Bolo     = 70 × 80 = 5 600 UI
    Infusión = 70 × 18 = 1 260 UI/h
 ```
@@ -110,12 +113,12 @@ Si el protocolo indica ajustar a 70 kg de peso ajustado:
 | Limitación / error | Comentario |
 |---|---|
 | **Elegir el peso equivocado** (real vs ajustado) | Dosis fuera de rango; seguir el protocolo |
-| **No repetir el TTPa** tras cada cambio | Infra o sobredosificación mantenida |
+| **No repetir el control indicado** tras cada cambio | Infra o sobredosificación mantenida; frecuencia según protocolo y ensayo |
 | **Redondear** el bolo o la velocidad de forma arbitraria | Desviación del objetivo |
 | **HNF y HBPM confundidas** | Fármacos y unidades diferentes (UI vs mg) |
 | **No controlar plaquetas** | TIH no detectada |
 | **TTPa poco sensible** a niveles altos de heparina | Valorar anti-Xa si está disponible |
-| La app **solo calcula bolo e infusión iniciales** | La titulación posterior es manual según tabla/protocolo |
+| Aplicar la pauta de referencia fuera de su ámbito | Confirmar indicación, protocolo y prescripción vigente |
 | **No comprobar la dilución** preparada y la vía | Error de concentración |
 
 ---
@@ -133,19 +136,19 @@ Si el protocolo indica ajustar a 70 kg de peso ajustado:
 
 ## 8. Relación con otras escalas y parámetros
 
-- **[ECMO: anticoagulación](../protocolos/ecmo-anticoagulacion.md)** y **[ECMO](../protocolos/ecmo.md)**: la HNF se usa con objetivos y controles propios.
-- **[TRRC: anticoagulación](../protocolos/trrc-anticoagulacion.md)** y **[TRRC: alarmas y presiones](../guias-cuidados/trrc-alarmas.md)**: la anticoagulación del circuito puede usar HNF con objetivos distintos.
-- **[TTPa y coagulación](../protocolos/transfusion.md)**: interpretación de pruebas de coagulación y manejo del sangrado.
-- **[Shock: tipos y manejo](../protocolos/shock-critico.md)**: contexto del paciente crítico anticoagulado.
-- **[Perfusiones](perfusiones.md)**: cálculo de velocidades de infusión de fármacos.
-- **[Peso ideal](peso-ideal.md)**: elección del peso en obesidad.
+- **[ECMO: anticoagulación](../protocolos/ecmo-anticoagulacion.html)** y **[ECMO](../protocolos/ecmo.html)**: la HNF se usa con objetivos y controles propios.
+- **[TRRC: anticoagulación](../protocolos/trrc-anticoagulacion.html)** y **[TRRC: alarmas y presiones](../guias-cuidados/trrc-alarmas.html)**: la anticoagulación del circuito puede usar HNF con objetivos distintos.
+- **[TTPa y coagulación](../protocolos/transfusion.html)**: interpretación de pruebas de coagulación y manejo del sangrado.
+- **[Shock: tipos y manejo](../protocolos/shock-critico.html)**: contexto del paciente crítico anticoagulado.
+- **[Perfusiones](perfusiones.html)**: cálculo de velocidades de infusión de fármacos.
+- **[Peso ideal](peso-ideal.html)**: elección del peso en obesidad.
 
 ---
 
 ## 9. Puntos clave
 
-- **Bolo (UI) = peso × UI/kg**; **infusión (UI/h) = peso × UI/kg/h** (por defecto 80 y 18).
-- **TTPa objetivo 60-80 s**; ajustar con la tabla de 6 tramos (< 35 / 35-49 / 50-59 / 60-80 / 81-100 / > 100 s).
+- **Bolo (UI) = peso × UI/kg**; **infusión (UI/h) = peso × UI/kg/h** (por defecto, 80 y 18).
+- El objetivo de TTPa 60-80 s y la tabla corresponden al nomograma de referencia del centro; no son universales.
 - **Doble comprobación** del bolo y de la velocidad; usar **bomba volumétrica** y etiquetar la línea como heparina.
 - **Plaquetas seriadas**: vigilar TIH; **Hb y signos de sangrado**.
 - **Protamina** como antídoto en hemorragia grave, según protocolo.

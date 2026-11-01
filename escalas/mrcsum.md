@@ -1,3 +1,7 @@
+---
+layout: default
+title: "MRC Sum Score (Medical Research Council · fuerza muscular global)"
+---
 # MRC Sum Score (Medical Research Council · fuerza muscular global)
 
 > 📖 **Fuentes:** De Jonghe B, Sharshar T, Lefaucheur JP, et al. *Paresis acquired in the intensive care unit: a prospective multicenter study.* JAMA. 2002;288(22):2859-2867. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill.
@@ -140,7 +144,9 @@ Su fiabilidad depende de la **formación del explorador** y de la **colaboració
 - La ICU-AW se asocia a **más ventilación, estancia y mortalidad**.
 - La **movilización precoz** es la intervención clave.
 - Repetir de forma **seriada** para valorar la evolución.
+
 ---
+
 ## Evidencia y referencias
 
 - **Kleyweg RP, et al.** Interobserver agreement in the assessment of muscle strength and functional abilities in Guillain-Barré syndrome. *Muscle Nerve* 1991;14:1103-1109.
@@ -150,6 +156,7 @@ Su fiabilidad depende de la **formación del explorador** y de la **colaboració
 > Requiere cooperación y ausencia de sedación profunda. Un MRC Sum Score < 48/60 orienta a debilidad adquirida en UCI; la fuerza debe valorarse junto con la función y la evolución.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

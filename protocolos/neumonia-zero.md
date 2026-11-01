@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Neumonía Zero: prevención de la neumonía asociada a ventilación mecánica (NAVM)"
+---
 # Neumonía Zero: prevención de la neumonía asociada a ventilación mecánica (NAVM)
 
-> 📖 **Fuentes:** Kalil AC, et al. IDSA/ATS HAP/VAP guidelines. Clin Infect Dis 2016;63:e61-e111. · NICE: https://www.nice.org.uk · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+> 📖 **Fuentes:** Klompas M, et al. Strategies to prevent ventilator-associated pneumonia, ventilator-associated events, and nonventilator hospital-acquired pneumonia in acute-care hospitals: 2022 Update. *Infect Control Hosp Epidemiol*. 2022;43:687-713. https://doi.org/10.1017/ice.2022.88 · Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med*. doi:10.1007/s00134-026-08361-1 · SEEIUC: https://www.seeiuc.org
 
 ## 1. Definición y objetivo (ámbito: UCI / paciente crítico)
 
@@ -10,28 +14,24 @@ El proyecto **Neumonía Zero** es una intervención multifactorial del Ministeri
 
 ### 1.1 Objetivo
 
-**Disminuir la tasa de neumonía relacionada con ventilación mecánica a menos de 9 episodios por 1.000 días de ventilación mecánica**, lo que supone una reducción del **40 %** respecto a las tasas previas.
+Reducir NAVM y complicaciones de ventilación mediante cuidados basados en evidencia, formación y auditoría. Las tasas/meta se definen en el programa local y periodo correspondiente; no son umbrales de seguridad de una persona ni resultados garantizados.
 
 ### 1.2 Ámbito de aplicación
 
-- UCI polivalente, coronaria, quirúrgica, neurocrítica y de críticos pediátricos y neonatales (adaptando dispositivos y calibres).
+- Esta síntesis se centra en **adultos**; pediatría y neonatos tienen recomendaciones propias, no basta adaptar calibres.
 - Todo paciente con **vía aérea artificial** (tubo endotraqueal o cánula de traqueostomía) y VM invasiva.
-- La exposición abarca desde la intubación o traqueostomía hasta la extubación/decánulación y las 48 horas posteriores.
+- Iniciar prevención desde la intubación, sin esperar 48 h. Para vigilancia epidemiológica, aplicar las definiciones temporales del sistema utilizado; no mezclar diagnóstico clínico con criterios de notificación.
 
 ### 1.3 ¿Funciona? Resultados de las campañas
 
-- En la campaña americana «The 100k lives campaign», con un cumplimiento superior al 95 % del paquete de medidas, la tasa de neumonía asociada a ventilación se redujo un 59 %.
-- El paquete de medidas de Berwick (2006) consiguió una reducción del 40 % en el primer año.
-
-> ⚠️ **Aviso:** El resultado depende de aplicar **todo** el paquete a la vez: un cumplimiento superior al 95 % de las medidas reduce la neumonía asociada a ventilación hasta un 59 %.
+Los programas multifactoriales pueden mejorar resultados; las reducciones publicadas dependen de población, diseño y definiciones. SHEA 2022 advierte que la subjetividad diagnóstica limita comparar tasas entre centros. Medir también duración de ventilación, complicaciones y seguridad; no atribuir un efecto porcentual fijo a marcar todas las casillas.
 
 ### 1.4 Definiciones operativas
 
 | Término | Definición |
 | --- | --- |
 | NAVM / VAP | Neumonía que aparece ≥48 h después de la intubación, sin estar en incubación al intubar |
-| NAVM precoz | Primeros 4-5 días de VM; microorganismos habitualmente sensibles |
-| NAVM tardía | Desde el 5.º día de VM; mayor riesgo de multirresistencia |
+| NAVM precoz/tardía | Descripción temporal; no determina por sí sola sensibilidad ni selección empírica. Integrar exposición antibiótica, colonización y epidemiología local. |
 | Traqueobronquitis asociada a ventilador | Secreciones purulentas y cultivo positivo **sin** infiltrado nuevo |
 
 ## 2. Etiología / fisiopatología (lo esencial)
@@ -68,7 +68,7 @@ La vía principal es la **microaspiración de secreciones orofaríngeas coloniza
 
 ### 3.1 Criterios clínico-radiológicos (IDSA/ATS 2016)
 
-Se considera NAVM cuando existe **infiltrado pulmonar nuevo o progresivo** en la radiografía de tórax o TC junto con **al menos dos** de los siguientes datos, con inicio **≥48 h tras la intubación**:
+Sospechar infección ante infiltrado nuevo/progresivo y datos clínicos compatibles, como los siguientes. **No existe combinación con sensibilidad/especificidad perfecta ni se diagnostica automáticamente sumando dos casillas**; integrar evolución y causas alternativas. La definición clínica de NAVM se sitúa tras ≥48 h de intubación; los sistemas de vigilancia pueden usar reglas operativas diferentes.
 
 | Criterio | Punto de corte |
 | --- | --- |
@@ -77,11 +77,13 @@ Se considera NAVM cuando existe **infiltrado pulmonar nuevo o progresivo** en la
 | Secreciones traqueales | Purulentas |
 | Oxigenación | Deterioro de la PaO₂/FiO₂ respecto a la basal |
 
-> ⚠️ **Aviso:** Ningún criterio aislado ni escala sustituye al juicio clínico. La guía IDSA/ATS 2016 recomienda **no emplear el CPIS de forma aislada** para diagnosticar la NAVM. Marco de referencia: guías respiratorias (BTS, SDRA de Berlín 2012) y literatura de referencia.
+> IDSA/ATS 2016 recomienda basar la decisión de iniciar antibióticos en criterios clínicos, no añadir CPIS, PCT o PCR como requisito decisorio. Ni un marcador bajo excluye infección ni un valor alto demuestra su localización.
 
-### 3.2 Criterios microbiológicos (umbral de significación)
+### 3.2 Muestras e interpretación microbiológica
 
-| Muestra | Umbral diagnóstico |
+IDSA/ATS 2016 sugiere muestra no invasiva con cultivo semicuantitativo para NAVM. Si se usan cultivos cuantitativos, los siguientes son umbrales de referencia de ciertas técnicas, **no pruebas autónomas de infección**; interpretar método, calidad, colonización, antibióticos previos y situación clínica con microbiología/equipo.
+
+| Muestra | Referencia cuantitativa/contexto |
 | --- | --- |
 | Aspirado traqueal (ETA) | ≥10⁵ UFC/ml |
 | Lavado broncoalveolar (BAL) | ≥10⁴ UFC/ml |
@@ -92,25 +94,18 @@ Se considera NAVM cuando existe **infiltrado pulmonar nuevo o progresivo** en la
 
 ### 3.3 Escala CPIS (*Clinical Pulmonary Infection Score*)
 
-| Parámetro | 0 puntos | 1 punto | 2 puntos |
-| --- | --- | --- | --- |
-| Temperatura | 36,5-38,4 °C | 38,5-38,9 °C | ≤36 °C o ≥39 °C |
-| Leucocitos | 4.000-11.000/mm³ | — | <4.000 o >11.000/mm³ |
-| Secreciones traqueales | Ausentes | No purulentas | Purulentas |
-| Oxigenación PaO₂/FiO₂ | >240 | — | ≤240 |
-| Radiografía de tórax | Sin infiltrado | Infiltrado difuso | Infiltrado localizado |
-| Cultivo de aspirado traqueal | Negativo | — | Positivo |
+CPIS combina temperatura, leucocitos, secreciones, oxigenación, imagen y, según versión, microbiología/evolución. Las versiones no tienen reglas intercambiables: no calcularlo desde una tabla simplificada sin especificar versión, excepciones y datos exigidos.
 
-- **Punto de corte: CPIS ≥6** orienta hacia neumonía; se usa sobre todo como herramienta de seguimiento, no como diagnóstico exclusivo.
+IDSA/ATS 2016 **no sugiere añadir CPIS para decidir el inicio ni usarlo para guiar la suspensión de antibióticos**. No se ofrece aquí una puntuación abreviada ni un corte que convierta sospecha en diagnóstico. Registrar hallazgos objetivos y cambios; faltantes no equivalen a cero puntos.
 
 ### 3.4 Escalas de gravedad y situación
 
 | Escala | Punto de corte / interpretación |
 | --- | --- |
-| qSOFA | ≥2 puntos (FR ≥22, alteración de conciencia, PAS ≤100 mmHg): riesgo de sepsis |
-| SOFA | Aumento ≥2 puntos sobre la basal: disfunción orgánica asociada a sepsis |
+| qSOFA | FR ≥22, consciencia alterada, PAS ≤100: alerta contextual, no diagnóstico ni único método de cribado. No esperar ≥2 para actuar ante deterioro. |
+| SOFA | Describe disfunción orgánica; sepsis requiere contexto de infección y disfunción atribuible, no basta cualquier aumento numérico. |
 | APACHE II | Gravedad global y mortalidad esperada al ingreso |
-| PaO₂/FiO₂ con PEEP ≥5 | ≤300 SDRA leve; ≤200 moderado; ≤100 grave (criterios de Berlín 2012) |
+| PaO₂/FiO₂ | No diagnostica SDRA aislado. En Berlín, con resto de criterios y PEEP/CPAP requeridas, bandas de oxigenación: >200–300, >100–200 y ≤100; integrar tiempo, imagen y origen del edema. |
 | RASS | Objetivo habitual 0 a −2 salvo indicación de sedación profunda |
 | CAM-ICU | Detección de delirium |
 
@@ -129,7 +124,7 @@ Se considera NAVM cuando existe **infiltrado pulmonar nuevo o progresivo** en la
 
 ### 3.6 Indicaciones del protocolo
 
-- **Todo paciente intubado** con previsión de VM >48 h: paquete completo de medidas básicas.
+- Prevención desde la intubación, también si se prevé VM breve; adaptar cada intervención a indicación/contraindicaciones.
 - **Previsión de VM >48-72 h:** tubo endotraqueal con canal de aspiración subglótica.
 - **Medidas específicas** (descontaminación digestiva, aspiración subglótica, antibióticos sistémicos al intubar a pacientes con disminución del nivel de conciencia): según protocolo y valoración individual.
 
@@ -143,14 +138,14 @@ Se considera NAVM cuando existe **infiltrado pulmonar nuevo o progresivo** en la
 
 | Parámetro | Objetivo | Frecuencia |
 | --- | --- | --- |
-| Presión del balón | 20-30 cmH₂O | Al menos cada 8 h y tras movilizaciones o aspiraciones |
-| Cabecera de la cama | 30-45° | Cada 8 h y tras cada cambio postural |
-| Temperatura | <38 °C | Cada 4-8 h |
+| Presión del balón | Rango del dispositivo/protocolo; 20–30 cmH₂O es referencia frecuente en adultos, no garantía de sellado sin lesión | Según plan e incidencias; no atribuir a SHEA controles cada 8 h como prevención de NAVM |
+| Cabecera | Habitualmente 30–45° si no hay contraindicación | Comprobar posición/tolerancia tras cambios y según situación |
+| Temperatura | Identificar cambios y causas; objetivo individual | Según gravedad y tratamiento |
 | Frecuencia respiratoria y SpO₂ | Según situación clínica | Continuo |
 | Capnografía / EtCO₂ | Confirmar posición y ventilación | Continuo si disponible |
-| Presión pico y de plataforma | Detectar aumento por secreciones | Cada turno y ante cambios |
-| Volumen corriente | 6 ml/kg de peso predicho (VM protectora) | Continuo |
-| RASS y CAM-ICU | RASS 0 a −2; detección precoz de delirium | Cada turno |
+| Pico/meseta | Interpretar resistencia, distensibilidad y técnica; no atribuir todo aumento a secreciones | Según cambios, monitor y condiciones válidas de medición |
+| VT entregado | Objetivo protector prescrito con peso predicho, modo y mecánica; no un valor fijo para todo paciente | Monitorización y reevaluación según plan |
+| Sedación/delirium | Objetivo individual; CAM-ICU no evaluable con RASS −4/−5 | Valoración seriada según situación/protocolo |
 
 ### 4.2 Analítica y muestras iniciales
 
@@ -166,29 +161,28 @@ Se considera NAVM cuando existe **infiltrado pulmonar nuevo o progresivo** en la
 1. Realizar **higiene de manos** con solución alcohólica antes y después de manipular la vía aérea; guantes solo cuando estén indicados.
 2. Comprobar la posición del tubo y **medir la presión del balón con manómetro (20-30 cmH₂O)**; registrar el valor.
 3. Colocar la **cabecera entre 30 y 45°** salvo contraindicación (lesión medular, inestabilidad) y evitar el decúbito supino.
-4. Conectar el **canal de aspiración subglótica** a aspiración continua o intermitente hacia un reservorio y verificar su permeabilidad.
-5. Iniciar **higiene bucal con clorhexidina al 0,12-0,2 %** (encías, lengua y paladar, aspirando después) y repetirla **cada 6-8 horas**.
-6. Asegurar la **humidificación** con intercambiador de calor y humedad, anotando la fecha de colocación.
-7. Valorar, según indicación médica, **antibióticos sistémicos durante la intubación** en pacientes con disminución del nivel de conciencia.
-8. Iniciar profilaxis de úlcera de estrés y de trombosis venosa según protocolo de la unidad.
+4. Si dispone de drenaje subglótico y está indicado, conectar/verificar según fabricante, con método y presión específicos.
+5. Iniciar **higiene bucal diaria con cepillado dental**, aspirando secreciones cuando proceda. En adultos no usar clorhexidina oral como prevención rutinaria de NAVM; seguir protocolo local para situaciones específicas.
+6. Seleccionar humidificación activa/HME según secreciones, mecánica, espacio muerto y fabricante; no todos los pacientes son candidatos a HME.
+7. No administrar antibióticos automáticamente por intubación o disminución de consciencia; las indicaciones específicas requieren valoración y pauta.
+8. Valorar profilaxis digestiva/tromboembólica por sus indicaciones y riesgos, no como prevención universal de NAVM.
 9. Valorar el inicio precoz de nutrición enteral, manteniendo la cabecera elevada durante su administración.
 
-### 5.2 Cada 8 horas
+### 5.2 Comprobaciones seriadas según plan e incidencias
 
-1. **Medir la presión del balón** con manómetro y registrarla; repetir siempre tras movilizaciones y aspiraciones.
-2. **Verificar la permeabilidad del canal subglótico**; si no está permeable, inyectar **2 ml de aire** tras comprobar la presión del balón y volver a aspirar.
+1. Medir presión del cuff con manómetro conforme al dispositivo/plan e incidencias; registrar valor, sellado y tolerancia. La vigilancia de seguridad no equivale a afirmar beneficio de controles frecuentes para prevenir NAVM.
+2. Si hay drenaje subglótico, comprobar según fabricante; **no inyectar aire/líquido ni forzar una luz obstruida** mediante una instrucción universal. Consultar procedimiento específico y personal competente.
 3. Comprobar la posición de la cabecera (30-45°) y la fijación del tubo.
 4. Valorar la necesidad de aspiración de secreciones (a demanda, nunca programada) y registrar las medidas en la gráfica.
 
-### 5.3 Cada 6-8 horas (turno)
+### 5.3 Higiene y valoración oral
 
-- **Higiene bucal completa** con clorhexidina al 0,12-0,2 %, tras comprobar presión del balón >20 cmH₂O y con la cabecera elevada.
-- **Cepillado de dientes 3-4 veces al día (mínimo 3)** para eliminar la placa dental.
+- **Higiene bucal y cepillado dental** según tolerancia y protocolo, con aspiración si está indicada; no añadir clorhexidina de rutina para prevenir NAVM en adultos.
 - Higiene de manos antes y después de manipular la vía aérea y el circuito.
 
 ### 5.4 Cada 24 horas
 
-1. Valorar la **retirada de la sedación** en pacientes estables (prueba de despertar diaria).
+1. Revisar objetivo y seguridad de prueba de despertar/reducción según protocolo; HIC no controlada, crisis u otras contraindicaciones modifican el plan. No retirar automáticamente perfusiones.
 2. Valorar la **posibilidad de extubación** y aplicar el protocolo de desconexión de la VM (prueba de respiración espontánea).
 3. Revisar la fecha del intercambiador de calor y humedad y de las tubuladuras: **no cambiarlos de forma rutinaria**.
 4. Considerar la **ventilación mecánica no invasiva** cuando esté indicada.
@@ -200,21 +194,18 @@ Se considera NAVM cuando existe **infiltrado pulmonar nuevo o progresivo** en la
 2. Higiene de manos y **técnica estéril** con sonda del calibre adecuado (no más de la mitad de la luz del tubo).
 3. **No instilar suero fisiológico de forma rutinaria** a través del tubo endotraqueal antes de aspirar.
 4. **Aspirar menos de 10-15 segundos**, dejando descansar entre aspiraciones y preoxigenando si el paciente lo precisa.
-5. En la aspiración subglótica, la **presión de aspiración no debe superar los 100 mmHg**; el orificio dorsal por encima del balón permite aspirar las secreciones del espacio subglótico de forma continua o intermitente hacia un reservorio.
-6. Comprobar la presión del balón tras la aspiración y registrar la técnica y las características de las secreciones.
+5. Aspiración subglótica: confirmar que existe luz específica, modalidad y presión indicadas por su fabricante; no aplicar el mismo valor a todos los tubos.
+6. Registrar técnica, características, tolerancia y comprobaciones indicadas ante cambios del sellado; no repetir procedimientos innecesarios.
 
 ### 5.6 Descontaminación selectiva del tubo digestivo
 
-1. Antimicrobianos tópicos no absorbibles (**polimixina E, tobramicina y anfotericina B**) más antibióticos sistémicos: reducen la neumonía y la mortalidad global.
-2. La **pasta oral** se extiende por encías, paladar y lengua tras la higiene con clorhexidina.
-3. La **solución digestiva** se administra por la sonda enteral (**10 ml**), lavando la sonda con **20 ml de agua antes y después**.
-4. En pacientes con riesgo de SAMR puede añadirse **vancomicina**; la profilaxis tópica sola reduce la neumonía (67 %) pero no la mortalidad.
+SHEA 2022 la considera estrategia adicional en entornos con baja resistencia; no recomienda extrapolarla a unidades con alta resistencia. Su uso exige protocolo aprobado, selección de pacientes, prescripción y vigilancia de resistencia, consumo y efectos adversos. No preparar ni administrar combinaciones, volúmenes o vancomicina preventiva desde esta síntesis.
 
 ### 5.7 Ante la sospecha de NAVM
 
 1. **Avisar al médico** de forma inmediata.
 2. **Obtener muestras** (aspirado traqueal, BAL o PSB y hemocultivos) **antes de iniciar los antibióticos**, salvo inestabilidad que obligue a tratarlos de inmediato.
-3. Administrar el antibiótico empírico en la primera hora si hay sepsis o shock séptico.
+3. Si coexiste shock séptico o sepsis probable/definida, administrar antimicrobianos de inmediato, idealmente ≤1 h; en posible sepsis sin shock, evaluación rápida y hasta ≤3 h si persiste la sospecha (SSC 2026).
 4. Ajustar el tratamiento según cultivos y antibiograma; valorar la desescalada.
 
 ## 6. Cuidados de enfermería y vigilancia (frecuencias y registro)
@@ -222,14 +213,14 @@ Se considera NAVM cuando existe **infiltrado pulmonar nuevo o progresivo** en la
 | Cuidado | Contenido y frecuencia |
 | --- | --- |
 | Higiene de manos y guantes | Solución alcohólica antes y después de manipular el sistema respiratorio, tras contacto con secreciones (aunque se usen guantes), antes y después de cada aspiración y antes del contacto con otro paciente; los guantes no sustituyen al lavado |
-| Higiene bucal | Comprobar presión del balón >20 cmH₂O y cabecera elevada; irrigar con clorhexidina al 0,12-0,2 % encías, lengua y paladar y aspirar después; cada 6-8 h |
-| Cepillado dental | 3-4 veces al día (mínimo 3) para eliminar la placa dental |
-| Neumotaponamiento | Medir con manómetro al menos cada 8 h y siempre tras movilizaciones o aspiraciones; mantener 20-30 cmH₂O; registrar el valor numérico; no estimar palpando el balón; vigilar fuga aérea o lesión traqueal |
-| Aspiración de secreciones | Solo a demanda (secreciones visibles, aumento de presión pico, desaturación, tos o ruidos); técnica estéril y sonda del calibre adecuado; no instilar suero fisiológico de rutina; menos de 10-15 s con descanso entre aspiraciones; verificar canal subglótico cada 8 h |
+| Higiene bucal | Cepillado y cuidado oral diarios según tolerancia/protocolo; aspirar secreciones si está indicado. No usar clorhexidina oral rutinaria como prevención de NAVM en adultos (SHEA 2022). |
+| Cepillado dental | Diario según SHEA 2022; adaptar cuidados adicionales a hallazgos/tolerancia/protocolo. No imponer mínimo tres veces/día. |
+| Neumotaponamiento | Manómetro, rango del dispositivo y comprobaciones según situación; registrar valor y vigilar fugas/lesiones, sin palpación ni sobreinflado ciego. |
+| Aspiración | Con indicación y técnica/calibre adecuados; aumento de presión o desaturación exigen valorar otras causas. Pases breves con recuperación, sin suero rutinario; subglótica según dispositivo. |
 | Posición y movilización | Cabecera entre 30 y 45°; comprobar cada 8 h y tras cada cambio postural; extremar la elevación con nutrición enteral; evitar el decúbito supino |
-| Circuito y humidificación | No cambiar tubuladuras de forma rutinaria; no cambiar el intercambiador de calor y humedad antes de 48 h salvo que esté sucio; vaciar la condensación sin abrir el circuito; mantener el circuito cerrado siempre que sea posible |
-| Destete y sedación | Valorar cada día la retirada de la sedación en pacientes estables y la posibilidad de extubación; aplicar el protocolo de desconexión de la VM; considerar la VM no invasiva cuando esté indicada |
-| Registro y vigilancia | Registrar cada medida en cada turno (el registro demuestra el cumplimiento); vigilar fiebre, secreciones purulentas, infiltrados nuevos, leucocitosis o deterioro de la oxigenación; ante la sospecha, avisar al médico y obtener muestras antes de los antibióticos |
+| Circuito/humidificación | Recambio por suciedad/disfunción o instrucciones del fabricante; no mínimo universal de 48 h para HME. Drenar condensación alejándola del paciente y evitando aperturas innecesarias. |
+| Destete/sedación | Revisar seguridad de despertar y respiración espontánea, y por separado elegibilidad de extubación; soporte no invasivo seleccionado, sin retrasar intubación necesaria. |
+| Registro/vigilancia | Documentar cuidados reales, hallazgos, omisiones justificadas y respuesta; una marca no prueba calidad ni garantiza prevención. Ante deterioro, aviso y estudio sin retrasar soporte/tratamiento urgente. |
 
 - **Ver checklist de cuidados de enfermería** en cada turno: cada punto se comprueba junto al paciente y se registra de inmediato.
 - **Registro mínimo por turno:** presión del balón (cmH₂O), grado de elevación de la cabecera, higiene bucal y cepillado, aspiraciones (características y tolerancia), permeabilidad del canal subglótico, fecha del intercambiador, RASS/CAM-ICU y valoración diaria de extubación.
@@ -239,17 +230,17 @@ Se considera NAVM cuando existe **infiltrado pulmonar nuevo o progresivo** en la
 | Complicación | Signos de alarma | Actuación |
 | --- | --- | --- |
 | Insuficiencia respiratoria / SDRA | PaO₂/FiO₂ ≤300 con PEEP ≥5, infiltrados bilaterales | VM protectora (6 ml/kg de peso predicho, presión de plataforma ≤30 cmH₂O), optimizar PEEP, valorar decúbito prono si PaO₂/FiO₂ <150, avisar |
-| Shock séptico | Hipotensión, lactato >2 mmol/l, vasopresores | Hemocultivos, antibiótico en la primera hora, cristaloides, soporte vasoactivo, avisar |
+| Shock séptico | Hipotensión/hipoperfusión, necesidad de vasopresor; lactato como marcador complementario | Hemocultivos si no demoran; antimicrobianos inmediatos, idealmente ≤1 h; cristaloides y soporte vasoactivo individualizados; avisar/escalar |
 | Derrame pleural / empiema | Matidez, opacidad con menisco, fiebre persistente | Ecografía, toracocentesis diagnóstica y drenaje si empiema |
 | Absceso pulmonar | Fiebre prolongada, imagen cavitada | Antibioterapia prolongada, valorar drenaje |
 | Bacteriemia secundaria | Fiebre, escalofríos, deterioro hemodinámico | Hemocultivos seriados y ajuste del antibiótico según antibiograma |
-| Fuga aérea por presión de balón baja | Pérdida de volumen, ruidos audibles | Medir y corregir la presión (20-30 cmH₂O), avisar |
-| Lesión de la mucosa traqueal por presión >30 cmH₂O | Sangre en secreciones, disfagia, estridor tras extubación | Reducir la presión por debajo de 30 cmH₂O, valorar broncoscopia, avisar |
+| Fuga aérea | Pérdida de volumen o ruido | Medir cuff y revisar posición, dispositivo y circuito; no atribuir toda fuga a baja presión ni sobreinflar a ciegas. Aviso según repercusión. |
+| Sospecha de lesión de vía aérea | Sangre, disfagia o estridor | Valoración urgente según gravedad; verificar cuff/posición y proteger ventilación. No confirma lesión por un umbral aislado ni se resuelve solo ajustando a menos de 30. |
 | Extubación no planificada | Pérdida de la vía aérea, agitación, desaturación | Ventilación con mascarilla, valorar reintubación inmediata |
 | Obstrucción del tubo por secreciones | Aumento de presiones, dificultad para ventilar | Aspirar, comprobar permeabilidad, valorar recambio del tubo |
 | Estenosis traqueal tardía | Disnea y estridor semanas después de la extubación | Broncoscopia y seguimiento por neumología |
 
-> ⚠️ **Aviso:** Hay que prevenir también las complicaciones derivadas de las propias medidas: una presión de balón <20 cmH₂O favorece la NAVM y >30 cmH₂O lesiona la mucosa traqueal.
+> Prevenir daño de los cuidados: presión insuficiente/excesiva, desconexiones, aspiración no indicada y movilización insegura. El cuff no garantiza impedir toda microaspiración; sellado y seguridad exigen valoración, no solo estar dentro de un rango.
 
 ## 8. Prevención
 
@@ -259,12 +250,12 @@ El proyecto Neumonía Zero aplica **de forma simultánea** un paquete de medidas
 
 ### 8.2 Medidas básicas (de obligado cumplimiento)
 
-**Formación y entrenamiento en la manipulación de la vía aérea** — Nivel de evidencia: ALTA · Recomendación: FUERTE
+**Formación y entrenamiento en la manipulación de la vía aérea**
 
 - Aspiración de secreciones bronquiales con técnica correcta.
 - Evitar la instilación rutinaria de suero fisiológico a través del tubo endotraqueal antes de aspirar.
 
-**Higiene de manos** — Nivel de evidencia: ALTA · Recomendación: FUERTE — Nivel de evidencia: ALTA · Recomendación: FUERTE
+**Higiene de manos**
 
 - Higiene estricta con soluciones alcohólicas antes y después de manipular la vía aérea.
 - Antes y después del contacto con cualquier parte del sistema de terapia respiratoria.
@@ -273,67 +264,56 @@ El proyecto Neumonía Zero aplica **de forma simultánea** un paquete de medidas
 - Antes del contacto con otro paciente.
 - Los guantes no reemplazan el lavado de manos y no evitan por sí solos la transmisión.
 
-**Control de la presión del neumotaponamiento** — Nivel de evidencia: MODERADA · Recomendación: FUERTE
+**Seguridad del neumotaponamiento**
 
-- Mantener la presión entre 20 y 30 cmH₂O.
-- Por debajo de 20 cmH₂O: riesgo de neumonía asociada a ventilación.
-- Por encima de 30 cmH₂O: lesión de la mucosa traqueal.
+- Mantener el rango indicado por dispositivo/plan, evitando sellado insuficiente y presión lesiva; 20–30 cmH₂O es referencia frecuente adulta, no frontera exacta de lesión o garantía de ausencia de aspiración.
+- SHEA 2022 no recomienda controles frecuentes o automatizados como estrategia rutinaria aislada de prevención de NAVM; ello no elimina las comprobaciones necesarias para la seguridad de la vía aérea.
 
-**Higiene bucal** — Nivel de evidencia: ALTA · Recomendación: FUERTE
+**Cuidado bucal** — Evidencia/moderación según SHEA/IDSA 2022
 
-- Antes de la higiene, comprobar que la presión del neumotaponamiento es mayor de 20 cmH₂O y mantener la cabecera elevada.
-- Lavado exhaustivo de la cavidad bucal (encías, lengua, paladar) irrigando con clorhexidina al 0,12-0,2 % y aspirando después.
-- Frecuencia: cada 6-8 horas.
+- Realizar cuidado oral diario con cepillado dental; mantener medidas para reducir aspiración y usar aspiración oral cuando esté indicada.
+- En adultos, no utilizar clorhexidina oral de forma rutinaria para prevenir NAVM; sigue las recomendaciones específicas de población pediátrica y el protocolo local.
 
-> ⚠️ **Aviso:** La evidencia más reciente matiza el beneficio sistemático de la clorhexidina en algunos subgrupos; debe seguirse el protocolo vigente del centro y la indicación individualizada.
+> ⚠️ **Aviso:** SHEA/IDSA 2022 recomienda cuidado oral con cepillado sin clorhexidina como práctica esencial y no recomienda clorhexidina oral rutinaria para prevención de NAVM en adultos. Sigue las recomendaciones específicas para pediatría y el protocolo vigente del centro.
 
-**Alternativas para la higiene** — Nivel de evidencia: MODERADA · Recomendación: DÉBIL-MODERADA
-
-- Cepillado de dientes para eliminar la placa dental.
-- Frecuencia: 3-4 veces al día (mínimo 3).
-
-**Posición semiincorporada** — Nivel de evidencia: MODERADA · Recomendación: FUERTE
+**Posición semiincorporada** — SHEA 2022: práctica esencial, evidencia baja
 
 - Mantener la cabecera de la cama elevada entre 30 y 45°, sobre todo en pacientes con nutrición enteral, salvo contraindicación.
 - Comprobar la posición cada 8 horas y tras los cambios posturales.
 - Evitar la posición de decúbito supino.
 
-**Disminuir el tiempo de ventilación mecánica** — Nivel de evidencia: BAJA · Recomendación: FUERTE
+**Disminuir el tiempo de ventilación mecánica**
 
-- Valoración diaria de la retirada de la sedación en pacientes estables.
+- Revisión de sedación ligera/objetivo y seguridad de despertar según protocolo, no retirada automática.
 - Valoración diaria de la posibilidad de extubación.
 - Uso de protocolos de desconexión de la ventilación mecánica.
 - Uso de ventilación mecánica no invasiva cuando esté indicada.
 
-**Evitar cambios rutinarios** — Nivel de evidencia: ALTA · Recomendación: FUERTE
+**Evitar cambios rutinarios**
 
 - No realizar cambios rutinarios de tubuladuras ni de tubos endotraqueales.
-- No cambiar los intercambiadores de calor y humedad antes de 48 horas, salvo si están sucios.
+- HME según fabricante y necesidad clínica; cambiar antes si hay disfunción/obstrucción, sin mínimo universal de 48 h.
 
 ### 8.3 Medidas específicas (altamente recomendables)
 
-**Descontaminación selectiva del tubo digestivo** — Nivel de evidencia: ALTA · Recomendación: FUERTE
+**Descontaminación selectiva digestiva**
 
-- Antimicrobianos tópicos no absorbibles (polimixina E, tobramicina y anfotericina B) más antibióticos sistémicos: reducen la neumonía y la mortalidad global.
-- La profilaxis tópica sola reduce la neumonía (67 %) pero no la mortalidad.
-- En pacientes con riesgo de SAMR puede añadirse vancomicina.
-- La pasta oral se extiende por encías, paladar y lengua tras la higiene con clorhexidina; la solución digestiva se administra por la sonda enteral (10 ml, lavando la sonda con 20 ml de agua antes y después).
+- No constituye una intervención universal de enfermería ni debe iniciarse con dosis de esta guía. Su posible uso depende de evidencia y epidemiología locales, selección de pacientes, programa de optimización de antimicrobianos y protocolo institucional aprobado.
 
-**Aspiración de secreciones subglóticas** — Nivel de evidencia: ALTA · Recomendación: FUERTE
+**Drenaje subglótico** — SHEA 2022: estrategia adicional, evidencia moderada
 
 - El tubo endotraqueal dispone de un orificio dorsal por encima del balón que permite aspirar las secreciones acumuladas en el espacio subglótico.
 - Se realiza de forma continua o intermitente hacia un reservorio.
-- La presión de aspiración no debe superar los 100 mmHg.
-- Verificar la permeabilidad del canal cada 8 horas; si no está permeable, inyectar 2 ml de aire tras comprobar la presión del balón.
+- Presión, modalidad y comprobaciones según fabricante; no instrucciones universales de inyección de aire ante obstrucción.
 
-**Antibióticos sistémicos si disminución del nivel de conciencia** — Nivel de evidencia: ALTA · Recomendación: FUERTE
+**Antibióticos sistémicos e intubación**
 
-- Administrar antibióticos sistémicos durante la intubación en pacientes con disminución del nivel de conciencia.
+- No administrarlos automáticamente por intubación o consciencia disminuida. Confirmar indicación específica y pauta con el equipo/protocolo vigente.
 
 ### 8.4 Medidas complementarias y organizativas
 
 - **Formación continuada** del personal y auditoría periódica del cumplimiento.
-- **Nutrición enteral precoz** con cabecera elevada; valorar procinéticos y control del residuo gástrico según tolerancia.
+- Nutrición enteral si es adecuada y tolerada; valorar riesgo de aspiración y vía. El residuo gástrico rutinario no se recomienda como intervención para prevenir NAVM; no descarta aspiración.
 - **Evitar la reintubación** siempre que sea posible y planificar la extubación con criterios objetivos.
 - **Movilización precoz y fisioterapia respiratoria** en pacientes estables.
 - **Manejo racional de la sedación y analgesia**, con objetivos de RASS definidos y revisión diaria.
@@ -344,11 +324,9 @@ El proyecto Neumonía Zero aplica **de forma simultánea** un paquete de medidas
 
 | Indicador | Meta |
 | --- | --- |
-| Tasa de NAVM | <9 episodios por 1.000 días de VM (reducción del 40 %) |
-| Cumplimiento global del paquete | >95 % |
-| Presión del balón en rango (20-30 cmH₂O) | >95 % de las mediciones |
-| Cabecera a 30-45° | >95 % de las observaciones |
-| Higiene bucal realizada | >95 % de los turnos |
+| Tasa de NAVM | Casos / días de VM ×1.000, con definición y periodo constantes; objetivo del programa local |
+| Adherencia a medidas indicadas | Numerador, denominador y contraindicaciones definidos; no porcentaje universal de garantía |
+| Cuff, postura y cuidado oral | Técnica, valores/hallazgos, tolerancia y omisiones justificadas; no confundir casillas con verificación clínica |
 | Días de ventilación mecánica y reintubaciones | Reducción progresiva |
 
 ## 9. Criterios de aviso al médico / derivación / escalado
@@ -358,7 +336,7 @@ El proyecto Neumonía Zero aplica **de forma simultánea** un paquete de medidas
 | Fiebre >38 °C, secreciones purulentas o leucocitosis/leucopenia | Avisar y obtener muestras antes de los antibióticos |
 | Infiltrado nuevo o progresivo en la radiografía | Avisar y completar el estudio microbiológico |
 | Deterioro de la oxigenación (descenso de PaO₂/FiO₂ o aumento de FiO₂) | Avisar de inmediato; valorar VM protectora y ajuste de PEEP |
-| Hipotensión, lactato >2 mmol/l o vasopresores | Activar el código de sepsis; antibiótico en la primera hora |
+| Hipotensión, hipoperfusión o vasopresores | Activar el código de sepsis; antimicrobianos según probabilidad y tiempos SSC 2026 (inmediato/idealmente ≤1 h si shock) |
 | Sospecha de extubación no planificada u obstrucción del tubo | Avisar de inmediato y asegurar la vía aérea |
 | Fuga aérea persistente o sangrado en secreciones | Avisar; revisar presión del balón y vía aérea |
 | Ausencia de mejoría en 48-72 h o cultivos multirresistentes | Revalorar con microbiología y enfermedades infecciosas; ajustar o desescalar antibióticos |
@@ -369,34 +347,34 @@ El proyecto Neumonía Zero aplica **de forma simultánea** un paquete de medidas
 ### 10.1 Puntos clave
 
 1. La NAVM aparece **≥48 horas después de la intubación** y su prevención es un paquete de medidas, no una medida aislada.
-2. El objetivo es **<9 episodios por 1.000 días de VM** (reducción del 40 %); con un cumplimiento >95 % la reducción alcanza el 59 %.
+2. Las metas del programa se contextualizan; los porcentajes históricos no garantizan un efecto individual ni se copian como meta universal.
 3. La **presión del balón debe mantenerse entre 20 y 30 cmH₂O**, medida con manómetro y registrada.
 4. La **cabecera a 30-45°** reduce la microaspiración, especialmente con nutrición enteral.
-5. La **higiene bucal con clorhexidina al 0,12-0,2 % cada 6-8 h** y el cepillado dental (mínimo 3 veces al día) tienen evidencia alta.
+5. El **cuidado oral diario con cepillado dental** es una práctica esencial; en adultos, SHEA/IDSA 2022 recomienda no usar clorhexidina oral de rutina para prevenir NAVM.
 6. La **higiene de manos** antes y después de manipular la vía aérea es la medida más coste-efectiva; los guantes no la sustituyen.
 7. **Aspirar solo a demanda**, con técnica estéril, sin suero fisiológico rutinario y en menos de 10-15 segundos.
-8. La **aspiración subglótica** con presión ≤100 mmHg reduce la NAVM; verificar el canal cada 8 h.
-9. **No hacer cambios rutinarios** de tubuladuras, tubos ni intercambiadores de calor y humedad (estos últimos no antes de 48 h).
-10. **Reducir el tiempo de VM**: valorar cada día la retirada de la sedación y la extubación, y aplicar el protocolo de desconexión.
+8. Drenaje subglótico en pacientes/dispositivos seleccionados; parámetros según fabricante, sin forzar una luz obstruida.
+9. Cambios de circuitos/componentes según necesidad e instrucciones, sin mínimo universal de recambio de HME.
+10. Revisar seguridad de despertar, prueba respiratoria y extubación como decisiones relacionadas pero distintas.
 
 ### 10.2 Errores frecuentes
 
 | Error | Consecuencia | Actuación correcta |
 | --- | --- | --- |
 | Estimar la presión del balón palpando la jeringa | Presión fuera de rango | Medir siempre con manómetro |
-| No medir la presión tras movilización o aspiración | Microaspiración o lesión traqueal | Medir cada 8 h y tras cada movilización o aspiración |
+| No comprobar cuff ante cambios del sellado | Fuga o lesión no detectada | Manómetro y revisión según dispositivo, situación y plan; sin sobreinflado ciego |
 | Mantener la cabecera <30° o en decúbito supino | Aumento de la microaspiración | Elevar a 30-45° y comprobar cada 8 h |
 | Instilar suero fisiológico de rutina antes de aspirar | Arrastre de secreciones e hipoxemia | No instilar de forma rutinaria |
 | Aspiraciones programadas sin indicación | Lesión mucosa, hipoxemia, aumento de la presión intracraneal | Aspirar solo a demanda |
 | Aspirar más de 15 segundos sin descanso | Desaturación y bradicardia | Aspiraciones cortas con pausas |
 | Cambiar tubuladuras o intercambiadores de rutina | Apertura del circuito y contaminación | Cambiar solo si están sucios o disfuncionantes |
-| No verificar el canal subglótico | Acúmulo de secreciones sobre el balón | Comprobar cada 8 h; inyectar 2 ml de aire si no es permeable |
+| Forzar canal subglótico obstruido | Lesión/manipulación insegura | Seguir fabricante y pedir ayuda; no inyección genérica de aire/líquido |
 | Iniciar antibióticos antes de obtener muestras | Pérdida de información microbiológica | Tomar muestras primero salvo inestabilidad |
-| Profundizar la sedación sin reevaluación diaria | Prolongación de la VM | Prueba de despertar y de respiración espontánea diarias |
+| Sedación sin objetivo/revisión | Exposición innecesaria y complicaciones | Objetivo individual, cribado de seguridad y protocolo de liberación |
 
 ## Fuentes
 
-> 📖 **Fuentes:** Kalil AC, et al. IDSA/ATS HAP/VAP guidelines. Clin Infect Dis 2016;63:e61-e111. · NICE: https://www.nice.org.uk · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+> Prevención cotejada con SHEA/IDSA 2022, tabla 2 y apartados de prácticas esenciales/adicionales: https://pmc.ncbi.nlm.nih.gov/articles/PMC10903147/. Distinguir sus categorías de versiones históricas de Neumonía Zero, sin atribuirles grados intercambiables. Consultados IDSA/ATS 2016, recomendaciones I–II, IV–VII y XXV sobre muestras, biomarcadores y CPIS: https://www.idsociety.org/practice-guideline/hap_vap/, doi:10.1093/cid/ciw353. La selección antimicrobiana y sepsis requieren guías/protocolo vigente; no se certifica cotejo integral de sus recomendaciones en esta tanda.
 
 ---
 

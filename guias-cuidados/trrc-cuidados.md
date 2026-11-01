@@ -1,3 +1,7 @@
+---
+layout: default
+title: "TRRC: cuidados de enfermería y manejo del circuito"
+---
 # TRRC: cuidados de enfermería y manejo del circuito
 
 > 📖 **Fuentes:** KDIGO. Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · AACN: https://www.aacn.org

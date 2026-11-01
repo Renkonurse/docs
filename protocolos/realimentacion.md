@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Síndrome de realimentación: riesgo, prevención y tratamiento"
+---
 # Síndrome de realimentación: riesgo, prevención y tratamiento
 
-> 📖 **Fuentes:** Singer P, et al. ESPEN practical guideline: nutrition in the ICU. Clin Nutr 2023. · NICE. Nutrition support in adults (CG32): https://www.nice.org.uk
+> 📖 **Fuentes:** Singer P, et al. ESPEN practical guideline: nutrition in the ICU. *Clin Nutr*. 2023 · NICE CG32, Nutrition support for adults: https://www.nice.org.uk/guidance/cg32 · da Silva JSV, et al. ASPEN Consensus Recommendations for Refeeding Syndrome. *Nutr Clin Pract*. 2020;35:178-195 · BAPEN. Guidance on thiamine replacement in patients at risk of refeeding syndrome (2024).
 
 ## 1. Definición y objetivo
 
@@ -8,7 +12,7 @@
 
 El **síndrome de realimentación** es la complicación potencialmente mortal que aparece al reintroducir nutrición (oral, enteral o parenteral) en un paciente desnutrido o en ayuno prolongado, y que se caracteriza por un **descenso brusco de los electrolitos intracelulares**, sobre todo del **fósforo**, junto con alteraciones hidroelectrolíticas, cardíacas, neurológicas y metabólicas.
 
-> ⚠️ **Aviso:** Síndrome potencialmente mortal al reintroducir nutrición en pacientes de riesgo. Prevenible con reposición previa de K, Mg, P y tiamina.
+> ⚠️ **Aviso:** Síndrome potencialmente mortal en pacientes de riesgo. La prevención incluye cribado, tiamina, inicio/progresión nutricional individualizados y vigilancia; no se debe retrasar automáticamente la nutrición hasta normalizar electrolitos.
 
 El trastorno bioquímico característico es la **hipofosfatemia de realimentación**, acompañada con frecuencia de hipopotasemia e hipomagnesemia. Puede aparecer en las primeras **24-72 horas** del inicio de la nutrición, aunque el riesgo se mantiene durante la primera semana de progresión calórica.
 
@@ -149,11 +153,11 @@ El resumen de la evaluación indica: «***N* criterio(s) mayor(es) · *M* criter
 ## 5. Actuación PASO A PASO
 
 1. **Identificar y graduar el riesgo.** Aplicar los criterios NICE y contar los criterios mayores y el total. Registrar el nivel obtenido (alto, moderado, bajo o sin criterios). Reevaluar si cambia la situación clínica.
-2. **Corregir los electrolitos ANTES de iniciar la nutrición.** Reponer potasio, magnesio y fósforo hasta valores seguros (ver tabla de reposición). No iniciar la nutrición con electrolitos graves sin corregir.
-3. **Administrar tiamina antes de la primera caloría.** **TIAMINA 200-300 mg IV** antes de iniciar la nutrición.
-4. **Iniciar la nutrición a dosis baja.** **10-15 kcal/kg/día (no más)**. En pacientes de muy alto riesgo (IMC < 14 kg/m² o ayuno > 15 días) comenzar a **5 kcal/kg/día**.
-5. **Progresar lentamente.** **Subir +200 kcal/día cada 3-4 días.** **No llegar al objetivo calórico en < 4-5 días.**
-6. **Monitorizar electrolitos de forma seriada.** **K, Mg y P cada 12 h los primeros 3 días**, y después cada 24 h hasta la estabilización.
+2. Medir K, Mg y P y corregir alteraciones según gravedad. **No retrasar automáticamente el inicio de nutrición hasta normalizar electrolitos**; si son muy bajos/inestables, consensuar aporte y reposición con el equipo especialista.
+3. Administrar tiamina antes de iniciar nutrición en pacientes de riesgo; vía/dosis/duración según guía local (NICE suele recomendar 200-300 mg/día por vía oral antes y durante los primeros 10 días; IV si la vía oral no es apropiada, según guía y disponibilidad).
+4. **Inicio calórico según riesgo y guía adoptada:** NICE propone hasta 10 kcal/kg/día en alto riesgo y 5 kcal/kg/día en casos extremos (p. ej., IMC <14 o ingesta mínima >15 días); ASPEN contempla un rango distinto. Aplicar una guía institucional y contabilizar todos los aportes de glucosa.
+5. Progresar de forma individual según tolerancia, electrolitos y estado clínico; evitar incrementos calóricos rígidos para todos.
+6. Monitorizar K, Mg y P con frecuencia acorde al riesgo (p. ej., cada 12 h puede considerarse en alto riesgo inicial según ASPEN); ajustar intervalo a evolución y protocolo.
 7. **Vigilar la clínica de forma continua.** Debilidad, arritmias, confusión e insuficiencia cardíaca.
 8. **Escalar si aparece deterioro.** Ante hipofosfatemia grave, arritmia, insuficiencia cardíaca o convulsiones, avisar al médico de forma inmediata y considerar ingreso en UCI o unidad con monitorización continua.
 
@@ -161,31 +165,29 @@ El resumen de la evaluación indica: «***N* criterio(s) mayor(es) · *M* criter
 
 | Día | Actuación | Objetivo |
 | --- | --- | --- |
-| Día 0 (previo) | Corregir K, Mg, P · tiamina 200-300 mg IV | Electrolitos seguros |
-| Día 1 | Iniciar 10-15 kcal/kg/día (5 kcal/kg/día si muy alto riesgo) | Tolerancia y control analítico |
-| Días 2-3 | Mantener o subir +200 kcal/día | K, Mg, P cada 12 h |
-| Días 4-7 | Progresión escalonada +200 kcal/día cada 3-4 días | No superar el objetivo antes de 4-5 días |
+| Antes de iniciar | Evaluar riesgo, electrolitos, volumen y tiamina; corregir alteraciones en paralelo según gravedad | Plan consensuado y monitorización |
+| Inicio | Aporte calórico según categoría de riesgo y guía institucional | Vigilar respuesta clínica y analítica |
+| Progresión | Individualizar según tolerancia, evolución de electrolitos y comorbilidades | Ajustar frecuencia de controles |
 | Semana 1 en adelante | Alcanzar el objetivo calórico-proteico si electrolitos estables | Nutrición completa sin complicaciones |
 
 ### Reposición de electrolitos (orientativa)
 
 | Electrolito | Umbral | Reposición | Objetivo |
 | --- | --- | --- | --- |
-| Fósforo (P) | < 2.5 mg/dL | Oral: 32 mmol/día de fosfato (2 comprimidos) si tolera. IV: 10-20 mmol de fosfato sódico/potásico diluidos en 250-500 mL, en 12 h | P > 0.65 mmol/L (2.0 mg/dL) |
-| Fósforo grave | < 0.32 mmol/L (1.0 mg/dL) o sintomático | IV: 20 mmol de fosfato diluidos en 500 mL, en 12 h, con bomba de infusión | P > 0.65 mmol/L |
-| Potasio (K) | < 3.5 mEq/L | KCl 20-40 mEq en 500 mL en 2-4 h (periférico ≤ 40 mEq/L; central hasta 40-80 mEq/L; máx. 10-20 mEq/h) | K 4.0-5.0 mEq/L |
-| Magnesio (Mg) | < 1.7 mg/dL | MgSO₄ 2 g IV en 1-2 h; repetir según niveles. En torsades de pointes: 4-8 g IV | Mg > 1.8-2.0 mg/dL |
+| Fósforo (P) | Interpretar valor, síntomas y tendencia | Vía/preparado/dosis según indicación, función renal y protocolo; fosfato IV es de alto riesgo | Individualizado |
+| Potasio (K) | Interpretar valor, ECG y tendencia | Reposición oral/IV según síntomas, pérdidas, función renal y protocolo institucional | Individualizado |
+| Magnesio (Mg) | Interpretar valor y síntomas | Vía/preparado/dosis según indicación y función renal; seguir protocolo | Individualizado |
 
-> ⚠️ **Aviso:** en insuficiencia renal (eGFR < 30 mL/min) **reducir a la mitad** las dosis de fosfato. No administrar fosfato y calcio simultáneamente por el riesgo de precipitación y calcificación metastásica. Las dosis deben ajustarse al protocolo local y a la respuesta analítica.
+> ⚠️ **Aviso:** la insuficiencia renal aumenta el riesgo de acumulación; no aplicar una reducción fija universal. Seleccionar producto, vía, compatibilidad y monitorización según ficha técnica y protocolo. Evitar mezclar fosfato y calcio en la misma solución salvo compatibilidad validada.
 
 ### Recomendaciones según el nivel de riesgo
 
 Con **≥ 1 criterio mayor**:
 
-- TIAMINA 200-300 mg IV ANTES de iniciar nutrición.
-- Corregir K, Mg, P antes de empezar.
-- Iniciar a 10-15 kcal/kg/día.
-- Monitorizar K, Mg, P cada 12 h los primeros 3 días.
+- Administrar tiamina antes de nutrición según guía institucional y vía apropiada.
+- Corregir electrolitos en paralelo; individualizar el aporte calórico si existen alteraciones graves/inestables.
+- Inicio y progresión calórica según nivel de riesgo y guía adoptada.
+- Monitorizar K, Mg y P con frecuencia acorde al riesgo, tratamiento y tendencia.
 - Vigilar clínica: debilidad, arritmias, confusión.
 
 Con **≥ 3 criterios mayores**, además:
@@ -201,12 +203,10 @@ Sin criterios marcados:
 
 ### Medidas de enfermería
 
-- **TIAMINA 200-300 mg IV** antes de iniciar la nutrición y **3 días más** (en alto riesgo, prolongar hasta 10 días según criterio médico).
-- **Corregir K, Mg y P antes de empezar.**
-- **Iniciar a 10-15 kcal/kg/día (no más).**
-- **Subir lento: +200 kcal/día cada 3-4 días.**
-- **No llegar al objetivo calórico en < 4-5 días.**
-- **Monitorizar K, Mg, P cada 12 h los primeros 3 días.**
+- Administrar tiamina antes del aporte según guía, vía tolerada y duración recomendada.
+- Corregir electrolitos de forma concomitante; decidir con el equipo si alteraciones graves requieren modificar el inicio/progresión.
+- Individualizar calorías iniciales y progresión por nivel de riesgo; no usar una tasa única.
+- Monitorizar K, Mg y P según categoría de riesgo y respuesta (frecuencia más estrecha al inicio en alto riesgo).
 - **Vigilar clínica: debilidad, arritmias, confusión, insuficiencia cardíaca.**
 - Mantener la **vía venosa permeable** y comprobar la perfusión correcta de fosfato, potasio y magnesio; usar bomba de infusión.
 - Registrar el **peso diario**, el **balance hídrico** y la **diuresis**; vigilar edemas y crepitantes.
@@ -219,7 +219,7 @@ Sin criterios marcados:
 
 | Parámetro | Frecuencia |
 | --- | --- |
-| K, Mg, P | Cada 12 h los 3 primeros días; luego cada 24 h hasta estabilizar |
+| K, Mg, P | Según riesgo y evolución; considerar controles cada 12 h al inicio en alto riesgo conforme a guía/protocolo |
 | Glucemia capilar | Cada 4-6 h (o según pauta de insulina) |
 | Constantes y ritmo cardíaco | Horaria en paciente inestable; continua si monitorización |
 | Peso y balance hídrico | Diario |
@@ -241,20 +241,20 @@ Sin criterios marcados:
 
 | Complicación | Signos | Actuación |
 | --- | --- | --- |
-| Hipofosfatemia grave | P < 1.0 mg/dL, debilidad, insuficiencia respiratoria | Reposición IV de fosfato según tabla; monitorizar cada 12 h; avisar al médico |
+| Hipofosfatemia grave | P < 1.0 mg/dL, debilidad, insuficiencia respiratoria | Aviso urgente; reposición y monitorización individualizadas según función renal, producto y protocolo |
 | Hipopotasemia | K < 3.5 mEq/L, debilidad, íleo, arritmias | Reponer KCl por vía y velocidad adecuadas; corregir también Mg |
-| Hipomagnesemia | Mg < 1.7 mg/dL, temblor, arritmias, torsades | MgSO₄ 2 g IV en 1-2 h; repetir según niveles |
+| Hipomagnesemia | Mg bajo, temblor, arritmias, torsades | Evaluación urgente si sintomática; tratar según protocolo y función renal |
 | Arritmias | Taquicardia, extrasístoles, QT largo, torsades | Monitorización continua, ECG, corregir K y Mg, avisar al médico |
 | Insuficiencia cardíaca / sobrecarga | Disnea, crepitantes, edemas, ganancia de peso, oliguria | Restricción hídrica, diurético según prescripción, reevaluar aporte; avisar |
 | Edema agudo de pulmón | Disnea, desaturación, crepitantes | Incorporar, oxigenoterapia, soporte según protocolo; aviso urgente |
-| Encefalopatía de Wernicke | Confusión, oftalmoplejía, ataxia | Tiamina IV inmediata a dosis alta; no administrar glucosa sin tiamina |
+| Sospecha de encefalopatía de Wernicke | Confusión, oftalmoplejía, ataxia | Administrar tiamina parenteral urgente según protocolo; no retrasar el tratamiento de una hipoglucemia grave mientras se obtiene tiamina |
 | Convulsiones | Crisis tónico-clónicas, focalidad | Proteger la vía aérea, tratamiento anticonvulsivo, corregir electrolitos, avisar |
 | Rabdomiólisis | Debilidad, dolor muscular, orina oscura, CK elevada | Hidratación, control de electrolitos y función renal |
 | Hiperglucemia | Glucemia elevada, diuresis osmótica | Insulina según pauta, ajustar aporte de hidratos de carbono |
 | Diarrea / intolerancia enteral | Deposiciones líquidas, distensión | Revisar velocidad y osmolaridad de la dieta, valorar vía alternativa |
 | Broncoaspiración | Tos, desaturación, infiltrado nuevo | Suspender la toma, aspirar, cabecera elevada, valorar antibiótico |
 
-> ⚠️ **Aviso:** ante cualquier complicación, la primera medida es **reducir o suspender temporalmente el aporte calórico** y corregir el electrolito implicado. La realimentación se reanuda a dosis inferior una vez estabilizado el paciente.
+> ⚠️ **Aviso:** ante deterioro o descenso electrolítico importante, reevaluar de inmediato el aporte y la reposición con el equipo responsable. No suspender ni reducir automáticamente toda nutrición: la decisión depende de gravedad, tendencia y guía adoptada.
 
 ## 8. Prevención
 
@@ -262,12 +262,10 @@ La prevención es la medida más eficaz: el síndrome es previsible y evitable c
 
 ### Protocolo de prevención
 
-- **TIAMINA 200-300 mg IV** antes de iniciar la nutrición y 3 días más.
-- **Corregir K, Mg y P** antes de empezar.
-- **Iniciar a 10-15 kcal/kg/día** (no más). En muy alto riesgo, 5 kcal/kg/día.
-- **Subir lento: +200 kcal/día cada 3-4 días.**
-- **No llegar al objetivo calórico en < 4-5 días.**
-- **Monitorizar K, Mg, P cada 12 h los primeros 3 días.**
+- Administrar tiamina antes de la nutrición según guía local, vía/dosis apropiadas y duración recomendada.
+- Corregir K, Mg y P en paralelo; individualizar el aporte si hay alteraciones graves o inestables.
+- Seleccionar aporte inicial y progresión calórica según nivel de riesgo y guía institucional; no aplicar una pauta única.
+- Monitorizar K, Mg y P según riesgo, tratamiento y tendencia; controles más frecuentes pueden ser necesarios al inicio.
 - **Vigilar clínica: debilidad, arritmias, confusión, insuficiencia cardíaca.**
 - Administrar complejo vitamínico y oligoelementos si están indicados.
 - Preferir la **vía enteral** frente a la parenteral cuando sea posible; si se usa parenteral, introducir los hidratos de carbono de forma progresiva.
@@ -288,29 +286,29 @@ Avisar al médico de forma **inmediata** ante cualquiera de los siguientes:
 - **Hiperglucemia mantenida** o cetoacidosis.
 - Necesidad de **ingreso en UCI o unidad con monitorización continua** (≥ 3 criterios mayores, inestabilidad hemodinámica o respiratoria).
 
-> ⚠️ **Aviso:** el paciente con **≥ 3 criterios mayores** debe considerarse candidato a monitorización continua, aunque el inicio de la nutrición sea correcto.
+> ⚠️ **Aviso:** la necesidad de monitorización continua se decide según inestabilidad, gravedad de alteraciones, comorbilidad y recursos; el número de criterios por sí solo no la determina.
 
 ## 10. Puntos clave y errores frecuentes
 
 ### Puntos clave
 
 - El síndrome de realimentación es **potencialmente mortal pero prevenible**.
-- El **fósforo** es el electrolito centinela: hipofosfatemia, junto con hipopotasemia y/o hipomagnesemia, en un paciente de riesgo confirma el cuadro.
-- La **tiamina se administra antes** de la primera caloría, siempre.
-- La **progresión calórica lenta** es la medida preventiva más importante: iniciar a 10-15 kcal/kg/día, subir +200 kcal/día cada 3-4 días y no alcanzar el objetivo antes de 4-5 días.
-- La monitorización de **K, Mg y P cada 12 h los primeros 3 días** permite la detección precoz.
+- El fósforo suele ser un electrolito centinela; diagnosticar el síndrome con criterios clínico-bioquímicos y contexto, no por un valor aislado.
+- En pacientes de riesgo, administrar tiamina antes del inicio según la guía adoptada.
+- Individualizar aporte y progresión calórica según riesgo y evolución.
+- Monitorizar K, Mg y P con frecuencia proporcional al riesgo y cambios observados.
 - La clínica de alarma es **debilidad, arritmias, confusión e insuficiencia cardíaca**.
-- Un paciente con **≥ 1 criterio mayor** requiere protocolo de prevención; con **≥ 3**, monitorización continua.
+- El riesgo, no un recuento aislado, guía el plan preventivo y el nivel de monitorización.
 
 ### Errores frecuentes
 
 | Error | Consecuencia | Corrección |
 | --- | --- | --- |
 | Iniciar nutrición sin cribar el riesgo | Síndrome no detectado | Aplicar criterios NICE siempre |
-| No dar tiamina antes de la primera caloría | Wernicke, acidosis láctica | Tiamina 200-300 mg IV previa |
+| Omitir tiamina en pacientes de riesgo | Encefalopatía de Wernicke | Administrar según guía institucional, vía apropiada y duración recomendada |
 | Alcanzar el objetivo calórico en 1-2 días | Hipofosfatemia grave | Progresión lenta y escalonada |
-| No corregir K, Mg y P antes de empezar | Arritmias y fallo cardíaco | Reposición previa y seriada |
-| Vigilar electrolitos solo cada 24-48 h | Diagnóstico tardío | Cada 12 h los 3 primeros días |
+| No valorar ni tratar electrolitos al iniciar | Deterioro no detectado | Corrección concomitante y controles según riesgo/protocolo |
+| Aplicar intervalos de analítica iguales a todos | Diagnóstico tardío o controles innecesarios | Ajustar frecuencia a riesgo, evolución y tratamiento |
 | Atribuir la debilidad o la confusión a la sedación o a la sepsis | Retraso del tratamiento | Descartar siempre hipofosfatemia |
 | Suspender la nutrición indefinidamente | Desnutrición iatrogénica | Reducir dosis y reintroducir al estabilizar |
 | No vigilar balance hídrico ni peso | Sobrecarga e insuficiencia cardíaca | Peso y balance diarios |
@@ -318,7 +316,7 @@ Avisar al médico de forma **inmediata** ante cualquiera de los siguientes:
 
 ## Fuentes
 
-> 📖 **Fuentes:** Singer P, et al. ESPEN practical guideline: nutrition in the ICU. Clin Nutr 2023. · NICE. Nutrition support in adults (CG32): https://www.nice.org.uk
+> 📖 **Fuentes:** Singer P, et al. ESPEN practical guideline: nutrition in the ICU. *Clin Nutr*. 2023 · NICE CG32, Nutrition support for adults: https://www.nice.org.uk/guidance/cg32 · da Silva JSV, et al. ASPEN Consensus Recommendations for Refeeding Syndrome. *Nutr Clin Pract*. 2020;35:178-195 · BAPEN. Guidance on thiamine replacement in patients at risk of refeeding syndrome. 2024.
 
 - **Singer P, et al.** ESPEN practical guideline: nutrition in the ICU. *Clin Nutr* 2023.
 - **NICE.** Nutrition support in adults (CG32). https://www.nice.org.uk

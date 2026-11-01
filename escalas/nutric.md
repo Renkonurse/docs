@@ -1,3 +1,7 @@
+---
+layout: default
+title: "NUTRIC Score (con IL-6) · riesgo nutricional en el paciente crítico"
+---
 # NUTRIC Score (con IL-6) · riesgo nutricional en el paciente crítico
 
 > 📖 **Fuentes:** Heyland DK, Dhaliwal R, Jiang X, Day AG. *Identifying critically ill patients who benefit the most from nutrition therapy: the development and initial validation of a novel risk assessment tool (NUTRIC score).* Crit Care Med. 2011;39(4):795-801. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer.
@@ -153,7 +157,9 @@ Se ha validado en múltiples cohortes internacionales, con y sin IL-6. No se inc
 - Usar el **APACHE II y SOFA del ingreso**.
 - No mide desnutrición previa: mide **riesgo modificable con la nutrición**.
 - Monitorizar la **tolerancia** y el **síndrome de realimentación**.
+
 ---
+
 ## Evidencia y referencias
 
 - **Heyland DK, et al.** Identifying critically ill patients who benefit the most from nutrition therapy: the development and initial validation of a novel risk assessment tool. *Crit Care* 2011;15:R268.
@@ -163,6 +169,7 @@ Se ha validado en múltiples cohortes internacionales, con y sin IL-6. No se inc
 > La versión original incluye IL-6, que no está disponible de forma rutinaria; por eso se usa mNUTRIC. La puntuación orienta, no impone una terapia nutricional agresiva.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

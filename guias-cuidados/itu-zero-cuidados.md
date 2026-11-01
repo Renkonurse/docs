@@ -1,3 +1,7 @@
+---
+layout: default
+title: "ITU-Zero: prevención de la infección urinaria asociada a sonda vesical"
+---
 # ITU-Zero: prevención de la infección urinaria asociada a sonda vesical
 
 > 📖 **Fuentes:** Tenke P, et al. / EAU. Catheter-associated UTI (base de ITU-Zero). Eur Urol Suppl. · Loveday HP, et al. epic3: National Evidence-Based Guidelines for Preventing HCAI. J Hosp Infect 2014. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.

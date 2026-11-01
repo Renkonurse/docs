@@ -1,10 +1,14 @@
+---
+layout: default
+title: "Convulsiones y monitorización EEG continuo en la UCI: reconocimiento, tratamiento escalonado y cuidados de enfermería"
+---
 # Convulsiones y monitorización EEG continuo en la UCI: reconocimiento, tratamiento escalonado y cuidados de enfermería
 
-> 📖 **Fuentes:** Brophy GM, et al. Neurocritical Care Society. Guidelines for status epilepticus. Neurocrit Care 2012;17:3-23. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+> 📖 **Fuentes:** Brophy GM, et al. Neurocritical Care Society. Guidelines for status epilepticus. *Neurocrit Care*. 2012;17:3-23. · Glauser T, et al. American Epilepsy Society guideline for convulsive status epilepticus. *Epilepsy Curr*. 2016;16:48-61. · Kapur J, et al. ESETT. *N Engl J Med*. 2019;381:2103-2113. doi:10.1056/NEJMoa1905795 · Marino PL. *The ICU Book*. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
 
 *Reconocimiento, registro del episodio y cuidados del electrodo; incluye además el tratamiento escalonado del estatus epiléptico y las indicaciones del EEG continuo.*
 
-La convulsión y el estatus epiléptico son urgencias neurológicas **tiempo-dependientes**: cada minuto de actividad eléctrica sostenida incrementa el daño neuronal y las complicaciones sistémicas (hipoxia, hipercapnia, acidosis, rabdomiólisis, hipertermia). En el paciente crítico, buena parte de las crisis son **no convulsivas** —sin manifestación motora— y solo se detectan con EEG continuo, de modo que la monitorización electroencefalográfica es una herramienta diagnóstica y de titulación terapéutica, no un complemento opcional. Este protocolo ordena las definiciones, la valoración inicial, la actuación escalonada con dosis y tiempos, los cuidados de enfermería con sus frecuencias, las complicaciones y los criterios de escalado, para poder aplicarlo de forma autónoma a pie de cama.
+El estatus convulsivo exige respuesta urgente y tratamiento precoz. En UCI también hay crisis sin manifestaciones motoras prominentes que requieren EEG y correlación clínica; ni toda alteración de consciencia es una crisis ni todo paciente sedado necesita EEG continuo. Esta guía educativa de adultos no es un protocolo autónomo de prescripción: selección, dosis, velocidad y escalada requieren algoritmo vigente, ficha técnica y equipo responsable; no extrapolar a pediatría.
 
 ## 1. Definición y objetivo
 
@@ -13,10 +17,10 @@ La convulsión y el estatus epiléptico son urgencias neurológicas **tiempo-dep
 | Término | Definición operativa |
 |---|---|
 | **Crisis epiléptica** | Descarga neuronal excesiva e hipersincrónica con manifestaciones motoras, sensitivas, autonómicas, cognitivas o conductuales, con o sin pérdida de consciencia. |
-| **Estatus epiléptico (EE)** | Crisis continua de **≥ 5 minutos**, o crisis recurrentes sin recuperación del nivel de consciencia entre ellas. |
+| **Estatus epiléptico (EE)** | Fracaso de los mecanismos de terminación de crisis. En el convulsivo tónico-clónico, ≥5 min o recurrencia sin recuperación exige tratamiento urgente; otras formas tienen criterios/tiempos específicos. |
 | **EE convulsivo generalizado** | El subtipo con manifestaciones motoras bilaterales; es la forma con mayor riesgo vital inmediato. |
-| **EE no convulsivo (EENC)** | Actividad eléctrica ictal continua o recurrente **sin manifestaciones motoras prominentes**, con alteración del nivel de consciencia; se confirma con EEG. |
-| **EE refractario** | Persiste a pesar de benzodiacepina y un antiepiléptico de segunda línea a dosis adecuadas (habitualmente > 30-40 minutos de evolución). |
+| **EE no convulsivo (EENC)** | Actividad eléctrica ictal continua o recurrente **sin manifestaciones motoras prominentes**, con alteración del nivel de consciencia; requiere interpretación del EEG en contexto clínico. |
+| **EE refractario** | Persiste tras benzodiacepina y segunda línea adecuadas; no hay que esperar un minuto prefijado si ya cumple fracaso terapéutico. |
 | **EE superrefractario** | Persiste o recurre **≥ 24 horas** después del inicio de la perfusión anestésica, o recidiva al intentar retirarla. |
 | **EE sutil** | Fase tardía del EE convulsivo: manifestaciones motoras mínimas (sacudidas faciales, nistagmo, mioclonías) con coma persistente; implica mayor gravedad. |
 | **EEG continuo (cEEG)** | Registro electroencefalográfico mantenido durante horas o días, con vigilancia e interpretación periódicas, para detectar crisis y titular el tratamiento. |
@@ -34,7 +38,7 @@ La convulsión y el estatus epiléptico son urgencias neurológicas **tiempo-dep
 
 Se aplica a todo paciente ingresado en UCI, en reanimación, en urgencias o en traslado intrahospitalario con riesgo de crisis o con crisis establecida. El paciente neurocrítico es el grupo de mayor riesgo: traumatismo craneoencefálico grave, ictus isquémico o hemorrágico, hemorragia subaracnoidea, hemorragia intracerebral, tumor o cirugía neuroquirúrgica reciente, encefalopatía postanóxica, infección del sistema nervioso central, abstinencia alcohólica y estatus epiléptico en tratamiento anestésico.
 
-> ⚠️ **Aviso:** La relajación muscular, la sedación profunda y la hipotermia pueden ocultar las manifestaciones motoras de una crisis. La ausencia de movimientos **no equivale** a ausencia de crisis: sin EEG continuo, el estatus no convulsivo pasa desapercibido.
+> ⚠️ **Aviso:** La relajación muscular, la sedación profunda y la hipotermia pueden ocultar las manifestaciones motoras de una crisis. La ausencia de movimientos **no equivale** a ausencia de crisis: ante sospecha clínica, solicitar EEG urgente y valorar monitorización continua según evolución.
 
 ## 2. Etiología y fisiopatología
 
@@ -74,7 +78,7 @@ La crisis se produce por un **desequilibrio entre excitación (glutamato, aspart
 - **Fase establecida:** a partir de 5-30 minutos; el control se vuelve progresivamente más difícil.
 - **Refractario:** ausencia de respuesta a benzodiacepina y a un antiepiléptico de segunda línea correctamente dosificados.
 - **Superrefractario:** persistencia o recidiva ≥ 24 horas desde el inicio de la perfusión anestésica.
-- **Tiempos de referencia (t1/t2):** t1 (inicio del tratamiento) a los 5 minutos en el estatus convulsivo generalizado y a los 10-15 minutos en el focal o no convulsivo; t2 (riesgo de daño neuronal irreversible) a los 30 minutos en el generalizado y a los 60 minutos en el focal o no convulsivo.
+- **Tiempos ILAE 2015:** tónico-clónico t1=5 min/t2=30 min; focal con alteración de consciencia t1≈10 min/t2>60 min; ausencia t1≈10–15 min y t2 desconocido. Son estimaciones operativas con evidencia limitada, no fronteras individuales de daño ni tiempos de espera antes de pedir ayuda. No agrupar todo estatus no convulsivo en un único t2. Fuente: Trinka et al., doi:10.1111/epi.13121.
 
 > ⚠️ **Aviso:** No se debe esperar a completar 5 minutos de crisis para preparar el material y avisar al equipo. La preparación se inicia en cuanto se reconoce el episodio.
 
@@ -90,7 +94,7 @@ La crisis se produce por un **desequilibrio entre excitación (glutamato, aspart
 | Entidad | Claves para diferenciarla |
 |---|---|
 | **Síncope convulsivo** | Pródromos, palidez, bradicardia, hipotensión, sacudidas breves tras la pérdida de consciencia; recuperación rápida. |
-| **Crisis psicógena no epiléptica** | Movimientos asíncronos, lado a lado, con consciencia conservada, sin desaturación ni elevación de lactato ni de CK. |
+| **Crisis psicógena no epiléptica** | Algunos patrones semiológicos pueden orientar, pero ninguno confirma por sí solo. La saturación normal o la ausencia de elevación de lactato/CK **no la diagnostican ni excluyen epilepsia**; integrar historia, exploración y valoración especializada, a menudo con vídeo-EEG. |
 | **Escalofríos o temblor** | Movimientos rítmicos rápidos, sin alteración de consciencia, con descenso de la temperatura central. |
 | **Síndrome serotoninérgico** | Fiebre, hiperreflexia, clono espontáneo e inducible, agitación, antecedente farmacológico. |
 | **Síndrome neuroléptico maligno** | Rigidez en rueda dentada, hipertermia, elevación de CK, antecedente de antipsicóticos. |
@@ -108,15 +112,15 @@ La crisis se produce por un **desequilibrio entre excitación (glutamato, aspart
 - Titulación de la sedación y valoración del grado de supresión del trazado.
 - Detección de descargas periódicas y orientación pronóstica.
 
-> ⚠️ **Aviso:** En el paciente sedado, relajado o en coma, el EEG continuo es la única forma de detectar crisis no convulsivas y de evitar el sobretratamiento o el infratratamiento.
+> ⚠️ **Aviso:** En el paciente sedado, relajado o en coma, solicitar EEG urgente; el EEG continuo suele ser necesario si persiste la alteración, hay sospecha de crisis recurrentes o se titulan anestésicos. Interpretar el registro con el cuadro clínico para evitar tanto infratratamiento como sobretratamiento.
 
 ### 3.5 Criterios de Salzburgo para el estatus no convulsivo
 
 | Categoría | Criterios |
 |---|---|
-| **Definitivo** | Crisis electrográficas frecuentes o abundantes (> 2,5 Hz); **o** descargas periódicas o actividad delta rítmica > 2 Hz con mejoría clínica tras antiepiléptico intravenoso; **o** evolución espacio-temporal típica e inequívoca. |
-| **Posible** | Descargas periódicas o actividad delta rítmica ≤ 2 Hz con fluctuación o descargas epileptiformes; **o** descargas periódicas o actividad delta rítmica > 2 Hz sin mejoría clínica tras antiepiléptico intravenoso. |
-| **No EENC** | Ausencia de descargas epileptiformes. |
+| **Aplicación especializada** | Los criterios de Salzburgo integran patrón, frecuencia, evolución, respuesta electroclínica y situación basal. Debe usarse el algoritmo completo por neurofisiología, no estos descriptores como un test autónomo. |
+| **Patrones dudosos** | Descargas periódicas o rítmicas no equivalen siempre a crisis; interpretar con contexto y evolución. Una mejoría de trazado por sedación sin correlación clínica no resuelve automáticamente el diagnóstico. |
+| **Estudio no concluyente** | Ausencia de descargas en un registro superficial breve no excluye crisis intermitentes o focos profundos; decidir seguimiento según sospecha. No etiquetar «No EENC» por ese único dato. |
 
 ### 3.6 Escalas de valoración y pronóstico
 
@@ -124,7 +128,7 @@ La crisis se produce por un **desequilibrio entre excitación (glutamato, aspart
 |---|---|---|
 | **Glasgow (GCS)** | Apertura ocular, respuesta verbal y motora. | Disminución de 2 o más puntos = deterioro; ≤ 8 orienta a protección de la vía aérea. |
 | **FOUR** | Ojos, respuesta motora, tronco y respiración. | Útil en el paciente intubado, donde la respuesta verbal no es valorable. |
-| **STESS** | Nivel de consciencia (0 alerta/somnoliento/confuso, 1 estuporoso/coma), tipo de crisis (0 no convulsiva, 1 convulsiva generalizada), edad (0 < 65 años, 1 ≥ 65 años) e historia previa de crisis (0 sí, 1 no). | Puntuación 0-6; **≥ 3** se asocia a peor pronóstico. |
+| **STESS** | Consciencia: alerta/somnoliento/confuso 0, estupor/coma 1. Peor semiología: focal/ausencia/mioclónica 0, convulsiva generalizada 1, no convulsiva en coma 2. Edad <65=0, ≥65=2. Historia de crisis sí=0, no/desconocida=1. | Total 0–6; describe riesgo poblacional, no pronóstico individual ni motivo para limitar soporte. Fuente Rossetti et al., 2008, doi:10.1007/s00415-008-0989-1. |
 
 ## 4. Valoración inicial
 
@@ -181,12 +185,14 @@ El registro estructurado de todo episodio incluye estos siete datos, que permite
 2. Avisar al equipo responsable y solicitar ayuda; registrar la hora de inicio.
 3. Administrar oxígeno, aspirar secreciones y monitorizar.
 4. Canalizar acceso intravenoso y extraer analítica inicial.
-5. **Glucemia capilar inmediata**: si hipoglucemia, administrar glucosa; en paciente desnutrido o alcohólico, **tiamina 100 mg IV** antes o junto con la glucosa.
+5. **Glucemia inmediata:** corregir hipoglucemia según protocolo sin retrasar glucosa para disponer de tiamina. Si existe riesgo de déficit de tiamina, administrarla precozmente conforme a indicación; la sospecha de encefalopatía de Wernicke requiere pauta específica, no una dosis única universal.
 6. Corregir de forma simultánea las causas reversibles: hiponatremia, hipocalcemia, hipomagnesemia, fiebre, tóxicos.
 
 > ⚠️ **Aviso:** Ante una convulsión, protege la vía aérea y la cabeza, no inmovilices a la fuerza y avisa al equipo responsable si la crisis dura más de lo previsto por el protocolo.
 
 ### 5.2 Fase 5-20 minutos: benzodiacepinas (primera línea)
+
+Los intervalos de fase ordenan la respuesta, no obligan a esperar si persiste la crisis. Verificar dosis prehospitalarias/previas, edad/peso, vía, formulación, máximos y monitorización conforme al algoritmo y ficha técnica. Las tablas siguientes son referencias docentes, no órdenes de administración ni pautas completas para toda etiología.
 
 | Fármaco | Dosis | Vía | Repetición |
 |---|---|---|---|
@@ -224,7 +230,7 @@ El registro estructurado de todo episodio incluye estos siete datos, que permite
 | **Tiopental** | 3-5 mg/kg IV | 3-5 mg/kg/h | Acumulación, hipotensión, depresión miocárdica. |
 
 - Intubación y ventilación mecánica antes o durante el inicio de la perfusión; soporte vasopresor disponible.
-- **EEG continuo obligatorio** para titular la dosis y detectar crisis electrográficas.
+- **EEG continuo** (según protocolo, disponibilidad y algoritmo vigente) para titular la dosis y detectar crisis electrográficas.
 - Objetivo inicial: **supresión de las crisis**, no necesariamente supresión total del trazado; el objetivo de supresión completa no ha demostrado ser superior.
 - Valorar el ajuste a **patrón de brote-supresión** según el protocolo de la unidad, y mantenerlo el tiempo indicado antes de iniciar una retirada lenta y monitorizada.
 - Vigilar de forma estrecha glucemia, iones, gasometría, CK, triglicéridos, temperatura y hemodinámica.
@@ -235,16 +241,16 @@ Cuando el estatus persiste o recidiva tras 24 horas de anestésicos, revisar la 
 
 - **Ketamina:** carga de 1-2 mg/kg y perfusión de 0,5-5 mg/kg/h, con titulación electroencefalográfica; puede asociarse a midazolam.
 - Otros antiepilépticos no benzodiacepínicos: lacosamida, topiramato, perampanel o brivaracetam, según disponibilidad.
-- Medidas de rescate: hipotermia moderada (32-35 °C), dieta cetogénica, inmunoterapia si se sospecha causa autoinmune, magnesio, piridoxina en la intoxicación por isoniazida.
+- Rescates seleccionados por etiología y centro experto: inmunoterapia ante causa autoinmune, dieta cetogénica u otras opciones. No indicar hipotermia de rutina ni confundir vitaminas: intoxicación por isoniazida requiere **piridoxina**, mientras que el déficit de tiamina tiene otra indicación. La eclampsia sigue un algoritmo obstétrico específico.
 - Otras opciones: anestésicos inhalatorios, estimulación del nervio vago o electroconvulsoterapia, en centros con experiencia.
 
 > ⚠️ **Aviso:** El estatus superrefractario se asocia a mortalidad elevada y a estancias prolongadas. Requiere revisión multidisciplinar, búsqueda activa de la causa y reevaluación continua del objetivo terapéutico.
 
 ### 5.6 Estatus no convulsivo y estatus sutil
 
-- En el paciente que no despierta tras el control de las crisis motoras, **solicitar EEG** y asumir estatus no convulsivo hasta que se demuestre lo contrario.
-- El tratamiento sigue la misma secuencia que en el estatus convulsivo, con control electroencefalográfico de la respuesta.
-- En el estatus sutil o en fases tardías, el control suele requerir perfusión anestésica y soporte hemodinámico.
+- Si el paciente no recupera la consciencia tras el control de las crisis motoras, **solicitar EEG urgente** y valorar simultáneamente estado posictal, fármacos, causas metabólicas y lesión cerebral; no diagnosticar EENC solo por la falta de despertar.
+- El tratamiento depende del patrón electroclínico, etiología y respuesta; usar EEG para confirmar y seguir la respuesta. No extrapolar automáticamente el esquema convulsivo ni escalar a anestesia general sin valoración experta.
+- Reservar perfusión anestésica para indicaciones seleccionadas (p. ej., estatus refractario) con soporte de UCI y monitorización EEG continua.
 
 ### 5.7 Medidas generales simultáneas a todo lo anterior
 
@@ -259,7 +265,7 @@ Cuando el estatus persiste o recidiva tras 24 horas de anestésicos, revisar la 
 ### 6.1 Vía aérea, seguridad y posición
 
 - Mantener la **permeabilidad de la vía aérea** y la **SpO₂** dentro del objetivo; aspirar secreciones cuando sea necesario.
-- Colocar en **posición lateral de seguridad** durante la crisis y proteger la cabeza.
+- Considerar posición lateral si es segura según vía aérea, lesiones/columna y dispositivos; no forzar el giro durante movimientos violentos ni alterar soporte sin plan. Proteger cabeza y entorno.
 - **No inmovilizar al paciente a la fuerza** ni introducir objetos en la boca.
 - Retirar objetos peligrosos del entorno y acolchar las barandillas.
 - No abandonar al paciente durante el episodio; pedir ayuda de forma precoz.
@@ -274,29 +280,32 @@ Cuando el estatus persiste o recidiva tras 24 horas de anestésicos, revisar la 
 ### 6.3 Qué aporta el EEG y el EEG continuo
 
 - El EEG registra la actividad eléctrica cerebral: ayuda a **confirmar crisis**, a ver su **origen** y a **detectar crisis no convulsivas**.
-- El **EEG continuo** permite vigilar al paciente sedado o con bajo nivel de consciencia, en el que no hay signos motores.
+- El **EEG continuo** ayuda ante sospecha de crisis no convulsivas y a seguir tratamiento en pacientes seleccionados. Un estudio breve negativo no excluye episodios intermitentes o focos profundos; la falta de movimientos bajo bloqueo neuromuscular no demuestra control.
 - Sirve también para **valorar el nivel de sedación**, detectar **descargas periódicas** y orientar el **pronóstico**.
 - El objetivo terapéutico es la **supresión de las crisis**; en el estatus refractario puede titularse a brote-supresión según el protocolo de la unidad.
 
+Registro continuo no significa lectura en tiempo real: confirmar responsables, frecuencia de revisión y vía de aviso urgente. Un cambio cuantitativo o alarma no autoriza por sí solo ajustar anestesia. Fuente consultada: Herman et al., ACNS 2015, https://pmc.ncbi.nlm.nih.gov/articles/PMC4435533/ (consenso, con limitaciones de evidencia).
+
 ### 6.4 Colocación y cuidados del electrodo
 
-- **Coloca los electrodos según el sistema internacional 10-20**, con la piel **limpia, seca y sin grasa**.
-- **Comprueba la impedancia y la señal al inicio del turno** y recoloca los electrodos que se despeguen.
+- Colocación, preparación de piel, impedancias y recolocación por personal formado conforme al montaje y dispositivo; no aplicar instrucciones genéricas a todos los sistemas.
+- Ante señal alterada, anotar movimiento, sudor, desconexiones y equipos próximos y avisar al técnico; no cambiar filtros o desconectar electrodos para eliminar un posible artefacto sin autorización.
 - **Vigila la piel bajo el electrodo en cada turno** y evita las tracciones del cableado durante la movilización.
 - **Registra los episodios y las incidencias técnicas con la hora**, para poder correlacionarlos con el trazado.
+- Antes de RM u otros procedimientos, confirmar compatibilidad y manejo del sistema concreto. El vídeo clínico requiere procedimiento autorizado y privacidad, no grabaciones personales.
 
 ### 6.5 Frecuencias de vigilancia y registro
 
 | Parámetro | Frecuencia |
 |---|---|
 | ECG, SpO₂, frecuencia respiratoria y capnografía | Continuo |
-| Presión arterial | Continua o cada 15 min en la fase aguda |
-| Nivel de consciencia (GCS/FOUR) y pupilas | Cada 1 hora, o más frecuente si inestable |
-| Glucemia capilar | Cada 1 hora en fase aguda; después cada 4-6 horas |
-| Temperatura | Cada 4 horas |
+| Presión arterial | Vigilancia estrecha según estado y fármacos; continua si indicada, sin esperar a un control ante inestabilidad. |
+| Consciencia/pupilas | Repetir según evolución, tratamientos y protocolo; registrar sedación/parálisis y componentes explorables. |
+| Glucemia | Inmediata y controles según alteración, corrección y riesgo. |
+| Temperatura | Método/frecuencia acordes con gravedad y plan. |
 | Señal e impedancia del EEG | Al inicio de cada turno y tras cada movilización |
 | Piel bajo los electrodos | Cada turno |
-| Gasometría, iones, función renal y CK | Cada 12-24 horas, o antes si deterioro |
+| Gasometría, iones, función renal y CK | Según causa, gravedad, tratamiento y evolución, no un intervalo universal. |
 | Diuresis y balance hídrico | Cada hora en fase aguda y por turno |
 | Registro de la crisis | Inmediato, en cada episodio |
 
@@ -308,7 +317,7 @@ Cuando el estatus persiste o recidiva tras 24 horas de anestésicos, revisar la 
 |---|---|
 | **Hipoxia y broncoaspiración** | Aspirar, elevar el cabecero, administrar oxígeno, valorar intubación; vigilar signos de neumonía por aspiración. |
 | **Hipercapnia y acidosis respiratoria** | Ajustar la ventilación; gasometría; evitar la hipoventilación por sedantes. |
-| **Hipotensión y shock** | Reducir o pausar la perfusión, administrar volumen y vasopresores; reevaluar el equilibrio entre control de la crisis y estabilidad hemodinámica. |
+| **Hipotensión/shock** | Activar ayuda, comprobar causa y fármaco; ajuste según prescripción y respuesta, evitando retirar soporte anticonvulsivo sin alternativa. Fluidos solo si indicados, con tolerancia/congestión; vasoactivos según plan. |
 | **Rabdomiólisis y lesión renal aguda** | Hidratación, control de CK y de la función renal, vigilancia de la diuresis y de la orina colúrica. |
 | **Hipertermia** | Antitérmicos y medidas físicas; descartar infección; la fiebre agrava el daño cerebral. |
 | **Arritmias** | Monitorización continua; corregir iones; revisar fármacos con efecto sobre la conducción. |
@@ -327,7 +336,7 @@ Cuando el estatus persiste o recidiva tras 24 horas de anestésicos, revisar la 
 ## 8. Prevención
 
 - **Identificar y tratar de forma precoz** las causas reversibles: hipoglucemia, disnatremia, hipocalcemia, hipomagnesemia, fiebre, infección y abstinencia.
-- **No suspender nunca** el tratamiento antiepiléptico crónico; ajustar dosis y niveles en el paciente crítico.
+- Evitar omisiones inadvertidas del tratamiento crónico y planificar vías alternativas si no puede recibirlo. Toxicidad, interacciones o fallo orgánico pueden exigir suspensión/cambio indicado; no mantener un fármaco perjudicial por una regla de «nunca suspender».
 - Revisar la lista de fármacos **proconvulsivantes** y sustituirlos cuando sea posible.
 - Mantener la **normoglucemia, la normonatremia y la normotermia**.
 - En el traumatismo craneoencefálico grave, valorar la profilaxis precoz de crisis según el protocolo del centro.
@@ -353,7 +362,7 @@ Cuando el estatus persiste o recidiva tras 24 horas de anestésicos, revisar la 
 
 - La crisis de **5 minutos** define el estatus: tratar sin demora y con dosis plenas.
 - La **benzodiacepina** es la primera línea; la **taquifilaxia** obliga a no retrasar la segunda línea.
-- El **EEG continuo** es imprescindible en el paciente sedado, relajado o en coma: sin él, el estatus no convulsivo pasa desapercibido.
+- Ante falta de recuperación, sedación/bloqueo o sospecha persistente, obtener EEG con urgencia; decidir duración continua según evolución y plan terapéutico.
 - El objetivo es la **supresión de las crisis**, con titulación guiada por EEG; en el estatus refractario puede plantearse el patrón de brote-supresión.
 - Registrar siempre **hora, duración, manifestaciones, nivel de consciencia, tratamiento y respuesta**.
 - El **registro estructurado del episodio** y el cuidado del electrodo son responsabilidad directa de enfermería.
@@ -373,7 +382,7 @@ Cuando el estatus persiste o recidiva tras 24 horas de anestésicos, revisar la 
 
 ## Fuentes
 
-> 📖 **Fuentes:** Brophy GM, et al. Neurocritical Care Society. Guidelines for status epilepticus. Neurocrit Care 2012;17:3-23. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+> 📖 **Fuentes:** Brophy GM, et al. Neurocritical Care Society. Guidelines for status epilepticus. *Neurocrit Care*. 2012;17:3-23. · Glauser T, et al. American Epilepsy Society guideline for convulsive status epilepticus. *Epilepsy Curr*. 2016;16:48-61. · Kapur J, et al. ESETT. *N Engl J Med*. 2019;381:2103-2113. doi:10.1056/NEJMoa1905795 · Marino PL. *The ICU Book*. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier.
 
 ---
 

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "EVA · Escala Visual Analógica del dolor (y escala numérica)"
+---
 # EVA · Escala Visual Analógica del dolor (y escala numérica)
 
 > 📖 **Fuentes:** Huskisson EC. *Measurement of pain.* Lancet. 1974;2(7889):1127-1131 (Escala Visual Analógica). · MSD Manual Professional: https://www.msdmanuals.com/professional
@@ -124,7 +128,9 @@ Su limitación principal no es psicométrica sino de **aplicabilidad**: pierde v
 - Es subjetiva: correlacionarla con signos objetivos.
 - Un dolor que no cede obliga a **buscar otras causas**.
 - Registrar el valor, la hora, la situación y la respuesta al tratamiento.
+
 ---
+
 ## Evidencia y referencias
 
 - **Jensen MP, et al.** The measurement of clinical pain intensity: a comparison of six methods. *Pain* 1986;27:117-126.
@@ -134,6 +140,7 @@ Su limitación principal no es psicométrica sino de **aplicabilidad**: pierde v
 > Es una medida autoinformada; no sirve en pacientes sedados, con delirium o incapaces de comunicarse. La EVA y la escala numérica no son intercambiables sin registrar el instrumento.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

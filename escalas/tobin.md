@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Índice de Tobin (RSBI · Rapid Shallow Breathing Index)"
+---
 # Índice de Tobin (RSBI · Rapid Shallow Breathing Index)
 
-> 📖 **Fuentes:** Yang KL, Tobin MJ. *A prospective study of indexes predicting the outcome of trials of weaning from mechanical ventilation.* N Engl J Med. 1991;324(21):1441-1447. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer.
+> 📖 **Fuentes:** Yang KL, Tobin MJ. *A prospective study of indexes predicting the outcome of trials of weaning from mechanical ventilation.* N Engl J Med. 1991;324(21):1441-1447. · American Association for Respiratory Care. *Clinical Practice Guideline: Spontaneous Breathing Trials for Liberation From Adult Mechanical Ventilation.* Respir Care. 2024. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer.
 
 ## Qué mide y para qué sirve
 
@@ -47,15 +51,17 @@ Fórmula que muestra la app (`es_formula_rsbi`):
 
 ## Puntuación total e interpretación
 
-| RSBI | Significado | Cadena en la app | Actuación de enfermería |
+La app muestra tres bandas de referencia (`es_rsbi_bajo_referencia`, `es_rsbi_zona_intermedia`, `es_rsbi_sobre_130`). Son orientativas y no equivalen a una predicción individual.
+
+| RSBI | Lectura | Cadena en la app | Actuación de enfermería |
 |---|---|---|---|
-| **< 105** | Éxito probable del destete · probabilidad ≈ 80-90 % | `es_info_exito_probable` · `es_rsbi_under_105_detail` | Continuar/mantener la prueba, vigilar la tolerancia, oxigenación y signos de fatiga, y documentar |
-| **105-130** | Zona intermedia · valorar junto al resto de criterios clínicos | `es_info_zona_intermedia` · `es_rsbi_105_130_detail` | Vigilancia estrecha; integrar con consciencia, secreciones, gasometría y hemodinámica; repetir la medición |
-| **> 130** | Fracaso probable · alta probabilidad de fracaso del destete | `es_info_fracaso_probable` · `es_rsbi_over_130_detail` | **Suspender la prueba**, volver al soporte y corregir causas (dolor, secreciones, broncoespasmo, sobrecarga, debilidad, ansiedad); comunicar |
+| **< 105** | Mayor probabilidad de destete exitoso en el estudio original | `es_rsbi_bajo_referencia` · `es_rsbi_under_105_detail` | Mantener la prueba, vigilar tolerancia, oxigenación y signos de fatiga, y documentar |
+| **105 – 130** | Zona intermedia | `es_rsbi_zona_intermedia` · `es_rsbi_105_130_detail` | Vigilancia estrecha; integrar con consciencia, secreciones, gasometría y hemodinámica; repetir la medición |
+| **> 130** | Mayor riesgo de fracaso | `es_rsbi_sobre_130` · `es_rsbi_over_130_detail` | Reevaluar la prueba, corregir causas (dolor, secreciones, broncoespasmo, sobrecarga, debilidad, ansiedad) y comunicar |
 
-Etiquetas de resultado de la app: `es_exito_probable` (ÉXITO PROBABLE), `es_zona_intermedia` (ZONA INTERMEDIA) y `es_fracaso_probable` (FRACASO PROBABLE).
+Un **RSBI < 105** apoya la retirada de la ventilación mecánica, pero **no decide por sí solo** el destete. La app recuerda que hay que **integrar el índice con el resto de criterios clínicos** (`es_rsbi_cuidados`): nivel de consciencia, abundancia de secreciones y capacidad de toser, gasometría, estabilidad hemodinámica, ausencia de fiebre y de nuevas complicaciones.
 
-Un **RSBI < 105** apoya la retirada de la ventilación mecánica, pero **no decide por sí solo** el destete. La app recuerda que hay que **integrar el índice con el resto de criterios clínicos** (`es_info_rsbi_descripcion`): nivel de consciencia, abundancia de secreciones y capacidad de toser, gasometría, estabilidad hemodinámica, ausencia de fiebre y de nuevas complicaciones.
+La guía de práctica clínica de la **AARC de 2024** sobre pruebas de respiración espontánea no considera necesario el RSBI para determinar si el paciente está preparado para la prueba. Sigue siendo un dato complementario útil, pero no un requisito ni un criterio único.
 
 ## Validez
 
@@ -78,7 +84,7 @@ Su gran ventaja es que se mide de forma sencilla, no invasiva y a pie de cama, y
 **Caso.** Mujer de 68 años, en ventilación mecánica por neumonía en resolución, que cumple criterios de destete. Se realiza prueba de tubo en T.
 
 - Tras 1 minuto de estabilización se contabilizan **22 respiraciones/min** y un volumen tidal de **480 mL** (0,48 L).
-- **RSBI = 22 / 0,48 = 45,8** → **< 105 → éxito probable**.
+- **RSBI = 22 / 0,48 = 45,8** → por debajo de 105.
 
 **Actuación de enfermería:** mantener la prueba, vigilar la frecuencia respiratoria, la SpO₂, el uso de musculatura accesoria, la sudoración y el nivel de consciencia; documentar el RSBI con la FR y el VT utilizados; y comunicar la buena tolerancia. Si aparecieran signos de fatiga o el RSBI subiera por encima de 105, repetir la medición y comunicarlo para valorar la continuación del destete.
 
@@ -101,8 +107,8 @@ Su gran ventaja es que se mide de forma sencilla, no invasiva y a pie de cama, y
 ## Autoevaluación rápida
 
 1. ¿Qué mide y en quién se aplica? → El **patrón respiratorio espontáneo (RSBI)** en el paciente en ventilación mecánica candidato a destete.
-2. ¿Cuál es su rango y su punto de corte? → **< 105** éxito probable; **105-130** zona intermedia; **> 130** fracaso probable.
-3. ¿Qué hacer ante un resultado de riesgo (> 130)? → **Suspender la prueba**, volver al soporte y corregir las causas.
+2. ¿Cuál es su rango y sus puntos de corte? → **< 105** mayor probabilidad de éxito; **105-130** zona intermedia; **> 130** mayor riesgo de fracaso.
+3. ¿Qué hacer ante un resultado de riesgo (> 130)? → Reevaluar la prueba, corregir las causas y comunicarlo; no es una indicación automática de suspender.
 4. ¿Cuándo se mide? → En **tubo en T o PSV baja**, tras 1 minuto de estabilización.
 
 ## Preguntas frecuentes
@@ -114,14 +120,16 @@ Su gran ventaja es que se mide de forma sencilla, no invasiva y a pie de cama, y
 ## Puntos clave
 
 - Mide el **patrón respiratorio espontáneo**: **RSBI = FR / VT (L)**.
-- **< 105** éxito probable; **105-130** zona intermedia; **> 130** fracaso probable.
+- **< 105** mayor probabilidad de éxito; **105-130** zona intermedia; **> 130** mayor riesgo de fracaso.
 - Se mide en **tubo en T o PSV baja**, tras **1 minuto** de estabilización.
 - **Sensibilidad y valor predictivo negativo altos**; especificidad limitada.
 - **No decide por sí solo** el destete: integrarlo con el resto de criterios clínicos.
-- Si es **> 130**, suspender la prueba y corregir causas.
+- La **AARC 2024** no lo considera necesario para indicar la prueba de respiración espontánea.
 - Documentar FR y VT medidos, no solo el índice.
 - Repetir y valorar la **tendencia**.
+
 ---
+
 ## Evidencia y referencias
 
 - **Yang KL, Tobin MJ.** A prospective study of indexes predicting the outcome of trials of weaning from mechanical ventilation. *N Engl J Med* 1991;324:1445-1450.
@@ -131,6 +139,7 @@ Su gran ventaja es que se mide de forma sencilla, no invasiva y a pie de cama, y
 > El RSBI < 105 orienta a éxito, pero no decide por sí solo la extubación. Hay que valorar la causa de la insuficiencia, la tos, las secreciones y la vía aérea.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

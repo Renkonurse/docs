@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Higiene de manos en el paciente crítico"
+---
 # Higiene de manos en el paciente crítico
 
 > 📖 **Fuentes:** Loveday HP, et al. epic3: National Evidence-Based Guidelines for Preventing HCAI. J Hosp Infect 2014. · O'Grady NP, et al. CDC Guidelines for Prevention of Intravascular Catheter-Related Infections. · SEEIUC: https://www.seeiuc.org

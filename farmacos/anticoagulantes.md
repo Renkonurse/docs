@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Anticoagulantes en el paciente crítico"
+---
 # Anticoagulantes en el paciente crítico
 
 > 📖 **Fuentes:** Fichas técnicas AEMPS/CIMA: https://cima.aemps.es · ELSO. General Guidelines for All ECLS Cases. 2021. · KDIGO. Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138.

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Escala de Cubbin \u0026 Jackson (riesgo de UPP en el paciente crítico)"
+---
 # Escala de Cubbin & Jackson (riesgo de UPP en el paciente crítico)
 
 > 📖 **Fuentes:** Cubbin B, Jackson C. *Trial of a pressure area risk calculator for intensive therapy patients.* Intensive Care Nurs. 1991;7(1):40-44. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill.
@@ -129,7 +133,9 @@ Es una de las escalas de riesgo de UPP **específicas de críticos** más citada
 - Reevaluar periódicamente y ante cambios clínicos.
 - **No sustituye a la inspección de la piel**.
 - Atención a la orientación de la escala (4 = menor riesgo) y a los textos antiguos del panel.
+
 ---
+
 ## Evidencia y referencias
 
 - **Cubbin B, Jackson C.** Trial of a pressure area risk calculator for intensive therapy patients. *Intensive Care Nurs* 1991;7:40-44.
@@ -139,6 +145,7 @@ Es una de las escalas de riesgo de UPP **específicas de críticos** más citada
 > Es específica del paciente crítico, pero su validación externa es limitada. En planta pueden usarse Braden o EMINA.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "🎬 Vídeos tutoriales (fuentes oficiales)"
+---
 # 🎬 Vídeos tutoriales (fuentes oficiales)
 
 Vídeos de formación de **fabricantes y organismos oficiales**. Pulsa el enlace para abrir el vídeo en el navegador.

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "TRRC: problemas frecuentes del circuito y su resolución"
+---
 # TRRC: problemas frecuentes del circuito y su resolución
 
 > 📖 **Fuentes:** KDIGO. Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.

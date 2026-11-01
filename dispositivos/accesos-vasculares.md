@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Dispositivos de acceso vascular"
+---
 # Dispositivos de acceso vascular
 
 > 📖 **Fuentes:** O'Grady NP, et al. CDC Guidelines for Prevention of Intravascular Catheter-Related Infections. 2011/2017. · Moureau N, et al. INS Infusion Therapy Standards of Practice. *J Infus Nurs*. · Loveday HP, et al. epic3: National Evidence-Based Guidelines for Preventing HCAI. *J Hosp Infect* 2014.
@@ -251,7 +255,11 @@ Catéter venoso **periférico de inserción** (no central), de 8-20 cm, cuya pun
 - **Vuelve lenta y redondeada** (sin oscilaciones) → sistema **sobreamortiguado** (subestima la sistólica).
 - **Normal**: 1-2 oscilaciones antes de estabilizarse.
 
-## 12. Evidencia y referencias
+> 📖 **Fuentes:** Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier. · Marino PL. *The ICU Book*. 4th ed. Wolters Kluwer. · SEEIUC: https://www.seeiuc.org
+
+---
+
+## Evidencia y referencias
 
 - **O'Grady NP, et al.** Guidelines for the Prevention of Intravascular Catheter-Related Infections. CDC, 2011 (actualización 2017).
 - **INS.** Infusion Therapy Standards of Practice. *Journal of Infusion Nursing* (9.ª ed. 2024).
@@ -264,12 +272,12 @@ Catéter venoso **periférico de inserción** (no central), de 8-20 cm, cuya pun
 
 ---
 
-## 13. Errores frecuentes
+## Errores frecuentes
 
 | Error | Consecuencia | Cómo evitarlo |
 |---|---|---|
 | Insertar sin ecografía | Más intentos y complicaciones | Ecografía siempre que sea posible |
-| No confirmar la posición | Neumotórax, malposición, arritmias | Radiografía o ecografía según el acceso |
+| No confirmar la posición | Uso de un acceso mal situado | Confirmación mediante el método validado para el dispositivo y valoración de complicaciones según contexto |
 | Administrar fármacos por vía arterial | Isquemia, necrosis | Identificar y señalizar la línea arterial |
 | No nivelar el transductor arterial | Presión falsamente alta o baja | Nivelar en el eje flebostático y poner a cero |
 | Mantener el catéter sin indicación | Infección y trombosis | Revisión diaria y retirada precoz |
@@ -278,7 +286,7 @@ Catéter venoso **periférico de inserción** (no central), de 8-20 cm, cuya pun
 
 ---
 
-## 14. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

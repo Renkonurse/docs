@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Peso ideal, peso ajustado y porcentaje peso real/ideal"
+---
 # Peso ideal, peso ajustado y porcentaje peso real/ideal
 
 > 📖 **Fuentes:** Devine BJ. Gentamicin therapy. Drug Intell Clin Pharm 1974;8:650-655. · ARDSNet. Ventilation with lower tidal volumes. N Engl J Med 2000;342:1301-1308. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
@@ -144,18 +148,18 @@ por debajo de 152,4 cm y que el resultado es orientativo.
 - **Amputaciones o deformidades de columna**: la talla real no refleja la longitud corporal.
 - **Como único criterio de dosificación**: la ficha técnica de cada fármaco decide el peso a usar.
 - **Embarazo**: usar curvas/valores específicos.
-- **Como diagnóstico nutricional**: completar con valoración dietética y escalas de riesgo (ver [mNUTRIC](../escalas/mnutric.md)).
+- **Como diagnóstico nutricional**: completar con valoración dietética y escalas de riesgo (ver [mNUTRIC](../escalas/mnutric.html)).
 
 ---
 
 ## 8. Relación con otras escalas y parámetros
 
-- **[Volumen corriente protector](volumen-corriente-protector.md)**: el PBW es la fórmula de Devine en centímetros.
-- **[Gasto urinario](gasto-urinario.md)**: opción de peso ideal para normalizar la diuresis.
-- **[Balance hídrico](balance-hidrico.md)**: elección coherente del peso.
-- **[Perfusiones](perfusiones.md)**: dosis por kg según el peso elegido.
-- **[mNUTRIC](../escalas/mnutric.md)** / **[NUTRIC](../escalas/nutric.md)**: valoración del riesgo nutricional.
-- **[Cockcroft-Gault y CKD-EPI](cockcroft-ckd-epi.md)**: el peso influye en el Cockcroft.
+- **[Volumen corriente protector](volumen-corriente-protector.html)**: el PBW es la fórmula de Devine en centímetros.
+- **[Gasto urinario](gasto-urinario.html)**: opción de peso ideal para normalizar la diuresis.
+- **[Balance hídrico](balance-hidrico.html)**: elección coherente del peso.
+- **[Perfusiones](perfusiones.html)**: dosis por kg según el peso elegido.
+- **[mNUTRIC](../escalas/mnutric.html)** / **[NUTRIC](../escalas/nutric.html)**: valoración del riesgo nutricional.
+- **[Cockcroft-Gault y CKD-EPI](cockcroft-ckd-epi.html)**: el peso influye en el Cockcroft.
 
 ---
 

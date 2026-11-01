@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Pérdidas insensibles"
+---
 # Pérdidas insensibles
 
 > 📖 **Fuentes:** KDIGO. Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · SEEIUC: https://www.seeiuc.org
@@ -156,12 +160,12 @@ Neto          = 600 − 300 = 300 mL     → añadir a Egresos
 
 ## 8. Relación con otras escalas y parámetros
 
-- **[Balance hídrico](balance-hidrico.md)**: las P.I. netas se suman a las salidas.
-- **[Gasto urinario](gasto-urinario.md)**: principal salida medible, complementaria a las P.I.
-- **[Termorregulación](../protocolos/termorregulacion.md)**: manejo de la fiebre y la hipertermia.
-- **[Shock: tipos y manejo](../protocolos/shock-critico.md)**: contexto de la reanimación con fluidos.
-- **[Código Sepsis](../protocolos/codigo-sepsis.md)**: la fiebre y las pérdidas en la sepsis.
-- **[Peso ideal](peso-ideal.md)**: elección del peso.
+- **[Balance hídrico](balance-hidrico.html)**: las P.I. netas se suman a las salidas.
+- **[Gasto urinario](gasto-urinario.html)**: principal salida medible, complementaria a las P.I.
+- **[Termorregulación](../protocolos/termorregulacion.html)**: manejo de la fiebre y la hipertermia.
+- **[Shock: tipos y manejo](../protocolos/shock-critico.html)**: contexto de la reanimación con fluidos.
+- **[Código Sepsis](../protocolos/codigo-sepsis.html)**: la fiebre y las pérdidas en la sepsis.
+- **[Peso ideal](peso-ideal.html)**: elección del peso.
 
 ---
 

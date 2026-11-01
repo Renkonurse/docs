@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Código ictus: valoración neurológica, exploración estructurada y cuidados en el paciente crítico"
+---
 # Código ictus: valoración neurológica, exploración estructurada y cuidados en el paciente crítico
 
-> 📖 **Fuentes:** Powers WJ, et al. AHA/ASA Guidelines for the Early Management of Acute Ischemic Stroke. Stroke 2019;50:e344-e418. · NICE: https://www.nice.org.uk · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+> 📖 **Fuentes:** AHA/ASA, Early Management of Acute Ischemic Stroke, 2026, doi:10.1161/STR.0000000000000513 (apartados de reperfusión, presión, administración/vigilancia IVT y disfagia). Instrucciones NIHSS: NINDS, marzo 2025. Hemorragia intracerebral: AHA/ASA 2022, doi:10.1161/STR.0000000000000407. Síntesis educativa de adultos: no es checklist completo de elegibilidad ni prescripción autónoma.
 
 El ictus es una urgencia neurológica **tiempo-dependiente**: el déficit focal se instaura de forma brusca por una causa vascular y cada minuto sin reperfusión amplía el daño cerebral irreversible. En la UCI, el objetivo es reconocer los déficits focales, aplicar una exploración neurológica estructurada y repetible, y mantener la comparación seriada en el tiempo para detectar el deterioro precoz. Este protocolo integra la valoración inicial, la actuación escalonada con dosis y tiempos, los cuidados de enfermería con sus frecuencias, las complicaciones y los criterios de escalado, y se apoya en las guías de neurocríticos (Neurocritical Care Society), en las guías de ictus de referencia y en la literatura clínica de referencia.
 
@@ -62,8 +66,8 @@ La **autorregulación cerebral** está alterada en el cerebro lesionado, de modo
 | **Migraña con aura** | Progresión del déficit en minutos, con síntomas positivos (fotopsias, parestesias). |
 | **Encefalopatía metabólica o tóxica** | Alteración difusa de la consciencia sin focalidad ni asimetría. |
 | **Tumor o absceso cerebral** | Instauración subaguda, cefalea, edema, efecto masa en la TC. |
-| **Parálisis de Bell** | Paresia facial que respeta la frente, sin déficit de extremidades. |
-| **Vértigo periférico** | Nistagmo horizontal unidireccional, sin focalidad de tronco. |
+| **Parálisis facial periférica** | Habitualmente afecta frente y cierre ocular además de cara inferior; la paresia supranuclear suele respetar más la frente. Hay excepciones, incluidas lesiones de tronco: la distribución facial aislada no excluye ictus. |
+| **Vértigo periférico frente a central** | El patrón de nistagmo aislado no descarta ictus posterior. Evaluación especializada según síndrome, marcha, signos asociados e imagen; no aplicar maniobras diagnósticas sin formación o fuera de su población validada. |
 
 ## 3. Criterios diagnósticos e indicaciones
 
@@ -80,23 +84,9 @@ Un solo signo positivo obliga a activar el circuito y a trasladar al paciente a 
 
 ### 3.2 Guía estructurada de exploración
 
-Se puntúa cada apartado de 0 (normal) a 2 (alteración marcada). El total es orientativo y no diagnostica por sí solo.
+La lista de la app es **descriptiva, sin puntuación propia**. No sumar 0–2 por apartado ni confundirla con NIHSS. Registrar consciencia, mirada, campos visuales, cara, fuerza por extremidad, coordinación, sensibilidad, lenguaje, disartria y negligencia, incluyendo lateralidad, déficit previo y barreras.
 
-| Apartado | 0 | 1 | 2 |
-|---|---|---|---|
-| **Nivel de consciencia** | Alerta | Somnolencia que responde a órdenes | Respuesta solo al dolor o ausente |
-| **Mirada** | Movimiento conjugado normal | Paresia parcial de la mirada | Desviación forzada |
-| **Campos visuales** | Sin pérdida | Hemianopsia parcial | Hemianopsia completa |
-| **Paresia facial** | Simétrica | Paresia leve | Paresia completa |
-| **Fuerza en brazos** | Mantiene la posición diez segundos | Cae lentamente | Cae de inmediato |
-| **Fuerza en piernas** | Mantiene la posición (paciente tumbado) | Cae lentamente | Cae de inmediato |
-| **Ataxia** | Ausente | En una extremidad | En dos extremidades |
-| **Sensibilidad** | Conservada | Pérdida leve | Pérdida marcada |
-| **Lenguaje** | Normal | Afasia leve | Afasia grave con mutismo |
-| **Disartria** | Normal | Voz inteligible con dificultad | Ininteligible |
-| **Extinción o negligencia** | No la presenta | En una modalidad | En más de una modalidad |
-
-La **fuerza en piernas** se valora con el paciente tumbado y con el mismo criterio que en los brazos. La **negligencia** puede ser visual, táctil o auditiva.
+Si se solicita NIHSS, usar material e instrucciones oficiales y personal formado. Los tiempos motores no son iguales: brazos 10 segundos; piernas a 30° en decúbito supino durante 5 segundos. Fuente NINDS: https://www.ninds.nih.gov/sites/default/files/2025-03/KnowStroke_NIHStrokeScale_March2025_508c.pdf. Un FAST negativo o NIHSS bajo no excluye ictus o déficit incapacitante.
 
 > ⚠️ **Aviso:** Esta guía no sustituye a la escala oficial ni al registro del centro. Si se dispone de una escala validada, tipo NIHSS, debe usarse y registrarse su puntuación.
 
@@ -104,28 +94,27 @@ La **fuerza en piernas** se valora con el paciente tumbado y con el mismo criter
 
 | Escala | Qué mide | Puntos de corte relevantes |
 |---|---|---|
-| **NIHSS** | Gravedad del déficit en el ictus; total 0-42 | **≥4** hace considerar terapias de reperfusión; **>25** indica ictus grave; un aumento **≥2-4 puntos** obliga a reevaluar |
+| **NIHSS** | Déficit neurológico estandarizado; 0–42 | No establece por sí sola elegibilidad para reperfusión. Valorar déficit incapacitante, imagen, tiempo y criterios vigentes; comunicar cualquier deterioro nuevo sin esperar un incremento prefijado. |
 | **Glasgow (GCS)** | Nivel de consciencia; total 3-15 | Leve 13-15; moderado 9-12; **grave ≤8**; un descenso **≥2 puntos** es criterio de alarma |
 | **FOUR score** | Ocular, motor, troncoencefálico y respiratorio (0-16) | Útil en el paciente intubado; **<8** indica compromiso grave |
-| **RASS** | Nivel de sedación; de −5 a +4 | Objetivo **0 a −2** si precisa sedación; suspensión diaria |
+| **RASS** | Sedación/agitación; −5 a +4 | Objetivo individual y cribado de seguridad antes de despertar. No suspensión diaria automática en HIC no controlada o crisis activas. |
 | **Índice pupilar** | Reactividad pupilar (0-5) | **<3** indica reactividad alterada |
 
 ### 3.4 Criterios de reperfusión y ventanas terapéuticas
 
 | Terapia | Ventana | Indicación |
 |---|---|---|
-| **Trombólisis intravenosa** | Hasta **4,5 h** desde el inicio (o desde la última hora en que el paciente estaba bien) | Ictus isquémico con déficit medible y criterios cumplidos |
+| **Trombólisis intravenosa** | Ventana habitual ≤4,5 h; selección por imagen en determinados inicios desconocidos/ventanas ampliadas | Déficit incapacitante y elegibilidad evaluados por equipo de ictus; no basta «medible» ni un NIHSS mínimo aislado. |
 | **Trombectomía mecánica** | Hasta **6 h** de forma general; hasta **24 h** en pacientes seleccionados por imagen | Oclusión de gran vaso (carótida, cerebral media proximal, basilar) |
-| **Tratamiento antiagregante** | Desde las 24 h (o antes si no se realizó trombólisis) | Ictus isquémico sin criterios de reperfusión |
+| **Tratamiento antiagregante** | Según escenario, imagen, riesgo y prescripción; tras IVT, control TC/RM a 24 h antes de iniciarlo de forma habitual | No es terapia de reperfusión ni se indica automáticamente a toda persona no tratada con IVT. |
 
-> ⚠️ **Aviso:** La **hora de inicio** o, si se desconoce, la **última hora en que el paciente estaba bien** es el dato que define la ventana terapéutica. Debe registrarse con exactitud y no estimarse de forma aproximada.
+> Registrar inicio conocido, última vez bien, descubrimiento de síntomas y fuente de esa información. Si la hora es incierta, documentarlo sin inventarla; no descartar activación por inicio desconocido. En 2026 se contemplan pacientes seleccionados por imagen con inicio desconocido o 4,5–9 h; la elegibilidad corresponde al equipo experto.
 
 ### 3.5 Contraindicaciones de la trombólisis intravenosa
 
-| Tipo | Contraindicaciones |
-|---|---|
-| **Absolutas** | Hemorragia intracraneal en la TC; antecedente de hemorragia intracerebral; sospecha de hemorragia subaracnoidea; neoplasia o diátesis hemorrágica; cirugía mayor en 14 días; hemorragia digestiva en 21 días; punción arterial no compresible en 7 días; INR >1,7 o plaquetas <100.000; glucemia <50 mg/dL; PA refractaria >185/110 mmHg |
-| **Relativas** | Ictus en los 3 meses previos; traumatismo craneoencefálico grave en 3 meses; cirugía menor reciente; embarazo; crisis convulsiva al inicio del cuadro |
+La guía 2026 actualiza la evaluación de riesgos: **no usar una tabla docente de «absolutas/relativas» como checklist completo**. Confirmar neuroimagen, presión, sangrado activo/reciente, cirugía/traumatismo, antecedentes neurológicos, anticoagulantes y última dosis, hemostasia pertinente y demás criterios del fármaco/protocolo vigente.
+
+Ni embarazo, crisis al inicio ni la palabra «neoplasia» deben convertirse por sí solos en exclusiones indiscriminadas; el equipo valora tipo, contexto y relación riesgo/beneficio. Enfermería recoge datos fiables, confirma checklist y prescripción y detecta discrepancias antes de administrar, sin decidir elegibilidad desde esta síntesis.
 
 ## 4. Valoración inicial: qué mirar, qué monitorizar, datos y analíticas
 
@@ -166,7 +155,7 @@ La **fuerza en piernas** se valora con el paciente tumbado y con el mismo criter
 1. **Activar el Código Ictus** y confirmar la hora exacta de inicio o la última hora en que el paciente estaba bien.
 2. **Asegurar la vía aérea** y la ventilación: oxígeno si SpO2 <94 %, aspirar secreciones, colocar en posición adecuada y valorar la intubación si hay coma o riesgo de aspiración.
 3. **Monitorizar** de forma continua: ECG, presión arterial, SpO2 y frecuencia respiratoria.
-4. **Canalizar dos vías venosas** periféricas (calibre 18 G) y extraer la analítica urgente.
+4. Obtener accesos adecuados y muestras según circuito y necesidades, sin imponer un número/calibre universal ni retrasar imagen o tratamiento indicado por completar procedimientos no imprescindibles.
 5. **Realizar glucemia capilar**: si es <50-60 mg/dL, corregir con glucosa intravenosa y reevaluar el déficit.
 6. **Exploración neurológica estructurada** y puntuación NIHSS.
 7. **TC craneal sin contraste urgente**: descartar hemorragia antes de cualquier terapia de reperfusión.
@@ -179,6 +168,8 @@ La **fuerza en piernas** se valora con el paciente tumbado y con el mismo criter
 
 ### 5.2 Trombólisis intravenosa: dosis y administración
 
+Regímenes de referencia **en ictus adulto elegible**, no autorización para tratar desde esta guía. Verificar peso, fármaco/presentación, reconstitución, mg frente a mL, acceso, compatibilidad y doble comprobación según ficha técnica y protocolo español vigente. **No trasladar dosis de tenecteplasa usadas para infarto de miocardio al ictus.**
+
 | Fármaco | Dosis | Administración |
 |---|---|---|
 | **Alteplasa (rt-PA)** | **0,9 mg/kg** (máximo 90 mg) | 10 % de la dosis en bolo en 1 minuto; el 90 % restante en infusión en 60 minutos |
@@ -190,13 +181,14 @@ La **fuerza en piernas** se valora con el paciente tumbado y con el mismo criter
 
 | Escenario | Objetivo |
 |---|---|
-| **Antes de trombólisis** | <185/110 mmHg; si superior, tratar con labetalol 10-20 mg IV en 1-2 min (repetible), nicardipino 5 mg/h IV titulando o urapidilo |
+| **Antes de trombólisis** | PAS <185 y PAD <110 mmHg según AHA/ASA 2026; fármaco/titulación prescritos, no una pauta antihipertensiva universal. |
 | **Durante la trombólisis y 24 h después** | <180/105 mmHg |
 | **Ictus isquémico sin reperfusión** | No descender la presión de forma agresiva; tratar solo cifras muy elevadas y evitar la hipotensión |
 | **Ictus hemorrágico** | Control estricto y precoz; evitar tanto la hipertensión como la hipotensión |
-| **Paciente crítico** | Presión de perfusión individualizada; corregir hipotensión con volumen y vasopresores |
+| **Tras trombectomía** | AHA/ASA 2026 considera razonable ≤180/105 durante y 24 h después; ajustar con el equipo. En oclusión anterior recanalizada, PAS intensiva <140 durante 72 h puede ser perjudicial si no hay otra indicación. |
+| **Paciente crítico** | Presión/perfusión individualizadas; buscar causa de hipotensión y valorar respuesta/tolerancia antes de fluidos, vasoactivos si están indicados. |
 
-> ⚠️ **Aviso:** En el ictus isquémico agudo, descender la presión arterial de forma agresiva reduce la perfusión de la penumbra y amplía el infarto. La hipotensión debe corregirse siempre.
+> ⚠️ **Aviso:** En el ictus isquémico agudo, descender la presión arterial de forma agresiva reduce la perfusión de la penumbra y amplía el infarto. La hipotensión debe corregirse según causa, objetivos y prescripción, sin un umbral universal.
 
 ### 5.4 Trombectomía mecánica
 
@@ -207,7 +199,7 @@ Está indicada en la **oclusión de gran vaso** confirmada por angio-TC o angio-
 1. **Monitorización estrecha**: neurológica, hemodinámica y respiratoria cada 15 minutos las primeras 2 horas.
 2. **Vigilar el sangrado**: puntos de punción, encías, orina, heces y cualquier signo de hemorragia intracraneal.
 3. **Control estricto de la presión arterial** según el objetivo establecido.
-4. **No administrar antiagregantes ni anticoagulantes** durante las primeras 24 h.
+4. Si recibió **trombólisis IV**, evitar inicio rutinario de antitrombóticos y verificar TC/RM de control a 24 h antes de iniciarlos según plan. Trombectomía sin IVT, stents y otras situaciones tienen decisiones específicas; no extrapolar una prohibición idéntica a toda reperfusión.
 5. **No colocar sonda nasogástrica, sonda vesical ni catéteres** salvo estricta necesidad.
 6. **Reevaluar el déficit neurológico** y comparar con la exploración previa.
 7. **Repetir la TC craneal** de forma urgente ante cualquier deterioro neurológico o sospecha de sangrado.
@@ -226,23 +218,25 @@ Está indicada en la **oclusión de gran vaso** confirmada por angio-TC o angio-
 
 | Periodo | Constantes y exploración neurológica | Presión arterial |
 |---|---|---|
-| Primeras 2 h | Cada 15 min | Cada 15 min |
-| De 2 a 6 h | Cada 30 min | Cada 30 min |
-| De 6 a 24 h | Cada hora | Cada hora |
-| Después de 24 h | Cada 4 h o según estado | Cada 4 h o según estado |
+| Durante y después de IVT: primeras 2 h | Cada 15 min | Cada 15 min |
+| Siguientes 6 h (hasta completar 8 h) | Cada 30 min | Cada 30 min |
+| Después hasta completar 24 h tras IVT | Cada hora | Cada hora |
+| Después de 24 h u otros escenarios sin IVT | Frecuencia individual/protocolo | Frecuencia individual/protocolo |
+
+Esquema de administración de IVT, tabla 10 de AHA/ASA 2026. No aplicar esos intervalos a todo ictus ni esperar al próximo control ante cefalea intensa, vómitos, deterioro o sangrado; activar respuesta urgente y seguir protocolo de complicaciones.
 
 ### 6.3 Posición, vía aérea y deglución
 
-- **Cabecero a 0-30°** según el estado: plano si existe oclusión de gran vaso o riesgo de hipoperfusión; a 30° si hay hipertensión intracraneal, riesgo de broncoaspiración o dificultad respiratoria.
+- Postura/cabecero individualizados por situación respiratoria, perfusión, HIC, aspiración y procedimiento. No colocar plano automáticamente por sospecha de gran vaso ni imponer un ángulo sin valorar tolerancia y plan.
 - **Protección de la vía aérea**: valorar la capacidad de toser y de manejar secreciones; aspirar de forma breve y controlada.
-- **No dar nada por boca** hasta realizar la valoración de la deglución; si la disfagia persiste, colocar **sonda nasogástrica** para la nutrición y la medicación.
-- **Prevención de la broncoaspiración**: incorporar al paciente durante la alimentación, vigilar el residuo gástrico y mantener la cavidad oral limpia.
+- No dar agua, comida ni medicación oral hasta cribado de deglución indicado y válido. Si no puede realizarlo o no lo supera, acordar valoración especializada y vía segura de hidratación, medicación y nutrición; sonda no automática, y su colocación requiere confirmar seguridad/momento tras tratamientos.
+- Prevenir aspiración con postura, higiene oral y vigilancia individualizadas. Ausencia de tos no garantiza deglución segura; no usar residuo gástrico rutinario como prueba de protección frente a aspiración.
 - **Vía venosa permeable** y cuidados del acceso vascular; evitar punciones arteriales innecesarias.
 
 ### 6.4 Otros cuidados y qué registrar
 
 - **Piel y movilización**: cambios posturales con control de la alineación, prevención de úlceras por presión y de retracciones; iniciar movilización precoz cuando el estado lo permita.
-- **Profilaxis tromboembólica**: compresión neumática intermitente y/o heparina de bajo peso molecular desde las 24 h, según indicación y tras descartar sangrado.
+- Profilaxis tromboembólica según inmovilidad, tipo de ictus, sangrado, imagen, función renal y tratamiento recibido. Compresión neumática/heparinas no son intercambiables ni la profilaxis farmacológica se inicia siempre a una hora fija.
 - **Control de la glucemia, la temperatura y la oxigenación** según los objetivos del apartado 4.2.
 - **Registro sistemático**: hora, nivel de consciencia, pupilas, NIHSS, constantes, glucemia, temperatura, diuresis, balance, exploración de la deglución, medidas aplicadas y respuesta obtenida.
 
@@ -250,13 +244,13 @@ Está indicada en la **oclusión de gran vaso** confirmada por angio-TC o angio-
 
 | Complicación | Signos de sospecha | Actuación |
 |---|---|---|
-| **Transformación hemorrágica** | Deterioro neurológico brusco, cefalea intensa, vómitos, descenso de consciencia | TC craneal urgente; suspender antitrombóticos; revertir la anticoagulación; valorar ácido tranexámico, crioprecipitados y neurocirugía |
+| **Sospecha de hemorragia tras tratamiento** | Deterioro brusco, cefalea intensa, vómitos o sangrado | Activar equipo de ictus/emergencia; si trombolítico en infusión, actuar según protocolo de interrupción inmediata. Imagen/laboratorio y reversión específicos del fármaco recibido: no toda hemorragia necesita el mismo antídoto/hemoderivado. |
 | **Edema cerebral maligno** | Deterioro progresivo en 48-96 h, anisocoria, hipertensión con bradicardia | Cabecero a 30°, normocapnia, osmoterapia (manitol o salino hipertónico) y valorar craniectomía descompresiva |
 | **Hipertensión intracraneal** | Cefalea, vómitos, deterioro de consciencia, tríada de Cushing | Evitar hipoxia, hipercapnia e hipotensión; osmoterapia; consultar a neurocirugía |
 | **Crisis convulsiva** | Movimientos tónico-clónicos, desviación de la mirada, crisis no convulsiva | Proteger la vía aérea, colocar en decúbito lateral, tratar la crisis y descartar causa metabólica |
 | **Broncoaspiración y disfagia** | Tos al deglutir, voz húmeda, desaturación, fiebre | Suspender la vía oral, aspirar, valorar sonda nasogástrica y realizar estudio de la deglución |
 | **Neumonía** | Fiebre, secreciones purulentas, infiltrado radiológico, leucocitosis | Cultivos, antibioticoterapia y fisioterapia respiratoria |
-| **Hipotensión** | PAM baja, deterioro neurológico, taquicardia | Volumen intravenoso y vasopresores; evitar la reducción de la perfusión cerebral |
+| **Hipotensión** | Presión/perfusión deterioradas | Comprobar medición y causa; fluidos si indicados con reevaluación de respuesta/congestión y vasoactivos prescritos, no expansión automática. |
 | **Hiperglucemia o hipoglucemia** | Glucemia fuera del objetivo, alteración de la consciencia | Corregir con insulina o glucosa intravenosa y retirar la causa |
 | **Fiebre** | Temperatura ≥38 °C | Antitérmicos, medidas físicas y búsqueda de la causa (infección, trombosis venosa) |
 | **Trombosis venosa profunda** | Edema y dolor de la extremidad, taquicardia | Ecografía Doppler, profilaxis y anticoagulación según indicación |
@@ -277,7 +271,7 @@ Está indicada en la **oclusión de gran vaso** confirmada por angio-TC o angio-
 
 ### 8.2 Prevención secundaria
 
-- **Antiagregación** con ácido acetilsalicílico desde las 24 h (antes si no se realizó trombólisis); doble antiagregación durante 21 días en el ictus menor o el accidente isquémico transitorio.
+- Antiagregación según causa, tratamiento previo, imagen y riesgo. Doble antiagregación breve se reserva a situaciones seleccionadas de ictus no cardioembólico/AIT, no a todo ictus menor; confirmar criterios, inicio y duración prescritos y no extrapolar a pacientes tratados con IVT.
 - **Anticoagulación** en la fibrilación auricular y en otras fuentes cardioembólicas, iniciada de forma diferida según el tamaño del infarto y el riesgo de transformación hemorrágica.
 - **Estatina de alta intensidad** y control estricto de la hipertensión, la diabetes y la dislipemia.
 - **Cese del tabaco y del alcohol**, dieta saludable y actividad física adaptada.
@@ -288,7 +282,7 @@ Está indicada en la **oclusión de gran vaso** confirmada por angio-TC o angio-
 
 | Situación | Actuación |
 |---|---|
-| **Aumento del déficit o del NIHSS ≥2-4 puntos** | Avisar al equipo médico y repetir la exploración de inmediato |
+| **Déficit nuevo o aumentado** | Avisar y reevaluar de inmediato sin esperar un incremento numérico prefijado; anotar componentes y condiciones. |
 | **Descenso del nivel de consciencia** | Avisar de forma urgente; valorar la vía aérea y descartar causa tratable |
 | **Nueva desviación de la mirada o anisocoria** | Avisar de inmediato; sospecha de hipertensión intracraneal o herniación |
 | **Cefalea intensa, vómitos o crisis convulsiva** | Avisar al equipo médico y descartar hemorragia |
@@ -309,7 +303,7 @@ Se deriva a **centro con unidad de ictus, neurorradiología intervencionista o n
 - La **exploración estructurada y seriada** detecta el deterioro antes de que sea irreversible; debe repetirse con la misma sistemática y compararse apartado por apartado.
 - La **glucemia capilar** es la primera prueba a realizar ante cualquier déficit focal.
 - La **TC craneal sin contraste** descarta la hemorragia antes de la reperfusión.
-- La trombólisis intravenosa se administra hasta las **4,5 h** con alteplasa 0,9 mg/kg o tenecteplasa 0,25 mg/kg; la trombectomía puede realizarse hasta las **24 h** en pacientes seleccionados.
+- Reperfusión depende de elegibilidad clínica/imagen/tiempo; ventana habitual de IVT ≤4,5 h y opciones ampliadas seleccionadas. No descartar automáticamente por NIHSS bajo o inicio desconocido; tampoco tratar solo por cumplir una hora.
 - Los objetivos fisiológicos son **normoglucemia, normotermia y normoxia**, con evitación de la hipotensión.
 - La presión arterial se controla según el escenario, sin descensos agresivos en el ictus isquémico.
 - No se administra **nada por boca** hasta valorar la deglución.
@@ -331,7 +325,7 @@ Se deriva a **centro con unidad de ictus, neurorradiología intervencionista o n
 
 ## Fuentes
 
-> 📖 **Fuentes:** Powers WJ, et al. AHA/ASA Guidelines for the Early Management of Acute Ischemic Stroke. Stroke 2019;50:e344-e418. · NICE: https://www.nice.org.uk · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+> AHA/ASA 2026, doi:10.1161/STR.0000000000000513; texto consultado por apartados en copia del documento de la revista alojada por SETRAC: https://www.setrac.org/wp-content/uploads/2026/01/2026-guideline-for-the-early-management-of-patients-with-acute-ischemic-stroke-a-guideline-from.pdf. Cotejados presión/reperfusión y tabla 10 de administración y vigilancia IVT; no se presenta toda la guía de 119 páginas como auditada. Fuente oficial NIHSS: https://www.ninds.nih.gov/sites/default/files/2025-03/KnowStroke_NIHStrokeScale_March2025_508c.pdf. Elegibilidad y administración asistencial requieren guía/ficha técnica/protocolo vigentes.
 
 ---
 

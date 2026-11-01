@@ -1,3 +1,7 @@
+---
+layout: default
+title: "SEGURIDAD Y CONTINUIDAD ASISTENCIAL: Checklist de turno, transferencia y riesgos"
+---
 # SEGURIDAD Y CONTINUIDAD ASISTENCIAL: Checklist de turno, transferencia y riesgos
 
 > 📖 **Fuentes:** Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · AACN: https://www.aacn.org · SEEIUC: https://www.seeiuc.org

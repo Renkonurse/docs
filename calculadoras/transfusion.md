@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Transfusión: umbrales, procedimiento y reacciones adversas"
+---
 # Transfusión: umbrales, procedimiento y reacciones adversas
 
-> 📖 **Fuentes:** Pabinger I, et al. / NICE NG24 (transfusión): https://www.nice.org.uk/guidance/ng24 · Carson JL, et al. Red blood cell transfusion thresholds. Lancet 2016 / JAMA 2020. · MSD Manual Professional: https://www.msdmanuals.com/professional
+> 📖 **Fuentes:** Carson JL, et al. Red blood cell transfusion thresholds. *JAMA*. 2023;330:1892-1902. doi:10.1001/jama.2023.12914 · Pagano MB, et al. Red Cell Transfusion in Acute Myocardial Infarction: AABB International Clinical Practice Guidelines. *Ann Intern Med*. 2025. doi:10.7326/ANNALS-25-00706 · NICE NG24: https://www.nice.org.uk/guidance/ng24 · MSD Manual Professional: https://www.msdmanuals.com/professional
 
 ## 1. Qué es y para qué sirve
 
@@ -25,7 +29,8 @@ La transfusión es un **tratamiento sintomático**: no corrige la causa de la an
 | Varón adulto | 13,5-17,5 g/dL |
 | Mujer adulta | 12,0-15,5 g/dL |
 | Umbral transfusional restrictivo | < 7 g/dL |
-| Umbral en cardiopatía isquémica / alto riesgo | < 8-9 g/dL |
+| Enfermedad cardiovascular estable (orientativo) | < 8 g/dL |
+| Infarto agudo de miocardio (guía AABB 2025, condicional) | Considerar estrategia liberal si < 10 g/dL |
 
 ---
 
@@ -49,19 +54,19 @@ La app muestra el dato como referencia; **no** calcula el número de unidades.
 
 | Hb (g/dL) | Interpretación | Actuación orientativa |
 |---|---|---|
-| **> 9** | Por encima del umbral habitual | No transfundir de forma rutinaria; tratar la causa de la anemia |
-| **8-9** | Zona de decisión | Transfundir si **cardiopatía isquémica o alto riesgo**, o si hay síntomas; si no, vigilancia |
-| **7-8** | Umbral restrictivo próximo | Valorar transfusión según clínica (sangrado, inestabilidad, síntomas) |
+| **> 9** | Por encima del umbral habitual en muchos escenarios | No transfundir de forma rutinaria; excepción posible en AMI con Hb <10 g/dL, tras decisión individualizada del equipo |
+| **8-9** | Zona de decisión | Individualizar; en infarto agudo de miocardio la guía AABB 2025 sugiere considerar transfusión con Hb <10 g/dL; valorar riesgos y contexto |
+| **7-8** | Umbral restrictivo próximo | Valorar transfusión según clínica; puede considerarse <8 g/dL en enfermedad cardiovascular estable. En hemorragia aguda no usar Hb aislada. |
 | **< 7** | Por debajo del umbral restrictivo | **Plantear transfusión** de CTH y reevaluar tras cada unidad |
-| **< 6 (inestable/sangrado activo)** | Anemia grave con riesgo | Transfusión **urgente** con activación del protocolo de hemorragia si procede |
+| **Cualquier Hb con hemorragia importante/inestabilidad** | La Hb aislada puede no reflejar la pérdida aguda | Activar evaluación urgente y protocolo de hemorragia según clínica; decisión transfusional guiada por el cuadro y no por un corte fijo de Hb |
 
 **Actuación de enfermería por rango**
 
 - **Hb > 9 sin síntomas:** registrar el valor, vigilar tendencia, tratar la causa (ferropenia, inflamación, sangrado oculto) y **no** transfundir por rutina.
-- **Hb 8-9:** revisar si hay cardiopatía isquémica o síntomas; consultar con el equipo antes de preparar la unidad.
+- **Hb 8-9:** revisar el escenario clínico; en AMI considerar la recomendación AABB 2025 (condicional) y consultar al equipo responsable antes de preparar la unidad.
 - **Hb 7-8:** garantizar acceso venoso, comprobar la prescripción y las pruebas cruzadas, y anticipar la posible transfusión.
-- **Hb < 7 o inestabilidad:** asegurar **doble verificación**, verificar el **consentimiento**, las **constantes basales** y el **equipo con filtro**; iniciar la transfusión con vigilancia estrecha los primeros 15 minutos.
-- **Sangrado activo:** priorizar la **compresión/control del foco** y la activación del **código de hemorragia**; la transfusión es parte del tratamiento, no el tratamiento único.
+- **Hb < 7 o sospecha de hemorragia importante/inestabilidad:** avisar al equipo responsable y confirmar la prescripción; completar las comprobaciones y la vigilancia transfusional antes de iniciar el componente indicado.
+- **Sangrado activo:** priorizar la **compresión/control del foco** y la activación del **código de hemorragia**; la Hb inicial puede no reflejar la pérdida y no debe usarse sola para decidir.
 
 ---
 
@@ -107,8 +112,8 @@ La app muestra el dato como referencia; **no** calcula el número de unidades.
 **A) Varón de 70 años, estable, Hb 6,8 g/dL, sin cardiopatía isquémica.**
 → Hb **< 7 g/dL** con paciente estable: **umbral restrictivo** alcanzado. Se plantea transfusión de CTH con reevaluación clínica y analítica tras la unidad. No se espera a que aparezcan síntomas.
 
-**B) Mujer de 65 años con síndrome coronario agudo, Hb 8,4 g/dL.**
-→ Hb **8-9 g/dL** con **cardiopatía isquémica**: umbral de **alto riesgo**. Se consulta al equipo y se valora transfusión para mantener Hb por encima de 8 g/dL, junto con el tratamiento del síndrome coronario.
+**B) Mujer de 65 años con infarto agudo de miocardio, Hb 8,4 g/dL.**
+→ La guía AABB 2025 sugiere condicionalmente estrategia liberal cuando Hb <10 g/dL en AMI. Consultar al equipo responsable e individualizar la transfusión junto con el tratamiento del síndrome coronario y los riesgos de sobrecarga.
 
 **C) Paciente con sangrado digestivo activo, Hb 7,5 g/dL, taquicardia e hipotensión.**
 → Aunque la Hb no es < 7, la **inestabilidad y el sangrado activo** priorizan la actuación: control del foco, fluidos según indicación y transfusión si persiste la inestabilidad, sin esperar un nuevo descenso de la Hb.
@@ -145,18 +150,18 @@ La app muestra el dato como referencia; **no** calcula el número de unidades.
 
 ## 10. Relación con otras escalas y parámetros
 
-- **[Shock: tipos y manejo](../protocolos/shock-critico.md)**: la transfusión es una medida del shock hemorrágico junto al control del foco y los fluidos.
-- **[Código Sepsis](../protocolos/codigo-sepsis.md)**: la anemia y la transfusión se integran en la reanimación del shock.
-- **[SOFA](../escalas/sofa.md)**: la coagulación y la puntuación de disfunción orgánica incluyen parámetros relacionados (plaquetas, bilirrubina); la Hb no puntúa en el SOFA pero contextualiza la gravedad.
-- **[Sangrado y coagulopatía / transfusión masiva](../protocolos/transfusion.md)**: protocolo completo de transfusión masiva y ratios de hemoderivados.
-- **[Balance hídrico](balance-hidrico.md)**: los hemoderivados cuentan como **entradas** y contribuyen al balance.
-- **[Pérdidas insensibles](perdidas-insensibles.md)** y **[gasto urinario](gasto-urinario.md)**: la oliguria y la sobrecarga condicionan la tolerancia a la transfusión.
+- **[Shock: tipos y manejo](../protocolos/shock-critico.html)**: la transfusión es una medida del shock hemorrágico junto al control del foco y los fluidos.
+- **[Código Sepsis](../protocolos/codigo-sepsis.html)**: la anemia y la transfusión se integran en la reanimación del shock.
+- **[SOFA](../escalas/sofa.html)**: la coagulación y la puntuación de disfunción orgánica incluyen parámetros relacionados (plaquetas, bilirrubina); la Hb no puntúa en el SOFA pero contextualiza la gravedad.
+- **[Sangrado y coagulopatía / transfusión masiva](../protocolos/transfusion.html)**: protocolo completo de transfusión masiva y ratios de hemoderivados.
+- **[Balance hídrico](balance-hidrico.html)**: los hemoderivados cuentan como **entradas** y contribuyen al balance.
+- **[Pérdidas insensibles](perdidas-insensibles.html)** y **[gasto urinario](gasto-urinario.html)**: la oliguria y la sobrecarga condicionan la tolerancia a la transfusión.
 
 ---
 
 ## 11. Puntos clave
 
-- **Hb < 7 g/dL** en el paciente estable general; **< 8-9 g/dL** en cardiopatía isquémica o alto riesgo; **individualizar** siempre con la clínica.
+- **Hb < 7 g/dL** en muchos pacientes estables; considerar **< 8 g/dL** en enfermedad cardiovascular estable. En infarto agudo de miocardio, AABB 2025 sugiere condicionalmente estrategia liberal con Hb <10 g/dL. Individualizar siempre.
 - La **doble verificación** es la medida que más previene el error más grave (reacción hemolítica por error de identificación).
 - **Vigilancia estrecha los primeros 15 minutos** y durante toda la transfusión.
 - Ante cualquier signo de reacción: **parar**, mantener la vía con suero fisiológico, avisar y remitir muestras.

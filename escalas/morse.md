@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Morse Fall Scale (Morse · riesgo de caídas)"
+---
 # Morse Fall Scale (Morse · riesgo de caídas)
 
 > 📖 **Fuentes:** Morse JM, Morse RM, Tylko SJ. *Development of a scale to identify the fall-prone patient.* Can J Aging. 1989;8(4):366-377. · MSD Manual Professional: https://www.msdmanuals.com/professional
@@ -150,7 +154,9 @@ Se ha validado en poblaciones médicas, quirúrgicas y de rehabilitación, y en 
 - **Sensibilidad alta y especificidad limitada**: útil para descartar riesgo.
 - No recoge factores ambientales ni otros dispositivos.
 - Reevaluar al ingreso, por turnos y tras una caída.
+
 ---
+
 ## Evidencia y referencias
 
 - **Morse JM.** *Preventing Patient Falls*. Thousand Oaks: Sage; 1997.
@@ -160,6 +166,7 @@ Se ha validado en poblaciones médicas, quirúrgicas y de rehabilitación, y en 
 > La escala identifica riesgo, no predice lesiones. Debe complementarse con una valoración multifactorial y medidas ambientales; reevaluar tras cada caída.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

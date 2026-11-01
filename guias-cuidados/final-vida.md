@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Cuidados al final de la vida en UCI"
+---
 # Cuidados al final de la vida en UCI
 
 > 📖 **Fuentes:** Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Chulay M, Burns SM. AACN Essentials of Critical Care Nursing. McGraw-Hill. · MSD Manual Professional: https://www.msdmanuals.com/professional

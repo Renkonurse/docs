@@ -1,3 +1,7 @@
+---
+layout: default
+title: "PICC (catéter central de inserción periférica)"
+---
 # PICC (catéter central de inserción periférica)
 
 > 📖 **Fuentes:** Moureau N, et al. INS Infusion Therapy Standards of Practice. *J Infus Nurs*. · O'Grady NP, et al. CDC Guidelines for Prevention of Intravascular Catheter-Related Infections. 2011/2017. · NICE: https://www.nice.org.uk
@@ -181,7 +185,11 @@ Documento técnico completo del **PICC (catéter central de inserción periféri
 - Elige **el calibre más fino y el menor número de luces** que cubra la terapia: menos calibre = menos trombosis y menos flebitis.
 - Si la vena es fina (< 3 mm) o hay antecedentes de trombosis, valora otro acceso o un calibre menor.
 
-## 11. Evidencia y referencias
+> 📖 **Fuentes:** INS Infusion Therapy Standards of Practice · Moureau N, et al. *J Infus Nurs* · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier. · NICE: https://www.nice.org.uk
+
+---
+
+## Evidencia y referencias
 
 - **INS.** Infusion Therapy Standards of Practice. *Journal of Infusion Nursing* (edición vigente, 9.ª ed. 2024).
 - **O'Grady NP, et al.** Guidelines for the Prevention of Intravascular Catheter-Related Infections. CDC, 2011 (actualización 2017).
@@ -194,21 +202,21 @@ Documento técnico completo del **PICC (catéter central de inserción periféri
 
 ---
 
-## 12. Errores frecuentes
+## Errores frecuentes
 
 | Error | Consecuencia | Cómo evitarlo |
 |---|---|---|
 | Insertar sin ecografía | Más intentos, punción arterial, neumotórax | Ecografía y elección de vena adecuada |
-| No confirmar la punta | Arritmias, malposición, trombosis | Radiografía o ecografía antes de usar |
+| No confirmar la punta | Arritmias, malposición, trombosis | Método validado para el acceso y dispositivo, con confirmación documentada antes del uso |
 | Forzar el lavado ante resistencia | Rotura del catéter, embolia | No forzar; comprobar llaves y posición |
 | Extraer sangre de forma rutinaria | Obstrucción, infección, anemia | Reservar para la indicación |
-| No medir el brazo al inicio | No se detecta trombosis | Medir y registrar la circunferencia basal |
+| No registrar valoración basal del brazo | Dificulta reconocer cambios | Registrar exploración y medidas según protocolo; la circunferencia no descarta ni diagnostica trombosis |
 | Apósito sucio o húmedo | Infección | Cambiar según protocolo |
 | Retirar sin comprobar la longitud | Restos intravasculares | Registrar la longitud extraída |
 
 ---
 
-## 13. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

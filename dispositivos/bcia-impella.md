@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Dispositivos de asistencia circulatoria (BCIA e Impella)"
+---
 # Dispositivos de asistencia circulatoria (BCIA e Impella)
 
 > 📖 **Fuentes:** ELSO. General Guidelines for All ECLS Cases. 2021 (elso.org). · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier. · Marino PL. *The ICU Book*. 4th ed. Wolters Kluwer.
@@ -205,7 +209,11 @@ Documento técnico completo de los **dispositivos de asistencia circulatoria**: 
 - **Material de emergencia a pie de cama** y comprobado en cada turno.
 - **Movilización planificada** con el equipo.
 
-## 10. Evidencia y referencias
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+
+---
+
+## Evidencia y referencias
 
 - **Thiele H, et al.** Intra-aortic balloon counterpulsation in acute myocardial infarction complicated by cardiogenic shock (IABP-SHOCK II). *N Engl J Med* 2012;367:1287-1296.
 - **ELSO.** General Guidelines for All ECLS Cases. 2021.
@@ -218,11 +226,11 @@ Documento técnico completo de los **dispositivos de asistencia circulatoria**: 
 
 ---
 
-## 11. Errores frecuentes
+## Errores frecuentes
 
 | Error | Consecuencia | Cómo evitarlo |
 |---|---|---|
-| Usar suero fisiológico en la purga de Impella | Corrosión del motor | Dextrosa 5 % + bicarbonato según protocolo |
+| Usar una solución de purga no autorizada | Fallo del sistema | Solución, preparación y vigilancia según modelo, fabricante y protocolo; no intercambiar soluciones automáticamente |
 | No comprobar la perfusión distal | Isquemia de la extremidad | Pulsos, temperatura, color y relleno cada hora |
 | Silenciar alarmas sin valorar al paciente | Deterioro hemodinámico | Primero paciente, después dispositivo |
 | Confundir la anticoagulación del BCIA con la de Impella | Sangrado o trombosis | Protocolo específico para cada dispositivo |
@@ -232,7 +240,7 @@ Documento técnico completo de los **dispositivos de asistencia circulatoria**: 
 
 ---
 
-## 12. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

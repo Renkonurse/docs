@@ -1,6 +1,10 @@
+---
+layout: default
+title: "ESCID · Escala de Conductas Indicadoras de Dolor"
+---
 # ESCID · Escala de Conductas Indicadoras de Dolor
 
-> 📖 **Fuentes:** Latorre-Marco I, Acevedo-Nuevo M, Solís-Muñoz M, et al. *Psychometric validation of the behavioral indicators of pain scale for the assessment of pain in mechanically ventilated and unable to self-report critical care patients (ESCID).* Med Intensiva. 2016;40(8):463-473. · Devlin JW, Skrobik Y, Gélinas C, et al. *PADIS Clinical Practice Guidelines.* Crit Care Med. 2018;46(9):e825-e873. · SEEIUC: https://www.seeiuc.org
+> 📖 **Fuentes:** Latorre-Marco I, et al. Psychometric validation of ESCID. *Med Intensiva*. 2016;40:463-473. · Devlin JW, et al. PADIS Guidelines. *Crit Care Med*. 2018;46:e825-e873 (base). · Lewis K, et al. Focused PADIS update. *Crit Care Med*. 2025;53:e711-e727. doi:10.1097/CCM.0000000000006574 (actualización focal; no sustituye la validación ESCID).
 
 ## Qué mide y para qué sirve
 
@@ -149,7 +153,9 @@ Las guías **PADIS 2018** recomiendan el uso de escalas observacionales de dolor
 - Es la alternativa **validada en español** a la EVA; recomendada por PADIS y SEEIUC.
 - No es valorable con **bloqueo neuromuscular**.
 - Si el dolor persiste pese al tratamiento, **buscar otras causas**.
+
 ---
+
 ## Evidencia y referencias
 
 - **Latorre-Marco I, et al.** Psychometric validation of the behavioral indicators of pain scale (ESCID) in mechanically ventilated and unable to self-report critical care patients. *Med Intensiva* 2016;40:463-473.
@@ -158,6 +164,7 @@ Las guías **PADIS 2018** recomiendan el uso de escalas observacionales de dolor
 > Es observacional y no válida con bloqueo neuromuscular. Debe aplicarse en reposo y durante procedimientos; la tendencia guía la analgesia.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

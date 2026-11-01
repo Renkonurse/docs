@@ -1,8 +1,12 @@
+---
+layout: default
+title: "TRANSFUSIONES Y REACCIONES ADVERSAS"
+---
 # TRANSFUSIONES Y REACCIONES ADVERSAS
 
 *Transfusión de hemoderivados y reacciones adversas. Seguridad, vigilancia y actuación.*
 
-> 📖 **Fuentes:** NICE: https://www.nice.org.uk · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+> 📖 **Fuentes:** Carson JL, et al. Red Blood Cell Transfusion: 2023 AABB International Guidelines. *JAMA*. 2023;330:1892-1902. doi:10.1001/jama.2023.12914 · Metcalf RA, et al. AABB/ICTMG International Clinical Practice Guidelines for Platelet Transfusion. *JAMA*. 2025;334:606-617. doi:10.1001/jama.2025.7529 · Pagano MB, et al. Red Cell Transfusion in Acute Myocardial Infarction: AABB International Clinical Practice Guidelines. *Ann Intern Med*. 2025. doi:10.7326/ANNALS-25-00706 · NICE NG24: https://www.nice.org.uk/guidance/ng24 · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier. · Marino PL. *The ICU Book*. 4th ed. Wolters Kluwer.
 
 ## 1. Definición y objetivo
 
@@ -57,8 +61,9 @@ La transfusión en el paciente crítico presenta particularidades que justifican
 | Situación clínica | Umbral de hemoglobina |
 |---|---|
 | **Hematíes (CH)** | Hb **< 7 g/dl** en paciente crítico estable. |
-| **Cardiopatía isquémica o cirugía cardiaca** | **Hb < 8 g/dl** (individualizar). |
-| **Sangrado activo o inestabilidad** | **Hb < 8-9 g/dl** (valorar). |
+| **Enfermedad cardiovascular preexistente estable** | Puede considerarse un umbral de **Hb < 8 g/dl**, individualizando según síntomas y contexto. |
+| **Infarto agudo de miocardio (AMI)** | Guía AABB 2025 sugiere estrategia liberal y considerar transfusión con **Hb < 10 g/dl**; recomendación condicional y decisión individualizada. |
+| **Sangrado activo o inestabilidad** | No aplicar un umbral aislado de Hb: la concentración puede retrasarse respecto a la pérdida. Guiar por situación clínica, control del foco y protocolo de hemorragia/transfusión masiva. |
 
 > ⚠️ **Aviso:** Los umbrales son orientativos y deben interpretarse junto con la clínica (sangrado activo, isquemia, tolerancia hemodinámica), nunca de forma aislada. En el síndrome coronario agudo o la isquemia miocárdica activa se individualiza el umbral.
 
@@ -66,10 +71,10 @@ La transfusión en el paciente crítico presenta particularidades que justifican
 
 | Situación | Umbral de plaquetas |
 |---|---|
-| **Plaquetas — profiláctico** | < 10×10⁹/l. |
-| **Plaquetas — fiebre o sepsis** | < 20×10⁹/l. |
-| **Plaquetas — antes de procedimiento invasivo** | < 50×10⁹/l. |
-| **Plaquetas — neurocirugía** | < 100×10⁹/l. |
+| **Plaquetas — profiláctico** | En adultos no sangrantes con trombocitopenia hipoproliferativa (p. ej., quimioterapia o trasplante alogénico), suele indicarse si < 10×10⁹/l; no extrapolar automáticamente a otras causas o escenarios. |
+| **Plaquetas — fiebre o sepsis** | No hay un umbral universal de 20×10⁹/l: valorar sangrado, tendencia, coagulopatía, procedimiento previsto y protocolo local. |
+| **Plaquetas — antes de procedimiento invasivo** | El umbral depende del procedimiento, sitio, riesgo hemorrágico y guía local; 50×10⁹/l se usa en algunos procedimientos, no es universal. |
+| **Plaquetas — neurocirugía** | El umbral puede ser mayor (a menudo se considera 100×10⁹/l), según procedimiento, urgencia y protocolo especializado. |
 
 ### Indicación de plasma fresco congelado (PFC)
 
@@ -78,11 +83,11 @@ La transfusión en el paciente crítico presenta particularidades que justifican
 | **Plasma (PFC)** | Solo con sangrado + alteración de la coagulación (no por INR aislado). |
 
 - Indicado en la **coagulopatía con sangrado activo** o en la preparación de un procedimiento invasivo con alteración documentada de la coagulación. **No** se transfunde por un INR alargado aislado sin sangrado.
-- Dosis habitual: **10-15 ml/kg** de peso (unas 4 unidades en un adulto de 70 kg), a 30 minutos por unidad.
+- Dosis habitual orientativa: **10-15 ml/kg** (la dosis y velocidad se ajustan a la indicación, tolerancia y protocolo del banco de sangre; no asumir una duración fija por unidad).
 
 ### Indicación de crioprecipitado
 
-- Hipo o disfibrinogenemia con sangrado o procedimiento invasivo: **fibrinógeno < 1,5-2 g/l** (según protocolo del centro).
+- Hipo o disfibrinogenemia con sangrado o procedimiento invasivo: considerar reposición si el fibrinógeno está bajo (los umbrales varían según contexto, por ejemplo hemorragia masiva, obstétrica o perioperatoria); confirmar objetivo con el protocolo aplicable.
 - Dosis habitual: **10 unidades** (o 1 unidad por cada 10 kg), que elevan el fibrinógeno aproximadamente 0,5-1 g/l.
 
 ### Transfusión masiva

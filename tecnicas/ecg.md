@@ -1,3 +1,7 @@
+---
+layout: default
+title: "ECG: fundamentos, registro y lectura sistemática"
+---
 # ECG: fundamentos, registro y lectura sistemática
 
 > 📖 **Fuentes:** Kligfield P, Gettes LS, Bailey JJ, et al. *Recommendations for the standardization and interpretation of the electrocardiogram.* Circulation. 2007;115:1306-1324. · AHA/ACC/HRS. *Guideline for the management of patients with supraventricular tachycardia.* Circulation. 2015;133:e506-e574. · Van Gelder IC, Rienstra M, Bunting KV, et al. *ESC 2024 Guidelines for the management of atrial fibrillation.* Eur Heart J. 2024;45:3314-3414. · Byrne RA, Rossello X, Coughlan JJ, et al. *ESC 2023 Guidelines for the management of acute coronary syndromes.* Eur Heart J. 2023;44:3720-3826. · Thygesen K, Alpert JS, Jaffe AS, et al. *Fourth Universal Definition of Myocardial Infarction.* Circulation. 2018;138:e618-e651. · Kusumoto FM, Schoenfeld MH, Barrett C, et al. *ACC/AHA/HRS 2018 Guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay.* Circulation. 2019;140:e382-e482. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care.* 7th ed. Elsevier.
@@ -188,7 +192,11 @@ Datos del paciente y calidad del trazado → FC → ritmo → eje → P → PR �
 - Comparar **siempre** con el ECG previo y desconfiar de los «cambios» aislados del monitor.
 - Ninguna herramienta sustituye la **correlación clínica**: el ECG se interpreta con el paciente delante.
 
-## 8. Evidencia y referencias
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+
+---
+
+## Evidencia y referencias
 
 - **Kligfield P, et al.** Recommendations for the standardization and interpretation of the electrocardiogram. *J Am Coll Cardiol* 2007;49:1109-1127.
 - **Wagner GS, et al.** AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram. *Circulation* 2009;119:e262-e270.
@@ -199,7 +207,7 @@ Datos del paciente y calidad del trazado → FC → ritmo → eje → P → PR �
 
 ---
 
-## 9. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

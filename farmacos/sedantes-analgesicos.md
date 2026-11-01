@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Sedantes y analgésicos en el paciente crítico"
+---
 # Sedantes y analgésicos en el paciente crítico
 
-> 📖 **Fuentes:** Devlin JW, et al. PADIS Guidelines (pain, agitation/sedation, delirium, immobility, sleep). Crit Care Med 2018;46:e825-e873. · Fichas técnicas AEMPS/CIMA: https://cima.aemps.es · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+> 📖 **Fuentes:** Devlin JW, et al. PADIS Guidelines. *Crit Care Med*. 2018;46:e825-e873 (base). · Lewis K, et al. Focused PADIS update. *Crit Care Med*. 2025;53:e711-e727. doi:10.1097/CCM.0000000000006574 (dexmedetomidina frente a propofol en determinados adultos ventilados; recomendación condicional, no universal). · Fichas técnicas AEMPS/CIMA: https://cima.aemps.es.
 
 > 🖥️ **Correspondencia con la app:** `SedoanalgesiaDeliriumActivity` y `SedacionDeliriumActivity` (`feature_neuro`), `PerfusionesPrecargadas` (`feature_app3`), `EcmoCircuitoActivity` (`feature_cardio`).
 

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "TRRC: anticoagulación del circuito (citrato regional y heparina)"
+---
 # TRRC: anticoagulación del circuito (citrato regional y heparina)
 
 > 📖 **Fuentes:** KDIGO. Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · NICE: https://www.nice.org.uk · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.

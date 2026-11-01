@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Transporte del paciente crítico (intrahospitalario e interhospitalario)"
+---
 # Transporte del paciente crítico (intrahospitalario e interhospitalario)
 
 > 📖 **Fuentes:** Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · NICE: https://www.nice.org.uk
@@ -93,7 +97,7 @@ NEWS2 puntúa frecuencia respiratoria, saturación de oxígeno, uso de oxígeno 
 ### Otras escalas y puntos de corte
 
 - **Escala de coma de Glasgow:** valoración neurológica; un descenso ≥ 2 puntos obliga a aviso inmediato.
-- **qSOFA y SOFA:** 2 o más puntos en el qSOFA orientan a disfunción orgánica y gravedad; un aumento ≥ 2 puntos en el SOFA con infección define sepsis.
+- **qSOFA y SOFA:** qSOFA ≥2 puede señalar mayor riesgo, pero no diagnostica sepsis ni es cribado único. Un aumento agudo del SOFA ≥2 con sospecha de infección operacionaliza disfunción orgánica en Sepsis-3; integrar ambos con clínica y protocolo local.
 - **RASS:** ajuste de la sedación; documenta el objetivo antes de salir.
 - **Presión intracraneal:** mantener por debajo de 20-22 mmHg en el neurocrítico.
 - **Capnografía:** EtCO₂ 35-45 mmHg; confirma la posición del tubo y detecta la desconexión.

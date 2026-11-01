@@ -1,3 +1,7 @@
+---
+layout: default
+title: "VIP · Visual Infusion Phlebitis Score (flebitis por infusión)"
+---
 # VIP · Visual Infusion Phlebitis Score (flebitis por infusión)
 
 > 📖 **Fuentes:** Jackson A. *Visual Infusion Phlebitis Score (VIP).* NHS; 1998. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care.* 7th ed. Elsevier.
@@ -130,7 +134,9 @@ Su **validación psicométrica formal es limitada**: se trata de una escala clí
 - **Inspeccionar y palpar** el punto de inserción y el trayecto.
 - **Documentar** el grado en cada valoración.
 - Complementar con medidas de **prevención** y retirada precoz.
+
 ---
+
 ## Evidencia y referencias
 
 - **Jackson A.** Visual Infusion Phlebitis Score (VIP). NHS; 1998.
@@ -140,6 +146,7 @@ Su **validación psicométrica formal es limitada**: se trata de una escala clí
 > La escala es visual; un VIP ≥ 2 indica retirada del catéter según el protocolo. Debe registrarse en cada turno y siempre ante dolor, eritema o induración.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

@@ -1,10 +1,14 @@
+---
+layout: default
+title: "Alertas de deterioro neurológico en el paciente neurocrítico: detección, actuación inmediata y cuidados de enfermería"
+---
 # Alertas de deterioro neurológico en el paciente neurocrítico: detección, actuación inmediata y cuidados de enfermería
 
 *Lista de comprobación de signos de alarma, reevaluación inmediata y activación del protocolo del centro.*
 
-> 📖 **Fuentes:** Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · NICE: https://www.nice.org.uk
+> Fuentes específicas y alcance al final: BTF 4.ª edición para TCE, ACNS para EEG y enfoque estructurado Glasgow. Referencias de una lesión no son objetivos universales de este asistente.
 
-El deterioro neurológico en el paciente neurocrítico es un evento **tiempo-dependiente**: la lesión secundaria —hipoxia, hipotensión, hipercapnia, fiebre, hiperglucemia, crisis convulsivas o hipertensión intracraneal— se acumula minuto a minuto y amplía el daño cerebral irreversible. La mayoría de los deterioros anuncian su aparición con signos clínicos detectables a pie de cama antes de que el daño sea establecido. La detección se ordena mediante seis signos de alarma, con reevaluación inmediata, actuación escalonada con dosis y tiempos, cuidados de enfermería con sus frecuencias, complicaciones y criterios de escalado, todo ello aplicable de forma autónoma en la UCI.
+El deterioro neurológico requiere una respuesta **tiempo-dependiente**, pero sus signos no siempre son visibles o específicos. Esta lista ayuda a detectar cambios, comprobar ABC y activar ayuda; **no es una escala validada, una prescripción ni un protocolo autónomo de tratamiento**. Las medidas invasivas y los ajustes farmacológicos/ventilatorios exigen equipo responsable, indicación y procedimiento del centro. El contenido se centra en adultos y no se extrapola a pediatría.
 
 ## 1. Definición y objetivo
 
@@ -53,7 +57,7 @@ Se aplica en la UCI y en cualquier área donde un paciente neurocrítico pueda d
 
 ### 2.2 Fisiopatología esencial
 
-El cráneo es una cavidad rígida con tres componentes —parénquima cerebral, sangre y líquido cefalorraquídeo—. Según la **doctrina de Monro-Kellie**, el aumento de uno de ellos debe compensarse con la disminución de los otros; cuando se agota la reserva de compensación (desplazamiento de líquido cefalorraquídeo y de sangre venosa), pequeños incrementos de volumen producen grandes aumentos de PIC. La PIC normal es de **5-15 mmHg**; por encima de **20-22 mmHg** de forma mantenida disminuye la perfusión cerebral.
+La relación entre volumen intracraneal y presión depende de la reserva de compensación de parénquima, sangre y LCR; cuando se agota, pequeños incrementos de volumen pueden elevar mucho la PIC. El valor basal y la respuesta dependen de edad, técnica y lesión. No existe una cifra aislada que diagnostique perfusión insuficiente en toda patología.
 
 La **presión de perfusión cerebral (PPC)** es la diferencia entre la presión arterial media (PAM) y la PIC:
 
@@ -86,40 +90,38 @@ La comprobación de estos seis signos **ordena la reevaluación inmediata; no di
 
 | Signos marcados | Interpretación y conducta |
 |---|---|
-| **Ninguno** | Mantener la vigilancia y repetir la valoración en el próximo control. |
-| **Uno** | Actuar según el protocolo del centro; reevaluar y cuantificar el cambio. |
-| **Varios** | Priorizar la reevaluación inmediata y avisar al equipo responsable. |
+| **Ninguno** | Casillas sin seleccionar no acreditan normalidad ni excluyen deterioro; si hay preocupación o cambio nuevo, reevaluar/avisar sin esperar. |
+| **Uno** | Puede ser urgente por sí solo; reevaluación inmediata y circuito según hallazgo, sin esperar más signos. |
+| **Varios** | Reevaluar/avisar de inmediato; el recuento no es una escala validada de gravedad. |
 
 ### 3.3 Escalas de valoración
 
 | Escala | Qué mide | Puntos de corte relevantes |
 |---|---|---|
 | **Glasgow (GCS)** | Nivel de consciencia: apertura ocular (1-4), respuesta verbal (1-5), respuesta motora (1-6). Total 3-15. | Leve 13-15; moderado 9-12; **grave ≤8**. Un descenso **≥2 puntos** respecto a la valoración previa es criterio de alarma. |
-| **FOUR score** | Ocular, motor, troncoencefálico y respiratorio; total 0-16. | Útil en el paciente intubado, en el que el componente verbal del Glasgow no es valorable; **<8** indica compromiso grave. |
-| **NIHSS** | Gravedad del déficit en el ictus; total 0-42. | **≥4** hace considerar terapias de reperfusión; **>25** indica ictus grave. |
-| **RASS** | Nivel de sedación; de −5 a +4. | Objetivo habitual **0 a −2** cuando se precisa sedación; valorar diariamente la suspensión. |
+| **FOUR score** | Ocular, motor, tronco y respiración; total 0–16. | Registrar componentes, versión y condiciones; el total no define por sí solo intubación, pronóstico o un umbral universal de gravedad. |
+| **NIHSS** | Déficit neurológico estandarizado; 0–42. | No decide por sí sola reperfusión; un déficit incapacitante puede tener total bajo. Aplicar técnica oficial y circuito de ictus. |
+| **RASS** | Sedación/agitación; −5 a +4. | Objetivo individual; evaluar seguridad antes de reducir sedación, sin despertar automático en HIC no controlada o crisis activas. |
 | **Escala de coma de Glasgow pediátrica** | Equivalente adaptado en el niño. | Aplicar la versión correspondiente a la edad. |
 
 ### 3.4 Umbrales de neuromonitorización
 
 | Parámetro | Valor normal | Umbral de alarma y actuación |
 |---|---|---|
-| **PIC** | 5-15 mmHg | **>20-22 mmHg** mantenida más de 5 minutos: tratar. |
-| **PPC** | 60-70 mmHg | **<50-60 mmHg**: optimizar PAM e ICP. |
+| **PIC** | Depende de técnica, edad y lesión | En TCE grave, BTF 4.ª edición recomienda tratar >22 mmHg integrando señal, duración, exploración e imagen; no extrapolar a toda patología. |
+| **PPC** | Objetivo individual; BTF utiliza 60–70 mmHg en TCE grave | Comparar con objetivo prescrito y ambas presiones; no deducir flujo o indicar fluidos por la resta aislada. |
 | **PbtO2 (oxigenación tisular cerebral)** | 20-35 mmHg | **<15 mmHg**: revisar PPC, oxigenación y ventilación. |
 | **Diámetro pupilar** | 2-5 mm, reactivo y simétrico | Anisocoria **>1 mm** o pupila arrefléctica: alarma. |
 | **Índice pupilar neurológico** | 0-5 | **<3**: reactividad pupilar alterada. |
-| **Capnografía / PaCO2** | 35-40 mmHg | **<30 mmHg** (isquemia por vasoconstricción) o **>45 mmHg** (hiperemia): corregir. |
+| **Capnografía / PaCO₂** | Objetivo prescrito según lesión y fase | CO₂ espirado y arterial no son equivalentes; confirmar gasometría cuando proceda. Evitar hiperventilación profiláctica; rescate temporal solo por indicación experta. |
 | **SpO2 / PaO2** | SpO2 ≥94 %; PaO2 ≥80 mmHg | Evitar hipoxia y también hiperoxia mantenida. |
 | **Temperatura** | 36-37,5 °C | Fiebre **≥38 °C**: tratar de inmediato. |
 | **Glucemia** | 140-180 mg/dL (7,8-10 mmol/L) | Evitar **<70 mg/dL** y **>180 mg/dL** de forma mantenida. |
-| **Natremia** | 135-145 mEq/L | Evitar hiponatremia; en hipertensión intracraneal puede buscarse 145-155 mEq/L de forma controlada. |
+| **Natremia** | Interpretar valor, tendencia, causa y tratamiento | No inducir una banda de hipernatremia de rutina ni corregir con un único esquema; osmoterapia y objetivos requieren indicación y seguimiento. |
 
 ### 3.5 Indicaciones de monitorización de la PIC
 
-- Glasgow **≤8** con tomografía computarizada (TC) craneal anormal (hematoma, contusión, edema, compresión de cisternas).
-- Glasgow **≤8** con TC normal y al menos **dos** de los siguientes criterios: edad **>40 años**, postura de descerebración o decorticación unilateral o bilateral, o presión arterial sistólica **<90 mmHg**.
-- Paciente sedado o relajado en el que la exploración neurológica seriada no es fiable y existe riesgo de hipertensión intracraneal.
+La indicación depende de diagnóstico, gravedad, imagen, posibilidad de exploración y objetivos terapéuticos; la decide el equipo neurocrítico. BTF 4.ª edición recomienda manejo con información de PIC en TCE grave. Los criterios clásicos de GCS 3–8 posreanimación/TC anormal o TC normal con factores de riesgo se reproducen como recomendaciones previas con limitaciones de evidencia: no son una orden de implantar monitor en cualquier coma o paciente sedado.
 
 ## 4. Valoración inicial
 
@@ -183,9 +185,9 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 1. **Reevaluar al paciente de inmediato** y cuantificar el cambio con la escala que se use en la unidad (Glasgow, FOUR, NIHSS).
 2. **Comprobar la vía aérea, la ventilación, la glucemia, la tensión arterial, la temperatura y la saturación.**
 3. **Avisar al equipo responsable y activar el protocolo de deterioro neurológico del centro.**
-4. **Optimizar la oxigenación:** evitar la hipoxia y la hipercapnia; mantener SpO2 ≥94 % y PaCO2 35-40 mmHg.
+4. **Comprobar oxigenación y ventilación** y actuar según objetivos de la lesión; correlacionar capnografía con gasometría cuando proceda, sin igualarlas.
 5. **Colocar el cabecero a 30°** (rango 15-30°), si no está contraindicado, con la cabeza en posición neutra y alineada.
-6. **Controlar la presión arterial:** evitar la hipotensión; mantener normotensión o hipertensión permisiva según la patología de base. Presión arterial sistólica ≥100-110 mmHg para preservar la PPC.
+6. **Controlar presión y perfusión:** identificar causa y seguir el objetivo de la lesión/fase; las referencias de TCE no se aplican automáticamente a ictus hemorrágico o a toda urgencia neurológica.
 7. **Mantener normoglucemia, normonatremia y normotermia.**
 8. **Valorar TC craneal urgente** y medidas antiedema (manitol o suero salino hipertónico) según indicación médica.
 9. **Registrar la hora, los signos, las constantes, las medidas aplicadas y la respuesta obtenida.**
@@ -193,7 +195,7 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 ### 5.2 Vía aérea y ventilación
 
 - Asegurar la permeabilidad de la vía aérea; si Glasgow **≤8**, valorar intubación orotraqueal para proteger la vía aérea y controlar la ventilación.
-- Preoxigenar con FiO2 100 % antes de cualquier manipulación de la vía aérea.
+- Preparar oxigenación, monitorización y rescate de vía aérea según procedimiento y tolerancia; no todas las manipulaciones requieren la misma intervención.
 - Objetivo de **normocapnia (PaCO2 35-40 mmHg)**. La hiperventilación reduce la PIC por vasoconstricción, pero puede provocar isquemia: reservarla como **medida temporal puente** ante signos de herniación, con PaCO2 **30-35 mmHg**, y solo hasta que se aplique el tratamiento definitivo.
 - Evitar la hiperoxia mantenida; ajustar la FiO2 a la SpO2 objetivo.
 
@@ -201,33 +203,25 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 
 | Objetivo | Valor |
 |---|---|
-| Presión arterial sistólica | ≥100-110 mmHg (≥100 en 50-69 años; ≥110 en 15-49 años y ≥70 años). |
-| Presión arterial media | La necesaria para una PPC de 60-70 mmHg. |
-| PPC | 60-70 mmHg. |
+| Presión arterial sistólica | Objetivo por lesión y fase; las referencias por edad de BTF corresponden a TCE grave, no a todo deterioro neurológico. |
+| Presión arterial media | Individualizada según perfusión y, si hay PIC fiable, PPC prescrita. |
+| PPC | BTF utiliza 60–70 mmHg en TCE grave; evitar perseguir >70 con fluidos/vasopresores agresivos de rutina. |
 | Fluidos | Suero salino fisiológico 0,9 % u otro cristaloide isotónico; evitar soluciones hipotónicas (glucosado 5 %, salino 0,45 %). |
 | Vasopresores | Noradrenalina en perfusión para mantener la PAM objetivo si la volemia está optimizada. |
 
 ### 5.4 Medidas antiedema cerebral
 
-| Fármaco | Dosis | Consideraciones |
-|---|---|---|
-| **Manitol 20 %** | 0,25-1 g/kg IV en 15-20 minutos; repetir cada 4-6 horas según respuesta. | Mantener euvolemia; vigilar osmolaridad plasmática (evitar >320 mOsm/kg), función renal y diuresis. |
-| **Suero salino hipertónico 3 %** | 150-500 mL (2-5 mL/kg) IV en 10-20 minutos. | Vigilar natremia y osmolaridad; objetivo de sodio 145-155 mEq/L de forma controlada. |
-| **Suero salino hipertónico 23,4 %** | 30-60 mL IV por vía central en 10 minutos. | Reservado a situaciones de herniación; requiere acceso venoso central. |
+La osmoterapia puede reducir PIC, pero no constituye una orden de tratamiento a partir de una casilla. El equipo elige agente, concentración, dosis, acceso y velocidad según lesión, hemodinámica, función renal, sodio y tratamientos previos. No repetir bolos con una periodicidad fija ni perseguir una natremia genérica.
+
+Verificar prescripción y presentación, doble comprobación, acceso compatible y bomba; registrar basal/respuesta, presión, exploración/PIC, balance/diuresis y controles de sodio, función renal y osmolaridad indicados. No confundir gramos de manitol con mililitros ni intercambiar concentraciones de salino. BTF 4.ª edición no respalda un agente hiperosmolar universal por beneficio demostrado en desenlaces.
 
 > ⚠️ **Aviso:** La terapia hiperosmolar puede producir hipotensión, insuficiencia renal y desequilibrios hidroelectrolíticos. Vigilar diuresis, natremia, osmolaridad y presión arterial tras cada dosis.
 
 ### 5.5 Manejo de la crisis convulsiva
 
 1. **Proteger la vía aérea** y administrar oxígeno; colocar al paciente en posición lateral de seguridad si no está intubado.
-2. **Benzodiacepina de primera línea:** lorazepam **0,1 mg/kg IV** (máximo 4 mg por dosis); puede repetirse una vez a los 5-10 minutos si la crisis persiste. Si no hay acceso venoso: midazolam **10 mg** intramuscular, bucal o intranasal.
-3. **Fármaco de segunda línea** si la crisis no cede (estado epiléptico):
-
-| Fármaco | Dosis | Velocidad |
-|---|---|---|
-| **Levetiracetam** | 60 mg/kg IV (máximo 4500 mg). | En 15 minutos. |
-| **Fosfenitoína** | 20 mg de equivalentes de fenitoína (PE)/kg IV (máximo 1500 mg PE). | A ≤150 mg PE/min, con monitorización cardiaca. |
-| **Valproato sódico** | 40 mg/kg IV (máximo 3000 mg). | En 10 minutos. |
+2. **Primera línea según algoritmo de estatus:** benzodiacepina por la vía disponible, verificando peso, edad, dosis previas, concentración, máximo y velocidad. Las formulaciones IV, intramuscular, bucal e intranasal no son intercambiables por una dosis genérica. Preparar soporte respiratorio y vigilancia hemodinámica.
+3. Si persiste tras tratamiento adecuado, el equipo indica segunda línea y tratamiento causal en paralelo. No retrasar la escalada mientras se completa el registro; comprobar contraindicaciones, presentación, unidades y monitorización del fármaco elegido. El estatus refractario requiere manejo experto y EEG, no una lista de dosis de aplicación autónoma.
 
 4. **Crisis no convulsiva:** sospecharla en el paciente que no recupera el nivel de consciencia tras una crisis convulsiva o que permanece en coma sin causa clara; requiere **EEG urgente o EEG continuo**.
 5. **Profilaxis anticomicial:** no es sistemática; en el traumatismo craneoencefálico grave puede considerarse durante los primeros **7 días** para prevenir la crisis precoz, sin que haya evidencia de beneficio sobre la crisis tardía.
@@ -235,18 +229,18 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 ### 5.6 Sedoanalgesia y control del entorno
 
 - Analgesia y sedación suficientes para evitar el dolor, la tos y el esfuerzo, que elevan la PIC.
-- Fármacos de uso habitual: propofol **0,5-4 mg/kg/h**, midazolam **0,02-0,1 mg/kg/h**, fentanilo **25-200 mcg/h** en perfusión, ajustando a la respuesta y evitando la hipotensión.
+- Selección/dosis de sedantes y opioides por prescripción, objetivo, función orgánica y respuesta; vigilar presión, ventilación y efectos acumulativos. No extrapolar una banda de dosis entre indicaciones o pacientes.
 - Valorar la suspensión diaria de la sedación cuando la PIC esté estable, para poder explorar al paciente.
 - Evitar maniobras que aumenten la PIC: aspiración brusca, rotación o hiperextensión del cuello, hipoxia, hipotensión, tos, vómitos, dolor y estímulos intensos.
-- Agrupar los cuidados para minimizar los estímulos y permitir periodos de descanso.
+- Planificar descanso y analgesia sin acumular estímulos que eleven PIC de forma sostenida; espaciar y reevaluar según tolerancia, sin omitir cuidados esenciales.
 
 ### 5.7 Control metabólico y térmico
 
 | Parámetro | Objetivo | Actuación |
 |---|---|---|
-| **Glucemia** | 140-180 mg/dL (7,8-10 mmol/L). | Insulina en perfusión según protocolo; evitar la hipoglucemia. |
-| **Natremia** | 135-145 mEq/L; 145-155 mEq/L si se busca terapia hiperosmolar. | Reponer con suero salino isotónico; corregir la hiponatremia de forma controlada para evitar la mielinólisis central pontina. |
-| **Temperatura** | 36-37,5 °C. | Antitérmicos (paracetamol 1 g IV) y enfriamiento físico; buscar el foco de la fiebre. |
+| **Glucemia** | Objetivo individual/protocolo del crítico | Tratar alteraciones indicadas sin inducir hipoglucemia; revisar aporte, pauta y frecuencia de control. |
+| **Natremia** | Objetivo por causa, síntomas, cronicidad y osmoterapia indicada | Corrección prescrita y controles seriados; no reponer siempre con el mismo fluido ni inducir hipernatremia por rutina. |
+| **Temperatura** | Objetivo según lesión, fase y plan | Buscar causa de fiebre y aplicar medidas prescritas vigilando tolerancia; dosis de antitérmicos individualizada. |
 | **Hemoglobina** | Evitar anemia significativa. | Transfundir según el protocolo de la unidad y el contexto clínico. |
 
 ## 6. Cuidados de enfermería y vigilancia
@@ -255,9 +249,9 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 
 | Situación | Frecuencia de valoración neurológica |
 |---|---|
-| Paciente neurocrítico de riesgo estable | **Glasgow y pupilas cada hora.** |
-| Deterioro agudo o posoperatorio inmediato de neurocirugía | Cada **15-30 minutos** hasta la estabilización. |
-| Paciente con neuromonitorización invasiva | PIC y PPC continuas, con registro horario y tras cada intervención. |
+| Paciente neurocrítico de riesgo estable | Frecuencia prescrita por riesgo, fase y posibilidad de exploración; registrar condiciones comparables. |
+| Deterioro agudo o posoperatorio inmediato de neurocirugía | Reevaluación inmediata y vigilancia intensificada acordada; no esperar al intervalo programado para avisar. |
+| Paciente con neuromonitorización invasiva | Vigilar señal y tendencias; registro con frecuencia indicada y tras cambios relevantes. |
 | Tras aspiración, movilización o cambio de sedación | Reevaluar de inmediato y registrar la respuesta. |
 
 ### 6.2 Qué registrar
@@ -276,7 +270,7 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 
 - Cabecero a **30°** (rango 15-30°), con la cabeza en línea media y sin rotación ni flexión del cuello.
 - Evitar el decúbito lateral forzado y el Trendelenburg.
-- Evitar la compresión de los vasos del cuello: retirar objetos, aflojar las fijaciones del tubo endotraqueal y evitar collarines excesivamente ajustados.
+- Evitar compresión venosa cervical y comprobar fijación/posición; no aflojar el tubo ni retirar un collarín que mantiene protección cervical sin personal y plan seguros.
 - Evitar el aumento de la presión intratorácica: tos, esfuerzo, ventilación enérgica, succión prolongada.
 - Prevenir el estreñimiento y evitar el esfuerzo defecatorio; evitar la flexión de la cadera por encima de 90°.
 - Mantener la normoxia, la normocapnia y la normotensión como medidas de protección cerebral continua.
@@ -284,9 +278,8 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 ### 6.4 Aspiración de secreciones
 
 - Aspirar **solo si es necesario**, no de forma rutinaria.
-- Preoxigenar con FiO2 100 % y limitar la maniobra a **≤10-15 segundos**.
-- Si está indicado, administrar **lidocaína 1-1,5 mg/kg IV** 1-2 minutos antes para atenuar el reflejo tusígeno.
-- Si se ha indicado, hiperventilar brevemente durante la maniobra y permitir la recuperación posterior.
+- Preoxigenar según necesidad y protocolo, realizar aspiración breve y evaluar oxigenación, presión/PIC y tolerancia; evitar aspiraciones profundas rutinarias.
+- Analgesia, sedación u otros fármacos solo conforme a indicación individual. No usar lidocaína ni hiperventilación como preparación automática de cada aspiración.
 - Reevaluar la PIC y las constantes tras la aspiración y registrar la respuesta.
 
 ### 6.5 Cuidados generales del paciente neurocrítico
@@ -304,22 +297,22 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 | Complicación | Reconocimiento | Actuación |
 |---|---|---|
 | **Herniación cerebral** | Anisocoria, midriasis arrefléctica, deterioro del nivel de consciencia, posturas de descerebración, tríada de Cushing. | Avisar de inmediato; cabecero a 30°, normocapnia, medidas hiperosmolares, TC craneal urgente y valoración neuroquirúrgica. |
-| **Hipertensión intracraneal refractaria** | PIC >20-22 mmHg mantenida pese al tratamiento inicial. | Optimizar sedoanalgesia, drenaje de líquido cefalorraquídeo si existe derivación, terapia hiperosmolar, valorar hipotermia y craniectomía descompresiva según indicación. |
+| **HIC refractaria** | Elevación sostenida fuera del objetivo pese al tratamiento, con señal válida | Aviso neurocrítico/neuroquirúrgico y escalada según lesión. No manipular DVE por iniciativa propia ni aplicar hipotermia profiláctica como intervención rutinaria. |
 | **Estado epiléptico** | Crisis continua o recurrente sin recuperación de la consciencia entre crisis. | Benzodiacepina de primera línea y fármaco de segunda línea en la secuencia indicada; EEG y valoración neurológica urgente. |
 | **Crisis no convulsiva** | Coma o falta de recuperación de la consciencia sin causa clara. | EEG urgente o continuo; tratamiento anticomicial según indicación médica. |
 | **Hiponatremia** | Confusión, crisis, descenso del nivel de consciencia, natremia <135 mEq/L. | Suero salino isotónico o hipertónico según indicación; corrección controlada para evitar la mielinólisis central pontina. |
 | **Fiebre** | Temperatura ≥38 °C. | Antitérmicos, enfriamiento físico y búsqueda del foco; la fiebre agrava la lesión cerebral. |
 | **Hipercapnia o hipoxia** | Descenso de SpO2, CO2 elevado en la gasometría. | Optimizar la ventilación y la oxigenación; evitar tanto la hipoxia como la hiperoxia. |
-| **Hipotensión** | PAM insuficiente con PPC baja. | Optimizar volemia con cristaloides isotónicos e iniciar vasopresor para mantener la PPC objetivo. |
-| **Síndrome de secreción inadecuada de ADH / pérdida cerebral de sal** | Hiponatremia con alteración del nivel de consciencia y alteraciones del balance hídrico. | Ionograma y osmolaridad seriados; reposición de sodio y volumen según indicación médica. |
+| **Hipotensión** | Presión/perfusión fuera del objetivo | Confirmar medición y causa; fluidos si indicados con reevaluación de respuesta/congestión y vasoactivos prescritos. No toda hipotensión es déficit de volumen. |
+| **Hiponatremia con sospecha de SIADH o pérdida de sal** | Alteraciones de sodio, osmolaridad, orina y balance que requieren diagnóstico diferencial | No equiparar mecanismos ni tratar ambos automáticamente con volumen: la estrategia depende de evaluación especializada, volemia, síntomas y cronicidad. |
 | **Disfunción autonómica paroxística** | Hipertermia, hipertensión, taquicardia, sudoración y posturas anómalas en episodios. | Descartar dolor y otras causas; tratamiento sintomático y aviso al equipo responsable. |
 | **Trombosis venosa profunda y complicaciones de la inmovilidad** | Edema asimétrico de la extremidad, úlceras por presión. | Profilaxis antitrombótica, movilización y cuidados de la piel. |
 
 ## 8. Prevención
 
-- **Vigilancia neurológica sistematizada:** Glasgow y pupilas cada hora en el paciente de riesgo, con registro estructurado que permita comparar y detectar el cambio.
+- **Vigilancia neurológica sistematizada:** frecuencia individual y registro de componentes/limitaciones; ante cambio nuevo no esperar al siguiente control.
 - **Evitar la lesión secundaria:** normoxia, normocapnia, normotensión, normoglucemia, normonatremia y normotermia.
-- **Control de la PIC:** cabecero a 30°, cabeza neutra, agrupación de cuidados, sedoanalgesia suficiente y prevención de la tos y el esfuerzo.
+- **Cuidados y PIC:** postura según lesión/columna/perfusión, analgesia y estímulos ajustados a tolerancia; no agrupar maniobras si prolongan elevaciones de PIC.
 - **Prevención de la crisis convulsiva:** identificar a los pacientes de riesgo, revisar la medicación anticomicial y asegurar su administración.
 - **Aspiración selectiva y breve,** con preoxigenación y control de la PIC.
 - **Profilaxis del tromboembolismo venoso** y prevención de las úlceras por presión.
@@ -334,7 +327,7 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 - **Nueva anisocoria** o midriasis arrefléctica.
 - **Déficit focal nuevo:** paresia, afasia, desviación de la mirada o asimetría facial.
 - **Convulsión** presenciada o sospechada, o sospecha de crisis no convulsiva.
-- **PIC >20-22 mmHg** mantenida más de 5 minutos, **PPC <50-60 mmHg** o cambio brusco respecto a la medición previa.
+- PIC/PPC fuera del objetivo prescrito, cambio brusco o deterioro asociado, confirmando calidad de señal sin retrasar ayuda.
 - **Tríada de Cushing:** hipertensión, bradicardia y alteración del patrón respiratorio.
 - Cefalea intensa, vómitos o cualquier signo de herniación.
 - Deterioro respiratorio, hipoxia o hipercapnia en el paciente neurocrítico.
@@ -358,7 +351,7 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 - El deterioro neurológico es **tiempo-dependiente**: cada minuto de hipoxia, hipotensión o hipertensión intracraneal amplía el daño.
 - La comprobación de los seis signos de alarma ordena la reevaluación inmediata y la activación del protocolo del centro; **no diagnostica automáticamente ni sustituye la valoración médica: solo ordena la detección y la respuesta**.
 - Cualquier descenso del Glasgow **≥2 puntos** obliga a reevaluar de inmediato y a cuantificar el cambio con la escala de la unidad.
-- La **anisocoria nueva** o la pupila que deja de reaccionar son signos de compresión del tercer par craneal y de herniación inminente.
+- La **anisocoria nueva** o pérdida de reactividad requieren evaluación urgente; pueden indicar herniación, pero tienen otras causas y no la diagnostican aisladamente.
 - La **PPC = PAM − PIC** es el objetivo fisiológico que guía la actuación hemodinámica y antiedema.
 - Descartar siempre las causas rápidamente reversibles: hipoglucemia, hipoxia, hipercapnia e hipotensión.
 - La **crisis no convulsiva** solo se detecta con EEG: sospecharla en todo paciente en coma sin causa clara o que no recupera la consciencia.
@@ -379,7 +372,7 @@ Ante cualquier signo de alarma, la primera medida es **reevaluar al paciente de 
 
 ## Fuentes
 
-> 📖 **Fuentes:** Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · NICE: https://www.nice.org.uk
+> 📖 **Fuentes:** BTF, Severe TBI 4.ª edición, https://braintrauma.org/coma/guidelines/severe-tbi (PIC/PPC, ventilación, osmoterapia y limitaciones de evidencia); Herman et al., ACNS 2015, https://pmc.ncbi.nlm.nih.gov/articles/PMC4435533/ (EEG continuo); enfoque estructurado Glasgow, https://www.glasgowcomascale.org/. Consultar guías específicas de la lesión y procedimiento del centro; esta lista no establece dosis o objetivos universales.
 
 ---
 

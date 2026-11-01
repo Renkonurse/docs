@@ -1,6 +1,10 @@
+---
+layout: default
+title: "CAM-ICU (Confusion Assessment Method for the ICU)"
+---
 # CAM-ICU (Confusion Assessment Method for the ICU)
 
-> 📖 **Fuentes:** Ely EW, Inouye SK, Bernard GR, et al. *Delirium in mechanically ventilated patients: validity and reliability of the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU).* JAMA. 2001;286(21):2703-2710. · Devlin JW, Skrobik Y, Gélinas C, et al. *Clinical Practice Guidelines for the Prevention and Management of Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU (PADIS).* Crit Care Med. 2018;46(9):e825-e873. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill.
+> 📖 **Fuentes:** Ely EW, Inouye SK, Bernard GR, et al. *CAM-ICU validation.* JAMA. 2001;286:2703-2710. · Devlin JW, et al. PADIS Guidelines. *Crit Care Med*. 2018;46:e825-e873 (base). · Lewis K, et al. Focused PADIS update. *Crit Care Med*. 2025;53:e711-e727. doi:10.1097/CCM.0000000000006574 (updates selected recommendations; does not replace CAM-ICU validation).
 
 ## Qué mide y para qué sirve
 
@@ -82,7 +86,7 @@ Solo se aplica si RASS = 0. Consta de **4 preguntas** (`es_step4_questions_heade
 | **≥ 2 errores** | Pensamiento desorganizado → **DELIRIUM** | `es_step4_threshold` |
 | < 2 errores | **NO delirium** | `es_result_no_delirium` |
 
-El contador de errores de la app admite valores de 0 a 6 y se confirma con `es_confirm_step4` (`Confirmar paso 4`).
+El contador admite de 0 a 5 errores y se confirma con `es_confirm_step4`: cuatro preguntas y un único error si no se completa la orden de dos pasos.
 
 ## Cómo explorar cada ítem (técnica)
 
@@ -90,11 +94,11 @@ El contador de errores de la app admite valores de 0 a 6 y se confirma con `es_c
 
 **Paso 1.** Preguntar a la familia o consultar la historia clínica sobre el **estado mental basal** y compararlo con el actual; revisar el registro de las últimas 24 h para detectar fluctuaciones (somnolencia y agitación alternantes, desorientación intermitente).
 
-**Paso 2 (inatención).** Leer la secuencia **SAVEAHAART** a un ritmo de una letra por segundo, con voz clara y sin enfatizar la «A». El paciente debe **apretar la mano** del explorador cada vez que oiga la «A». Se considera error tanto apretar cuando no corresponde como no apretar cuando corresponde. Alternativa válida en pacientes que no pueden apretar la mano: prueba de imágenes (10 imágenes, 5 repetidas). Contar y registrar el número total de errores (0-10).
+**Paso 2 (inatención).** Administrar la secuencia **SAVEAHAART** con la técnica validada (tabla de Khan 2017: letras separadas 3 segundos), sin enfatizar la «A». El paciente debe apretar la mano al oír «A»; son errores tanto las omisiones como las respuestas a otras letras. Si no puede realizar la tarea, usar la alternativa validada adecuada y registrar barreras, sin inventar un resultado. Contar errores de 0 a 10 y confirmar la exploración.
 
 **Paso 3 (nivel de consciencia).** Aplicar la **RASS** con su secuencia habitual (observar → voz → estímulo físico). Si la RASS es distinta de 0, el paciente cumple criterio de delirium y **no es necesario continuar**.
 
-**Paso 4 (pensamiento desorganizado).** Solo si RASS = 0. Realizar las 4 preguntas (respuesta sí/no) y los 2 comandos. En los comandos, mostrar 2 dedos y pedir «levante estos dedos»; después pedir «ahora con la otra mano» **sin volver a mostrar** los dedos. Contar el total de errores (0-6); el corte es **≥ 2 errores**.
+**Paso 4 (pensamiento desorganizado).** El flujo abreviado llega aquí con RASS 0 y pasos 1 y 2 positivos. Realizar cuatro preguntas y una orden de dos pasos: mostrar dos dedos, pedir que los reproduzca y después que lo haga con la otra mano sin repetir el número. Cada pregunta incorrecta cuenta un error; no completar la orden entera cuenta **un solo error**. Total 0–5; característica presente con **≥2 errores**. No confundir esta característica diagnóstica con los puntos de gravedad CAM-ICU-7.
 
 **Errores frecuentes:** explorar con el paciente recién sedado o en RASS −4/−5; no verificar el estado basal; leer las letras demasiado rápido o enfatizando la «A»; ayudar al paciente en los comandos; no registrar el número de errores; y confundir la falta de colaboración por dolor o disnea con inatención.
 
@@ -107,16 +111,17 @@ El contador de errores de la app admite valores de 0 a 6 y se confirma con `es_c
 
 Resumen del algoritmo (como lo muestra la app):
 
-- Paso 1 sin cambio ni fluctuación → **NO delirium** (`es_info_bullet_step1`).
+- Primero RASS: sin selección no hay resultado; con −4/−5 → **no evaluable**, no «sin delirium». Cambiar RASS invalida la exploración anterior.
+- En paciente evaluable, paso 1 sin cambio ni fluctuación → **cribado negativo** (`es_info_bullet_step1`).
 - Paso 2 con < 3 errores → **NO delirium** (`es_info_bullet_step2`).
 - Paso 3 con RASS ≠ 0 → **DELIRIUM** (`es_info_bullet_step3`).
 - Paso 4 con ≥ 2 errores → **DELIRIUM** (`es_info_bullet_step4`).
 
-Ante un CAM-ICU positivo: tratar la **causa** (dolor, infección, hipoxia, retención urinaria, fármacos, alteraciones metabólicas), aplicar medidas no farmacológicas (orientación, ciclo sueño-vigilia, movilización precoz, presencia de la familia, gafas y audífonos) y, si procede, tratamiento farmacológico según protocolo (haloperidol con vigilancia del QT; dexmedetomidina como alternativa). El botón `es_restart` (REINICIAR) permite repetir la valoración completa.
+Ante un CAM-ICU positivo: documentar y comunicar; buscar causas (dolor, infección, hipoxia, retención urinaria, fármacos, alteraciones metabólicas) y aplicar medidas no farmacológicas individualizadas. No prescribir antipsicóticos automáticamente: PADIS 2025 no pudo emitir recomendación a favor ni en contra para tratar delirium. PADIS 2018 sugiere dexmedetomidina en adultos ventilados cuando la agitación impide destete/extubación, según riesgos y prescripción. El botón REINICIAR repite la valoración completa. Cambiar respuestas previas o contadores exige confirmar de nuevo los dominios afectados.
 
 ## Validez
 
-El CAM-ICU fue validado por Ely et al. (JAMA 2001) en **pacientes críticos, incluidos pacientes en ventilación mecánica que no podían comunicarse verbalmente**. En la validación original mostró una **alta sensibilidad (en torno al 93-100 %) y una alta especificidad (en torno al 98-100 %)** frente al diagnóstico de referencia de un psiquiatra, con buena fiabilidad interobservador. Es la herramienta **recomendada por las guías PADIS 2018** para la detección del delirium en UCI y está validada en múltiples idiomas, incluido el español.
+El CAM-ICU fue validado por Ely et al. (JAMA 2001) en **pacientes críticos, incluidos pacientes en ventilación mecánica que no podían comunicarse verbalmente**. Sus resultados de sensibilidad/especificidad varían según población, formación y contexto; consulta el estudio original para las estimaciones. PADIS 2018 es la guía base de cribado, con actualización focal PADIS 2025 en recomendaciones seleccionadas. Está validada en múltiples idiomas, incluido el español.
 
 Estas cifras proceden del estudio original y de validaciones posteriores; pueden variar según la prevalencia de delirium, el tipo de UCI y la formación de los exploradores.
 
@@ -124,9 +129,9 @@ Estas cifras proceden del estudio original y de validaciones posteriores; pueden
 
 - No es aplicable en **sordera, afasia o barrera idiomática** importantes, ni en pacientes con **sedación profunda (RASS −4/−5)** o **bloqueo neuromuscular**.
 - La prueba de letras exige que el paciente **oiga y comprenda** la instrucción y pueda apretar la mano; en caso contrario, usar la prueba de imágenes.
-- Un resultado negativo **no descarta delirium** si el paciente estaba profundamente sedado en el momento de la valoración; hay que repetir la exploración.
+- Con RASS −4/−5 el resultado es **no valorable**, no negativo; registra la limitación y reevalúa cuando el nivel de sedación permita aplicar el algoritmo.
 - El delirium **hipoactivo** se confunde con sedación, depresión o fatiga: solo se detecta aplicando el algoritmo de forma sistemática.
-- La exploración debe hacerse en un entorno lo más tranquilo posible, con el paciente despierto, y siempre con el mismo tipo de estímulo.
+- Procura un entorno que facilite la atención y sigue la técnica estandarizada; documenta factores que puedan limitar la respuesta.
 - El CAM-ICU **detecta** el delirium, pero no graduúa su gravedad; para ello puede usarse el **CAM-ICU-7**.
 - Requiere **formación** del equipo; la falta de familiaridad con la prueba de letras reduce su fiabilidad.
 
@@ -159,9 +164,11 @@ Estas cifras proceden del estudio original y de validaciones posteriores; pueden
 - Requiere **RASS explorable** (no −4/−5) y ausencia de bloqueo neuromuscular.
 - Alta **sensibilidad y especificidad** en la validación original; recomendado por PADIS.
 - El delirium **hipoactivo** es el más frecuente y el más infradiagnosticado.
-- Aplicarlo **cada turno** y siempre ante cambios del estado mental.
+- Aplicarlo con la periodicidad indicada por el protocolo y repetirlo ante cambios clínicos o cuando una valoración previa no fuera posible.
 - Ante un resultado positivo: **buscar y tratar la causa** y aplicar medidas no farmacológicas.
+
 ---
+
 ## Evidencia y referencias
 
 - **Ely EW, et al.** Delirium in mechanically ventilated patients: validity and reliability of the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU). *JAMA* 2001;286:2703-2710.
@@ -171,6 +178,7 @@ Estas cifras proceden del estudio original y de validaciones posteriores; pueden
 > Requiere un RASS previo y un paciente que responda a estímulos. No diagnostica delirium en sedación profunda; hay que reevaluar cuando el paciente esté más despierto.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Valores de referencia de la analítica en el paciente crítico"
+---
 # Valores de referencia de la analítica en el paciente crítico
 
 > 📖 **Fuentes:** KDIGO. *Clinical Practice Guideline for Acute Kidney Injury.* Kidney Int Suppl. 2012;2:1-138. · KDIGO. *Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.* Kidney Int. 2024;105(4S):S117-S314. · MSD Manual Professional: https://www.msdmanuals.com/professional · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care.* 7th ed. Elsevier. · Payne RB, Little AJ, Williams RB, Milner JR. *Interpretation of serum calcium in patients with abnormal serum proteins.* BMJ. 1973;4:643-646. · Katz MA. *Hyperglycemia-induced hyponatremia.* N Engl J Med. 1973;289:843-844. · Hillier TA, Abbott RD, Barrett EJ. *Hyponatremia: evaluating the correction factor for hyperglycemia.* Am J Med. 1999;106:399-403. · SEEIUC: https://www.seeiuc.org
@@ -17,7 +21,7 @@ Un **valor de referencia** es un intervalo poblacional obtenido en condiciones d
 | **Calcio iónico** | 4,6-5,3 mg/dL | — | Fracción activa; **más fiable en el crítico** (hipoalbuminemia, transfusión, citrato, alcalosis) |
 | **Magnesio (Mg²⁺)** | 1,7-2,2 mg/dL | < 1,0 · > 4,0 | Cofactor de la bomba Na⁺/K⁺-ATPasa. La hipomagnesemia perpetúa la hipopotasemia y la hipocalcemia refractarias; > 4,0: bradicardia, hiporreflexia y depresión respiratoria |
 | **Fósforo (P)** | 2,5-4,5 mg/dL | < 1,0 · > 8,0 | Metabolismo energético (ATP) y hueso. < 1,0: debilidad muscular, fallo respiratorio; > 8,0: calcificación y arritmias |
-| **Producto Ca × P** | < 55 mg²/dL² | — | > 55 se asocia a calcificación vascular y de tejidos blandos, sobre todo en enfermedad renal crónica |
+| **Producto Ca × P** | Sin objetivo universal aislado | — | Interpretar calcio, fósforo y PTH en contexto; no usar el producto como umbral terapéutico independiente |
 
 > En la app, las filas con fondo rojo suave corresponden a los **valores críticos** y llevan la indicación de avisar al médico.
 
@@ -28,7 +32,7 @@ Un **valor de referencia** es un intervalo poblacional obtenido en condiciones d
 | Parámetro | Rango | Valor crítico | Significado y actuación de enfermería |
 |---|---|---|---|
 | **Glucosa basal** | 70-100 mg/dL | < 40 · > 400 | Prediabetes 100-125; diabetes ≥ 126. En el crítico se evita la hipoglucemia (< 70) más que la hiperglucemia moderada; glucemia capilar cada 1-2 h con insulinización |
-| **Lactato** | < 2,0 mmol/L | ≥ 4,0 | Marcador de hipoperfusión tisular y gravedad; > 4 se asocia a shock y > 10 a mortalidad muy elevada. Extraer de **sangre arterial o venosa central** y repetir para valorar la tendencia |
+| **Lactato** | < 2,0 mmol/L (orientativo) | La elevación debe interpretarse con clínica y tendencia; no diagnostica shock ni predice mortalidad por sí sola |
 | **Osmolaridad** | 275-295 mOsm/kg | — | Refleja el agua corporal total y los solutos. La **osmolaridad efectiva** descuenta la urea (la urea atraviesa las membranas) |
 | **Anión gap** | 8-12 mEq/L | — | Na − (Cl + HCO₃). Elevado: acidosis con aniones no medidos (cetoacidosis, lactato, tóxicos). Debe **corregirse por albúmina** |
 | **Delta-delta** | 1,0-2,0 | — | Relaciona el descenso del bicarbonato con la subida del anión gap; orienta las acidosis mixtas |
@@ -79,9 +83,9 @@ Na corregido (Katz) = 128 + 0,016 × (500 − 100) = 128 + 6,4 = **134,4 mEq/L**
 Ca corregido = 7,8 + 0,8 × (4,0 − 2,0) = 7,8 + 1,6 = **9,4 mg/dL**. El calcio corregido es normal; si hubiera dudas, confirmar con **calcio iónico**.
 
 **3. Déficit de agua libre en hipernatremia.** Mujer de 60 kg con Na 158 mEq/L.
-Agua libre = 0,5 × 60 × (158/140 − 1) = 30 × 0,1286 ≈ **3,9 L**. Se repone en 48 h (corrección < 10-12 mEq/L/24 h) para evitar edema cerebral.
+Déficit teórico estimado = 0,5 × 60 × (158/140 − 1) ≈ **3,9 L**. No equivale al volumen que debe administrarse: valorar duración, volemia, pérdidas en curso, función renal y controles; individualizar la corrección.
 
-**4. Producto Ca × P.** Ca 9,5 mg/dL y P 6,0 mg/dL → 57 mg²/dL², **por encima del objetivo de 55**: revisar aportes de fósforo, quelantes y dieta.
+**4. Producto Ca × P.** Ca 9,5 mg/dL y P 6,0 mg/dL → 57 mg²/dL². Mostrar el cálculo como contexto; no clasificarlo como objetivo superado ni iniciar medidas solo por ese resultado.
 
 ---
 
@@ -91,10 +95,10 @@ Agua libre = 0,5 × 60 × (158/140 − 1) = 30 × 0,1286 ≈ **3,9 L**. Se repon
 - **No corregir el calcio total por albúmina**: en el crítico hipoalbuminémico se infravalora la hipocalcemia.
 - **Usar el calcio total cuando hay transfusión masiva, citrato o alcalosis**: guiarse por el **calcio iónico**.
 - **Olvidar el suero de lavado del catéter**: diluye la muestra y da un sodio falsamente bajo.
-- **Lactato de vena periférica** con estasis o torniquete: falsamente elevado; mejor arterial o venosa central.
+- La muestra, técnica y tiempo hasta análisis pueden afectar el lactato; usar el tipo de muestra validado por el laboratorio y comparar tendencias con un método consistente.
 - **Comparar osmolaridades con unidades distintas** (mOsm/kg frente a mOsm/L) o no descontar la urea.
-- **Aplicar los rangos de población general a la enfermedad renal crónica**: los objetivos son distintos (fósforo, producto Ca × P, potasio, bicarbonato).
-- **Corregir el sodio demasiado rápido**: máximo 8-10 mEq/L en 24 h (riesgo de mielinólisis central pontina); en la hipernatremia, máximo 10-12 mEq/L en 24 h.
+- **Aplicar rangos aislados a la enfermedad renal crónica**: interpretar tendencias, calcio, fósforo y PTH conjuntamente con la guía vigente.
+- **Usar una velocidad única de corrección del sodio**: individualizar según síntomas, duración, riesgo de desmielinización, volemia y protocolo.
 - **Tratar la hipopotasemia sin corregir el magnesio**: la hipomagnesemia perpetúa la hipopotasemia refractaria.
 - **Dar por bueno un anión gap normal** sin corregirlo por albúmina y sin calcular el delta-delta.
 - **Reponer fósforo sin vigilar calcio y potasio**: riesgo de hipocalcemia por precipitación.
@@ -117,9 +121,11 @@ Agua libre = 0,5 × 60 × (158/140 − 1) = 30 × 0,1286 ≈ **3,9 L**. Se repon
 - Los **valores críticos** de la pantalla (K, Na, Ca, Mg, P, glucosa, lactato) obligan a **confirmar, avisar y monitorizar**.
 - **Corregir siempre** el sodio por glucemia y el calcio por albúmina; en el crítico, preferir el **calcio iónico**.
 - Vigilar la **preanalítica**: hemólisis, torniquete, suero de lavado y tipo de muestra cambian el resultado.
-- Respetar las **velocidades máximas de corrección** (sodio 8-10 mEq/L/24 h; hipernatremia 10-12 mEq/L/24 h).
+- Individualizar objetivo, velocidad y monitorización de la corrección de sodio conforme a guía vigente y situación clínica.
 - La **tendencia** y la respuesta al tratamiento valen más que una cifra aislada.
 - La reposición de electrolitos es una **actividad de alto riesgo**: vía, velocidad, bomba y permeabilidad verificadas.
+
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
 
 ---
 

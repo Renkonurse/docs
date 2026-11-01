@@ -1,8 +1,12 @@
-# Código Sepsis (detección precoz, actuación en la primera hora y cuidados)
+---
+layout: default
+title: "Código Sepsis (reconocimiento, respuesta inicial y cuidados)"
+---
+# Código Sepsis (reconocimiento, respuesta inicial y cuidados)
 
-> 📖 **Fuentes:** Evans L, et al. Surviving Sepsis Campaign 2021. Crit Care Med 2021;49:e1063-e1143. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+> 📖 **Fuentes:** Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. *Intensive Care Med*. 2026. https://doi.org/10.1007/s00134-026-08361-1 · Evans L, et al. Surviving Sepsis Campaign 2021. *Crit Care Med*. 2021;49:e1063-e1143 (antecedente; sustituida donde hay recomendaciones SSC 2026). · Protocolo de sepsis vigente del centro.
 
-La sepsis es una emergencia médica tiempo-dependiente: cada hora de retraso del antibiótico en el shock séptico aumenta la mortalidad. Este protocolo ordena la detección precoz, el paquete de medidas de la primera hora, la vigilancia estrecha, los cuidados de enfermería y el registro, para aplicarlo a pie de cama sin depender de ningún otro documento.
+La sepsis y el shock séptico son emergencias que requieren reconocimiento y respuesta rápidos. La urgencia antimicrobiana depende de la probabilidad de infección y de la presencia de shock; una evaluación breve no debe transformarse en una demora evitable. Este resumen orienta la detección, la reanimación individualizada, la vigilancia y el registro, pero no sustituye el protocolo local ni la prescripción clínica.
 
 ## 1. Definición y objetivo
 
@@ -11,14 +15,14 @@ La sepsis es una emergencia médica tiempo-dependiente: cada hora de retraso del
 | Concepto | Definición |
 |---|---|
 | Infección | Documentación microbiológica o sospecha clínica con signos focales, sin necesidad de confirmación inicial. |
-| Sepsis | Infección documentada o sospechada más disfunción orgánica: aumento del SOFA de 2 puntos o más, lactato elevado, oliguria, hipoxemia, trombopenia o alteración del nivel de conciencia. |
-| Shock séptico | Sepsis con hipotensión que precisa vasopresores para mantener una presión arterial media de 65 mmHg o más y lactato mayor de 2 mmol/L a pesar de una fluidoterapia adecuada. Mortalidad alta: avisa sin demora. |
+| Sepsis | Disfunción orgánica potencialmente mortal causada por una respuesta desregulada del huésped a la infección. En adultos, un aumento agudo del SOFA ≥2 puede operacionalizar la disfunción; ningún valor aislado (incluido el lactato) confirma o excluye sepsis. |
+| Shock séptico | Subgrupo de sepsis con alteraciones circulatorias y metabólicas profundas; Sepsis-3 requiere vasopresores para mantener PAM ≥65 mmHg y lactato >2 mmol/L pese a reanimación adecuada. No esperes a cumplir la definición para escalar la atención. |
 | Disfunción orgánica | Deterioro agudo de una o varias funciones vitales atribuible a la respuesta desregulada a la infección, no explicable por otra causa. |
 
 ### 1.2 Objetivo del código sepsis
 
 - Reconocer la sepsis antes de que aparezca la hipotensión franca, mediante signos de alarma y escalas de cribado.
-- Completar el paquete de medidas de la primera hora: cultivos, lactato, antibiótico, fluidos y control de la fuente.
+- Iniciar evaluación y tratamiento sin demora, adaptando antimicrobianos y reanimación a la probabilidad de infección, la presencia de shock y la respuesta clínica.
 - Restaurar la perfusión tisular y evitar la progresión a shock séptico y a fallo multiorgánico.
 - Garantizar la continuidad de los cuidados, el registro cronológico y el traspaso estructurado de la información.
 
@@ -72,17 +76,17 @@ La respuesta del huésped a la infección se desregula y pasa de defensa localiz
 | Oliguria | Diuresis menor de 0,5 ml/kg/h durante 6 horas o anuria, a pesar de una volemia adecuada. |
 | Alteración del estado mental | Confusión, agitación, somnolencia o desorientación de aparición nueva, incluso sin fiebre. Pregunta al familiar o al cuidador por el estado basal. |
 | Piel moteada o mal perfundida | Moteado, livideces, relleno capilar mayor de 3 segundos, piel fría o cianosis. Indica hipoperfusión periférica. |
-| Lactato elevado | Lactato mayor de 2 mmol/L. Un lactato mayor de 4 mmol/L obliga a actuar de inmediato aunque la presión arterial sea normal. |
+| Lactato elevado | Interpreta lactato >2 mmol/L y su tendencia en contexto como marcador de riesgo/hipoperfusión. Un valor alto requiere evaluación y actuación clínica, pero no diagnostica sepsis ni prescribe por sí solo una carga de fluidos. |
 
 ### 3.2 qSOFA y criterios de sepsis y shock séptico
 
 | Nombre | Descripción |
 |---|---|
-| qSOFA (2 puntos o más) | Frecuencia respiratoria 22 rpm o más, alteración del estado mental (Glasgow menor de 15) y presión arterial sistólica 100 mmHg o menos. No sustituye a las escalas completas del centro. |
-| Sepsis | Infección documentada o sospechada más disfunción orgánica: aumento del SOFA de 2 puntos o más, lactato elevado, oliguria, hipoxemia, trombopenia o alteración del nivel de conciencia. |
+| qSOFA (2 puntos o más) | Frecuencia respiratoria ≥22 rpm, alteración del estado mental (Glasgow <15) y presión arterial sistólica ≤100 mmHg. Es una señal de riesgo, no una prueba diagnóstica ni una herramienta única para descartar sepsis; utiliza el sistema de cribado y respuesta validado por el centro. |
+| Sepsis | Infección sospechada o confirmada con disfunción orgánica aguda atribuible a la infección; valora el conjunto y busca diagnósticos alternativos. |
 | Shock séptico | Sepsis con hipotensión que precisa vasopresores para mantener una presión arterial media de 65 mmHg o más y lactato mayor de 2 mmol/L a pesar de una fluidoterapia adecuada. Mortalidad alta: avisa sin demora. |
 
-**Qué es.** El qSOFA es una herramienta de cribado a pie de cama, no una escala diagnóstica. Cada ítem vale 1 punto; con 2 o más puntos el riesgo de evolución desfavorable es alto y obliga a valoración médica inmediata y a descartar disfunción orgánica con lactato, diuresis, oxigenación y coagulación.
+**Qué es.** El qSOFA asigna 1 punto por ítem y puede alertar de riesgo cuando alcanza 2 o más puntos, pero su sensibilidad es insuficiente para usarlo como único cribado. No esperes a esa puntuación si hay deterioro; activa la respuesta local y evalúa disfunción orgánica.
 
 > ⚠️ **Aviso:** Ante la sospecha, avisa al facultativo y activa el código sepsis del centro. No esperes a tener todos los datos ni al resultado del laboratorio.
 
@@ -125,7 +129,7 @@ Dosis de aminas en µg/kg/min. Un aumento del SOFA de 2 puntos o más en un paci
 - Electrocardiograma continuo, oximetría de pulso, presión arterial no invasiva o invasiva según gravedad.
 - Frecuencia respiratoria y temperatura; capnografía si el paciente está intubado.
 - Diuresis horaria mediante sonda vesical si hay inestabilidad, oliguria o necesidad de balance estricto.
-- Presión venosa central, ecografía a pie de cama o variación de la presión de pulso según disponibilidad del centro.
+- Reevaluación dinámica de respuesta a fluidos (p. ej., elevación pasiva de piernas con medición de gasto/volumen sistólico) cuando esté disponible. La presión venosa central o una medida estática no deben guiar por sí solas la administración de fluidos.
 - Glucemia capilar y control de la temperatura central en el paciente grave.
 
 ### 4.3 Analítica y pruebas iniciales
@@ -151,15 +155,15 @@ Dosis de aminas en µg/kg/min. Un aumento del SOFA de 2 puntos o más en un paci
 
 ## 5. Actuación paso a paso
 
-**Actuación inicial.** La actuación inicial se organiza como un paquete de medidas que deben completarse en la primera hora desde la sospecha; los pasos se ejecutan en paralelo y no en secuencia estricta, porque el antibiótico y los cultivos no deben competir entre sí ni con la fluidoterapia.
+**Actuación inicial.** Prioriza en paralelo reconocimiento, cultivos sin demoras, antimicrobianos según probabilidad/shock, evaluación de perfusión, reanimación titulada y control de la fuente. No hay un paquete universal de “cinco pasos en una hora” aplicable a todos los pacientes: documenta tiempos y adapta la respuesta a la situación y al protocolo del centro.
 
-### 5.1 Bundle de la primera hora: los cinco pasos
+### 5.1 Prioridades iniciales y tiempos orientativos
 
-1. **Cultivos antes del antibiótico:** hemocultivos (dos juegos de aerobios y anaerobios de venopunciones distintas) y cultivo de orina, esputo, herida o drenaje si procede. No retrases el antibiótico más de unos minutos por los cultivos.
-2. **Lactato y analítica:** gasometría con lactato, hemograma, coagulación, función renal y hepática, iones y procalcitonina si está disponible.
-3. **Antibiótico precoz:** en la primera hora, a dosis plena, por vía intravenosa y siguiendo el protocolo empírico del centro. Comprueba alergias y función renal antes de administrarlo.
-4. **Fluidoterapia:** cristaloides balanceados a 30 ml/kg en la primera hora si hay hipotensión o lactato mayor de 4 mmol/L. Valora la respuesta y la tolerancia (pulmón, corazón, diuresis).
-5. **Control de la fuente:** drena el absceso, retira el catéter infectado o desbrida el tejido necrótico lo antes posible; es la medida que más cambia el pronóstico.
+1. **Cultivos:** obtén hemocultivos y muestras pertinentes antes del antimicrobiano siempre que no lo retrase de forma clínicamente relevante.
+2. **Lactato y evaluación de órganos:** mide lactato cuando se sospeche hipoperfusión o según protocolo; interpreta tendencias junto con perfusión, contexto y otras causas de hiperlactatemia.
+3. **Antimicrobianos:** si hay shock séptico o sepsis probable/definida, administrar de inmediato, idealmente dentro de 1 h del reconocimiento. Si hay posible sepsis sin shock, realiza una evaluación rápida y limitada en el tiempo; si persiste la sospecha de infección, iniciar dentro de 3 h desde la sospecha. Si la probabilidad es baja y no hay shock, puede diferirse con vigilancia estrecha y reevaluación.
+4. **Fluidos y perfusión:** en hipoperfusión inducida por sepsis/shock, considerar cristaloides IV (preferir balanceados) y reevaluar con frecuencia; 30 ml/kg durante las primeras 3 h es una sugerencia inicial, no una dosis automática para todos. Individualiza por respuesta y riesgo de sobrecarga.
+5. **Control de la fuente:** identifica pronto el foco que requiere intervención y coordina el control temprano; SSC 2026 sugiere idealmente ≤6 h desde el diagnóstico cuando está indicado.
 
 ### 5.2 Detalle de cada paso, dosis y tiempos
 
@@ -167,9 +171,9 @@ Dosis de aminas en µg/kg/min. Un aumento del SOFA de 2 puntos o más en un paci
 |---|---|---|
 | Hemocultivos | Antes del antibiótico, en minutos | Dos juegos de aerobios y anaerobios de venopunciones distintas; extrae también del catéter si se sospecha infección relacionada. Desinfecta la piel y el cono del catéter antes de extraer. |
 | Lactato y analítica | Inmediato | Lactato venoso o arterial; repite a las 2-4 horas si estaba elevado. No demores el antibiótico por la extracción. |
-| Antibiótico empírico | Primera hora | Dosis de carga completa sin reducir la primera dosis, vía intravenosa, ajuste posterior a función renal y hepática; valora perfusión extendida según el fármaco y el protocolo del centro. |
-| Cristaloides balanceados | Primera hora, completar en las 3 primeras horas | 30 ml/kg de peso; usa cristaloides balanceados y evita el almidón. Reevalúa tras cada carga. |
-| Vasopresor | Si la hipotensión persiste tras los fluidos | Noradrenalina como primera línea, inicio aproximado de 0,05 µg/kg/min y titulación hasta presión arterial media de 65 mmHg; añade vasopresina 0,03 U/min o adrenalina según respuesta; dobutamina si hay disfunción miocárdica. |
+| Antimicrobiano | Inmediato, idealmente ≤1 h si shock o sepsis probable/definida; posible sepsis sin shock: evaluación rápida y, si persiste, ≤3 h | Selección según foco, resistencias locales, alergias y paciente; toma cultivos primero si no ocasiona una demora importante. Revisa y desescala con microbiología y evolución. |
+| Cristaloides balanceados | Reanimación inicial y reevaluación continua | SSC 2026 sugiere al menos 30 ml/kg en las primeras 3 h en hipoperfusión/shock, con recomendación condicional; no es objetivo rígido universal. Usa medidas dinámicas y vigila respuesta/sobrecarga. |
+| Vasopresor | Si persiste hipotensión durante o después de la reanimación inicial | Noradrenalina es primera línea. Puede iniciarse temporalmente por vía periférica adecuada y vigilada para no demorarla mientras se obtiene acceso central. Objetivo inicial habitual PAM 65 mmHg; en ≥65 años SSC 2026 sugiere 60–65 mmHg. Titulación y escalada según prescripción/protocolo. |
 | Corticosteroide | Shock refractario | Hidrocortisona 200 mg al día en perfusión continua o 50 mg intravenosos cada 6 horas si persiste la necesidad de vasopresores. |
 | Control de la fuente | Lo antes posible, idealmente en las primeras 6-12 horas | Drenaje, desbridamiento, retirada del dispositivo infectado; consúltalo de forma precoz con cirugía, radiología intervencionista o la especialidad correspondiente. |
 
@@ -177,9 +181,9 @@ Dosis de aminas en µg/kg/min. Un aumento del SOFA de 2 puntos o más en un paci
 
 **Valores de referencia.** Los objetivos de la reanimación inicial son los siguientes:
 
-- Presión arterial media de 65 mmHg o más, diuresis de 0,5 ml/kg/h o más y mejora del estado mental y del relleno capilar.
-- Lactato en descenso y normalización del resto de parámetros de perfusión en las primeras 6 horas.
-- Reevalúa la volemia tras cada carga de líquidos: auscultación, presión venosa central, ecografía o respuesta a la elevación pasiva de piernas según el centro.
+- Objetivo inicial habitual de PAM 65 mmHg; individualiza (en adultos ≥65 años, SSC 2026 sugiere 60–65 mmHg como rango inicial). Integra diuresis, estado mental, relleno capilar y perfusión global.
+- Si el lactato está elevado, considera mediciones seriadas para guiar la reanimación junto con la evaluación clínica; no fuerces fluidos solo para normalizarlo.
+- Reevalúa tras cada intervención mediante medidas dinámicas de respuesta cuando sea posible; evita continuar bolos si no hay respuesta o aparece congestión/sobrecarga.
 - Si la hipotensión persiste tras los fluidos, avisa para iniciar noradrenalina precoz por vía central o periférica segura.
 
 ### 5.4 Medidas de soporte asociadas
@@ -269,13 +273,13 @@ Dosis de aminas en µg/kg/min. Un aumento del SOFA de 2 puntos o más en un paci
 ### 8.2 Sondas, tubo endotraqueal y drenajes
 
 - Sonda vesical: sistema cerrado, siempre por debajo de la vejiga, sin acodaduras; valora el retirado precoz y la micción espontánea.
-- Tubo endotraqueal: higiene bucal con clorhexidina, aspiración con técnica estéril, control de la presión del neumotaponamiento (20-30 cmH₂O) y cabecera a 30-45 grados.
+- Tubo endotraqueal: higiene bucal protocolizada (incluido cepillado oral; no asumir clorhexidina rutinaria para todos), aspiración según indicación, control del neumotaponamiento y medidas de prevención de NAVM conforme al paquete vigente del centro.
 - Drenajes: fijación segura, sistema cerrado, piel periostomal limpia y seca y registro del aspecto y del débito.
 - Sondas nasogástricas y ostomías: fijación sin presión, higiene de la nariz y de la boca y cambio de fijación según protocolo.
 
 ### 8.3 Neumonía Zero (Respiratorio): prevención de la neumonía asociada a ventilación mecánica
 
-El paquete de medidas del protocolo de Neumonía Zero se aplica de forma conjunta: higiene de manos, higiene bucal, control de la presión del neumotaponamiento, posición semiincorporada a 30-45 grados, evitar cambios rutinarios de circuito y reducir el tiempo de ventilación mecánica mediante pruebas de destete diarias.
+Aplica el paquete institucional vigente de prevención de NAVM: higiene de manos y bucal, elevación de cabecera cuando no esté contraindicada, manejo seguro del neumotaponamiento, evitar cambios rutinarios de circuitos y reducir la exposición a ventilación mediante evaluación diaria de liberación cuando sea apropiada. No uses clorhexidina oral de rutina salvo indicación del protocolo local y población concreta.
 
 ### 8.4 Medidas generales de prevención
 
@@ -290,8 +294,8 @@ El paquete de medidas del protocolo de Neumonía Zero se aplica de forma conjunt
 ### 9.1 Aviso inmediato y activación del código sepsis
 
 - Sospecha de sepsis o shock séptico con cualquiera de los signos de alarma.
-- qSOFA de 2 puntos o más, lactato mayor de 2 mmol/L o aumento del SOFA de 2 puntos o más.
-- Lactato mayor de 4 mmol/L aunque la presión arterial sea normal.
+- qSOFA ≥2 como señal de riesgo, aumento agudo de SOFA o cualquier nueva disfunción orgánica; ninguno es requisito previo para activar la evaluación.
+- Lactato elevado o ascendente con sospecha de hipoperfusión, interpretado en el contexto clínico; no uses un umbral aislado como único criterio de escalado.
 - Hipotensión, oliguria menor de 0,5 ml/kg/h, alteración nueva del estado mental o piel mal perfundida.
 
 ### 9.2 Criterios de escalado a UCI
@@ -319,9 +323,9 @@ Confirma la estabilidad hemodinámica y respiratoria antes de mover al paciente,
 ### 10.1 Puntos clave
 
 - La sepsis es una urgencia tiempo-dependiente: detectar, avisar y actuar sin esperar confirmación microbiológica.
-- El antibiótico correcto en la primera hora y el control de la fuente son las medidas que más cambian el pronóstico.
-- Cultiva antes del antibiótico, pero no retrases este más de unos minutos por los cultivos.
-- Un lactato mayor de 4 mmol/L obliga a actuar aunque la presión arterial sea normal.
+- Administra antimicrobianos según los tiempos de SSC 2026: inmediato/idealmente ≤1 h en shock o sepsis probable/definida; evaluación rápida y hasta ≤3 h si posible sepsis sin shock y persiste sospecha.
+- Obtén cultivos antes del antimicrobiano si no genera una demora clínicamente relevante.
+- Interpreta el lactato en contexto; un resultado elevado requiere valoración, pero no es diagnóstico ni una orden aislada de administrar fluidos.
 - Reevalúa la volemia tras cada carga de líquidos y no retrases la noradrenalina si la hipotensión persiste.
 - Registra las horas de cada paso del bundle y comunica el estado con SBAR en cada traspaso.
 - La hipotermia, el lactato que no baja y el aumento de vasopresor son signos de alarma de mal pronóstico.
@@ -330,8 +334,8 @@ Confirma la estabilidad hemodinámica y respiratoria antes de mover al paciente,
 
 | Error | Consecuencia | Actuación correcta |
 |---|---|---|
-| Retrasar el antibiótico por punción difícil o por esperar cultivos o laboratorio | Aumento de la mortalidad por cada hora de retraso | Administra el antibiótico en la primera hora y completa los cultivos en paralelo. |
-| Infravalorar la taquipnea o la confusión sin fiebre | Detección tardía, sobre todo en el anciano y el inmunodeprimido | Aplica el qSOFA y avisa ante cualquier signo nuevo. |
+| Retrasar antimicrobianos indicados por punción difícil o por esperar resultados | Demora de tratamiento necesario | Obtén cultivos si no causan demora relevante; adapta los tiempos al shock y probabilidad de infección, y escala el acceso según protocolo. |
+| Infravalorar taquipnea o confusión sin fiebre | Detección tardía, sobre todo en personas mayores o inmunodeprimidas | Usa el sistema de cribado/respuesta local; no dependas de qSOFA ni esperes una puntuación umbral. |
 | No medir el lactato o no repetirlo | No se detecta la hipoperfusión oculta ni la respuesta al tratamiento | Lactato inicial y control a las 2-4 horas. |
 | Cargas de líquidos sin reevaluar la tolerancia | Sobrecarga hídrica, edema pulmonar y empeoramiento respiratorio | Valora pulmón, corazón y diuresis tras cada carga. |
 | Retrasar el vasopresor por falta de vía central | Hipotensión mantenida e hipoperfusión prolongada | Inicia noradrenalina por vía periférica segura mientras se canaliza el acceso central. |
@@ -341,7 +345,8 @@ Confirma la estabilidad hemodinámica y respiratoria antes de mover al paciente,
 
 ## Fuentes
 
-- Evans L, et al. Surviving Sepsis Campaign 2021. Crit Care Med 2021;49:e1063-e1143.
+- Prescott HC, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. *Intensive Care Med*. doi:10.1007/s00134-026-08361-1.
+- Evans L, et al. Surviving Sepsis Campaign 2021. *Crit Care Med*. 2021;49:e1063-e1143 (antecedente).
 - Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
 - Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
 

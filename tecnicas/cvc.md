@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Canalización de catéter venoso central (CVC)"
+---
 # Canalización de catéter venoso central (CVC)
 
 > 📖 **Fuentes:** O'Grady NP, et al. CDC Guidelines for Prevention of Intravascular Catheter-Related Infections. 2011/2017. · Moureau N, et al. INS Infusion Therapy Standards of Practice. *J Infus Nurs*. · Loveday HP, et al. epic3: National Evidence-Based Guidelines for Preventing HCAI. *J Hosp Infect* 2014.
@@ -224,7 +228,11 @@ No suele haber contraindicaciones absolutas, pero deben valorarse:
 - **No vigilar** el punto de inserción ni los signos sistémicos.
 - **Forzar** el catéter obstruido con lavado a presión.
 
-## 13. Evidencia y referencias
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+
+---
+
+## Evidencia y referencias
 
 - **O'Grady NP, et al.** Guidelines for the Prevention of Intravascular Catheter-Related Infections. CDC, 2011 (actualización 2017).
 - **INS.** Infusion Therapy Standards of Practice (9.ª ed. 2024).
@@ -236,7 +244,7 @@ No suele haber contraindicaciones absolutas, pero deben valorarse:
 
 ---
 
-## 14. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

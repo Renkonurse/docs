@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Gasto urinario (diuresis)"
+---
 # Gasto urinario (diuresis)
 
 > 📖 **Fuentes:** KDIGO. Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · Devine BJ. Gentamicin therapy. Drug Intell Clin Pharm 1974;8:650-655. · MSD Manual Professional: https://www.msdmanuals.com/professional
@@ -171,14 +175,14 @@ GU = 500 / (52,4 × 8) = 500 / 419,2 = 1,19 mL/kg/h  → poliuria ligera
 
 ## 9. Relación con otras escalas y parámetros
 
-- **[Balance hídrico](balance-hidrico.md)**: la diuresis es la principal salida del balance.
-- **[Pérdidas insensibles](perdidas-insensibles.md)**: se suman a las salidas no medidas.
-- **[Cockcroft-Gault y CKD-EPI](cockcroft-ckd-epi.md)**: complementan la valoración renal (filtrado).
+- **[Balance hídrico](balance-hidrico.html)**: la diuresis es la principal salida del balance.
+- **[Pérdidas insensibles](perdidas-insensibles.html)**: se suman a las salidas no medidas.
+- **[Cockcroft-Gault y CKD-EPI](cockcroft-ckd-epi.html)**: complementan la valoración renal (filtrado).
 - **[KDIGO / criterios de AKI]** (este documento): estadificación.
-- **[SOFA](../escalas/sofa.md)**: la creatinina y la diuresis (< 500 mL/día) puntúan en el componente renal.
-- **[Código Sepsis](../protocolos/codigo-sepsis.md)** y **[Shock](../protocolos/shock-critico.md)**: la oliguria es un marcador de hipoperfusión.
-- **[TRRC](../protocolos/trrc.md)** y **[TRRC: cuidados](../guias-cuidados/trrc-cuidados.md)**: manejo cuando la AKI requiere depuración extracorpórea.
-- **[Peso ideal](peso-ideal.md)**: elección del peso.
+- **[SOFA](../escalas/sofa.html)**: la creatinina y la diuresis (< 500 mL/día) puntúan en el componente renal.
+- **[Código Sepsis](../protocolos/codigo-sepsis.html)** y **[Shock](../protocolos/shock-critico.html)**: la oliguria es un marcador de hipoperfusión.
+- **[TRRC](../protocolos/trrc.html)** y **[TRRC: cuidados](../guias-cuidados/trrc-cuidados.html)**: manejo cuando la AKI requiere depuración extracorpórea.
+- **[Peso ideal](peso-ideal.html)**: elección del peso.
 
 ---
 

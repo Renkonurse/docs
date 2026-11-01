@@ -1,19 +1,23 @@
+---
+layout: default
+title: "qSOFA (quick Sequential Organ Failure Assessment)"
+---
 # qSOFA (quick Sequential Organ Failure Assessment)
 
-> 📖 **Fuentes:** Singer M, Deutschman CS, Seymour CW, et al. *The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3).* JAMA. 2016;315(8):801-810. · Marino PL. *The ICU Book.* 4th ed. Wolters Kluwer.
+> 📖 **Fuentes:** Singer M, Deutschman CS, Seymour CW, et al. *The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3).* JAMA. 2016;315(8):801-810. · Prescott HC, et al. *Surviving Sepsis Campaign International Guidelines 2026*. https://doi.org/10.1007/s00134-026-08361-1.
 
 ## Qué mide y para qué sirve
 
-El **qSOFA** es una herramienta de **cribado rápido de sepsis a pie de cama** (`es_qsofa_subtitle`, `es_qsofa_info_description`). Valora **3 criterios clínicos** —frecuencia respiratoria, estado mental y tensión arterial sistólica— que puntúan **1 punto cada uno**, con un total de **0 a 3**. Identifica a los pacientes con sospecha de infección que tienen **mayor riesgo de mala evolución** y que deben ser evaluados con más profundidad.
+El **qSOFA** es una puntuación clínica de **riesgo pronóstico** (`es_qsofa_subtitle`, `es_qsofa_info_description`), no una herramienta de cribado única recomendada para identificar o descartar sepsis. Valora **3 criterios clínicos** —frecuencia respiratoria, estado mental y tensión arterial sistólica— que puntúan **1 punto cada uno**, con un total de **0 a 3**. En sospecha de infección, una puntuación alta identifica mayor riesgo y apoya una evaluación más profunda.
 
 Sirve para:
 
-- **Cribar rápidamente** al paciente con sospecha de infección fuera de la UCI y detectar a los de mayor riesgo.
-- **Activar el protocolo de sepsis** (lactato, hemocultivos, antibiótico precoz, fluidoterapia, control del foco).
+- **Apoyar la estratificación pronóstica** en personas adultas con sospecha de infección.
+- **Aportar información a la valoración**; no usar la puntuación como requisito para activar el protocolo local ni para indicar por sí sola fluidos o antimicrobianos.
 - **Priorizar la valoración** y decidir el nivel de vigilancia.
 - **Estandarizar la comunicación** de la sospecha de sepsis entre profesionales.
 
-> El qSOFA **no es un test diagnóstico** de sepsis: es una herramienta de cribado que identifica riesgo. El diagnóstico requiere la sospecha de infección y la disfunción orgánica (SOFA).
+> El qSOFA **no diagnostica sepsis ni debe ser el único instrumento de cribado**. La decisión clínica integra sospecha de infección, disfunción orgánica y el sistema local de detección/respuesta; un resultado bajo no descarta sepsis.
 
 ## Población diana
 
@@ -46,28 +50,28 @@ Instrucción de la app (`es_qsofa_mark_criteria_hint`): *marca los criterios pre
 2. **Estado mental.** Valorar si existe **alteración respecto al basal**: desorientación, somnolencia, agitación o disminución del nivel de consciencia. En la app se concreta como **Glasgow < 15**. Es imprescindible comparar con el estado previo del paciente.
 3. **Tensión arterial sistólica.** Medir con manguito del tamaño adecuado, en reposo y con la técnica correcta; el criterio es **TAS ≤ 100 mmHg**. Confirmar el valor si es limítrofe.
 
-**Errores frecuentes:** medir la FR en periodos cortos; no conocer el estado mental basal (y confundir demencia crónica con alteración aguda); no confirmar la hipotensión con una segunda toma; y usar el qSOFA como prueba diagnóstica en lugar de cribado.
+**Errores frecuentes:** medir la FR en periodos cortos; no conocer el estado mental basal (y confundir demencia crónica con alteración aguda); no confirmar la hipotensión con una segunda toma; y usar el qSOFA como diagnóstico, cribado único o condición para activar respuesta.
 
 ## Puntuación total e interpretación
 
 | Puntos | Riesgo | Etiqueta de la app | Actuación de enfermería |
 |---|---|---|---|
 | **0-1** | Bajo riesgo — sin criterios qSOFA | `es_qsofa_interpretation_low_risk` (`es_qsofa_range_0_1_low_risk`) | Vigilancia según protocolo; **no descarta sepsis** si la sospecha clínica es alta |
-| **2-3** | **ALTO RIESGO de sepsis — activar protocolo** | `es_qsofa_interpretation_high_risk` (`es_qsofa_range_2_3_high_risk`) | **Activar el protocolo de sepsis**: lactato, hemocultivos, valorar el foco, bundle de la primera hora; avisar al equipo médico; monitorización estrecha |
+| **2-3** | **Mayor riesgo de desenlace desfavorable** | `es_qsofa_interpretation_high_risk` (`es_qsofa_range_2_3_high_risk`) | Aumenta la preocupación clínica y requiere valoración/escala según protocolo local; no es diagnóstico ni un umbral obligatorio para activar respuesta. |
 
 La etiqueta intermedia de la app (`es_qsofa_interpretation_intermediate_risk`, «Riesgo intermedio — vigilancia estrecha») se usa cuando hay un único criterio presente.
 
-**qSOFA ≥ 2** en un paciente con sospecha de infección identifica **alto riesgo** e indica **activar el protocolo de sepsis**: medir **lactato**, obtener **hemocultivos**, valorar el foco e iniciar el **bundle de la primera hora** (antibiótico precoz, fluidoterapia, control del foco). Un qSOFA de 0-1 **no descarta** sepsis.
+**qSOFA ≥ 2** puede señalar mayor riesgo en una persona con sospecha de infección, pero su sensibilidad no permite usarlo como cribado único ni como diagnóstico. Un qSOFA de 0-1 tampoco descarta sepsis. Activa la evaluación y el sistema de respuesta ante sospecha clínica o deterioro, conforme al protocolo local, sin esperar a alcanzar una puntuación determinada.
 
 ## Validez
 
 El qSOFA fue propuesto en el consenso **Sepsis-3 (Singer et al., JAMA 2016)** a partir del análisis de bases de datos de pacientes con sospecha de infección, y validado en el estudio complementario de **Seymour et al. (JAMA 2016)**, realizado en **pacientes adultos hospitalizados fuera de la UCI**. El qSOFA mostró una **especificidad alta y una sensibilidad limitada** para predecir mortalidad y estancia prolongada: es decir, **identifica bien a los pacientes de alto riesgo, pero muchos pacientes con sepsis no cumplen ≥ 2 criterios al inicio**.
 
-Está recomendado como **herramienta de cribado** para decidir la evaluación y el tratamiento precoz fuera de la UCI, no como sustituto del **SOFA** (criterio de disfunción orgánica) ni del juicio clínico. No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque varían según la población, el contexto y el desenlace; para el detalle deben consultarse los estudios de derivación y validación de Sepsis-3.
+No está recomendado como **herramienta única de cribado** para decidir evaluación o tratamiento fuera de la UCI; aporta información pronóstica y no sustituye al **SOFA** ni al juicio clínico. No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque varían según la población, el contexto y el desenlace; para el detalle deben consultarse los estudios de derivación y validación de Sepsis-3.
 
 ## Limitaciones y errores frecuentes
 
-- Es una herramienta de **cribado fuera de la UCI**; **no sustituye al SOFA completo** ni al diagnóstico clínico (`es_qsofa_info_description`).
+- Es una puntuación de riesgo; **no debe usarse como cribado único ni sustituye al SOFA** ni al diagnóstico clínico (`es_qsofa_info_description`).
 - Tiene **baja sensibilidad**: muchos pacientes con sepsis no cumplen ≥ 2 criterios al inicio; **no debe usarse para descartar** la enfermedad.
 - La alteración del estado mental debe ser **nueva o atribuible a la infección**; en pacientes con demencia o ictus previo la interpretación es difícil.
 - La TAS puede estar artefactada por la técnica de medida; conviene confirmar la hipotensión.
@@ -86,13 +90,13 @@ Está recomendado como **herramienta de cribado** para decidir la evaluación y 
 | TAS ≤ 100 mmHg | Sí |
 | **Total** | **3 / 3** |
 
-**qSOFA = 3 → ALTO RIESGO de sepsis.**
+**qSOFA = 3 → señal de mayor riesgo pronóstico; no confirma sepsis ni sustituye la valoración clínica.**
 
-**Actuación de enfermería:** activar de inmediato el **protocolo de sepsis**, obtener **lactato y hemocultivos antes del antibiótico** si no retrasa su administración, canalizar dos accesos venosos, iniciar fluidoterapia y antibiótico según protocolo, monitorizar constantes y diuresis, avisar al equipo médico, valorar el foco (radiografía de tórax, ecografía si procede) y registrar el qSOFA con la hora de activación.
+**Actuación de enfermería:** ante sospecha clínica o deterioro, activar la respuesta local sin esperar al qSOFA. Obtener lactato y hemocultivos cuando estén indicados (sin demorar antimicrobianos), asegurar accesos, iniciar monitorización y tratamientos prescritos según protocolo, valorar el foco y registrar hallazgos y tiempos. El resultado qSOFA aporta contexto, pero no dicta por sí solo fluidos ni antimicrobianos.
 
 ## Relación con otras escalas
 
-- **SOFA:** criterio de disfunción orgánica; el qSOFA es solo el cribado.
+- **SOFA:** herramienta para cuantificar disfunción orgánica; qSOFA aporta señal pronóstica y no es cribado diagnóstico.
 - **NEWS2:** alerta precoz de deterioro global; puede aplicarse simultáneamente.
 - **Glasgow:** cuantifica la alteración del estado mental.
 - **Killip:** clasifica la gravedad en el IAM; relevante si el foco es cardiaco.
@@ -122,7 +126,9 @@ Está recomendado como **herramienta de cribado** para decidir la evaluación y 
 - Se aplica **fuera de la UCI**; en UCI usar SOFA.
 - La alteración del estado mental debe ser **nueva** respecto al basal.
 - Registrar el resultado y **reevaluar con frecuencia**: el deterioro puede ser rápido.
+
 ---
+
 ## Evidencia y referencias
 
 - **Singer M, et al.** The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). *JAMA* 2016;315:801-810.
@@ -132,6 +138,7 @@ Está recomendado como **herramienta de cribado** para decidir la evaluación y 
 > qSOFA es un cribado fuera de la UCI; no descarta sepsis y no debe usarse solo para decidir. La SSC 2021 recomienda no emplearlo como única herramienta de cribado.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

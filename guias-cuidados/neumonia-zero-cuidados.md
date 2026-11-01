@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Neumonía Zero: prevención de la neumonía asociada a ventilación mecánica"
+---
 # Neumonía Zero: prevención de la neumonía asociada a ventilación mecánica
 
-> 📖 **Fuentes:** Loveday HP, et al. epic3: National Evidence-Based Guidelines for Preventing HCAI. J Hosp Infect 2014. · Evans L, et al. Surviving Sepsis Campaign 2021. Crit Care Med 2021;49:e1063-e1143. · SEEIUC: https://www.seeiuc.org
+> 📖 **Fuentes:** Klompas M, et al. SHEA/IDSA 2022 Update for prevention of VAP/VAE. *Infect Control Hosp Epidemiol*. 2022;43:687-713. doi:10.1017/ice.2022.88 · Proyecto Neumonía Zero/SEEIUC: https://www.seeiuc.org
 
 > 🖥️ **Correspondencia con la app:** `NeumoniaZeroCuidadosActivity` y `NeumoniaZeroActivity` (`feature_respiratorio`); checklist interactiva con barra de progreso.
 
@@ -9,16 +13,16 @@
 ## 1. Objetivo y ámbito
 
 - **Objetivo:** prevenir la **neumonía asociada a ventilación mecánica (NAVM)** mediante un paquete de medidas básicas y específicas, y detectar precozmente la infección respiratoria en el paciente intubado.
-- **Ámbito:** UCI adulto y pediátrica con pacientes con **vía aérea artificial** (tubo orotraqueal, traqueostomía) y ventilación mecánica invasiva o no invasiva.
+- **Ámbito de esta síntesis:** adultos con vía aérea artificial y ventilación invasiva. NAVM no equivale a toda neumonía en pacientes con VMNI; pediatría/neonatos tienen recomendaciones específicas y no reciben automáticamente el paquete adulto.
 - **Principio:** la NAVM es una complicación **prevenible**; el cumplimiento alto y sostenido del paquete es la intervención más eficaz.
 
 ## 2. Fundamento y evidencia
 
 - La NAVM es la infección nosocomial más frecuente en el paciente ventilado y se asocia a **mayor mortalidad, estancia y coste**.
 - Los mecanismos principales son la **microaspiración de secreciones colonizadas** alrededor del neumotaponamiento y la **colonización del circuito**.
-- El **paquete de medidas** (higiene de manos, control del neumotaponamiento, higiene bucal con clorhexidina, aspiración adecuada, posición semiincorporada, circuito cerrado y valoración diaria del destete) reduce la NAVM cuando el cumplimiento es alto (proyecto Neumonía Zero; epic3).
-- Un **cumplimiento superior al 95 %** del paquete puede reducir la NAVM de forma marcada (hasta un 59 % en los datos del proyecto).
-- La **aspiración subglótica** y el control estricto de la presión del balón son medidas específicas de gran impacto.
+- El **paquete de medidas** (higiene de manos, cuidado oral con cepillado sin clorhexidina rutinaria en adultos, control del neumotaponamiento, aspiración indicada, posición adecuada, manejo de circuitos y evaluación diaria de liberación) ayuda a reducir complicaciones relacionadas con ventilación (SHEA/IDSA 2022; aplicar proyecto Neumonía Zero vigente).
+- El cumplimiento se audita conforme a definiciones del programa, sin convertir un porcentaje o una casilla en garantía individual de ausencia de NAVM.
+- Drenaje subglótico y cuidado del cuff tienen indicaciones/limitaciones. SHEA 2022 considera el drenaje subglótico una estrategia adicional en pacientes seleccionados; no recomienda controles de presión más frecuentes como intervención aislada rutinaria para prevenir NAVM. Esto no elimina la vigilancia de seguridad de la vía aérea.
 
 ## 3. Valoración del paciente y factores de riesgo
 
@@ -55,17 +59,18 @@
 ### 4.2. Control de la presión del neumotaponamiento
 
 - **Mantener la presión entre 20 y 30 cmH₂O** con manómetro.
-- **Medir al menos cada 8 horas** y **siempre** tras movilizaciones, aspiraciones o cambios posturales.
+- Medir con frecuencia indicada por dispositivo, situación, incidencias y protocolo; comprobar ante sospecha de fuga/desplazamiento. No atribuir a SHEA una pauta universal de controles cada 8 h o tras toda aspiración.
 - **Registrar el valor numérico** obtenido.
 - **No estimar la presión** palpando el balón con la jeringa.
 - **Vigilar signos de fuga aérea** o de lesión traqueal (por debajo de 20 hay riesgo de NAVM; por encima de 30, de lesión de la mucosa).
 
 ### 4.3. Higiene bucal
 
-- **Antes de la higiene**, comprobar que la presión del neumotaponamiento es **> 20 cmH₂O** y **mantener la cabecera elevada**.
-- **Lavado exhaustivo de la cavidad bucal** (encías, lengua, paladar) irrigando con **clorhexidina al 0,12-0,2 %** y aspirando después.
-- **Frecuencia: cada 6-8 horas**; **cepillar los dientes 3-4 veces al día** (mínimo 3).
+- Antes de higiene, valorar boca, riesgo de aspiración, fijación/posición del tubo y cuff conforme al plan. No sobreinflar ni desinflar para acceder a la boca; postura individualizada y aspiración disponible, sin irrigar con grandes volúmenes. El cuff no impide toda microaspiración.
+- **Cuidado oral diario con cepillado dental**, higiene de mucosas y aspiración de secreciones si está indicada.
+- En adultos, **no usar clorhexidina oral de rutina** para prevenir NAVM; SHEA/IDSA 2022 recomienda cepillado sin clorhexidina.
 - Hidratar labios y comisuras; cambiar la fijación del tubo según protocolo.
+- Adaptar técnica a sangrado, mucositis, cirugía oral o dientes móviles; comunicar lesiones y detener ante intolerancia. Si existe indicación específica de antiséptico, confirmar producto oral autorizado, alergias y pauta, sin usar formulaciones cutáneas o alcohólicas por costumbre. Registrar técnica, producto, hallazgos y respuesta, no solo «higiene realizada».
 
 ### 4.4. Aspiración de secreciones
 
@@ -73,7 +78,7 @@
 - **Técnica estéril** y sonda del calibre adecuado.
 - **No instilar suero fisiológico** de forma rutinaria antes de aspirar.
 - **Aspirar menos de 10-15 segundos** y dejar descansar entre aspiraciones.
-- **Verificar la permeabilidad del canal subglótico cada 8 horas** y aspirar las secreciones subglóticas si está indicado.
+- Drenaje subglótico solo si el dispositivo dispone de él, con método, presión y comprobaciones de su fabricante/protocolo. No irrigar o forzar una luz obstruida mediante una instrucción genérica.
 - Comprobar la presión del balón **después** de la aspiración.
 
 ### 4.5. Posición y movilización
@@ -87,13 +92,13 @@
 ### 4.6. Circuito y humidificación
 
 - **No cambiar las tubuladuras** de forma rutinaria.
-- **No cambiar los intercambiadores de calor y humedad (HME)** antes de **48 horas**, salvo que estén sucios o disfuncionantes.
+- HME/humidificador según indicación, secreciones, resistencia/espacio muerto y fabricante. No imponer un mínimo de 48 h que impida recambio ante obstrucción, disfunción o instrucción específica.
 - **Vaciar la condensación** de las tubuladuras **sin abrir el circuito**.
-- **Mantener el circuito cerrado** siempre que sea posible; usar aspiración cerrada.
+- Evitar desconexiones innecesarias. Elegir sistema de aspiración abierto/cerrado por situación y procedimiento; el sistema cerrado no demuestra por sí solo menor NAVM ni reemplaza técnica segura.
 
 ### 4.7. Destete, sedación y prevención del delirium
 
-- **Valorar cada día la retirada de la sedación** en pacientes estables.
+- Revisar objetivo de sedación y seguridad de prueba de despertar; no retirar automáticamente ante HIC no controlada, crisis u otras contraindicaciones.
 - **Valorar cada día la posibilidad de extubación** (prueba de respiración espontánea).
 - **Aplicar el protocolo de desconexión** de la ventilación mecánica.
 - **Considerar la ventilación mecánica no invasiva** cuando esté indicada.
@@ -102,12 +107,12 @@
 ### 4.8. Nutrición y prevención de la aspiración
 
 - **Nutrición enteral precoz**; mantener el cabecero elevado durante y después de la alimentación.
-- **Control del residuo gástrico** y valoración de procinéticos según protocolo.
+- Valorar tolerancia, riesgo de aspiración y vía de nutrición con el equipo. El residuo gástrico rutinario no se recomienda como medida aislada para prevenir NAVM ni descarta aspiración.
 - **Vigilar la deglución** y el riesgo de aspiración antes de la extubación.
 
 ### 4.9. Registro y vigilancia
 
-- **Registrar cada medida en cada turno:** el registro demuestra el cumplimiento.
+- Registrar cuidados realmente realizados, indicación, omisiones justificadas e incidencias. Una casilla marcada no demuestra por sí sola calidad de técnica ni equivale al registro clínico.
 - **Vigilar signos de neumonía:** fiebre, secreciones purulentas, infiltrados nuevos, leucocitosis o deterioro de la oxigenación.
 - **Ante la sospecha, avisar al médico y obtener muestras** (aspirado traqueal o broncoscopia) **antes de iniciar los antibióticos**.
 
@@ -116,11 +121,11 @@
 ### 5.1. Checklist por turno (bloques de la app)
 
 - [ ] **Higiene de manos y guantes:** antes y después de manipular el sistema respiratorio; tras secreciones; antes y después de cada aspiración; antes del contacto con otro paciente; guantes solo si indicados.
-- [ ] **Higiene bucal:** presión del balón > 20 cmH₂O antes de empezar; cabecera elevada; clorhexidina 0,12-0,2 % en encías, lengua y paladar; repetir cada 6-8 h; cepillado 3-4 veces al día.
-- [ ] **Neumotaponamiento:** medir con manómetro cada 8 h y tras movilizaciones/aspiraciones; mantener 20-30 cmH₂O; registrar el valor; no estimar; vigilar fugas o lesión.
-- [ ] **Aspiración:** solo si precisa; técnica estéril y calibre adecuado; no instilar SF de rutina; < 10-15 s; verificar el canal subglótico cada 8 h.
+- [ ] **Cuidado oral:** cepillado dental diario y cuidado de mucosas; aspirar secreciones si está indicado. No usar clorhexidina oral rutinaria en adultos para prevenir NAVM (SHEA/IDSA 2022).
+- [ ] **Neumotaponamiento:** medición con manómetro según dispositivo/plan/incidencia, objetivo confirmado y valor registrado; sin estimación por palpación ni sobreinflado por fuga.
+- [ ] **Aspiración:** indicación, técnica/calibre adecuados, breve y con reevaluación, sin instilación rutinaria; subglótica según dispositivo y fabricante.
 - [ ] **Posición y movilización:** cabecero 30-45°; comprobar cada 8 h y tras cambios posturales; extremar con nutrición enteral; evitar decúbito supino.
-- [ ] **Circuito y humidificación:** no cambiar tubuladuras ni HME de rutina (< 48 h); vaciar condensación sin abrir; mantener circuito cerrado.
+- [ ] **Circuito/humidificación:** cambios por necesidad/instrucciones de fabricante; drenaje seguro de condensación alejándola del paciente y evitando aperturas innecesarias.
 - [ ] **Destete y sedación:** valorar retirada diaria de sedación; valorar extubación; aplicar protocolo de desconexión; considerar VMNI si indicada.
 - [ ] **Registro y vigilancia:** registrar cada medida; vigilar signos de NAVM; ante sospecha, avisar y obtener muestras.
 
@@ -148,7 +153,7 @@
 
 - **Formación y entrenamiento** del personal en la manipulación de la vía aérea.
 - **Higiene de manos** en los momentos clave.
-- **Antisepsia bucal** con clorhexidina y control del balón.
+- **Cuidado oral diario con cepillado dental**, sin clorhexidina oral rutinaria en adultos para prevenir NAVM; controlar el neumotaponamiento.
 - **Aspiración subglótica** si ventilación prevista > 48-72 h.
 - **Circuito cerrado** y cambios no rutinarios.
 - **Cabecero elevado** y movilización precoz.

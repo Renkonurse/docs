@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Conversor de unidades de uso frecuente en UCI"
+---
 # Conversor de unidades de uso frecuente en UCI
 
 > 📖 **Fuentes:** MSD Manual Professional · SEEIUC · AACN · Institute for Safe Medication Practices (ISMP). *High-alert medications*. · WHO. *Medication Without Harm*. · The Joint Commission. *National Patient Safety Goals*.
@@ -176,7 +180,7 @@ microgotas/min = 30 × 60 / 60 = 30 microgotas/min
 ## 8. Cuándo NO usarla
 
 - **Fármacos en UI** (heparina, insulina) o **dosis biológicas**: no se convierten por peso.
-- **Cálculo de dosis por kg** o de velocidad de perfusión: usar [perfusiones](perfusiones.md).
+- **Cálculo de dosis por kg** o de velocidad de perfusión: usar [perfusiones](perfusiones.html).
 - **Conversiones de temperatura, presión u osmolaridad**: no están implementadas aquí.
 - **Diluciones con más de un soluto** o mezclas: verificar con farmacia.
 - **Como sustituto de la doble comprobación** en fármacos de alto riesgo.
@@ -199,10 +203,10 @@ microgotas/min = 30 × 60 / 60 = 30 microgotas/min
 
 ## 10. Relación con otras escalas y parámetros
 
-- **[Perfusiones](perfusiones.md)**: velocidades, factores de goteo y diluciones.
-- **[Corrección de iones](correccion-iones.md)**: conversiones mmol/L ↔ mg/dL (Mg 2,43; P 3,10; Ca 4,008).
-- **[Balance hídrico](balance-hidrico.md)** y **[gasto urinario](gasto-urinario.md)**: unidades de volumen y peso.
-- **[Peso ideal](peso-ideal.md)**: elección del peso para los cálculos.
+- **[Perfusiones](perfusiones.html)**: velocidades, factores de goteo y diluciones.
+- **[Corrección de iones](correccion-iones.html)**: conversiones mmol/L ↔ mg/dL (Mg 2,43; P 3,10; Ca 4,008).
+- **[Balance hídrico](balance-hidrico.html)** y **[gasto urinario](gasto-urinario.html)**: unidades de volumen y peso.
+- **[Peso ideal](peso-ideal.html)**: elección del peso para los cálculos.
 - **[MSD Manual Professional](https://www.msdmanuals.com/professional)**: tablas de conversión y dosis de referencia.
 
 ---

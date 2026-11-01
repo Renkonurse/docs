@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Prevención y manejo de las úlceras por presión (UPP)"
+---
 # Prevención y manejo de las úlceras por presión (UPP)
 
 > 📖 **Fuentes:** NPIAP/EPUAP/PPPIA. Pressure Ulcers/Injuries Guideline. 2019. · GNEAUPP. Guía de práctica clínica de las UPP. · NICE. Pressure ulcers (según el tema): https://www.nice.org.uk

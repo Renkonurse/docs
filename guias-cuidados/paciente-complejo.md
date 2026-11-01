@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Cuidados del paciente crítico complejo"
+---
 # Cuidados del paciente crítico complejo
 
 > 📖 **Fuentes:** Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Chulay M, Burns SM. AACN Essentials of Critical Care Nursing. McGraw-Hill. · AACN: https://www.aacn.org
@@ -44,7 +48,7 @@
 
 - Comprobar **fijación del tubo** y profundidad; presión del **neumotaponamiento 20-30 cmH₂O** con manómetro (cada 8 h y tras movilizaciones).
 - **Cabecero 30-45°** salvo contraindicación.
-- **Higiene bucal con clorhexidina 0,12-0,2 %** cada 6-8 h.
+- **Cuidado oral diario con cepillado dental** y aspiración cuando esté indicada. En pacientes ventilados adultos no indicar clorhexidina oral rutinaria para prevenir NAVM; sigue el protocolo específico de la unidad.
 - **Aspiración** solo si precisa, con técnica estéril y < 10-15 s.
 - **Circuito cerrado**; no cambiar tubuladuras ni humidificadores de forma rutinaria.
 - **Valorar cada día** la sedación, el destete y la posibilidad de extubación.

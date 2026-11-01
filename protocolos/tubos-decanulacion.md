@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Decanulación de la traqueostomía en el paciente crítico"
+---
 # Decanulación de la traqueostomía en el paciente crítico
 
 > 📖 **Fuentes:** Difficult Airway Society. Extubation guidelines. Br J Anaesth 2012;108:357-362. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · NICE: https://www.nice.org.uk

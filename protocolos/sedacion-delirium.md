@@ -1,8 +1,12 @@
+---
+layout: default
+title: "Sedación, analgesia y delirium en el paciente crítico"
+---
 # Sedación, analgesia y delirium en el paciente crítico
 
-> 📖 **Fuentes:** Devlin JW, et al. PADIS Guidelines. Crit Care Med 2018;46:e825-e873. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+> 📖 **Fuentes:** Lewis K, Balas MC, Stollings JL, et al. A focused update to the clinical practice guidelines for pain, anxiety, agitation/sedation, delirium, immobility and sleep disruption in adults in the ICU. *Crit Care Med*. 2025;53(3):e711-e727. https://doi.org/10.1097/CCM.0000000000006574 · Devlin JW, et al. PADIS Guidelines. *Crit Care Med*. 2018;46:e825-e873 (base, con actualización focal 2025).
 
-La sedoanalgesia y el delirium son dos caras del mismo problema: un paciente crítico con dolor mal controlado, sedación excesiva o entorno hostil desarrolla agitación, se profundiza innecesariamente, permanece más tiempo en ventilación mecánica y presenta más complicaciones. Este protocolo ordena la valoración con escalas validadas, la elección y titulación de fármacos, los cuidados de enfermería, el manejo del delirium y los criterios de escalado, para aplicarlo a pie de cama sin depender de otros recursos.
+Dolor, sedación, agitación y delirium requieren valoraciones relacionadas, pero no equivalentes. El delirium también puede ser hipoactivo y no toda agitación es delirium o precisa más sedante. Esta guía educativa para adultos organiza exploración, cuidados y comunicación; no sustituye la prescripción, las fichas técnicas ni el protocolo de titulación y rescate del centro. No se extrapola a pediatría.
 
 ## 1. Definición y objetivo
 
@@ -33,7 +37,7 @@ Se aplica a todo paciente crítico, con o sin vía aérea artificial, en UCI, re
 
 ### 2.1 Fisiopatología de la sedación y la analgesia
 
-Los hipnóticos actúan sobre el sistema nervioso central deprimiendo la actividad cortical: los GABAérgicos (propofol, benzodiazepinas) aumentan la inhibición; la dexmedetomidina es un agonista α2 central que reduce la descarga noradrenérgica y produce sedación sin depresión respiratoria relevante. Los opioides activan receptores µ y reducen la percepción del dolor, pero deprimen el centro respiratorio, enlentecen el tránsito intestinal y producen tolerancia y abstinencia. En perfusiones prolongadas aparece **acumulación** (fentanilo, morfina, midazolam) o **taquifilaxia**, lo que obliga a reajustar dosis y a prever la retirada gradual.
+Hipnóticos y analgésicos tienen objetivos y perfiles diferentes. Propofol y benzodiazepinas potencian inhibición GABAérgica; dexmedetomidina actúa sobre receptores α2. Una menor depresión respiratoria relativa no garantiza vía aérea o ventilación seguras, especialmente con otros fármacos. Los opioides aportan analgesia, pero pueden deprimir respiración y motilidad intestinal. Exposición prolongada, función orgánica, interacciones y sensibilidad individual condicionan acumulación, tolerancia y retirada; anticiparlas con el equipo.
 
 ### 2.2 Fisiopatología del delirium
 
@@ -54,7 +58,7 @@ El delirium se asocia a **mayor mortalidad, estancia prolongada y deterioro cogn
 
 - Dolor agudo o procedimientos dolorosos (curas, movilización, aspiración, retirada de drenajes).
 - Intolerancia a la ventilación mecánica, disincronía o lucha con el respirador.
-- Situaciones que requieren sedación profunda: distrés respiratorio grave con necesidad de bloqueo neuromuscular, hipertensión intracraneal, estatus epiléptico, prono prolongado, hipotermia terapéutica o técnicas con inmovilidad absoluta.
+- Algunas situaciones pueden requerir profundidad mayor: HIC no controlada, estatus refractario o ventilación protectora que exige bloqueo neuromuscular, entre otras. La indicación y el objetivo se individualizan; prono, HIC o tratamiento térmico no implican automáticamente sedación profunda para todo paciente.
 - Agitación con riesgo para el paciente o los dispositivos.
 - Delirium hiperactivo con agitación que interfiere en el tratamiento o en el destete.
 
@@ -69,8 +73,8 @@ Escala de referencia para fijar y vigilar el objetivo de sedación; puntúa de *
 | **+2** | Agitado | Movimientos frecuentes sin propósito, lucha con el respirador. |
 | **+1** | Inquieto | Ansioso pero sin movimientos agresivos ni vigorosos. |
 | **0** | Alerta y calmado | Estado normal, colaborador. |
-| **−1** | Somnoliento | No está plenamente alerta, pero se mantiene despierto > 10 s. |
-| **−2** | Sedación ligera | Se despierta brevemente (< 10 s) al contacto visual o a la voz. |
+| **−1** | Somnoliento | Despierta a la voz y mantiene contacto visual más de 10 segundos. |
+| **−2** | Sedación ligera | Despierta a la voz con contacto visual breve, menos de 10 segundos. |
 | **−3** | Sedación moderada | Movimiento o apertura ocular a la voz, sin contacto visual. |
 | **−4** | Sedación profunda | Sin respuesta a la voz; movimientos o apertura ocular al estímulo físico. |
 | **−5** | No despertable | Sin respuesta a la voz ni al estímulo físico. |
@@ -86,31 +90,31 @@ Cribado de delirium en el paciente crítico, incluido el que no puede hablar. In
 Algoritmo secuencial de 4 pasos:
 
 1. **Cambio agudo o fluctuación.** ¿Hay evidencia de cambio agudo del estado mental respecto al basal? ¿Ha fluctuado el estado mental en las últimas 24 h?
-2. **Inatención (letras SAVEAHAART).** Lee las letras en voz alta (una por segundo); el paciente debe apretar la mano cuando oiga la letra «A». Se cuentan los errores (apretar cuando no toca + no apretar cuando toca). **≥ 3 errores = inatención.**
-3. **Nivel de consciencia (RASS).** Si el **RASS ≠ 0**, el delirium está presente.
-4. **Pensamiento desorganizado.** Cuatro preguntas (respuesta correcta entre paréntesis) y dos comandos:
+2. **Inatención (SAVEAHAART).** Técnica estandarizada: diez letras separadas 3 segundos, respuesta acordada al oír «A»; cuentan omisiones y respuestas a otras letras. **≥3 errores** cumple inatención. Registrar barreras/no explorabilidad, no inventar cero errores.
+3. **Nivel de consciencia (RASS).** Con pasos 1 y 2 positivos y paciente evaluable, RASS distinto de 0 cumple la característica de nivel de consciencia alterado.
+4. **Pensamiento desorganizado.** En el flujo abreviado se explora si los pasos 1 y 2 son positivos y RASS es 0: cuatro preguntas y una orden de dos pasos:
    - 1) ¿Puede flotar una piedra en el agua? (No)
    - 2) ¿Existen peces en el mar? (Sí)
    - 3) ¿Pesa 1 kg más que 2 kg? (No)
    - 4) ¿Se puede usar un martillo para clavar un clavo? (Sí)
    - A) «Levante estos dedos» (muestre 2 dedos).
    - B) «Ahora con la otra mano» (o «Añada otro dedo»). Sin mostrar de nuevo.
-   - **≥ 2 errores = pensamiento desorganizado → DELIRIUM.**
+    - Cada pregunta incorrecta cuenta un error; no completar la orden entera cuenta **un solo error**. Total 0–5; ≥2 cumple pensamiento desorganizado.
 
-**Interpretación y parada del algoritmo:** el algoritmo se detiene en el primer paso que no cumple criterio.
+**Interpretación:** primero comprobar RASS; −4/−5 es no evaluable, no cribado negativo. CAM-ICU positivo exige **1 + 2 + (3 o 4)**. El flujo puede terminar antes de explorar los cuatro dominios; ese resultado no proporciona automáticamente todos los puntos de gravedad de CAM-ICU-7.
 
 | Situación | Resultado |
 |---|---|
 | Paso 1 sin cambio ni fluctuación | NO delirium |
 | Paso 2 con < 3 errores | NO delirium |
-| Paso 3 con RASS ≠ 0 | DELIRIUM presente |
-| Paso 4 con ≥ 2 errores | DELIRIUM presente |
+| Pasos 1 y 2 positivos y RASS −3..+4 distinto de 0 | Cribado positivo |
+| Pasos 1 y 2 positivos, RASS 0 y pensamiento con ≥2 errores | Cribado positivo |
 
 El CAM-ICU tiene alta sensibilidad y especificidad para detectar delirium en pacientes críticos, incluso en ventilación mecánica.
 
 ### 3.4 ICDSC (Intensive Care Delirium Screening Checklist)
 
-Lista de **ocho ítems** que se puede aplicar por turnos; una puntuación **igual o mayor de 4** orienta a delirium. Es útil como cribado sistemático cuando no se puede completar el CAM-ICU.
+Lista de ocho ítems recogidos durante el intervalo de valoración; ≥4 orienta a delirium según las reglas de ICDSC. No es una solución automática a un CAM-ICU no evaluable por coma o sedación profunda: comprobar aplicabilidad, observaciones disponibles y limitaciones.
 
 | N.º | Ítem |
 |---|---|
@@ -134,16 +138,9 @@ Lista de **ocho ítems** que se puede aplicar por turnos; una puntuación **igua
 | Tensión muscular | Sin resistencia a la movilización pasiva | Resistencia a la movilización pasiva | Resistencia fuerte / rigidez |
 | Cumplimiento con el ventilador | Tolera el ventilador / voz normal (no VM) | Tose pero tolera / suspiros, gemidos | Lucha con el ventilador / quejidos, llanto |
 
-| Puntuación CPOT | Interpretación |
-|---|---|
-| 0 | Sin dolor |
-| 1-2 | Dolor leve |
-| 3-4 | Dolor moderado |
-| 5-8 | Dolor intenso — considerar analgesia |
+CPOT suma 0–8 comportamientos y **no equivale a intensidad autodeclarada**. >2 se utiliza como señal de posible dolor en contextos validados: valorar causa, procedimiento y respuesta al tratamiento. No establecer bandas propias leve/moderado/intenso ni afirmar que 0 descarta dolor; sedación profunda, parálisis y daño neurológico limitan la expresión. Priorizar autoinforme cuando sea fiable.
 
-**Punto de corte: > 2 = dolor.**
-
-**BPS** (Behavioral Pain Scale): alternativa recomendada junto con la CPOT. Valora expresión facial, movimientos del miembro superior y adaptación a la ventilación mecánica, con 1 a 4 puntos por ítem (total 3-12); **una puntuación > 5 (habitualmente ≥ 6) indica dolor** y obliga a ajustar la analgesia.
+**BPS:** expresión facial, miembros superiores y adaptación al ventilador, 1–4 por ítem, total 3–12. Una puntuación elevada apoya buscar dolor y revisar analgesia según protocolo; no demuestra por sí sola su causa/intensidad ni autoriza un ajuste automático. Documentar versión y limitaciones, especialmente con bloqueo neuromuscular.
 
 ### 3.6 Diagnóstico diferencial de la agitación y del delirium
 
@@ -164,7 +161,7 @@ Lista de **ocho ítems** que se puede aplicar por turnos; una puntuación **igua
 ### 3.7 Escalas relacionadas y cuándo usar cada una
 - **RASS:** nivel de sedación y agitación y objetivo prescrito; se aplica en cada valoración y tras cada ajuste.
 - **CAM-ICU:** cribado de delirium cuando el RASS es igual o superior a −3; se aplica cada turno.
-- **ICDSC:** alternativa de cribado por turnos cuando no se puede completar el CAM-ICU.
+- **ICDSC:** cribado observacional por intervalo, con sus propias reglas; no imputar síntomas no observables por coma.
 - **Glasgow:** nivel de consciencia cuando el RASS no es aplicable, en el paciente no sedado o con sospecha neurológica.
 - **CPOT y BPS:** dolor en el paciente que no puede comunicarse; se aplican en reposo y antes y después de cada procedimiento.
 
@@ -186,8 +183,8 @@ Lista de **ocho ítems** que se puede aplicar por turnos; una puntuación **igua
 - Monitorización continua de **ECG, SpO2, frecuencia respiratoria, presión arterial y temperatura**; presión arterial invasiva si el paciente la precisa.
 - Capnografía o EtCO2 en el paciente intubado; gasometría según evolución.
 - **Diuresis horaria**, balance hídrico y control de la glucemia capilar.
-- Frecuencia de valoración: **RASS cada 4 h** como mínimo, y siempre tras cada cambio de dosis; **CAM-ICU cada turno**; **CPOT/BPS cada turno**, antes y después de procedimientos y tras cada ajuste de analgesia.
-- En el paciente **relajado** con bloqueo neuromuscular, el RASS no es valorable: valora signos indirectos de profundidad (lágrimas, sudoración, taquicardia, hipertensión) y, si está disponible y prescrito, monitorización de profundidad con BIS o entropía.
+- Frecuencia de valoración según riesgo, fase, fármaco/procedimiento y protocolo; reevaluar tras cambios en el tiempo apropiado para la vía y cinética. Un control programado no permite esperar ante deterioro nuevo.
+- Con **bloqueo neuromuscular**, la ausencia de movimiento no demuestra sedación o analgesia suficientes. Mantener el plan prescrito y comprobar administración real; las constantes/signos autonómicos son inespecíficos y no excluyen consciencia. EEG procesado puede complementar en pacientes seleccionados, pero no sustituye la evaluación ni tiene un objetivo universal aplicable a todos los dispositivos/lesiones.
 
 ### 4.3 Analíticas y pruebas
 
@@ -216,46 +213,48 @@ Lista de **ocho ítems** que se puede aplicar por turnos; una puntuación **igua
 
 ### 4.5 Limitaciones de la exploración
 
-- **Paciente sedado o relajado:** la valoración de consciencia, lenguaje, fuerza y sensibilidad no es fiable y debe registrarse como **no valorable**.
+- Sedación y parálisis interfieren de forma diferente: identificar **qué componentes** pueden explorarse válidamente, documentando fármacos y limitaciones. No invalidar toda exploración por recibir cualquier sedante ni interpretar una respuesta motora abolida por relajante como lesión cerebral.
 - La **vía aérea artificial, la barrera idiomática, la sordera, la afasia o un déficit previo** condicionan el resultado de la exploración.
 - Deja constancia del **motivo de la no valoración** y de la hora en que se podrá repetir.
 
-> ⚠️ **Aviso:** no confundir sedación profunda con deterioro neurológico. Un descenso brusco del nivel de consciencia o una agitación nueva se reevalúan en el mismo turno.
+> ⚠️ No atribuir sin comprobación un cambio brusco a la sedación. Reevaluar de inmediato y activar ayuda según gravedad, sin esperar al final del turno.
 
 ## 5. Actuación paso a paso
 
-### 5.1 Fármacos de elección y dosis orientativas
+### 5.1 Selección y vigilancia farmacológica
 
-| Objetivo | Fármaco | Dosis orientativa | Consideraciones |
+La pauta se confirma en prescripción, ficha técnica de la presentación y protocolo de la indicación. No establecer aquí bolos ni velocidades universales. Comprobar concentración, unidades, peso usado, bomba, acceso, objetivos y monitorización, sobre todo al cambiar de formulación.
+
+| Objetivo | Fármaco | Pauta/verificación | Consideraciones |
 |---|---|---|---|
-| Analgesia | **Fentanilo** | Bolo 25-100 µg IV (0,5-1 µg/kg); perfusión 0,7-2 µg/kg/h | Acumulación en perfusiones prolongadas; ajustar en fallo hepático |
-| Analgesia | **Remifentanilo** | 0,05-0,2 µg/kg/min | Metabolismo independiente de órganos; retirada rápida, prever analgesia de transición |
-| Analgesia | **Morfina** | Bolo 2-5 mg IV; perfusión 0,5-2 mg/h | Evitar en fracaso renal (metabolito activo M6G); más náuseas e íleo |
-| Sedación | **Propofol** | 0,5-4 mg/kg/h; bolo 0,5-1 mg/kg si precisa | Hipotensión, hipertrigliceridemia; riesgo de síndrome de perfusión de propofol |
-| Sedación | **Dexmedetomidina** | 0,2-1,4 µg/kg/h | Sin depresión respiratoria relevante; bradicardia e hipotensión; evitar en bloqueo AV |
-| Sedación | **Midazolam** | Bolo 1-2 mg IV; perfusión 0,02-0,1 mg/kg/h | Evitar el uso prolongado: acumulación, delirium y retirada difícil |
-| Delirium | **Dexmedetomidina** | 0,2-1,4 µg/kg/h | Primera elección cuando la agitación dificulta la ventilación o el destete |
-| Delirium | **Haloperidol** | 0,5-2 mg IV lento, repetible cada 4-6 h | Solo si agitación intensa no controlada; precaución y control del QTc |
+| Analgesia | **Fentanilo** | Según pauta y presentación | Vigilar ventilación, presión, acumulación, íleo y retirada; no extrapolar equivalencias entre opioides. |
+| Analgesia | **Remifentanilo** | Según pauta; comprobar unidades por minuto | Final de efecto rápido: planificar analgesia de transición y evitar interrupciones inadvertidas. El metabolismo por esterasas no elimina vigilancia o ajuste clínico. |
+| Analgesia | **Morfina** | Según pauta, función orgánica y alternativa disponible | Metabolitos activos pueden acumularse en insuficiencia renal; revisar selección/ajuste con el equipo y vigilar ventilación, presión y motilidad. |
+| Sedación | **Propofol** | Según pauta de la indicación; no bolo automático en UCI | Vigilar presión, ventilación, aporte lipídico y controles indicados; ante sospecha de PRIS activar respuesta urgente y retirar propofol según protocolo con soporte alternativo. |
+| Sedación | **Dexmedetomidina** | Según pauta y ficha técnica | Bradicardia/hipotensión, conducción y función hepática requieren revisión. No garantiza ausencia de depresión respiratoria ni sedación profunda adecuada. |
+| Sedación | **Midazolam** | Según pauta e indicación | Acumulación/metabolitos e interacciones, sobre todo con disfunción orgánica; vigilar ventilación y retirada. Puede tener indicaciones específicas como convulsiones/abstinencia. |
+| Sedación | **Dexmedetomidina frente a propofol** | Según ficha técnica, prescripción y protocolo | PADIS 2025 la sugiere condicionalmente cuando sedación ligera y/o reducción de delirium son prioridades principales en adultos ventilados; no preferencia universal ni indicación para sedación profunda. |
+| Delirium con agitación que impide destete/extubación | **Dexmedetomidina** | Según prescripción/protocolo | Recomendación condicional PADIS **2018**, no nueva recomendación de tratamiento de delirium de 2025. No extrapolar a todo delirium. |
 
-> ⚠️ **Aviso:** no se recomienda el uso sistemático ni profiláctico de antipsicóticos para el delirium. Reserva el haloperidol para el delirium hiperactivo con agitación intensa que no responde a medidas no farmacológicas y a dexmedetomidina, o cuando esta está contraindicada. Vigila el QTc antes y durante el tratamiento y suspende si se prolonga de forma significativa.
+> ⚠️ **Aviso:** la actualización PADIS 2025 no pudo emitir una recomendación a favor o en contra de los antipsicóticos para tratar el delirium por insuficiencia de evidencia. No los presentes como tratamiento rutinario ni profilaxis; si se consideran por agitación grave o riesgo inmediato, individualiza la indicación, revisa QTc/interacciones y sigue el protocolo y la prescripción local.
 
 ### 5.2 Secuencia de actuación
 
 1. **Asegura la vía aérea, la ventilación y la estabilidad hemodinámica** (ABCDE). Comprueba glucemia capilar y descarta causas inmediatas de agitación (dolor, hipoxemia, retención urinaria, hipoglucemia).
-2. **Valora el dolor con CPOT, BPS o EVA.** Si hay dolor, **trátalo primero**: bolo de fentanilo 25-100 µg IV (0,5-1 µg/kg) o el opioide prescrito, y reevalúa en 5-10 min. La analgesia antes del procedimiento es obligatoria.
+2. **Valora dolor** por autoinforme si es posible o escala conductual válida; anticipa procedimientos dolorosos. Administra la analgesia indicada según pauta y riesgos, sin convertir una cifra o el nombre del procedimiento en un bolo universal; documenta respuesta y efectos adversos.
 3. **Comprueba el objetivo de sedación prescrito** (habitualmente RASS −2 a 0), los fármacos activos, las dosis, la perfusión acumulada y la hora del último bolo o cambio de velocidad.
 4. **Optimiza la analgesia de base:** ajusta la perfusión de opioide antes de aumentar el hipnótico (analgosedación).
-5. **Si precisa hipnótico, elige según el contexto:** propofol 0,5-4 mg/kg/h o dexmedetomidina 0,2-1,4 µg/kg/h. Reserva el midazolam para cuando los anteriores estén contraindicados o no disponibles, y evita su uso prolongado.
-6. **Titula de forma escalonada cada 15-30 min** hasta alcanzar el objetivo de RASS. En agitación intensa, valora un bolo inicial según el fármaco y reevalúa la respuesta.
-7. **Reevalúa el RASS cada 4 h y tras cada ajuste**, y registra la respuesta al cambio junto con la puntuación.
+5. **Si precisa hipnótico**, elección según objetivo, profundidad, hemodinámica y protocolo. La sugerencia PADIS 2025 de dexmedetomidina sobre propofol se refiere a prioridades de sedación ligera y/o reducción de delirium; no obliga a cambiar un tratamiento adecuado ni cubre toda sedación profunda.
+6. **Titula solo conforme a prescripción/protocolo** y reevaluación apropiada para la cinética. No aplicar el mismo intervalo o bolo a cualquier sedante; evitar acumulación de cambios antes de apreciar su efecto.
+7. **Reevalúa y registra** sedación, dolor y constantes tras ajustes y según plan; no esperar al siguiente control ante intolerancia o deterioro.
 8. **Aplica la interrupción diaria de la sedación** (o sedación ligera protocolizada) si no hay contraindicación, y empareja la prueba de despertar con la prueba de respiración espontánea.
-9. **Criba el delirium cada turno** con CAM-ICU o ICDSC. Si es positivo, aplica el paquete no farmacológico, corrige las causas reversibles y valora dexmedetomidina.
-10. **Registra escala utilizada, puntuación, hora, objetivo prescrito y tendencia** respecto al turno anterior (mejor, igual o peor). Un descenso brusco del nivel de consciencia o una agitación nueva se reevalúan en el mismo turno.
+9. **Criba el delirium cada turno** con CAM-ICU o ICDSC. Si es positivo, aplica medidas multicomponente no farmacológicas y corrige causas reversibles; reserva considerar dexmedetomidina para pacientes ventilados cuando la agitación esté impidiendo el destete/extubación, según indicación clínica.
+10. **Registra escala, componentes/puntuación, hora, objetivo y condiciones**. Describe el cambio sin asumir que un RASS menor es mejor; ante cambio brusco reevalúa inmediatamente.
 11. **Si la agitación o el delirium persisten**, revisa dolor, fármacos, sueño, contención y causas orgánicas, y **avisa al médico** según los criterios del apartado 9.
 
 ### 5.3 Interrupción diaria de la sedación
 
-- Suspende o reduce la perfusión de sedantes una vez al día, preferiblemente por la mañana, hasta que el paciente despierte o aparezca agitación o inestabilidad.
+- La prueba de despertar es una estrategia protocolizada, no una orden universal: comprobar seguridad, objetivo, analgesia y plan de interrupción/reinicio con el equipo antes de reducir perfusiones. No equivale a retirada definitiva tras exposición prolongada.
 - **No la realices** si existe contraindicación: hipertensión intracraneal, estatus epiléptico, distrés respiratorio grave con bloqueo neuromuscular, síndrome de abstinencia, isquemia miocárdica activa o agitación con riesgo vital para el paciente o los dispositivos.
 - Durante la prueba, vigila dolor, disnea, taquicardia, hipertensión, desaturación y signos de abstinencia; reinicia la sedación si aparece intolerancia.
 - En pacientes que no toleran la suspensión completa, mantén sedación ligera protocolizada en lugar de sedación profunda continua.
@@ -264,18 +263,18 @@ Lista de **ocho ítems** que se puede aplicar por turnos; una puntuación **igua
 
 - **Síndrome de distrés respiratorio agudo grave o prono:** puede requerir sedación profunda y bloqueo neuromuscular; en ese caso, monitoriza la profundidad con BIS o entropía si está disponible.
 - **Hipertensión intracraneal:** sedación profunda, normocapnia, normoglucemia y control de la temperatura; evita la agitación y los estímulos dolorosos.
-- **Estatus epiléptico:** sedación profunda con propofol o midazolam en perfusión, idealmente con monitorización EEG.
+- **Estatus refractario:** anestesia continua por equipo experto y EEG para guiar/controlar actividad; no todo episodio convulsivo requiere sedación profunda continua.
 - **Fracaso renal o hepático:** elige fármacos con metabolismo predecible (remifentanilo, propofol) y ajusta dosis; evita morfina y midazolam en el fracaso renal.
 - **Bradicardia o bloqueo AV:** evita la dexmedetomidina.
-- **Delirium hiperactivo:** prioriza medidas no farmacológicas, corrige causas y usa dexmedetomidina como primera opción farmacológica.
+- **Delirium hiperactivo:** seguridad y búsqueda causal; en ventilados con agitación que impide destete/extubación puede considerarse dexmedetomidina conforme a PADIS 2018, riesgos y prescripción. PADIS 2025 no recomienda a favor ni en contra de antipsicóticos para tratar delirium por insuficiencia de evidencia.
 
 ### 5.5 Tratamiento del delirium
 
 1. **Corrige las causas reversibles** (apartado 4.4): dolor, hipoglucemia, hipoxemia, infección, retención urinaria, impactación, fármacos precipitantes.
 2. **Aplica el paquete no farmacológico**: orientación repetida, gafas y audífonos, ciclo sueño-vigilia, movilización precoz, presencia de la familia y evitación de contenciones siempre que sea seguro.
 3. **Revisa la medicación**: retira, si es posible, anticolinérgicos, benzodiazepinas y otros fármacos precipitantes.
-4. **Valora dexmedetomidina** 0,2-1,4 µg/kg/h cuando la agitación dificulta el tratamiento, la ventilación mecánica o el destete.
-5. **Valora haloperidol** 0,5-2 mg IV lento, repetible cada 4-6 h, solo en delirium hiperactivo con agitación intensa no controlada y sin respuesta a lo anterior, con control del QTc. No lo uses como profilaxis.
+4. **Considera dexmedetomidina** en el adulto ventilado cuando la agitación impide el destete/extubación; balancea beneficio y riesgos hemodinámicos, con dosis según prescripción y protocolo.
+5. **Antipsicóticos:** PADIS 2025 no emite recomendación a favor o en contra para tratar delirium. Si se plantean ante agitación grave, la decisión debe individualizarse y seguir prescripción/protocolo; no asumir eficacia ni utilizarlos de rutina como profilaxis.
 6. **Reevalúa cada turno** con CAM-ICU o ICDSC y registra la evolución. Si el delirium persiste o empeora pese a las medidas, avisa al médico y descarta causas nuevas.
 
 ## 6. Cuidados de enfermería y vigilancia
@@ -284,8 +283,8 @@ Lista de **ocho ítems** que se puede aplicar por turnos; una puntuación **igua
 
 | Parámetro | Escala o dato | Frecuencia |
 |---|---|---|
-| Nivel de sedación | RASS | Cada 4 h y tras cada cambio de dosis |
-| Delirium | CAM-ICU o ICDSC | Cada turno (cuando el RASS ≥ −3) |
+| Nivel de sedación | RASS cuando sea aplicable | Frecuencia según plan, y tras ajustes en tiempo apropiado para vía/cinética; de inmediato ante deterioro. |
+| Delirium | CAM-ICU o ICDSC según aplicabilidad | Valoración sistemática/seriada según evolución y protocolo; registrar no evaluable si corresponde, sin sustituir coma por cribado negativo. |
 | Dolor | CPOT, BPS o EVA | Cada turno, antes y después de procedimientos y tras ajustes |
 | Constantes | ECG, SpO2, PA, FC, FR, temperatura | Continua; registro horario o según protocolo |
 | Glucemia | Glucemia capilar | Cada 4-6 h o según protocolo |
@@ -297,7 +296,7 @@ Lista de **ocho ítems** que se puede aplicar por turnos; una puntuación **igua
 
 ### 6.2 Cuidados generales
 
-- **Analgesia antes de cualquier procedimiento** (curas, aspiración, movilización, cambios posturales).
+- Anticipar dolor de procedimientos y aportar medidas farmacológicas/no farmacológicas indicadas, con reevaluación; no administrar un opioide automáticamente antes de cualquier cuidado.
 - **Comprueba el objetivo prescrito** y si hay interrupción diaria o sedación ligera programada; comunica la discrepancia entre el objetivo y el RASS real.
 - **Suspende o ajusta la sedación** si está indicado y según la prescripción; nunca la retires de golpe tras días de perfusión.
 - **Vigila los efectos adversos** de cada fármaco: hipotensión, bradicardia, depresión respiratoria, íleo, retención urinaria e hipertrigliceridemia con propofol.
@@ -307,22 +306,22 @@ Lista de **ocho ítems** que se puede aplicar por turnos; una puntuación **igua
 - **Movilización precoz y segura**, cambios posturales y prevención de úlceras por presión y trombosis.
 - **Familia:** facilita su presencia y participa en la orientación del paciente.
 - **Confort:** higiene, boca, ojos, temperatura, posición y manejo del dolor.
-- **Compara cada valoración con la del turno anterior** y anota la tendencia (mejor, igual o peor); registra la respuesta a los ajustes de sedación y analgesia en la siguiente valoración.
+- Compara condiciones y objetivo de cada valoración; registra aumento/descenso y su significado contextual, no mejoría por profundizar sedación. Reevaluar según vía, fármaco y urgencia.
 
-> ⚠️ **Aviso:** un RASS fuera del objetivo, un CAM-ICU positivo nuevo o un cambio brusco del nivel de consciencia son hallazgos que se comunican al médico en el mismo turno, no en el relevo siguiente.
+> ⚠️ El cambio brusco, riesgo de autolesión o compromiso respiratorio/hemodinámico requiere ayuda inmediata; un hallazgo nuevo se comunica según gravedad y circuito, no se difiere al relevo.
 
 ## 7. Complicaciones y cómo actuar ante cada una
 
 | Complicación | Reconocimiento | Actuación |
 |---|---|---|
-| **Hipotensión por propofol o dexmedetomidina** | Caída de presión arterial, taquicardia, piel fría | Reducir o suspender la perfusión, expandir volemia, valorar vasopresor y avisar al médico |
+| **Hipotensión durante sedación** | Presión/perfusión deterioradas | Aviso y búsqueda causal; ajustar sedantes conforme a plan/rescate, sin asumir causalidad única ni expandir volumen automáticamente. Reevaluar respuesta y congestión si se indican fluidos. |
 | **Bradicardia por dexmedetomidina** | FC baja, mareo, bloqueo AV | Reducir o suspender, atropina si procede, evitar el fármaco en bloqueo AV |
 | **Depresión respiratoria por opioides o benzodiazepinas** | Bradipnea, desaturación, somnolencia profunda, hipercapnia | Estimular, aportar oxígeno, ventilar si precisa; valorar naloxona (0,04-0,4 mg IV) y ajustar o suspender la perfusión |
 | **Íleo y estreñimiento por opioides** | Abdomen distendido, ausencia de deposición, náuseas | Procinéticos y laxantes según prescripción, movilización, revisar la dosis de opioide |
 | **Retención urinaria** | Ausencia de diuresis, globo vesical, agitación | Ecografía vesical, sondaje o desobstrucción según prescripción |
 | **Hipertrigliceridemia por propofol** | Triglicéridos elevados, lipemia | Reducir o cambiar de fármaco, control analítico, avisar al médico |
 | **Síndrome de perfusión de propofol (PRIS)** | Acidosis metabólica inexplicada, rabdomiólisis (CK elevada), hiperpotasemia, hepatomegalia, fiebre, arritmias, refractariedad a vasopresores | **Suspender el propofol de inmediato**, cambiar de sedante, soporte hemodinámico y metabólico, avisar al médico con urgencia |
-| **Delirium persistente** | CAM-ICU positivo mantenido, agitación o hipoactividad | Revisar causas, paquete no farmacológico, ajustar fármacos y valorar dexmedetomidina |
+| **Delirium persistente** | Cribados positivos y contexto compatible | Revisar causas y medidas multicomponente; la dexmedetomidina no es una escalada automática para delirium hipoactivo o persistente. |
 | **Agitación con riesgo de autoextubación** | Lucha con el respirador, manipulación del tubo | Vigilancia estrecha, fijación, analgesia y sedación adecuadas, contención prescrita y plan de reintubación |
 | **Síndrome de retirada** | Temblor, diaforesis, taquicardia, hipertensión, diarrea, insomnio al reducir la sedación | Descenso gradual y protocolizado, soporte de síntomas, avisar al médico; no confundir con delirium |
 | **Prolongación del QTc y torsades de pointes** | QTc > 500 ms, arritmia ventricular | Suspender fármacos que alargan el QT, corregir potasio y magnesio, avisar al médico, valorar marcapasos |
@@ -341,7 +340,7 @@ Lista de **ocho ítems** que se puede aplicar por turnos; una puntuación **igua
   - Movilización precoz y evitación de contenciones siempre que sea posible.
   - Presencia de la familia cuando sea posible.
   - Control del dolor, del ruido y del entorno.
-- **Revisión diaria de la medicación**: retira, si es posible, anticolinérgicos, benzodiazepinas, corticoides y otros fármacos precipitantes; usa el menor número de fármacos activos sobre el sistema nervioso central.
+- Revisar indicación, interacciones y exposiciones potencialmente precipitantes con el equipo; retirar lo innecesario sin suspender tratamientos esenciales ni corticoides, opioides o benzodiazepinas bruscamente cuando existe riesgo de retirada.
 - **Evita dispositivos innecesarios** (sonda vesical, accesos, contenciones) y retíralos lo antes posible.
 - **Prevención y tratamiento precoces** de la infección, la hipoxemia, la hipoglucemia y las alteraciones hidroelectrolíticas.
 - **No hay profilaxis farmacológica establecida del delirium**: no se recomiendan antipsicóticos ni otros fármacos de forma rutinaria para prevenirla. En la abstinencia alcohólica o benzodiazepínica, sigue el protocolo específico de tratamiento y prevención.
@@ -369,7 +368,7 @@ Avisa al médico de guardia **de inmediato** ante cualquiera de estas situacione
 
 ### 10.1 Puntos clave
 
-- **Analgesia primero**: el dolor no tratado es la causa más frecuente y más fácil de corregir de agitación.
+- **Valorar dolor y causas de agitación**: tratar dolor identificado y anticipar procedimientos; no asumir que toda agitación es dolor ni que un opioide resolverá la causa.
 - **Objetivo RASS −2 a 0** salvo indicación concreta; la sedación profunda se prescribe y se justifica.
 - **Registra escala, puntuación, hora y objetivo** en cada valoración, y la tendencia respecto al turno anterior.
 - **CAM-ICU o ICDSC cada turno** en todo paciente con RASS ≥ −3; el delirium hipoactivo también cuenta.
@@ -377,7 +376,7 @@ Avisa al médico de guardia **de inmediato** ante cualquiera de estas situacione
 - **La dexmedetomidina** es útil cuando la agitación dificulta el destete o la ventilación; **el haloperidol no es de primera línea ni profiláctico** y exige control del QTc.
 - **La retirada de la sedación es gradual** tras perfusiones prolongadas; la suspensión brusca produce abstinencia.
 - Revisa siempre la **perfusión acumulada** y la hora del último bolo o cambio de velocidad antes de valorar la respuesta.
-- Si el paciente está sedado o relajado, la exploración neurológica **no es valorable**: regístralo así, con el motivo y la hora de repetición.
+- Registrar componentes no explorables y causa concreta, preservando los válidamente evaluables; no declarar toda la exploración inválida por cualquier sedación.
 
 ### 10.2 Errores frecuentes
 
@@ -386,8 +385,8 @@ Avisa al médico de guardia **de inmediato** ante cualquiera de estas situacione
 | Profundizar la sedación ante cualquier agitación sin buscar la causa | Sedación excesiva, más días de ventilación, más delirium | Descartar dolor, hipoglucemia, retención urinaria, hipoxemia, retirada y entorno |
 | Mantener benzodiazepinas en perfusión prolongada | Acumulación, delirium, retirada difícil | Priorizar propofol o dexmedetomidina y retirar de forma gradual |
 | No fijar ni registrar el objetivo de sedación | Titulación arbitraria, RASS fuera de objetivo | Prescribir y registrar el objetivo en cada turno |
-| No reevaluar tras cambiar la dosis | Infradosificación o sobredosificación mantenidas | Reevaluar RASS en 15-30 min y cada 4 h |
-| Usar antipsicóticos como profilaxis del delirium | Sin beneficio demostrado, riesgo de QT y efectos adversos | Reservarlos para agitación intensa no controlada y con control del QTc |
+| No reevaluar tras cambiar dosis | Infradosificación o sobredosificación mantenidas | Reevaluar conforme a vía/cinética, riesgo y protocolo; atención inmediata ante intolerancia |
+| Usar antipsicóticos como profilaxis o tratamiento rutinario del delirium | PADIS 2025 no pudo recomendar a favor ni en contra por evidencia insuficiente; existen riesgos (p. ej., QT) | No usarlos de rutina; individualizar solo si hay una indicación clínica concreta, con prescripción y vigilancia apropiadas |
 | No cribar el delirium o hacerlo solo en pacientes agitados | Delirium hipoactivo infradiagnosticado | CAM-ICU o ICDSC cada turno |
 | Suspender la sedación de golpe tras varios días | Síndrome de retirada, agitación, hipertensión | Descenso gradual protocolizado |
 | Confundir un descenso del nivel de consciencia con sedación profunda | Retraso en el diagnóstico de ictus, estatus o hipoxia | Valorar contexto, fármacos y objetivo; exploración y pruebas urgentes |
@@ -396,7 +395,7 @@ Avisa al médico de guardia **de inmediato** ante cualquiera de estas situacione
 
 ## Fuentes
 
-> 📖 **Fuentes:** Devlin JW, et al. PADIS Guidelines. Crit Care Med 2018;46:e825-e873. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+> Lewis et al., PADIS focal 2025, doi:10.1097/CCM.0000000000006574: recomendaciones oficiales consultadas en https://www.sccm.org/clinical-resources/guidelines/guidelines/focused-update-padis-guideline. Devlin et al., PADIS 2018, base para dolor/valoración y dexmedetomidina ante agitación que impide extubación. CAM-ICU-7/técnica de dominios: Khan 2017, tabla 1, https://pmc.ncbi.nlm.nih.gov/articles/PMC5392153/. No se presentan como consultadas todas las fichas técnicas de cada fármaco: pauta asistencial exige consultar la presentación concreta.
 
 ---
 

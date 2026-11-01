@@ -1,12 +1,16 @@
+---
+layout: default
+title: "ECMO: anticoagulación del circuito y complicaciones hemorrágicas y trombóticas"
+---
 # ECMO: anticoagulación del circuito y complicaciones hemorrágicas y trombóticas
 
 *Heparina, ACT, TTPa y alternativas en el circuito ECMO.*
 
-> 📖 **Fuentes:** ELSO. General Guidelines for All ECLS Cases. 2021 (https://www.elso.org). · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+> McMichael et al., 2021 ELSO Adult and Pediatric Anticoagulation Guidelines, ASAIO J. 2022;68:303–310, doi:10.1097/MAT.0000000000001652. Cotejados extractos de pruebas, discordancias, antitrombina e inhibidores directos, no guía íntegra. Esta ficha educativa adulta no prescribe bolos, perfusiones o preparación; requiere protocolo actual, laboratorio, Farmacia y equipo ECMO.
 
 ## 1. Definición y objetivo
 
-La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soporte vital que sustituye total o parcialmente la función de intercambio gaseoso (y, en la modalidad venoarterial, también el soporte circulatorio) mediante un circuito extracorpóreo con bomba de sangre y oxigenador de membrana. El contacto continuo de la sangre con superficies no biológicas activa la coagulación, por lo que **todo circuito ECMO exige una estrategia de anticoagulación** y una vigilancia estrecha del equilibrio entre trombosis y hemorragia.
+La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soporte vital que sustituye total o parcialmente la función de intercambio gaseoso (y, en la modalidad venoarterial, también el soporte circulatorio) mediante un circuito extracorpóreo con bomba de sangre y oxigenador de membrana. El contacto de la sangre con superficies no biológicas aumenta el riesgo trombótico; requiere un **plan individual de anticoagulación y vigilancia**, equilibrado frente al riesgo hemorrágico. La pauta puede modificarse o demorarse temporalmente en situaciones seleccionadas según el equipo ECMO; no todos los pacientes reciben necesariamente la misma intensidad de anticoagulación sistémica.
 
 ### 1.1 Ámbito
 
@@ -33,29 +37,29 @@ La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soport
 ### 2.2 Estado prohemorrágico simultáneo
 
 - Hemodilución por el cebado y las reposiciones, consumo de factores y plaquetas, disfunción hepática y coagulopatía del paciente crítico generan un **estado hemorrágico coexistente**.
-- La **deficiencia adquirida de antitrombina (AT III)** por hemodilución, fallo hepático o consumo explica la pérdida de sensibilidad a la heparina.
+- Déficit adquirido de antitrombina puede contribuir a respuesta insuficiente de HNF; no explica toda escalada. Administración real, inflamación, ensayo/interferencias y discordancias también importan.
 - El resultado es un paciente con riesgo simultáneo de **trombosis del circuito** y de **hemorragia grave** (punto de canulación, cerebral, digestiva).
 
 ## 3. Criterios diagnósticos e indicaciones
 
 ### 3.1 Indicación de anticoagulación
 
-- **Fundamento y elección:** el contacto de la sangre con superficies no biológicas obliga a anticoagular el circuito; la elección recae en la **HNF** siempre que no exista contraindicación.
-- **Indicación general:** todo paciente en ECMO, salvo contraindicación, para prevenir la trombosis del circuito.
+- **Fundamento y elección:** establecer un plan por paciente y circuito. La **HNF** es una opción frecuente si se decide anticoagular y no hay contraindicación; objetivos e intensidad se individualizan con el equipo ECMO.
+- **Indicación general:** valorar anticoagulación según modalidad, circuito, riesgo trombótico/hemorrágico y protocolo vigente; reevaluar ante sangrado, trombosis o cambios clínicos.
 - **Anticoagulante de elección: heparina no fraccionada (HNF)**, siempre que no exista contraindicación.
-- **Retraso del inicio permitido:** el sistema y las cánulas están **recubiertos de heparina**, por lo que **no es necesaria su heparinización**; esto permite **retrasar el inicio de la anticoagulación** en pacientes con alteraciones de la coagulación o hemorragia activa.
+- **Inicio o pausa:** algunos circuitos pueden tener recubrimientos biocompatibles, pero esto **no elimina por sí solo** el riesgo trombótico ni determina la pauta sistémica. Si hay hemorragia activa o coagulopatía, cualquier demora, reducción o pausa debe decidirla y monitorizarla el equipo ECMO según el protocolo del centro.
 
 ### 3.2 Escalas y puntos de corte
 
-| Parámetro | Objetivo / punto de corte | Comentario |
-|---|---|---|
-| **ACT** (Hemochron®) | **160-180 segundos** | Valor recomendado habitual; ajustable según situación clínica y flujo de la bomba |
-| **TTPa ratio** | Según situación clínica y flujo (**ANEXO 4**) | Más específico para la actividad de la HNF |
-| **TTPa ratio con argatroban** | **1,5-3** | Controles cada 4 horas |
-| **TTPa ratio con bivalirudina** | **1,5-2,5** | Ajuste del ritmo de infusión |
-| **ACT en sangrado (rango bajo)** | **160-180 segundos** | Asociado a TTPa ratio ≤ 1,5 |
-| **Actividad de AT III** | **> 70 %** | Con reemplazo de AT III (Ambinex®) |
-| **Umbral de resistencia a la heparina** | **> 25 UI/kg/h** | Valorar reemplazo empírico de AT III |
+> ⚠️ Los rangos de esta tabla **no son objetivos universales para ECMO**: varían según dispositivo, modalidad, ensayo, situación hemorrágica/trombótica y protocolo del centro. No ajustar una perfusión usando un único valor aislado; contrastar siempre con el equipo ECMO y la pauta institucional vigente.
+
+| Prueba | Qué aporta y qué no demuestra |
+|---|---|
+| ACT | Tiempo de coagulación en sangre total; método, temperatura, hematíes, plaquetas y factores influyen. No efecto exclusivo de HNF ni objetivo intercambiable entre equipos. |
+| TTPa | Prueba plasmática dependiente de reactivo/basal y factores; segundos/ratio no intercambiables sin referencia. No primar automáticamente sobre ACT/anti-Xa en discordancia. |
+| Anti-Xa calibrado para HNF | Efecto HNF-antitrombina sobre Xa, no toda hemostasia ni inhibidores directos de trombina. Reactivos, hemólisis, bilirrubina y lipemia pueden interferir. |
+| Viscoelasticidad | Información complementaria de formación/firmeza/lisis según ensayo; no sustituye sola la monitorización de efecto farmacológico. |
+| Antitrombina | Según sospecha/estrategia; evidencia insuficiente para garantizar beneficio de reposición rutinaria o elegirla por una dosis aislada de HNF. |
 
 ### 3.3 Contraindicaciones de la HNF y alternativas
 
@@ -66,19 +70,19 @@ La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soport
 
 | Alternativa | Ventajas | Desventajas |
 |---|---|---|
-| Inhibidores directos de la trombina | Efecto **más predecible** que la HNF · **menor necesidad de transfusiones** | **Coste** · **poca experiencia de uso** · **ausencia de antídoto** |
+| Inhibidores directos de la trombina | Efecto sin depender de antitrombina; no garantiza menos sangrado/transfusión en todos | Función orgánica, monitorización, experiencia/disponibilidad y ausencia de antídoto específico rutinario; uso ECMO puede ser fuera de ficha técnica |
 
-> ⚠️ **Aviso:** En nuestro hospital **solo está disponible el argatroban** como alternativa a la HNF.
+> ⚠️ **Aviso local:** la disponibilidad de alternativas (p. ej., argatroban o bivalirudina) depende del centro; confirma farmacia, hematología y protocolo local antes de utilizarlas.
 
 ## 4. Valoración inicial
 
 ### 4.1 Antes de la canulación
 
 - Confirmar la **indicación** de ECMO y el **consentimiento** según procedimiento del centro.
-- **Asegurar un catéter venoso con suficientes luces antes de la canulación** (vía central de **4 o 5 luces**).
+- Acceso/luces suficientes según tratamientos y compatibilidad, sin CVC de cuatro/cinco luces obligatorio.
 - Revisar el **riesgo hemorrágico**: cirugía reciente, técnicas invasivas, sangrado activo, alteraciones de coagulación.
-- **Solicitar niveles basales de AT III antes de iniciar la terapia** y, después, **al menos una vez a la semana**.
-- En pacientes **anticoagulados o con trastornos de la coagulación**: seguir el **algoritmo del ANEXO 4**.
+- Antitrombina según sospecha/estrategia, sin calendario semanal universal ni reposición automática.
+- Conciliar anticoagulantes previos, última dosis y función orgánica; confirmar algoritmo vigente, no un anexo local no incorporado a la app.
 
 ### 4.2 Qué monitorizar
 
@@ -94,30 +98,24 @@ La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soport
 
 | Determinación | Frecuencia inicial | Utilidad |
 |---|---|---|
-| ACT | Cada 20 minutos tras el inicio del soporte | Ajuste de la HNF |
-| TTPa ratio | Cada 4 horas (laboratorio de urgencias) | Actividad real de la HNF |
-| AT III | Basal y semanal (o al aumentar necesidades) | Detectar resistencia a la heparina |
+| ACT | Según ensayo, fase y cambios, con objetivo validado | Dato complementario, no efecto exclusivo de HNF |
+| TTPa | Según anticoagulante, estabilidad y plan | Interpretar basal/reactivo y discordancias |
+| Antitrombina | Según indicación/estrategia | Una causa posible de respuesta insuficiente |
 | Plaquetas y fibrinógeno | Según protocolo | Consumo y coagulopatía |
 | LDH y hemoglobina libre | Según protocolo | Hemólisis |
 | AntiXa / tromboelastografía | Según protocolo | Casos discordantes o sangrado |
 
-> ⚠️ **Aviso:** En nuestro centro la perfusión se administra **por vía venosa al paciente (anticoagulación sistémica)**; no se hepariniza el circuito de forma independiente.
+> Verificar punto/vía de administración prescritos, trazando línea desde bomba a destino; no una práctica única de «nuestro centro». Revestimiento del circuito no sustituye anticoagulación sistémica ni autoriza pausarla.
 
 ## 5. Actuación PASO A PASO
 
 ### 5.1 Inicio y dosis de HNF
 
-1. **Paciente médico no anticoagulado, sin sangrado ni alteraciones de la coagulación:**
-   - **Bolo de 100 UI/kg (1 mg/kg) durante la canulación.**
-2. **Si la canulación se prolonga:** pueden administrarse **50 UI/kg adicionales (0,5 mg/kg)**, individualizando la decisión.
-3. **Después, perfusión a 2 mg/kg/día (200 UI/kg/día).**
-4. **Controles cada 20 minutos tras el inicio del soporte.**
-5. **Pacientes anticoagulados o con trastornos de la coagulación:** seguir el **algoritmo del ANEXO 4** en lugar del esquema anterior.
-6. **Reversión:** la HNF es **reversible con protamina**.
+Confirmar indicación, pauta/bolo si procede, peso de dosificación, UI, concentración final y vía. Doble verificación y controles según fase/ensayo/estabilidad. No añadir dosis por prolongarse una técnica sin indicación ni convertir UI de heparina a mg por una equivalencia genérica. Protamina solo si indicada por equipo con valoración de riesgo trombótico y respuesta.
 
 **Características de la HNF que justifican su elección:**
 
-- **Ventajas:** barata, conocida, **vida media corta**, fácil de monitorizar y **reversible con protamina**.
+- Experiencia amplia, semivida relativamente corta y posibilidad de neutralización; monitorización no siempre sencilla ni reversión inocua.
 - **Desventajas:** efecto **indirecto** y **difícil de controlar**; requiere **monitorización estrecha**.
 - **Complicaciones asociadas:** **TIH** y **resistencia a la heparina**.
 
@@ -125,117 +123,55 @@ La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soport
 
 ### 5.2 Monitorización con ACT
 
-- Da una **idea global del estado general de la hemostasia**.
-- Es el **test más extendido**: **rápido, barato y realizable a pie de cama** (dispositivo **Hemochron®**).
-- **Limitación:** puede estar **influido por el recuento de hematíes y plaquetas**; en ese caso, **complementar con otro test**.
+- ACT en sangre total a pie de cama bajo condiciones del dispositivo; control de calidad/cartucho/temperatura importan. Hemodilución, anemia, plaquetas y factores modifican resultado, que no representa toda hemostasia in vivo ni cuantifica exclusivamente HNF.
 
 **Frecuencia de control del ACT:**
 
-1. **Inicio: cada 20 minutos.**
-2. **Si dos controles consecutivos no precisan modificación:** pasar a **cada hora**, luego **cada 2 horas** y finalmente **cada 4 horas**.
-3. **Si se precisa alguna modificación:** **volver a controlar cada hora**.
-
-> ⚠️ **Aviso:** Valores recomendados habitualmente **en torno a 160-180 segundos**, **ajustables según la situación clínica y la velocidad de flujo de la bomba de sangre**.
+Controles y objetivo según prueba, fase, cambios y estabilidad por protocolo; no intervalo/objetivo universal ni espaciamiento automático por dos datos. Un valor en rango no excluye sangrado/trombosis.
 
 ### 5.3 Monitorización con TTPa ratio
 
-- **Mide el tiempo en formar fibrina en ausencia de componentes celulares.**
-- Es **mucho más específico para medir la actividad de la HNF**.
-- **No es tan rápido ni puede realizarse a pie de cama.**
-- **Puede haber disparidad con el ACT**; en ese caso, **tener en cuenta el TTPa ratio**.
-- **Valores objetivo:** dependen de la **situación clínica y del flujo de sangre** (**ANEXO 4**).
-- **Determinación recomendable cada 4 horas** mediante analítica al **laboratorio de urgencias**.
+- Prueba plasmática influida por factores, inflamación y reactivo, no medida exclusiva del fármaco; existen plataformas a pie de cama. Objetivos y tiempos validados por anticoagulante/centro, no por flujo aislado.
+- Discordancias: comprobar muestra, contaminación, reactivo y cambios clínicos con laboratorio/equipo. Anti-Xa HNF aporta información distinta, no sirve para titular argatrobán/bivalirudina; no escalar HNF por TTPa corto aislado.
+- Identificar sitio/hora/dosis/cambio y asegurar llenado/transporte/procesado correctos. Hemólisis, bilirrubina y lipemia pueden alterar anti-Xa; un resultado inesperado requiere revisión sin retrasar atención de sangrado/inestabilidad.
 
 ### 5.4 Resistencia a la heparina y antitrombina III
 
-- Durante la terapia **aumentan las necesidades de heparina** (disminución de la sensibilidad a la HNF).
-- **Causa fundamental:** **deficiencia adquirida de antitrombina (AT III)** por **hemodilución, fallo hepático o consumo**.
-- **Solicitar niveles basales de AT III antes de iniciar la terapia y al menos una vez a la semana.**
-- **Si aumentan las necesidades de heparina**, solicitar **niveles de AT III en ese momento**.
+Respuesta insuficiente aparente: comprobar administración real, concentración, peso, muestra y ensayo; AT baja es posibilidad, no equivalencia diagnóstica. Revisar con laboratorio/equipo antes de escalar sucesivamente.
 
 **Actuación ante resistencia:**
 
-1. Usar **AT III (Ambinex®)** para mantener niveles **> 70 % de actividad**.
-2. **Dosis calculada: (100 − actividad del paciente) × peso.**
-3. **Si no se puede determinar la actividad:** dosis de **50 UI/kg**.
-4. Mientras se logra la heparinización adecuada, **mantener flujos de sangre de la ECMO altos**.
-5. Tras la administración, **monitorizar**; normalmente **se puede bajar la heparina en torno a un 25 %**.
-
-> ⚠️ **Aviso:** Si no se consigue anticoagular con **dosis elevadas de heparina (> 25 UI/kg/h)**, realizar **reemplazo empírico de AT III**.
-
-> ⚠️ **Aviso:** La **vida media de la AT III es de 48 horas**: volver a medir la actividad **pasado ese tiempo**.
+ELSO señala falta de evidencia consistente de mejores resultados por monitorizar/reponer AT rutinariamente. Si se indica reposición, producto, actividad, dosis y reevaluación específicos; no umbral HNF aislado, fórmula sin producto o dosis empírica universal. No subir flujo para compensar ni reducir HNF un porcentaje fijo tras AT; ajustar por respuesta/pruebas y prescripción.
 
 ### 5.5 Alternativa: argatroban
 
-- Es el **anticoagulante más usado en circuitos ECMO tras la HNF**, según el registro **ELSO**.
-- **Inicio en el paciente crítico: 0,5 mcg/kg/min.**
-- **Titulación según TTPa ratio:** objetivo **1,5-3**; **controles cada 4 horas**.
-- **Ajuste si TTPa ratio < 1,5:** **aumentar la perfusión en 0,1 mcg/kg/min**.
-- **Ajuste si TTPa ratio > 3:** **suspender la perfusión** y **continuar controles cada 4 horas**.
-- **Reinicio:** al alcanzar el rango objetivo (**1,5-3**), reiniciar **a la mitad del ritmo previo a la suspensión**.
+Inhibidor directo con eliminación principalmente hepática; disfunción hepática/situación crítica pueden prolongar efecto. Pauta, objetivo, ajustes y reinicio por protocolo experto y ensayo válido, no receta universal de TIH trasladada a ECMO ni posición de uso en registro sin datos.
 
-> ⚠️ **Aviso:** La velocidad de infusión de argatroban **nunca debe exceder 10 mcg/kg/min**.
-
-**Velocidad de inicio (0,5 mcg/kg/min):**
-
-| Peso (kg) | Velocidad (ml/h) |
-|---|---|
-| 50 | 1,5 |
-| 60 | 1,8 |
-| 70 | 2,1 |
-| 80 | 2,4 |
-| 90 | 2,7 |
-| 100 | 3,0 |
-| 110 | 3,3 |
-| 120 | 3,6 |
-| 130 | 3,9 |
-| 140 | 4,2 |
-
-**Aumento si TTPa ratio < 1,5 (0,1 mcg/kg/min):**
-
-| Peso (kg) | Aumento (ml/h) |
-|---|---|
-| 50 | 0,30 |
-| 70 | 0,42 |
-| 100 | 0,60 |
-| 120 | 0,72 |
-| 140 | 0,84 |
-
-- **Preparación:** preparado por farmacia para durar **hasta 14 días**; **dilución de 1 mg/ml**.
+Con dosis prescrita en microgramos/kg/min y concentración final en microgramos/mL: **mL/h = dosis × peso de dosificación × 60 / concentración**. No velocidad definida solo por peso. Preparación, conservación y caducidad según etiqueta de Farmacia/producto; no 1 mg/mL/14 días universales. Se retiran tablas de inicio/incrementos de protocolo histórico como pauta genérica.
 
 ### 5.6 Alternativa: bivalirudina
 
-- **Bolo inicial de 0,05-0,5 mg/kg.**
-- **Infusión de 0,03-0,1 mg/kg/h.**
-- **Ajustar el ritmo según TTPa ratio (1,5-2,5).**
+Metabolismo proteolítico con componente renal; considerar función renal/TRR, monitorización y cambios clínicos. Bolo, velocidad y objetivo específicos, no equivalentes a argatrobán. No antídoto específico rutinario: plan de sangrado y acceso a equipo experto.
 
 ### 5.7 Manejo del sangrado (paso a paso)
 
-1. **Revisar los rangos de anticoagulación** (TTPa, AntiXa, ACT) y **valorar tromboelastografía**.
-2. **Medidas hemostáticas:** exploración local y **compresión**; **agentes hemostáticos locales**; **exploración quirúrgica** si precisa.
-3. **Disminuir la perfusión de heparina** para buscar el **rango bajo**: **TTPa ratio ≤ 1,5** y **ACT 160-180 segundos**.
-4. **Suspender la perfusión de heparina** si no se controla la hemorragia.
-5. **Considerar antifibrinolíticos** como el **ácido tranexámico**, o **protamina**, teniendo en cuenta el **riesgo de trombosis**.
-6. **Salida de la asistencia con ECMO** si el paciente lo tolera y **no queda otra opción** por **hemorragia severa**.
-
-> ⚠️ **Aviso:** Si se suspende la heparina, **mantener flujo de bomba > 2 lpm** para disminuir el riesgo de trombosis del circuito.
+Valorar gravedad, circulación y localización, activar ayuda/soporte sin esperar laboratorio y coordinar hemostasia/control de foco. Revisar fármaco/última dosis y pruebas pertinentes (anti-Xa no mide inhibidores directos). Cambios/pausa, reversión, transfusión o retirada de soporte por equipo según balance individual, no escalera obligatoria ni objetivos ACT/TTPa fijos. Flujo/tiempo y vigilancia antitrombótica específicos; no mínimo universal de 2 L/min.
 
 ## 6. Cuidados de enfermería y vigilancia
 
 ### 6.1 Anticoagulación
 
 - **Comprobar la anticoagulación según protocolo y registrar los resultados** (ACT, TTPa ratio, AntiXa, tromboelastografía).
-- Respetar **estrictamente las frecuencias de control**: cada 20 minutos al inicio; cada hora, 2 horas o 4 horas según estabilidad; **volver a cada hora tras cualquier modificación**.
-- Verificar la **perfusión de HNF** por vía venosa: velocidad, vía, bombas y alarmas; comprobar el **catéter venoso central de 4 o 5 luces**.
+- Controles según anticoagulante, ensayo, fase y cambios; confirmar próximo control tras ajustar y comunicar pendientes en relevo.
+- Verificar fármaco, unidades/concentración, peso, velocidad, vía y trazado de línea; acceso adecuado sin exigir número fijo de luces.
 - Registrar **dosis acumulada**, cambios de velocidad y motivo del ajuste; confirmar la **doble comprobación** de dosis y dilución.
-- En **argatroban**: comprobar dilución **1 mg/ml**, caducidad (hasta 14 días) y **no superar 10 mcg/kg/min**.
+- Preparados: verificar etiqueta de Farmacia, concentración final, conservación/caducidad y compatibilidad del producto concreto, sin trasladar estabilidad o límite de otra formulación/indicación.
 
 ### 6.2 Circuito
 
 - Vigilar **presiones y flujo del circuito**, y la **alarma de ΔP**.
 - Comprobar el aspecto del circuito y del oxigenador (coágulos, cambios de color, zonas de estasis).
-- Vigilar la **velocidad de flujo de la bomba**: si se suspende la heparina, **mantener > 2 lpm**.
-- Mantener **flujos altos** mientras se corrige la heparinización insuficiente.
+- Flujo y vigilancia según configuración/modelo y plan, sin subirlo para compensar anticoagulación o aplicar mínimo universal de 2 L/min.
 
 ### 6.3 Paciente
 
@@ -252,13 +188,13 @@ La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soport
 
 - La **hemorragia es la complicación más frecuente**: **punto de canulación, cerebral y digestiva**.
 - **Actuación:** ajustar la anticoagulación, **transfundir según necesidad** (hematíes, plaquetas, plasma, fibrinógeno según guía) y **valorar cirugía**.
-- Aplicar la secuencia de manejo del sangrado: revisar rangos → medidas hemostáticas locales → reducir heparina a rango bajo → suspender heparina → antifibrinolíticos/protamina → retirada de ECMO si es la última opción.
+- Activar soporte/control de foco y plan experto en paralelo, no escalera obligatoria de laboratorio→pausa→reversión. No demorar respuesta de una hemorragia grave por esperar pruebas.
 
 | Localización | Claves de vigilancia | Actuación inmediata |
 |---|---|---|
 | Punto de canulación | Sangrado continuo, hematoma expansivo | Compresión, apósito hemostático, revisión quirúrgica |
-| Cerebral | Deterioro neurológico, cefalea, midriasis | Aviso urgente, TC, revertir anticoagulación |
-| Digestiva | Sangre en aspirado/SNG, melenas, caída de Hb | Suspender/reducir heparina, IBP, transfusión, endoscopia |
+| Cerebral | Deterioro, focalidad o pupilas nuevas | Emergencia, soporte e imagen según equipo; cambios/reversión del fármaco específicos, no automáticos |
+| Digestiva | Sangre, melenas o caída de Hb | Valorar gravedad/foco y activar tratamiento experto; anticoagulación, transfusión y endoscopia según balance/indicación |
 | Vía aérea | Sangre en secreciones, hipoxemia | Aspiración cuidadosa, aviso médico |
 | Retroperitoneal / heridas | Dolor, hipotensión, caída de Hb | Ecografía/TC, transfusión, valorar cirugía |
 
@@ -266,24 +202,21 @@ La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soport
 
 - **Trombosis del circuito, embolia e ictus.**
 - **Vigilar presiones y flujo del circuito** (alarma de ΔP) y el aspecto del oxigenador.
-- **Actuación:** optimizar la anticoagulación, mantener flujos altos, valorar **cambio de circuito/oxigenador** y descartar trombosis en cánulas y vasos.
+- Valorar ubicación/progresión, presiones/flujo, hemólisis y repercusión con equipo; ajuste o recambio según sistema/plan. No flujos altos ni aumento empírico por trombo visible aislado.
 
 ### 7.3 Complicaciones sistémicas
 
 - **Hemólisis** (vigilar **LDH y hemoglobina libre**).
 - **Trombocitopenia** (incluida la **TIH**), **insuficiencia renal** y **SDRA asociado al circuito**.
-- **Resistencia a la heparina** por deficiencia adquirida de AT III (hemodilución, fallo hepático o consumo).
-- **Actuación:** suspender la HNF y cambiar a un **inhibidor directo de la trombina** (argatroban o bivalirudina) si se sospecha **TIH**; corregir la AT III si hay resistencia; tratar la hemólisis y sus causas; valorar soporte renal.
+- Respuesta aparente insuficiente por causas múltiples: revisar administración/muestra/ensayo y AT si procede.
+- TIH: trombopenia aislada no confirma. Sospecha relevante exige aviso inmediato y estrategia experta de evitar exposiciones a heparina/anticoagulante alternativo y pruebas, sin esperar confirmación para comunicar. AT no se repone automáticamente; hemólisis y lesión renal requieren evaluación causal.
 
 ## 8. Prevención
 
-- **Anticoagulación protocolizada** con HNF como primera elección, ajustada a objetivos de ACT (**160-180 s**) y TTPa ratio según situación clínica y flujo (**ANEXO 4**).
-- **Control estrecho del riesgo hemorrágico**: revisar cirugía reciente, técnicas invasivas y canulación reciente antes de cada ajuste; **retrasar el inicio** de la anticoagulación en alteraciones de la coagulación o hemorragia activa (las cánulas están recubiertas de heparina).
-- **Reservar un catéter venoso central de 4 o 5 luces** antes de la canulación para asegurar la vía de perfusión.
-- **Vigilancia programada de la coagulación**: ACT cada 20 minutos al inicio; TTPa ratio cada 4 horas; **AT III basal y semanal**; plaquetas, fibrinógeno, LDH y hemoglobina libre según protocolo.
-- **Prevención de la resistencia a la heparina**: detectar el aumento de necesidades, solicitar AT III y mantener actividad **> 70 %** con Ambinex®.
-- **Prevención de la TIH**: vigilancia del recuento plaquetario y cambio precoz a alternativa si se sospecha.
-- **Mantener flujos de sangre altos** cuando la heparinización no es adecuada; **> 2 lpm** si se suspende la heparina.
+- Plan individual con anticoagulante, objetivo/ensayo y tiempos explícitos. Pausas/demora por balance clínico, no por supuesto recubrimiento.
+- Administración trazable y doble verificación; vía/luces según tratamientos, no número fijo.
+- Vigilancia clínica/circuito y pruebas seleccionadas, interpretadas en conjunto. AT ni flujo elevado garantizan prevenir resistencia/trombosis.
+- Reconocer sospecha de TIH por exposición, cronología, magnitud y trombosis; evaluar con equipo y pruebas, sin convertir toda trombopenia en TIH.
 - **Minimizar las técnicas invasivas** innecesarias y extremar la asepsia de las cánulas.
 - **Cuidado de la piel y los accesos**, con revisión seriada de puntos de canulación y perfusión distal.
 
@@ -292,8 +225,8 @@ La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soport
 - **Sangrado activo** en cualquier localización, hematoma expansivo o sangrado que no cede con compresión.
 - **Sospecha de hemorragia cerebral**: deterioro del nivel de conciencia, focalidad neurológica, cefalea intensa, midriasis.
 - **Inestabilidad hemodinámica** o necesidad de transfusión por caída de hemoglobina.
-- **TTPa ratio > 3** o **ACT fuera del rango objetivo** con riesgo hemorrágico, y **TTPa ratio < 1,5** pese a aumentar la perfusión.
-- **Dosis de heparina > 25 UI/kg/h** sin alcanzar el objetivo (sospecha de resistencia / déficit de AT III).
+- Resultado inesperado, discordante o fuera del objetivo prescrito, especialmente con sangrado/trombos; comprobar muestra/ensayo sin retrasar soporte.
+- Necesidades crecientes o efecto insuficiente aparente: evaluar administración, técnica y causas, sin corte aislado de dosis que ordene AT.
 - **Sospecha de TIH** o de alergia a la heparina (necesidad de cambio a argatroban/bivalirudina).
 - **Alarma de ΔP**, aumento de presiones del circuito, flujo insuficiente o sospecha de **trombosis del circuito**.
 - **Hemólisis**: aumento de LDH o de hemoglobina libre, hemoglobinuria.
@@ -304,35 +237,28 @@ La **oxigenación por membrana extracorpórea (ECMO)** es una técnica de soport
 
 ### 10.1 Puntos clave
 
-- **HNF es el anticoagulante de elección**; barata, conocida, de **vida media corta**, fácil de monitorizar y **reversible con protamina**.
-- **Bolo de 100 UI/kg (1 mg/kg)** durante la canulación; **50 UI/kg** adicionales si se prolonga; después **2 mg/kg/día (200 UI/kg/día)**.
-- **Objetivo de ACT: 160-180 segundos** (ajustable a situación clínica y flujo); **TTPa ratio** según **ANEXO 4**.
-- **ACT al inicio cada 20 minutos**; espaciar a 1 h, 2 h y 4 h solo si dos controles consecutivos no precisan modificación; **volver a cada hora tras cualquier cambio**.
-- **TTPa ratio cada 4 horas** y es **más específico** para la HNF; ante **disparidad con el ACT**, primar el TTPa ratio.
-- **Ante sangrado:** revisar rangos y tromboelastografía → medidas hemostáticas → reducir heparina (TTPa ≤ 1,5; ACT 160-180) → suspender → antifibrinolíticos/protamina → salida de ECMO.
-- **Si se suspende la heparina, mantener flujo de bomba > 2 lpm.**
-- **Resistencia a la heparina = déficit de AT III**; mantener actividad **> 70 %**; dosis **= (100 − actividad) × peso**; si no se puede determinar, **50 UI/kg**; vida media **48 h**.
-- **Argatroban:** inicio **0,5 mcg/kg/min**, objetivo **TTPa ratio 1,5-3**, **nunca > 10 mcg/kg/min**, controles cada 4 h; reinicio a la mitad del ritmo previo.
-- **Bivalirudina:** bolo **0,05-0,5 mg/kg**, infusión **0,03-0,1 mg/kg/h**, objetivo **TTPa ratio 1,5-2,5**.
+- HNF frecuente, no pauta única; UI, concentración, vía y plan verificados. ACT/TTPa/anti-Xa aportan datos distintos y no se priman por defecto ante discordancia.
+- Anti-Xa HNF no mide inhibidores directos; pruebas deben corresponder al fármaco/ensayo. Velocidad en mL/h requiere dosis y concentración, no peso solo.
+- AT baja no explica toda respuesta insuficiente; reposición rutinaria no tiene beneficio consistente demostrado. Flujo no se sube para compensar anticoagulación.
+- Sangrado grave: ayuda, soporte y foco sin esperar laboratorio; pausas/reversión/transfusión por equipo según balance. Argatrobán/bivalirudina tienen eliminación y monitorización propias, sin pauta universal trasladada de otra indicación.
 
 ### 10.2 Errores frecuentes
 
-- **Espaciar los controles de ACT sin cumplir el criterio** de dos determinaciones consecutivas sin modificación.
-- **No volver a controlar cada hora** tras un ajuste de dosis.
+- Espaciar controles sin confirmar estabilidad/plan o no programar reevaluación indicada tras un cambio.
 - **Confiar solo en el ACT** ignorando su interferencia por hematíes y plaquetas y la posible **disparidad con el TTPa ratio**.
 - **No solicitar AT III** ante un aumento progresivo de las necesidades de heparina, atribuyéndolo erróneamente a una heparina insuficiente.
-- **Suspender la heparina y bajar el flujo de bomba** por debajo de 2 lpm, aumentando el riesgo de trombosis del circuito.
-- **No individualizar** el bolo y la perfusión en pacientes anticoagulados, con trastornos de coagulación, sangrado activo o cirugía reciente (usar **ANEXO 4**).
+- Modificar anticoagulante/flujo sin plan, límites específicos y vigilancia de trombosis/sangrado.
+- Aplicar bolos/perfusiones de una referencia histórica o anexo no disponible sin prescripción/protocolo vigente.
 - **Olvidar el riesgo trombótico** al administrar ácido tranexámico o protamina durante el sangrado.
-- **No asegurar el catéter venoso de 4 o 5 luces** antes de la canulación.
+- No asegurar acceso/vía compatibles y trazables para tratamientos prescritos.
 - **Infravalorar la hemólisis** (LDH, hemoglobina libre) y la **trombocitopenia** como señal de complicación del circuito.
 - **No registrar** los ajustes, los resultados de coagulación y las transfusiones, dificultando la continuidad del cuidado.
 
-> ⚠️ **Aviso:** Toda decisión de ajuste de anticoagulación debe individualizarse según la **situación clínica**, el **flujo de la bomba** y el **riesgo hemorrágico/trombótico** del paciente, siguiendo el **algoritmo del ANEXO 4** cuando existan anticoagulación previa o trastornos de la coagulación.
+> Ajustes individualizados con equipo, laboratorio y Farmacia; la app no incorpora un anexo local operativo. No se afirma que se hayan cotejado todos los productos/concentraciones o protocolos de centro.
 
 ## Fuentes
 
-> 📖 **Fuentes:** ELSO. General Guidelines for All ECLS Cases. 2021 (https://www.elso.org). · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+- McMichael et al., doi:10.1097/MAT.0000000000001652, [publicación](https://journals.lww.com/asaiojournal/Fulltext/2022/03000/2021_ELSO_Adult_and_Pediatric_Anticoagulation.1.aspx): acceso directo devolvió 403; cotejados extractos oficiales indexados de pruebas/anti-Xa/discordancias/AT/inhibidores directos. No lectura íntegra ni pauta local validada. Se conserva referencia histórica institucional como procedencia, no autorización de sus dosis antiguas.
 
 ---
 

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "EMINA (Escala de valoración del riesgo de úlceras por presión)"
+---
 # EMINA (Escala de valoración del riesgo de úlceras por presión)
 
 > 📖 **Fuentes:** GNEAUPP (Grupo Nacional para el Estudio y Asesoramiento en Úlceras por Presión y Heridas Crónicas). *Escala EMINA de valoración del riesgo de úlceras por presión.* https://gneaupp.info · Roca-Biosca A, Garcia-Fernandez FP, Chacon-Garcés S, et al. *Validación de las escalas de valoración de riesgo de úlceras por presión EMINA y EVARUCI en pacientes críticos.* Enferm Intensiva. 2015;26(1):15-23. · SEEIUC: https://www.seeiuc.org
@@ -150,7 +154,9 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque var�
 - No sustituye a la **inspección de la piel**.
 - El factor **nutrición** permite coordinar con la unidad de nutrición.
 - Formación y consenso del equipo para reducir la variabilidad.
+
 ---
+
 ## Evidencia y referencias
 
 - **Roca-Biosca A, et al.** Validación de las escalas de valoración de riesgo de úlceras por presión EMINA y EVARUCI en pacientes críticos. *Enferm Intensiva* 2015;26:15-23.
@@ -160,6 +166,7 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque var�
 > Escala validada en España, con punto de corte > 4. Como toda escala, debe acompañarse de inspección de la piel y de medidas preventivas.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

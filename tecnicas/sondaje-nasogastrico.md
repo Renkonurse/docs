@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Sondaje nasogástrico"
+---
 # Sondaje nasogástrico
 
 > 📖 **Fuentes:** Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier. · Marino PL. *The ICU Book*. 4th ed. Wolters Kluwer. · NICE: https://www.nice.org.uk
@@ -225,7 +229,11 @@ Documento técnico completo del **sondaje nasogástrico (SNG)** en el paciente c
 - **Fijar con tracción** o presionando la nariz.
 - **No registrar** la marca ni las comprobaciones.
 
-## 14. Evidencia y referencias
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+
+---
+
+## Evidencia y referencias
 
 - **Metheny NA, et al.** AACN Practice Alert: Verification of feeding tube placement. *Crit Care Nurse* (actualizaciones sucesivas).
 - **Compher C, et al.** Guidelines for the provision of nutrition support therapy in the adult critically ill patient: American Society for Parenteral and Enteral Nutrition (ASPEN). *JPEN J Parenter Enteral Nutr* 2022.
@@ -236,7 +244,7 @@ Documento técnico completo del **sondaje nasogástrico (SNG)** en el paciente c
 
 ---
 
-## 15. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

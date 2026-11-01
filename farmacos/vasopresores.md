@@ -1,10 +1,14 @@
+---
+layout: default
+title: "Vasopresores e inotrópicos en el paciente crítico"
+---
 # Vasopresores e inotrópicos en el paciente crítico
 
-> 📖 **Fuentes:** Evans L, et al. Surviving Sepsis Campaign 2021. Crit Care Med 2021;49:e1063-e1143. · Fichas técnicas AEMPS/CIMA: https://cima.aemps.es · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+> 📖 **Fuentes:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med*. doi:10.1007/s00134-026-08361-1 (sustituye SSC 2021 donde hay recomendaciones nuevas). · Fichas técnicas AEMPS/CIMA: https://cima.aemps.es · Marino PL. *The ICU Book*. 4th ed.
 
 > 🖥️ **Correspondencia con la app:** `PerfusionesPrecargadas` (`feature_app3`), `CodigoSepsisActivity` (`feature_sistemas`), `MonitorizacionActivity` (`feature_monitorizacion`) y `EcmoCircuitoActivity` (`feature_cardio`).
 
-> ⚠️ Son **fármacos de alto riesgo**. Las dosis son orientativas (fichas técnicas y práctica habitual): individualizar según peso, indicación, respuesta y protocolo de la unidad. **Nunca administrar en bolo** (salvo adrenalina en parada o anafilaxia).
+> ⚠️ Son **fármacos de alto riesgo**. Las dosis son orientativas (fichas técnicas y práctica habitual): individualizar según peso, indicación, respuesta y protocolo de la unidad. Los vasopresores se administran habitualmente en perfusión titulada; cualquier dosis de carga de un inotrópico debe estar expresamente indicada y ajustarse a ficha técnica, hemodinámica y protocolo.
 
 ---
 
@@ -14,16 +18,16 @@
 
 - **Vasopresores:** hipotensión con hipoperfusión que no responde a fluidos (shock distributivo/séptico, cardiogénico, obstructivo, neurogénico), objetivo habitual **PAM ≥ 65 mmHg** (individualizar).
 - **Inotrópicos:** bajo gasto cardiaco con hipoperfusión (shock cardiogénico, disfunción miocárdica, destete de ECMO).
-- **Reanimación inicial del shock:** fluidos (cristaloides, 30 ml/kg en la primera hora en sepsis), corregir la causa y después iniciar vasopresores si persiste la hipotensión.
+- **Reanimación inicial del shock séptico:** valorar perfusión y respuesta a fluidos; SSC 2026 sugiere cristaloides (preferentemente balanceados) con un volumen inicial de al menos 30 ml/kg durante las primeras 3 h en hipoperfusión/shock, como recomendación condicional. No es una dosis automática: individualiza, reevalúa y limita si no hay respuesta o aparece sobrecarga. Inicia vasopresor precozmente si persiste la hipotensión; puede iniciarse por vía periférica adecuada y vigilada mientras se obtiene acceso central, según protocolo.
 
 ## 2. Normas de seguridad (alto riesgo)
 
-- **Vía central preferente**; la vía periférica solo en urgencia y con vigilancia estrecha del punto de punción.
+- **No retrasar un vasopresor necesario mientras se obtiene acceso central:** en shock séptico puede iniciarse temporalmente por una vía periférica adecuada, con protocolo estandarizado, comprobaciones frecuentes del sitio y transición a acceso central si se prevé necesidad prolongada o escalada. Elegir sitio, catéter y duración según protocolo local.
 - **Bomba de infusión** con la **dilución estandarizada** del centro; **vía dedicada** y etiquetado claro (fármaco, concentración, velocidad).
 - **Doble comprobación** del cálculo y de la programación.
-- **Nunca en bolo** (excepto adrenalina en parada o anafilaxia): riesgo de arritmias graves, isquemia y muerte.
+- No administrar vasopresores en bolo salvo indicación de emergencia descrita por el algoritmo/ficha técnica (p. ej., adrenalina en parada o anafilaxia). Algunos inotrópicos contemplan carga opcional; no convertirla en norma ni administrarla ante hipotensión sin valoración.
 - **No purgar de golpe** un sistema con vasopresor; **cambiar la jeringa/sistema con antelación** para evitar cortes de infusión.
-- **Proteger de la luz** los fármacos fotosensibles (noradrenalina, nitroglicerina).
+- Proteger de la luz **solo cuando lo indique la ficha técnica de la presentación concreta**; seguir estabilidad, dilución y tiempo de uso indicados por fabricante/farmacia.
 - **Registrar** dosis, hora y respuesta hemodinámica.
 
 ---
@@ -36,12 +40,12 @@
 - **Mecanismo:** agonista **α1** (vasoconstricción, aumento de las resistencias vasculares sistémicas) con efecto **β1** moderado.
 - **Presentación y dilución:** ampollas de 1 mg/ml (4 ml, 10 ml) y 5 mg/10 ml. Diluciones precargadas habituales: **25 mg en 250 ml de SG5 %** (pauta concentrada) o **10 mg en 250 ml de SG5 %** (pauta diluida).
 - **Dosis (adulto):** inicio **0,05-0,1 mcg/kg/min**; rango habitual **0,1-1 mcg/kg/min** (hasta 2-3 mcg/kg/min en casos refractarios). Titular según PAM y perfusión.
-- **Preparación/perfusión:** bomba de infusión; **vía central** preferente; proteger de la luz; no mezclar con otros fármacos.
+- **Preparación/perfusión:** bomba de infusión y vía dedicada cuando sea posible; puede iniciarse por vía periférica adecuada con vigilancia protocolizada si la urgencia lo requiere. Proteger de la luz y compatibilidades según ficha técnica de la presentación concreta.
 - **Efectos adversos:** hipertensión, **arritmias**, isquemia periférica y visceral, necrosis por extravasación, cefalea, ansiedad, hiperglucemia.
 - **Interacciones:** IMAO y antidepresivos tricíclicos (potenciación), otros simpaticomiméticos; los betabloqueantes pueden reducir el efecto.
 - **Vigilancia de enfermería:** PA invasiva si es posible, FC y ritmo, **perfusión periférica** (relleno capilar, temperatura, color), diuresis, lactato y punto de infusión.
 - **Ajuste renal/hepático:** no requiere ajuste específico; en insuficiencia hepática o renal extremar la vigilancia por el riesgo de isquemia.
-- **Extravasación y antídoto:** **detener la infusión**, aspirar, retirar la vía, **fentolamina 5-10 mg diluida en 10 ml de SF infiltrada en la zona** (antídoto local) y avisar; no aplicar calor.
+- **Extravasación:** detener inmediatamente la infusión y activar el protocolo local; dejar inicialmente el catéter para aspirar el fármaco residual y administrar antídoto si está indicado. La fentolamina local puede estar indicada para vasopresores adrenérgicos; dosis, dilución, infiltración y compresas dependen del fármaco/protocolo. No retirar de entrada ni aplicar frío/calor de forma automática.
 
 ## 4. Adrenalina
 
@@ -52,12 +56,12 @@
   - **Perfusión:** 0,01-0,5 mcg/kg/min (la app recoge 0,05-0,5 mcg/kg/min).
   - **Parada cardiaca:** 1 mg IV cada 3-5 min.
   - **Anafilaxia:** 0,3-0,5 mg IM (repetible cada 5-15 min).
-- **Preparación/perfusión:** bomba de infusión; **vía central** preferente; proteger de la luz.
+- **Preparación/perfusión:** bomba y vía dedicada cuando sea posible; puede iniciarse temporalmente por una vía periférica adecuada bajo protocolo y vigilancia. Protección lumínica según ficha técnica de la presentación concreta.
 - **Efectos adversos:** **taquicardia y arritmias**, hipertensión, isquemia miocárdica, hiperglucemia, hipopotasemia, acidosis láctica, necrosis por extravasación.
 - **Interacciones:** betabloqueantes (hipertensión paradójica), antidepresivos tricíclicos e IMAO, anestésicos halogenados (arritmias).
 - **Vigilancia de enfermería:** ECG continuo, PA, FC, glucemia, potasio, lactato y perfusión; vigilar el punto de infusión.
 - **Ajuste renal/hepático:** no requiere ajuste específico.
-- **Extravasación y antídoto:** igual que la noradrenalina (**fentolamina local**).
+- **Extravasación:** activar el protocolo de extravasación de vasopresores; considerar fentolamina local conforme a indicación, disponibilidad y protocolo.
 
 ## 5. Vasopresina (argipresina)
 
@@ -65,12 +69,12 @@
 - **Mecanismo:** agonista **V1** de los receptores de vasopresina; vasoconstricción **independiente** de los receptores adrenérgicos (no pulmonar).
 - **Presentación y dilución:** 40 UI/2 ml (20 UI/ml). Dilución precargada: **40 UI en 50 ml de SF 0,9 %** (0,8 UI/ml).
 - **Dosis (adulto):** **0,01-0,04 UI/min** (la app recoge 0,01-0,03 UI/min); **no se titula** por efecto, se mantiene una dosis fija y se ajusta la noradrenalina.
-- **Preparación/perfusión:** bomba de infusión; **subida progresiva**; vía central preferente.
+- **Preparación/perfusión:** bomba de infusión; titular según respuesta y protocolo. En urgencia, el inicio periférico temporal puede ser apropiado con acceso adecuado, protocolo y vigilancia estrecha; no retrasar tratamiento indicado para obtener vía central.
 - **Efectos adversos:** **isquemia** digital, mesentérica y coronaria, bradicardia, hiponatremia (dosis altas), dolor abdominal, necrosis cutánea.
 - **Interacciones:** otros vasopresores (efecto aditivo); precaución con fármacos que retienen sodio.
 - **Vigilancia de enfermería:** perfusión periférica (dedos, piel, abdomen), FC, PA, diuresis y sodio; vigilar signos de isquemia.
 - **Ajuste renal/hepático:** precaución; no ajuste específico.
-- **Extravasación:** detener la infusión, retirar la vía y aplicar **calor local** y vigilancia; no hay antídoto específico.
+- **Extravasación:** detener la infusión, dejar inicialmente el catéter para aspirar y seguir el protocolo específico. Las compresas templadas pueden recomendarse en algunos protocolos; no asumirlo universalmente ni retirar el acceso antes de valorar antídoto.
 
 ---
 
@@ -82,12 +86,12 @@
 - **Mecanismo:** agonista **β1** (inotrópico y cronotrópico) con efecto **β2** y α leve; aumenta el gasto cardiaco y puede reducir las resistencias.
 - **Presentación y dilución:** 250 mg/20 ml. Dilución precargada: **500 mg (2 ampollas) en 250 ml de SG5 %** (2 mg/ml).
 - **Dosis (adulto):** **2,5-20 mcg/kg/min** (la app recoge hasta 40 mcg/kg/min); titular según gasto cardiaco, perfusión y presión.
-- **Preparación/perfusión:** bomba de infusión; vía central preferente; no mezclar con bicarbonato (incompatibilidad).
+- **Preparación/perfusión:** bomba y compatibilidades según ficha técnica/protocolo; acceso periférico temporal puede ser apropiado bajo vigilancia. No mezclar sin verificar compatibilidad.
 - **Efectos adversos:** **taquicardia y arritmias**, hipotensión (vasodilatación), cefalea, temblor, tolerancia con el uso prolongado.
 - **Interacciones:** **betabloqueantes** (reducen su efecto), IMAO, anestésicos.
 - **Vigilancia de enfermería:** FC y ritmo, PA, perfusión, diuresis, lactato; vigilar la aparición de arritmias.
 - **Ajuste renal/hepático:** no requiere ajuste específico.
-- **Extravasación:** detener la infusión, retirar la vía y aplicar frío local; no hay antídoto específico (valorar fentolamina si hay isquemia).
+- **Extravasación:** detener la infusión, mantener inicialmente el acceso para aspirar y seguir protocolo de rescate tisular; valorar medidas específicas con equipo experto.
 
 ## 7. Dopamina
 
@@ -95,12 +99,12 @@
 - **Mecanismo:** **dosis-dependiente**: dopaminérgico (dosis bajas), β1 (dosis intermedias) y α1 (dosis altas).
 - **Presentación y dilución:** 200 mg/5 ml. Dilución precargada: **400 mg (2 ampollas) en 250 ml de SG5 %**.
 - **Dosis (adulto):** **2-20 mcg/kg/min**; titular según respuesta.
-- **Preparación/perfusión:** bomba de infusión; vía central preferente.
+- **Preparación/perfusión:** bomba; vía y vigilancia según indicación/protocolo. El acceso periférico temporal puede ser adecuado con monitorización protocolizada.
 - **Efectos adversos:** **arritmias** (más que la noradrenalina), taquicardia, hipertensión, isquemia periférica y **necrosis por extravasación**, náuseas.
 - **Interacciones:** IMAO, antidepresivos tricíclicos, betabloqueantes, anestésicos.
 - **Vigilancia de enfermería:** ECG, PA, FC, perfusión periférica y diuresis.
 - **Ajuste renal/hepático:** no requiere ajuste específico.
-- **Extravasación y antídoto:** **fentolamina local** (5-10 mg en 10 ml de SF).
+- **Extravasación:** activar protocolo local; considerar fentolamina para extravasación de dopamina conforme a ficha/protocolo, con valoración urgente del tejido.
 
 ## 8. Milrinona
 
@@ -113,7 +117,7 @@
 - **Interacciones:** otros vasodilatadores e inotrópicos (efecto aditivo); precaución con fármacos que prolongan el QT.
 - **Vigilancia de enfermería:** PA, FC y ritmo, perfusión, diuresis, plaquetas y potasio.
 - **Ajuste renal/hepático:** **eliminación renal**; en insuficiencia renal reducir la dosis (p. ej., 0,2-0,3 mcg/kg/min) y vigilar.
-- **Extravasación:** detener la infusión, retirar la vía y aplicar frío local.
+- **Extravasación:** detener la infusión, mantener inicialmente el acceso para aspirar y seguir el protocolo local; no retirar antes de valorar medidas de rescate tisular.
 
 ## 9. Levosimendán
 
@@ -126,7 +130,7 @@
 - **Interacciones:** otros vasodilatadores; precaución con fármacos que prolongan el QT.
 - **Vigilancia de enfermería:** PA, FC y ritmo, perfusión, diuresis, potasio; vigilar la hipotensión durante la carga.
 - **Ajuste renal/hepático:** precaución en insuficiencia renal o hepática grave; el metabolito se elimina por vía renal.
-- **Extravasación:** detener la infusión, retirar la vía y aplicar frío local.
+- **Extravasación:** detener la infusión, mantener inicialmente el acceso para aspirar y seguir el protocolo local; no retirar antes de valorar medidas de rescate tisular.
 
 ## 10. Isoprenalina (Aleudrina)
 
@@ -134,7 +138,7 @@
 - **Mecanismo:** agonista **β1 y β2**; efecto cronotrópico, inotrópico y vasodilatador.
 - **Presentación y dilución:** 0,2 mg/ml (1 ml). Dilución precargada: **1 mg (5 ampollas) en 100 ml de SF 0,9 %**. **No es salbutamol.**
 - **Dosis (adulto):** **0,5-10 mcg/min** (la app) o 0,01-0,1 mcg/kg/min; titular según frecuencia cardiaca.
-- **Preparación/perfusión:** bomba de infusión; vía central preferente.
+- **Preparación/perfusión:** bomba y vía dedicada cuando sea posible; acceso periférico temporal puede ser apropiado bajo protocolo y vigilancia.
 - **Efectos adversos:** **taquicardia y arritmias**, hipotensión (vasodilatación), temblor, sudoración, hipopotasemia.
 - **Interacciones:** betabloqueantes (antagonizan el efecto), otros simpaticomiméticos.
 - **Vigilancia de enfermería:** ECG continuo, FC, PA y perfusión; preparar el marcapasos si procede.
@@ -171,10 +175,10 @@
 
 - **Noradrenalina** es el vasopresor de primera elección en el shock; la **vasopresina** es de segunda línea.
 - **Vía central**, bomba, etiquetado y **doble comprobación**.
-- **Nunca en bolo** (salvo adrenalina en parada/anafilaxia).
+- Vasopresores en perfusión titulada; las cargas de inotrópicos son excepcionales y dependen de prescripción, ficha técnica y situación hemodinámica.
 - **Vigilar la perfusión periférica y el punto de infusión**: la extravasación puede necrosar.
 - **Registrar dosis y respuesta**; reevaluar la volemia y la causa del shock.
-- **No mezclar** fármacos en la misma vía; proteger de la luz lo que corresponda.
+- Usar vía dedicada cuando sea posible y verificar compatibilidades; proteger de la luz solo cuando lo indique la ficha técnica concreta.
 
 ## 15. Errores frecuentes
 

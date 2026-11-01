@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Escala de Braden (riesgo de úlceras por presión)"
+---
 # Escala de Braden (riesgo de úlceras por presión)
 
 > 📖 **Fuentes:** Bergstrom N, Braden BJ, Laguzza A, Holman V. *The Braden Scale for predicting pressure sore risk.* Nurs Res. 1987;36(4):205-210. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill.
@@ -162,7 +166,9 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque var�
 - No recoge factores específicos de UCI (vasopresores, dispositivos).
 - Las subescalas **orientan la intervención** concreta.
 - Formación y consenso del equipo para reducir la variabilidad.
+
 ---
+
 ## Evidencia y referencias
 
 - **Bergstrom N, et al.** The Braden Scale for predicting pressure sore risk. *Nurs Res* 1987;36:205-210.
@@ -172,6 +178,7 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque var�
 > La escala tiene validez predictiva moderada; ninguna escala sustituye la valoración clínica de la piel y de los factores de riesgo.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

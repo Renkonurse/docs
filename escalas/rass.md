@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Escala RASS (Richmond Agitation-Sedation Scale)"
+---
 # Escala RASS (Richmond Agitation-Sedation Scale)
 
-> 📖 **Fuentes:** Sessler CN, Gosnell MS, Grap MJ, et al. *The Richmond Agitation-Sedation Scale: validity and reliability in adult intensive care unit patients.* Am J Respir Crit Care Med. 2002;166(10):1338-1344. · Devlin JW, Skrobik Y, Gélinas C, et al. *PADIS Clinical Practice Guidelines.* Crit Care Med. 2018;46(9):e825-e873. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill.
+> 📖 **Fuentes:** Sessler CN, et al. RASS validity and reliability. *Am J Respir Crit Care Med*. 2002;166:1338-1344. · Devlin JW, et al. PADIS Guidelines. *Crit Care Med*. 2018;46:e825-e873 (base). · Lewis K, et al. Focused PADIS update. *Crit Care Med*. 2025;53:e711-e727. doi:10.1097/CCM.0000000000006574 (actualización focal; RASS conserva su publicación de validación original).
 
 ## Qué mide y para qué sirve
 
@@ -123,16 +127,19 @@ Está **recomendada por las guías PADIS (2018)** como herramienta de referencia
 - Valorar **antes** del rescate de sedoanalgesia y registrar con las dosis del turno.
 - La agitación obliga a **buscar causa** antes de aumentar la sedación.
 - No es interpretable con **bloqueo neuromuscular**.
+
 ---
+
 ## Evidencia y referencias
 
 - **Sessler CN, et al.** The Richmond Agitation-Sedation Scale: validity and reliability in adult intensive care unit patients. *Am J Respir Crit Care Med* 2002;166:1338-1344.
 - **Ely EW, et al.** Monitoring sedation status over time in ICU patients: reliability and validity of the Richmond Agitation-Sedation Scale. *JAMA* 2003.
 - **Devlin JW, et al.** PADIS Guidelines. *Crit Care Med* 2018.
 
-> Requiere formación y reevaluación frecuente. El objetivo habitual es RASS 0 a −2; debe registrarse antes de valorar delirium o dolor.
+> Requiere formación y reevaluación frecuente. Documentar el objetivo individual prescrito y la puntuación observada; no sustituir ese objetivo por un rango genérico del resumen.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

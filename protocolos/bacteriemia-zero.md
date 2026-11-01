@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Bacteriemia Zero: prevención de la bacteriemia asociada a catéter venoso central"
+---
 # Bacteriemia Zero: prevención de la bacteriemia asociada a catéter venoso central
 
-> 📖 **Fuentes:** Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · NICE: https://www.nice.org.uk · SEEIUC: https://www.seeiuc.org
+> 📖 **Fuentes:** CDC. Summary of Recommendations for Intravascular Catheter-Related Infections: https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html · Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med*. doi:10.1007/s00134-026-08361-1 · Rybak MJ, et al. Therapeutic monitoring of vancomycin for serious MRSA infections: revised consensus guideline. *Am J Health Syst Pharm*. 2020;77:835-864. doi:10.1093/ajhp/zxaa036 · SEEIUC: https://www.seeiuc.org.
 
 ## 1. Definición y objetivo
 ### 1.1 Definiciones operativas
@@ -163,15 +167,18 @@ Se considera BRC cuando se cumple al menos **uno** de los siguientes criterios m
 2. **Valorar la gravedad** de inmediato (ABCDE, constantes y lactato) y avisar al médico.
 3. **Extraer hemocultivos antes de iniciar el antibiótico:** **2 sets periféricos** por venopunción en dos localizaciones distintas y **1 set a través del catéter** (por cada luz si se sospecha la infección de una luz concreta); **10 mL por frasco**, sin demorar la extracción más de lo imprescindible y anotando la **hora exacta** de cada una para poder calcular el diferencial de tiempo de positividad.
 4. **Otras muestras** según el foco sospechado: urocultivo, cultivo de secreciones, exudado del punto de entrada y punta del catéter si se retira.
-5. **Iniciar el antibiótico empírico** por vía intravenosa en la primera hora, tras los cultivos, ajustado a la gravedad, las alergias, la función renal y la flora del centro.
+5. **Iniciar antimicrobianos según probabilidad clínica y gravedad:** en shock séptico o sepsis probable/definida, de inmediato, idealmente dentro de 1 h; en posible sepsis sin shock, realizar evaluación rápida y, si persiste la sospecha, iniciar dentro de 3 h (SSC 2026). Obtener cultivos antes si no causa demora clínicamente relevante. Ajustar a alergias, función renal, foco y epidemiología local.
 6. **Retirar el catéter** si hay criterios de retirada obligatoria (apartado 5.4) y **cultivar la punta**.
 7. **Reevaluar** a las 48-72 horas: clínica, hemocultivos de control, lactato y necesidad de escalar el tratamiento o el soporte.
 8. **Ajustar el antibiótico** al antibiograma y definir la **duración** del tratamiento (apartado 5.5).
 
-#### Antibióticos empíricos habituales en el paciente crítico (dosis de adulto)
+#### Ejemplos de antimicrobianos posibles (adultos; no constituyen una pauta empírica para todos los centros)
+
+La elección y la dosis inicial dependen de gravedad, foco probable, colonización/cultivos previos, antibiograma local, alergias, peso, función renal/hepática, terapia de reemplazo renal y política de optimización antimicrobiana. Confirmar preparación, dosis de carga/mantenimiento, intervalo y perfusión con el protocolo vigente/farmacia; ajustar al disponer de cultivos. La tabla es material de consulta y **no prescribe una combinación**.
+
 | Fármaco | Dosis orientativa | Comentario |
 | --- | --- | --- |
-| Vancomicina | 15-20 mg/kg IV de carga; después 15-20 mg/kg/8-12 h | Cobertura de gram positivos resistentes; ajustar a niveles (valle 15-20 µg/mL) y a función renal |
+| Vancomicina | Dosis de carga/mantenimiento según peso, gravedad, función renal y protocolo | Para infecciones graves por MRSA, priorizar monitorización AUC₍₂₄₎/MIC objetivo 400-600 cuando sea aplicable y esté disponible; no perseguir valle 15-20 µg/mL de forma universal. Para otras indicaciones, seguir protocolo específico |
 | Daptomicina | 8-10 mg/kg/24 h IV | Alternativa a vancomicina; no usar en neumonía |
 | Linezolid | 600 mg/12 h IV | Alternativa si sospecha de *S. aureus* resistente a meticilina y mala tolerancia renal |
 | Piperacilina-tazobactam | 4/0,5 g/6 h IV | Cobertura de gram negativos y anaerobios; perfusión extendida |
@@ -183,7 +190,7 @@ Se considera BRC cuando se cumple al menos **uno** de los siguientes criterios m
 | Micafungina | 100 mg/24 h IV | Alternativa a caspofungina |
 | Fluconazol | 800 mg IV de carga, después 400 mg/24 h | Solo si el paciente está estable y sin exposición previa a azoles |
 
-> ⚠️ **Aviso:** las dosis son orientativas para el paciente crítico y deben ajustarse al peso, la función renal, las alergias, el antibiograma y la política de antimicrobianos de cada centro. En el shock séptico no se retrasa el antibiótico si la extracción de cultivos no puede hacerse de inmediato.
+> ⚠️ **Aviso:** las dosis de la tabla son ejemplos de referencia, no una prescripción universal; requieren validación con protocolo/ficha técnica y revisión por farmacia cuando proceda. En shock séptico no retrasar el antimicrobiano urgente por cultivos si su obtención causa una demora clínicamente relevante.
 
 ### 5.4 Retirada del catéter: cuándo y cómo
 **Retirada obligatoria e inmediata**, con cultivo de la punta:
@@ -264,7 +271,7 @@ La duración se individualiza según la evolución clínica, los hemocultivos de
 ## 7. Complicaciones y cómo actuar ante cada una
 | Complicación | Actuación |
 | --- | --- |
-| **Shock séptico** | Activar el código sepsis: soporte hemodinámico, cristaloides 30 mL/kg si hay hipoperfusión, noradrenalina para presión arterial media ≥ 65 mmHg, **retirada del catéter** y control del foco, antibiótico en la primera hora y lactato seriado |
+| **Shock séptico** | Activar el código sepsis y soporte hemodinámico; cristaloides balanceados con reevaluación individualizada (SSC 2026 sugiere ≥30 mL/kg durante 3 h, condicional); noradrenalina si persiste hipotensión; decidir retirada del catéter/control del foco según sospecha y guía; antimicrobianos inmediatos, idealmente ≤1 h en shock, y lactato según respuesta |
 | **Tromboflebitis supurada o trombosis venosa** | Retirar el catéter, hemocultivos, antibiótico prolongado (4-6 semanas), ecografía-doppler y valoración de anticoagulación y drenaje quirúrgico |
 | **Endocarditis infecciosa** | Hemocultivos seriados, ecocardiografía (TTE y TEE si procede), retirada del catéter, antibiótico 4-6 semanas y valoración por cirugía cardiaca si hay complicaciones |
 | **Infección metastásica** (abscesos, osteomielitis, espondilodiscitis) | Pruebas de imagen dirigidas, drenaje si procede, antibiótico prolongado y retirada del catéter |

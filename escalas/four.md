@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Escala FOUR (Full Outline of UnResponsiveness)"
+---
 # Escala FOUR (Full Outline of UnResponsiveness)
 
 > 📖 **Fuentes:** Wijdicks EFM, Bamlet WR, Maramattom BV, Manno EM, McClelland RL. *Validation of a new coma scale: the FOUR score.* Ann Neurol. 2005;58(4):585-593. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill.
@@ -152,7 +156,9 @@ No se incluyen aquí cifras concretas de sensibilidad, especificidad o AUC porqu
 - La exploración de reflejos exige **técnica y formación**; documentar qué reflejos se han explorado.
 - La sedación y el bloqueo neuromuscular modifican la puntuación.
 - Registrar siempre el **desglose por componentes**, no solo el total.
+
 ---
+
 ## Evidencia y referencias
 
 - **Wijdicks EFM, et al.** Validation of a new coma scale: the FOUR score. *Ann Neurol* 2005;58:585-593.
@@ -161,6 +167,7 @@ No se incluyen aquí cifras concretas de sensibilidad, especificidad o AUC porqu
 > Evalúa respuesta ocular, motora, reflejos de tronco y respiración; es útil en intubados. No sustituye la tendencia del Glasgow ni la exploración neurológica completa.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

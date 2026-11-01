@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Termorregulación: temperatura, hipotermia, fiebre y control térmico dirigido en el paciente crítico"
+---
 # Termorregulación: temperatura, hipotermia, fiebre y control térmico dirigido en el paciente crítico
 
 > 📖 **Fuentes:** Nolan JP, et al. European Resuscitation Council Guidelines 2021. Resuscitation 2021;161:1-60. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · NICE: https://www.nice.org.uk

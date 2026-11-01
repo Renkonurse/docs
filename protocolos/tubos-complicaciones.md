@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Complicaciones del tubo orotraqueal y de la traqueostomía"
+---
 # Complicaciones del tubo orotraqueal y de la traqueostomía
 
 **Vía aérea artificial: detección y actuación** — complicaciones y emergencias del paciente crítico intubado o traqueostomizado.

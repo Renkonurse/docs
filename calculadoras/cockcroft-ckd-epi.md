@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Función renal estimada: Cockcroft-Gault y CKD-EPI 2021"
+---
 # Función renal estimada: Cockcroft-Gault y CKD-EPI 2021
 
 > 📖 **Fuentes:** Cockcroft DW, Gault MH. Prediction of creatinine clearance from serum creatinine. Nephron 1976;16:31-41. · Levey AS, et al. CKD-EPI equation. Ann Intern Med 2009;150:604-612. · KDIGO. Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138.
@@ -161,12 +165,12 @@ CKD-EPI: se calcula igualmente; puede diferir y debe interpretarse con el estadi
 
 ## 8. Relación con otras escalas y parámetros
 
-- **[Gasto urinario](gasto-urinario.md)**: criterios KDIGO de AKI por diuresis.
-- **[Balance hídrico](balance-hidrico.md)**: la diuresis y el balance completan la valoración renal.
-- **[SOFA](../escalas/sofa.md)**: creatinina y diuresis puntúan el componente renal.
-- **[Código Sepsis](../protocolos/codigo-sepsis.md)** y **[Shock](../protocolos/shock-critico.md)**: la perfusión renal y la AKI.
-- **[TRRC](../protocolos/trrc.md)** y **[TRRC: cuidados](../guias-cuidados/trrc-cuidados.md)**: manejo de la disfunción renal grave.
-- **[Peso ideal](peso-ideal.md)**: elección del peso en Cockcroft.
+- **[Gasto urinario](gasto-urinario.html)**: criterios KDIGO de AKI por diuresis.
+- **[Balance hídrico](balance-hidrico.html)**: la diuresis y el balance completan la valoración renal.
+- **[SOFA](../escalas/sofa.html)**: creatinina y diuresis puntúan el componente renal.
+- **[Código Sepsis](../protocolos/codigo-sepsis.html)** y **[Shock](../protocolos/shock-critico.html)**: la perfusión renal y la AKI.
+- **[TRRC](../protocolos/trrc.html)** y **[TRRC: cuidados](../guias-cuidados/trrc-cuidados.html)**: manejo de la disfunción renal grave.
+- **[Peso ideal](peso-ideal.html)**: elección del peso en Cockcroft.
 
 ---
 

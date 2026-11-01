@@ -1,25 +1,29 @@
+---
+layout: default
+title: "ECMO: circuito, montaje y cebado, parámetros, alarmas y complicaciones"
+---
 # ECMO: circuito, montaje y cebado, parámetros, alarmas y complicaciones
 
-> 📖 **Fuentes:** ELSO. General Guidelines for All ECLS Cases (https://www.elso.org/elso-guidelines). · ELSO Red Book of Extracorporeal Life Support, 5th ed. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Getinge/Maquet. Instrucciones de uso del sistema CardioHelp y del oxigenador de membrana (https://www.getinge.com). · Sociedad Española de Enfermería Intensiva y Crítica (SEEIUC) (https://www.seeiuc.org).
+> ELSO VV adulto 2021, doi:10.1097/MAT.0000000000001432, https://pmc.ncbi.nlm.nih.gov/articles/PMC8315725/: canulación, recirculación y fisiología por apartados. **No se ha cotejado un IFU operativo de Cardiohelp/HLS/calefactor en esta revisión.** La ficha no autoriza montaje, purga, conexión o reinicio: requiere manual de set/consola/versiones exactos y personal entrenado.
 
 ## 1. Qué es el circuito de ECMO
 
 El **circuito de ECMO** es un sistema extracorpóreo cerrado que extrae sangre venosa del paciente, la oxigena y elimina CO₂ en un **oxigenador de membrana**, y la devuelve al paciente por vía venosa (VV) o arterial (VA). Sustituye de forma **parcial o completa** la función pulmonar y/o cardíaca durante días o semanas.
 
-En nuestro centro el sistema de referencia es la **consola CardioHelp® (Getinge/Maquet)** con oxigenador de membrana de fibra hueca y bomba centrífuga. El circuito lo **monta y ceba el equipo de ECMO/perfusionista**; enfermería colabora en la preparación, verifica el material y asume la vigilancia continua.
+La app no representa «nuestro centro» ni una marca única. Identificar consola, set, cánulas, accesorios y versión; montaje/cebado por profesionales entrenados con roles/verificación definidos. No intercambiar instrucciones entre modelos.
 
 ## 2. Componentes del circuito
 
 | Componente | Función | Puntos de vigilancia de enfermería |
 |---|---|---|
-| **Bomba (centrífuga o de rodillo)** | Genera el flujo sanguíneo (RPM) | Flujo estable, ausencia de vibración o ruido anómalo, RPM en rango |
+| **Bomba** | Impulsa sangre; rpm no son flujo ni existe relación fija rpm-flujo | Curva del modelo, presiones, retorno y respuesta del paciente |
 | **Oxigenador de membrana** | Intercambio de O₂ y CO₂; a menudo con intercambiador de calor | Color, fugas, condensación, ausencia de trombos; transferencia de O₂/CO₂ |
-| **Cánulas de drenaje y retorno** | Acceso vascular; roja = arterial/retorno, azul = venosa/drenaje | Fijación, marcas de referencia, ausencia de tracciones, sangrado |
+| **Cánulas** | Drenaje/retorno según configuración, también doble luz o híbridos | Seguir trayecto/etiquetas, no deducir vía por color; en VV retorno es venoso |
 | **Líneas y conexiones** | Transporte de sangre | Sin acodamientos, conexiones firmes, sin fugas ni burbujas |
 | **Cámaras y sensores de presión** | Medir P_ven, P_art y ΔP | Nivel adecuado, sin aire, cúpulas secas y bien conectadas |
 | **Mezclador de gases y bala/flujo de O₂** | Ajustar FiO₂ y flujo de gas | FiO₂ y flujo prescritos; bala de O₂ disponible |
 | **Consola y batería** | Control del sistema y alarmas | Visible, audible, conectada a red, batería cargada |
-| **Purga / antisepsia** | Mantener el circuito libre de aire | Ausencia de burbujas; purga según protocolo |
+| **Asepsia y eliminación de aire** | Objetivos diferentes: prevenir contaminación y aire, respectivamente | Una no demuestra la otra; procedimiento específico, no apertura de puertos por rutina |
 
 > ⚠️ **Aviso:** En ECMO el circuito **no se manipula sin indicación**. Cada conexión abierta es una puerta de entrada de aire y de infección.
 
@@ -36,12 +40,7 @@ El montaje y cebado los realiza el **equipo de ECMO (perfusionista)** con técni
 
 ### 3.2 Cebado
 
-1. **Cebar el circuito con suero fisiológico** (y heparina según protocolo del centro) siguiendo el manual del sistema.
-2. **Purga con CO₂** (si el protocolo lo contempla) para facilitar la eliminación del aire de la membrana.
-3. **Llenar y purgar** líneas, oxigenador y cámaras: **no debe quedar aire ni burbujas** en ningún punto.
-4. **Comprobar la estanqueidad**: ausencia de fugas en conexiones, oxigenador y cánulas.
-5. **Verificar el flujo y las presiones** con el circuito cebado antes de conectar (prueba de circulación).
-6. **Mantener el circuito recirculando** o preparado hasta el momento de la canulación.
+Ejecutar IFU/checklist de set y consola exactos: solución/aditivos, eliminación de aire, sensores/referencia, orientación/conexiones, estanqueidad, alarmas y preparación para conexión. Esta síntesis no describe volúmenes, CO₂, tapones, alturas, rpm o tiempos universales. No abrir puertos, ocluir salida de gas ni anular alarmas para completar una preparación por intuición. Si persiste aire/duda, resolver con procedimiento/equipo antes de conectar.
 
 ### 3.3 Conexión al paciente
 
@@ -60,21 +59,20 @@ El montaje y cebado los realiza el **equipo de ECMO (perfusionista)** con técni
 - [ ] **Consola** sin alarmas, con red y batería cargada.
 - [ ] **Mezclador de gases** con FiO₂ y flujo programados.
 - [ ] **Cánulas** preparadas, rotuladas y comprobadas.
-- [ ] **Material de emergencia** a pie de cama: 4 clamps, manivela manual y bala de O₂.
+- [ ] Respaldo/accesorios compatibles y reserva eléctrica/gaseosa suficiente; no cuatro clamps o manivela universales.
 - [ ] **Registro** de cebado: hora, lote, oxigenador y responsable.
 
 ## 5. Parámetros de la consola y valores orientativos
 
 | Parámetro | Valor orientativo | Significado de la desviación |
 |---|---|---|
-| **RPM** | < 3.500 habitualmente | Flujo insuficiente o excesivo para la situación |
-| **Flujo (L/min)** | 3-5 L/min (VA), 3-4 L/min (VV) | Base del soporte; se ajusta según gasometría y hemodinámica |
-| **P_ven (drenaje)** | > -100 mmHg | Más negativa: succión, hipovolemia, cánula mal posicionada, neumotórax |
-| **P_art (retorno)** | < 250-300 mmHg | Alta: obstrucción, coágulo, acodamiento, cánula en pared |
-| **ΔP (P_art - P_ven)** | < 50 mmHg | Aumento progresivo: coagulación del oxigenador o del circuito |
+| **RPM/flujo** | Según modelo, cánulas y soporte necesario | Más rpm no garantizan más flujo efectivo/oxigenación |
+| **Presión de drenaje** | Sensor, referencia y límites específicos | Tendencia con flujo/esfuerzo/posición y retorno; no diagnóstico aislado de hipovolemia |
+| **Presión de retorno** | Según segmento y modelo | Resistencia a retorno y condiciones; en VV no presión arterial del paciente |
+| **ΔP del oxigenador** | Presión inmediatamente pre menos postoxigenador, con sensores identificados | No P_art menos P_ven de todo circuito; flujo/viscosidad influyen y no indica recambio solo |
 | **FiO₂ del oxigenador** | Según gasometría | Ajuste para PaO₂ objetivo |
 | **Flujo de gas (sweep)** | Según PaCO₂ | Ajuste para el CO₂ objetivo |
-| **SatO₂ venosa (SvO₂)** | 65-75 % | Baja: extracción tisular aumentada o flujo insuficiente |
+| **Saturación de drenaje** | Sitio y mezcla identificados | No asumir venosa mixta ni equiparar ScvO₂/SpO₂; recirculación puede alterarla |
 
 > ⚠️ **Aviso:** Los valores son **orientativos**: cada centro y cada configuración tienen sus objetivos. La tendencia de los parámetros es más importante que un valor aislado.
 
@@ -87,10 +85,10 @@ El montaje y cebado los realiza el **equipo de ECMO (perfusionista)** con técni
 | **Flujo bajo / P_ven muy negativa** | Hipovolemia, cánula en pared, neumotórax, sangrado | Comprobar al paciente y la cánula; avisar al equipo; valorar volumen |
 | **P_art elevada** | Coágulo, acodamiento, cánula mal posicionada | Revisar líneas y cánulas; avisar si persiste |
 | **ΔP elevada** | Coagulación del oxigenador | Avisar al equipo; valorar cambio de oxigenador |
-| **Alarma de aire/burbujas** | Conexión floja, purga incompleta | Parar si procede, clampar, purgar y avisar |
+| **Aire/burbujas** | Aire real o problema de sensor/montaje, no asumir falsa alarma | Emergencia, paciente/equipo y tarjeta del modelo/evento; no secuencia genérica de clamps/parada/purga/reinicio |
 | **Fallo eléctrico / batería** | Pérdida de red o batería descargada | Comprobar conexión; batería y manivela manual de reserva |
 | **Fallo del oxigenador (hipoxemia)** | Trombosis o fallo de membrana | Aumentar FiO₂; avisar para valorar cambio |
-| **Fuga de sangre** | Rotura o desconexión | Parar, clampar y avisar de inmediato |
+| **Fuga de sangre** | Rotura/desconexión u otra lesión | Activar respuesta y soporte en paralelo a aislamiento/control por tarjeta específica, sin orden universal |
 
 ## 7. Complicaciones y actuación
 
@@ -98,27 +96,26 @@ El montaje y cebado los realiza el **equipo de ECMO (perfusionista)** con técni
 
 - **Coagulación del circuito/oxigenador:** ΔP y TMP en ascenso, flujo inestable, color oscuro. Actuación: revisar anticoagulación, avisar y valorar cambio.
 - **Hemólisis:** orina oscura (hemoglobinuria), LDH y bilirrubina en ascenso, plasma rosado. Actuación: avisar, vigilar diuresis y función renal, valorar el circuito.
-- **Embolia gaseosa:** sospecha ante alarma de aire o manipulación del circuito. Actuación: parar, clampar, posición y aviso urgente.
-- **Fallo de bomba/parada del circuito:** actuar según la secuencia de emergencia (clamps en retorno → bajar RPM → clamps en drenaje → Trendelenburg y soporte hemodinámico → avisar al equipo).
+- **Aire/fallo de bomba:** emergencia con ayuda inmediata y soporte paralelo; aislamiento, gas, clamps y parada/reinicio por tarjeta específica. No aspirar aire, imponer Trendelenburg o manipular protecciones desde esta ficha.
 
 ### 7.2 Relacionadas con el paciente
 
 - **Sangrado:** el más frecuente; revisar curas, drenajes, orina y deposiciones; avisar y no añadir anticoagulación.
 - **Isquemia distal** (VA femoral): pulsos, temperatura, color y sensibilidad de la extremidad; avisar de inmediato.
-- **Efecto Arlequín (VV/VA):** hipoxemia en la mitad superior con cianosis diferencial; tomar gasometría de **radial derecha** y avisar.
+- **Hipoxemia diferencial:** especialmente VA periférica femoral; radial derecha ayuda a vigilar territorio superior, no mide directamente oxigenación cerebral/coronaria ni aplica a toda VV/VA. Identificar configuración y sitio de muestra.
 - **Sobrecarga del VI (VA):** edema pulmonar, hipertensión arterial; puede requerir descarga del VI.
 - **Complicaciones neurológicas:** focalidad, convulsión, descenso del nivel de consciencia; aviso urgente.
-- **Infección:** del punto de canulación, del circuito o sistémica; curas con cloruro de clorhexidina al 2 % acuoso **sin alcohol**.
+- **Infección:** valoración local/sistémica y tratamiento/control de foco por equipo; antisepsia y compatibilidades según piel/material/fabricante, no formulación universal.
 
 ### 7.3 Cuidados de enfermería asociados
 
-- Curas de las cánulas **cada 24-48 h** con clorhexidina acuosa al 2 % (sin alcohol) y apósito según protocolo.
+- Cura aséptica según acceso, apósito, sangrado/piel e IFU; antes si incidencia, sin plazo/formulación únicos. Asegurar control de cánula durante maniobra.
 - Vigilancia **horaria** de parámetros de consola, presiones y estado del circuito.
 - **Gasometría y analítica** según protocolo (ACT al inicio, TTPa cada 4 h, analítica y hemólisis cada 24 h).
-- **Neurológico:** BIS 40-60 (según sedación) y pupilas **dos veces por turno**.
-- **Hemodinámico y renal:** diuresis > 0,5 mL/kg/h, PVC ≈ 8 mmHg, balance hídrico.
-- **Movilización:** mínimo 6 personas, una dedicada en exclusiva a las cánulas; comprobar fijación antes y después.
-- **Material a pie de cama** comprobado **cada turno**: 4 clamps, manivela manual, bala de O₂, linterna.
+- Neuro: componentes explorables y condiciones, frecuencia por riesgo/plan; EEG procesado complementario si indicado, sin BIS universal. Cambio nuevo se comunica sin esperar control programado.
+- Perfusión/riñón: tendencia y contexto, no PVC/diuresis aisladas como garantía. Balance y fluidos según fase y tolerancia.
+- Movilización: equipo suficiente/competente, líder y responsable de cánulas, trayecto/roles/rescate y reevaluación; número fijo no garantiza seguridad.
+- Respaldo a pie de cama compatible y comprobado con frecuencia del procedimiento, sin inventario universal.
 
 ## 8. Criterios de aviso al equipo de ECMO
 
@@ -132,10 +129,10 @@ El montaje y cebado los realiza el **equipo de ECMO (perfusionista)** con técni
 
 ## 9. Errores frecuentes
 
-1. **Administrar heparina al circuito** en lugar de por vía central del paciente.
-2. **Usar alcohol** en las curas de las cánulas (usar clorhexidina acuosa al 2 %).
+1. Administrar fármaco sin verificar punto/vía prescritos, concentración, unidades y trazado de línea.
+2. Usar productos incompatibles con material o piel, trasladando receta de otro modelo/indicación.
 3. **Pinzar cánulas sin indicación** o movilizar al paciente sin personal dedicado a las cánulas.
-4. **Tomar la gasometría en una vía distinta a la radial derecha** sin valorar el efecto Arlequín.
+4. No identificar muestra del paciente frente a circuito y sitio/soporte; radial derecha no es vía obligatoria para toda configuración.
 5. **Silenciar alarmas** sin comprobar primero al paciente y el circuito.
 6. **No comprobar el material de emergencia** a pie de cama en cada turno.
 7. **Olvidar las marcas de referencia** de las cánulas tras cada movilización o cura.
@@ -143,7 +140,7 @@ El montaje y cebado los realiza el **equipo de ECMO (perfusionista)** con técni
 ## 10. Puntos clave
 
 - El circuito se **monta y ceba con técnica estéril** y siguiendo el manual del sistema; sin aire y sin fugas.
-- La **tendencia** de P_ven, P_art y ΔP detecta la coagulación antes que la alarma.
+- Tendencias de presiones/flujo orientan problemas pero no demuestran coagulación ni garantizan anticipar alarmas; verificar señal y contexto.
 - **Primero el paciente, después la consola**, en todas las alarmas.
 - Conocer y tener accesible la **secuencia de emergencia** y el material a pie de cama.
 - La **comunicación con el equipo de ECMO** es parte del cuidado: avisar precozmente nunca es un error.
@@ -169,17 +166,17 @@ Registro mínimo **cada hora**: RPM, flujo, P_ven, P_art, ΔP, FiO₂ y flujo de
 | **ECMO / ECLS** | Oxigenación por membrana extracorpórea / soporte vital extracorpóreo |
 | **VV / VA** | Veno-venoso / veno-arterial |
 | **P_ven / P_art** | Presión venosa (drenaje) / presión arterial (retorno) |
-| **ΔP** | Diferencia de presión a través del circuito/oxigenador |
+| **ΔP del oxigenador** | Presión pre menos postoxigenador, no gradiente de todo circuito; confirmar sensores |
 | **RPM** | Revoluciones por minuto de la bomba |
 | **FiO₂** | Fracción inspirada de oxígeno en el mezclador de gases |
 | **Sweep** | Flujo de gas que barre el oxigenador (control de CO₂) |
-| **SvO₂** | Saturación venosa mixta de oxígeno |
+| **SvO₂ / ScvO₂ / Spre** | Mixta, central y preoxigenador son muestras diferentes, no equivalentes automáticos |
 | **ACT / TTPa** | Tiempo de coagulación activado / tiempo de tromboplastina parcial activada |
 | **BIS** | Índice biespectral (profundidad de sedación) |
 
 ---
 
-## 13. Evidencia y referencias
+## Evidencia y referencias
 
 - **ELSO.** General Guidelines for All ECLS Cases. Extracorporeal Life Support Organization, 2021 (actualizaciones sucesivas).
 - **Combes A, et al.** Extracorporeal membrane oxygenation for severe acute respiratory distress syndrome (EOLIA). *N Engl J Med* 2018;378:1965-1975.
@@ -191,7 +188,7 @@ Registro mínimo **cada hora**: RPM, flujo, P_ven, P_art, ΔP, FiO₂ y flujo de
 
 ---
 
-## 14. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

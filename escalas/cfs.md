@@ -1,3 +1,7 @@
+---
+layout: default
+title: "CFS · Clinical Frailty Scale (Escala de fragilidad clínica)"
+---
 # CFS · Clinical Frailty Scale (Escala de fragilidad clínica)
 
 > 📖 **Fuentes:** Rockwood K, Song X, MacKnight C, et al. *A global clinical measure of fitness and frailty in elderly people.* CMAJ. 2005;173(5):489-495. · MSD Manual Professional: https://www.msdmanuals.com/professional
@@ -124,7 +128,9 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque var�
 - Se asocia a **mortalidad y peor recuperación funcional** en el paciente crítico.
 - Ayuda en las **decisiones compartidas** de intensidad terapéutica y en la planificación del alta.
 - En la app se registra como **nivel único**, sin suma de puntos.
+
 ---
+
 ## Evidencia y referencias
 
 - **Rockwood K, et al.** A global clinical measure of fitness and frailty in elderly people. *CMAJ* 2005;173:489-495.
@@ -133,6 +139,7 @@ No se incluyen cifras concretas de sensibilidad, especificidad o AUC porque var�
 > Es una escala clínica global con componente subjetivo; requiere información previa del paciente o de la familia. No debe usarse de forma aislada para limitar tratamientos.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

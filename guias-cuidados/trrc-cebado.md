@@ -1,3 +1,7 @@
+---
+layout: default
+title: "TRRC: cebado del circuito paso a paso (Prismaflex, multiFiltrate, Aquarius y plasmaféresis)"
+---
 # TRRC: cebado del circuito paso a paso (Prismaflex, multiFiltrate, Aquarius y plasmaféresis)
 
 > 📖 **Fuentes:** KDIGO. Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · ADQI (Acute Dialysis Quality Initiative). Consensos de anticoagulación regional con citrato y de dosis de TRRC (https://www.adqi.org). · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Baxter Healthcare. Manual del sistema Prismaflex / Prismax y sets ST (https://www.baxter.com). · Fresenius Medical Care. Manual del operador de multiFiltrate / multiFiltratePRO y módulo Ci-Ca (https://www.freseniusmedicalcare.com). · Nikkiso. Manual del sistema Aquarius (https://www.nikkiso.com). · Sociedad Española de Enfermería Intensiva y Crítica (SEEIUC). Cuidados de enfermería en las terapias de reemplazo renal continuo (https://www.seeiuc.org).
@@ -169,7 +173,11 @@ En las **primeras horas** vigilar con especial atención:
 - La **heparina del cebado cuenta** como dosis administrada al paciente.
 - **Recircular** el circuito si no se conecta de inmediato.
 - **Registrar** set, filtro, lote, hora y responsable: es la trazabilidad del circuito.
-## 11. Evidencia y referencias
+- Ante cualquier duda, **avisar antes de conectar**: es más fácil resolver un problema en el circuito que en el paciente.
+
+---
+
+## Evidencia y referencias
 
 - **KDIGO.** Clinical Practice Guideline for Acute Kidney Injury. *Kidney Int Suppl* 2012;2:1-138.
 - **ADQI.** Consensos de cebado, anticoagulación regional con citrato y dosis de TRRC.
@@ -183,7 +191,7 @@ En las **primeras horas** vigilar con especial atención:
 
 ---
 
-## 12. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

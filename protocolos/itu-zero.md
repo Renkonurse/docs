@@ -1,3 +1,7 @@
+---
+layout: default
+title: "ITU-Zero: prevención de la infección urinaria asociada a sondaje vesical"
+---
 # ITU-Zero: prevención de la infección urinaria asociada a sondaje vesical
 
 > 📖 **Fuentes:** Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · NICE: https://www.nice.org.uk · SEEIUC: https://www.seeiuc.org
@@ -348,7 +352,7 @@ Se requiere la combinación de **clínica compatible + alteración del sedimento
 | Situación | Escalado |
 | --- | --- |
 | Fiebre aislada sin criterios de gravedad | Avisar al médico responsable; urocultivo y valorar tratamiento |
-| **qSOFA ≥ 2** (FR ≥ 22 rpm, alteración del nivel de conciencia, TAS ≤ 100 mmHg) | Activar **código sepsis**; hemocultivos, lactato y antibiótico precoz |
+| Deterioro agudo o sospecha clínica de sepsis (con cualquier qSOFA) | Activar el sistema de cribado/respuesta local sin esperar un umbral; obtener cultivos/lactato cuando estén indicados y administrar antimicrobianos según probabilidad, gravedad y tiempos SSC 2026. qSOFA ≥2 indica mayor riesgo, no es diagnóstico ni requisito. |
 | **Sepsis/shock** (hipotensión, lactato elevado, necesidad de vasopresores) | Código sepsis; soporte hemodinámico; retirada/recambio de la sonda; UCI |
 | Obstrucción, traumatismo uretral o hematuria con coágulos | Avisar a **urología** |
 | Retención tras la retirada | Valorar sondaje intermitente y ecografía de residuo |

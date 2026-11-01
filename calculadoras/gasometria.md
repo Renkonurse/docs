@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Gasometría: interpretación ácido-base (y oxigenación)"
+---
 # Gasometría: interpretación ácido-base (y oxigenación)
 
 > 📖 **Fuentes:** Berend K, et al. Physiological approach to assessment of acid-base disturbances. N Engl J Med 2014;371:1434-1445. · ARDS Definition Task Force. Berlin definition. JAMA 2012;307:2526-2533. · MSD Manual Professional: https://www.msdmanuals.com/professional
@@ -176,7 +180,7 @@ PAFI = PaO₂ / FiO₂ (fracción)
 | **101-200** | SDRA moderado |
 | **≤ 100** | SDRA grave |
 
-> *«Recuerda: requiere PEEP ≥ 5 cmH₂O y descartar origen cardiogénico para diagnóstico de SDRA.»* (Ver [PAFI](pafi.md) y los criterios de Berlín.)
+> *«Recuerda: requiere PEEP ≥ 5 cmH₂O y descartar origen cardiogénico para diagnóstico de SDRA.»* (Ver [PAFI](pafi.html) y los criterios de Berlín.)
 
 ---
 
@@ -333,13 +337,13 @@ La pantalla permite **guardar la gasometría en Monitorización** (en el pacient
 
 ## 15. Relación con otras escalas y parámetros
 
-- **[PAFI](pafi.md)**: índice de oxigenación y criterios de Berlín.
-- **[Corrección de iones](correccion-iones.md)**: anión gap, delta-delta, osmolaridad y electrolitos.
-- **[Volumen corriente protector](volumen-corriente-protector.md)**: estrategia ventilatoria y mecánica.
-- **[SOFA](../escalas/sofa.md)**: oxigenación y disfunción orgánica.
-- **[ROX](../escalas/rox.md)**: oxigenación en CNAF.
-- **[Hemodinámica](hemodinamica.md)**: lactato y perfusión.
-- **[Alarmas respiratorias](../guias-cuidados/alarmas-respiratorias.md)** y **[weaning](../protocolos/weaning-extubacion.md)**: soporte y retirada.
+- **[PAFI](pafi.html)**: índice de oxigenación y criterios de Berlín.
+- **[Corrección de iones](correccion-iones.html)**: anión gap, delta-delta, osmolaridad y electrolitos.
+- **[Volumen corriente protector](volumen-corriente-protector.html)**: estrategia ventilatoria y mecánica.
+- **[SOFA](../escalas/sofa.html)**: oxigenación y disfunción orgánica.
+- **[ROX](../escalas/rox.html)**: oxigenación en CNAF.
+- **[Hemodinámica](hemodinamica.html)**: lactato y perfusión.
+- **[Alarmas respiratorias](../guias-cuidados/alarmas-respiratorias.html)** y **[weaning](../protocolos/weaning-extubacion.html)**: soporte y retirada.
 
 ---
 

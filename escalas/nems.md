@@ -1,3 +1,7 @@
+---
+layout: default
+title: "NEMS (Nine Equivalents of Nursing Manpower Use Score)"
+---
 # NEMS (Nine Equivalents of Nursing Manpower Use Score)
 
 > 📖 **Fuentes:** Miranda DR, Moreno R, Iapichino G. *Nine equivalents of nursing manpower use score (NEMS).* Intensive Care Med. 1997;23(7):760-765. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill.
@@ -126,7 +130,9 @@ Su utilidad principal es **de gestión**, no clínica: no predice la mortalidad 
 - Su fiabilidad depende del **registro y del consenso del equipo**.
 - Sirve para **estimar plantillas** y comparar unidades o periodos.
 - Debe completarse con escalas clínicas (SOFA, NEWS2).
+
 ---
+
 ## Evidencia y referencias
 
 - **Miranda DR, et al.** Nine equivalents of nursing manpower use score (NEMS). *Intensive Care Med* 1997;23:760-765.
@@ -136,6 +142,7 @@ Su utilidad principal es **de gestión**, no clínica: no predice la mortalidad 
 > Mide carga de trabajo y consumo de recursos, no gravedad clínica. Su comparación entre unidades exige criterios homogéneos.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "HACOR score (Heart rate, Acidosis, Consciousness, Oxygenation, Respiratory rate)"
+---
 # HACOR score (Heart rate, Acidosis, Consciousness, Oxygenation, Respiratory rate)
 
 > 📖 **Fuentes:** Duan J, Wang S, Liu P, et al. *Assessment of heart rate, acidosis, consciousness, oxygenation, and respiratory rate to predict noninvasive ventilation failure in hypoxemic patients.* Intensive Care Med. 2017;43(2):192-199. · Chulay M, Burns SM. *AACN Essentials of Critical Care Nursing.* McGraw-Hill. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care.* 7th ed. Elsevier. · SEEIUC: https://www.seeiuc.org
@@ -145,7 +149,9 @@ La app muestra además el **desglose por componentes**, imprescindible para sabe
 - Es una ayuda a la decisión, **no una orden de intubación**.
 
 > ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+
 ---
+
 ## Evidencia y referencias
 
 - **Duan J, et al.** Assessment of heart rate, acidosis, consciousness, oxygenation, and respiratory rate to predict noninvasive ventilation failure in hypoxemic patients. *Intensive Care Med* 2017;43:192-199.
@@ -154,6 +160,7 @@ La app muestra además el **desglose por componentes**, imprescindible para sabe
 > Predice fracaso de VMNI en insuficiencia respiratoria hipoxémica; no sustituye la valoración clínica ni la decisión de intubar. Reevaluar a las 1-2 horas y tras cambios.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

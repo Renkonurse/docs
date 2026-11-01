@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Escala de Maddox (flebitis del catéter venoso periférico)"
+---
 # Escala de Maddox (flebitis del catéter venoso periférico)
 
 > 📖 **Fuentes:** Maddox RR, Rush DR, Rapp RP, Foster TS, Mazella V, McKean HE. *Double-blind study to investigate methods to prevent cephalothin-induced phlebitis.* Am J Hosp Pharm. 1977;34(1):29-34. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care.* 7th ed. Elsevier.
@@ -121,7 +125,9 @@ Su **validación psicométrica formal es limitada** en comparación con otras es
 - Valorar **en cada turno** y tras fármacos irritantes.
 - **Palpar** el trayecto venoso, no solo inspeccionar.
 - **Documentar fecha, hora y grado** en cada valoración.
+
 ---
+
 ## Evidencia y referencias
 
 - **Maddox RR, et al.** Double-blind study to investigate methods to prevent cephalothin-induced phlebitis. *Am J Hosp Pharm* 1977;34:29-34.
@@ -131,6 +137,7 @@ Su **validación psicométrica formal es limitada** en comparación con otras es
 > Es una escala visual y subjetiva; estandariza la valoración, pero no sustituye la inspección del punto de inserción ni la retirada ante signos de flebitis.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

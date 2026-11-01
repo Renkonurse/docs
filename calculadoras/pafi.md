@@ -1,3 +1,7 @@
+---
+layout: default
+title: "PAFI (PaO₂/FiO₂) — índice de oxigenación"
+---
 # PAFI (PaO₂/FiO₂) — índice de oxigenación
 
 > 📖 **Fuentes:** ARDS Definition Task Force. Berlin definition. JAMA 2012;307:2526-2533. · ARDSNet. Ventilation with lower tidal volumes. N Engl J Med 2000;342:1301-1308. · MSD Manual Professional: https://www.msdmanuals.com/professional
@@ -137,7 +141,7 @@ Para diagnosticar SDRA deben cumplirse **las 4**:
 - **Sin gasometría arterial fiable**: no estimar la PaO₂ a partir de la SpO₂ para el PAFI (la relación no es lineal).
 - **Sin conocer la FiO₂ real** (paciente en aire ambiente con aporte no medido): usar FiO₂ 0,21 solo si realmente respira aire.
 - **Como único criterio de SDRA**: se precisan las otras 3 condiciones de Berlín.
-- **Para decidir intubación o extubación por sí solo**: valorar clínica, mecánica y evolución conjunta (ver [weaning](../protocolos/weaning-extubacion.md)).
+- **Para decidir intubación o extubación por sí solo**: valorar clínica, mecánica y evolución conjunta (ver [weaning](../protocolos/weaning-extubacion.html)).
 - **En insuficiencia respiratoria crónica hipercápnica** sin agudización: interpretar con la situación basal del paciente.
 - **Con cambios rápidos de FiO₂**: el índice no es comparable entre medidas con distinta FiO₂/PEEP.
 
@@ -146,12 +150,12 @@ Para diagnosticar SDRA deben cumplirse **las 4**:
 ## 9. Relación con otras escalas y parámetros
 
 - **Criterios de Berlín (SDRA)**: el PAFI es el criterio de hipoxemia.
-- **[Murray](../escalas/murray.md)**: puntuación de lesión pulmonar que también usa la oxigenación y la PEEP.
-- **[SOFA](../escalas/sofa.md)**: incluye la oxigenación (PaO₂/FiO₂ con soporte respiratorio) en la puntuación respiratoria.
-- **[ROX](../escalas/rox.md)**: SpO₂/FiO₂/FR, útil en la insuficiencia respiratoria con CNAF.
-- **[Gasometría](gasometria.md)**: la app calcula el PAFI también dentro de la interpretación gasométrica.
-- **[Volumen corriente protector](volumen-corriente-protector.md)**: la estrategia protectora (VT 6 mL/kg de PBW, Pplat ≤ 30, ΔP ≤ 15) es la base del manejo del SDRA.
-- **[Weaning y extubación](../protocolos/weaning-extubacion.md)** y **[alarmas respiratorias](../guias-cuidados/alarmas-respiratorias.md)**: contexto del soporte y de la retirada.
+- **[Murray](../escalas/murray.html)**: puntuación de lesión pulmonar que también usa la oxigenación y la PEEP.
+- **[SOFA](../escalas/sofa.html)**: incluye la oxigenación (PaO₂/FiO₂ con soporte respiratorio) en la puntuación respiratoria.
+- **[ROX](../escalas/rox.html)**: SpO₂/FiO₂/FR, útil en la insuficiencia respiratoria con CNAF.
+- **[Gasometría](gasometria.html)**: la app calcula el PAFI también dentro de la interpretación gasométrica.
+- **[Volumen corriente protector](volumen-corriente-protector.html)**: la estrategia protectora (VT 6 mL/kg de PBW, Pplat ≤ 30, ΔP ≤ 15) es la base del manejo del SDRA.
+- **[Weaning y extubación](../protocolos/weaning-extubacion.html)** y **[alarmas respiratorias](../guias-cuidados/alarmas-respiratorias.html)**: contexto del soporte y de la retirada.
 
 ---
 

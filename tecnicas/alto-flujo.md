@@ -1,8 +1,12 @@
+---
+layout: default
+title: "Alto flujo nasal (HFNC / cánula nasal de alto flujo)"
+---
 # Alto flujo nasal (HFNC / cánula nasal de alto flujo)
 
 > 📖 **Fuentes:** Frat JP, et al. *High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure* (FLORALI). N Engl J Med 2015;372:2185-2196. · Hernández G, et al. *Postextubation high-flow nasal cannula vs conventional oxygen therapy*. JAMA 2016;315:1354-1361. · Hernández G, et al. *Postextubation high-flow nasal cannula vs noninvasive ventilation in high-risk patients*. JAMA 2016;316:1565-1574. · Roca O, et al. *The ROX index*. J Crit Care 2016;35:200-205. · Mauri T, et al. *Optimum support by high-flow nasal cannula*. Intensive Care Med 2017;43:1453-1463. · Rochwerg B, et al. *The role for high-flow nasal cannula in adults: a clinical practice guideline*. Intensive Care Med 2020;46:2226-2237.
 
-La cánula nasal de alto flujo (HFNC) administra una mezcla de aire y oxígeno **calentada, humidificada y a un caudal superior al del flujo inspiratorio del paciente**. No es una simple gafas nasales de oxígeno: es un sistema de soporte respiratorio con efectos fisiológicos propios.
+La cánula nasal de alto flujo (HFNC) administra una mezcla de aire y oxígeno **calentada, humidificada y a un caudal superior al del flujo inspiratorio del paciente**. No son unas simples gafas nasales de oxígeno: es un sistema de soporte respiratorio con efectos fisiológicos propios.
 
 ---
 
@@ -53,7 +57,7 @@ La PEEP generada es variable y depende del caudal, del tamaño de la cánula y d
 
 - Disnea refractaria en cuidados paliativos (con objetivo de confort).
 - Apoyo durante la fisioterapia respiratoria.
-- Pacientes con traqueostomía que toleran cánula nasal (según protocolo).
+- El alto flujo mediante interfaz de traqueostomía es un montaje específico: no equivale a aplicar cánulas nasales a cualquier paciente traqueostomizado.
 
 ---
 
@@ -104,9 +108,7 @@ El **ROX** combina la oxigenación y la frecuencia respiratoria:
 ROX = (SpO₂ / FiO₂) / FR
 ```
 
-- **ROX ≥ 4,88:** bajo riesgo de fracaso; sugiere buena respuesta.
-- **ROX 3,85-4,88:** zona intermedia; reevaluar de forma estrecha.
-- **ROX < 3,85:** alto riesgo de fracaso; valorar escalada a ventilación no invasiva o intubación.
+Los umbrales de ROX dependen del momento de medición y de la población validada. Un valor bajo o descendente apoya la reevaluación, pero no decide por sí solo fracaso, intubación ni un paso obligatorio por ventilación no invasiva. Ver la [guía específica de ROX](../escalas/rox.html).
 
 Debe calcularse con la **misma FiO₂** y la **misma SpO₂** que se están usando en ese momento, y repetirse a las 2, 6 y 12 horas. Un ROX en descenso es más importante que un valor aislado.
 
@@ -141,7 +143,7 @@ Ante estos signos, **avisar y preparar la escalada**. No esperar a que el pacien
 - Comprobar el **nivel de agua** del humidificador y que el circuito esté calentado.
 - Evitar la **condensación**: orientar los tubos hacia abajo y vaciar las trampas, nunca hacia la nariz.
 - Vigilar la **piel y la mucosa nasal**: rotar la cánula, usar protección y revisar cada turno.
-- Mantener la **boca cerrada** si es posible: mejora la PEEP y la eficacia.
+- El cierre de la boca modifica la presión generada, pero no debe imponerse para obtener una PEEP objetivo; priorizar confort, respuesta y valoración clínica.
 - Ajustar la **fijación** sin comprimir ni tirar de la nariz.
 - Enseñar al paciente a respirar por la nariz y a no retirarse la cánula.
 - Comprobar la **temperatura** y el confort; si hay intolerancia, valorar bajar la temperatura.

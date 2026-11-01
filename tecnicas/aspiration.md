@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Aspiración de secreciones y humidificación de la vía aérea"
+---
 # Aspiración de secreciones y humidificación de la vía aérea
 
 > 📖 **Fuentes:** Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care*. 7th ed. Elsevier. · Marino PL. *The ICU Book*. 4th ed. Wolters Kluwer. · SEEIUC: https://www.seeiuc.org
@@ -137,10 +141,10 @@ No existen contraindicaciones absolutas cuando la aspiración está indicada, pe
 ## 8. Cuidados de enfermería y mantenimiento
 
 ### 8.1. Humidificación
-> ⚠️ **El aire que llega por el tubo no se humidifica ni se calienta: es obligatorio humidificar siempre.**
+> ⚠️ **El aire que llega por el tubo no se humidifica ni se calienta de forma natural: es necesario humidificar el gas inspirado (con HME o humidificación activa), según el dispositivo y el protocolo.**
 
 - **Dos sistemas**:
-  - **Intercambiadores de calor y humedad (filtros HME)**: retienen el calor y la humedad del aire espirado. **Cambiar cada 48-72 horas** o antes si está **sucio, mojado u obstruido**.
+  - **Intercambiadores de calor y humedad (filtros HME)**: retienen el calor y la humedad del aire espirado. **Cambiar según fabricante y protocolo** (habitualmente cada 48-72 h) o antes si está **sucio, mojado u obstruido**.
   - **Humidificación activa** (calentador con agua estéril): vigilar la **temperatura** (evitar quemaduras) y **evitar el exceso de agua** en las tubuladuras (riesgo de aspiración de agua y de obstrucción).
 - **Señales de mala humidificación**: **secreciones espesas y adherentes**, **tapones de secreciones**, **tos seca**, **atelectasias**, **obstrucción del tubo**.
 
@@ -226,7 +230,11 @@ Registrar en cada turno y tras cada procedimiento:
 - **Descuidar la humidificación**: secreciones espesas, tapones y obstrucción.
 - **No registrar** el procedimiento ni las características de las secreciones.
 
-## 14. Evidencia y referencias
+> ⚠️ Documento de apoyo: **no sustituye** el juicio clínico ni los protocolos del centro.
+
+---
+
+## Evidencia y referencias
 
 - **AARC.** Clinical Practice Guideline: Endotracheal suctioning of mechanically ventilated patients with artificial airways. *Respir Care* 2010;55:758-764.
 - **Pedersen CM, et al.** Endotracheal suctioning of the adult intubated patient—what is the evidence? *Intensive Crit Care Nurs* 2009.
@@ -237,7 +245,7 @@ Registrar en cada turno y tras cada procedimiento:
 
 ---
 
-## 15. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|

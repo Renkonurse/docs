@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Balance hídrico y nutricional"
+---
 # Balance hídrico y nutricional
 
 > 📖 **Fuentes:** KDIGO. Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · SEEIUC: https://www.seeiuc.org
@@ -40,7 +44,7 @@ Diuresis por kg            = diuresis / peso          [solo si peso > 0 y diures
 | Diuresis | **mL/24 h** (según el campo de la app) |
 | Peso | kg |
 
-> ℹ️ **Nota de unidades (discrepancia real):** el campo de diuresis está rotulado en **mL/24 h**, por lo que `diuresis / peso` son estrictamente **mL/kg/24 h**, aunque la app etiqueta la tarjeta como *«mL/kg/h»*. Si se quiere el valor en mL/kg/h, dividir el resultado entre 24 (o introducir la diuresis horaria). Para la interpretación clínica es preferible usar la calculadora específica de **[gasto urinario](gasto-urinario.md)**.
+> ℹ️ **Nota de unidades (discrepancia real):** el campo de diuresis está rotulado en **mL/24 h**, por lo que `diuresis / peso` son estrictamente **mL/kg/24 h**, aunque la app etiqueta la tarjeta como *«mL/kg/h»*. Si se quiere el valor en mL/kg/h, dividir el resultado entre 24 (o introducir la diuresis horaria). Para la interpretación clínica es preferible usar la calculadora específica de **[gasto urinario](gasto-urinario.html)**.
 
 **Validación real:** si no hay ningún dato (`kcalPrev = 0`, `protPrev = 0`, `entradas = 0` y `salidas = 0`), la app muestra *«Introduce al menos un par de valores (previsto + administrado) o el balance hídrico»* y no calcula.
 
@@ -103,8 +107,8 @@ Diuresis por kg            = diuresis / peso          [solo si peso > 0 y diures
 
 - El **balance acumulado** se valora con la **tendencia** (no un valor puntual) y con el **peso diario**.
 - La **sobrecarga hídrica** se estima como *porcentaje de sobrecarga = balance acumulado / peso inicial × 100*; porcentajes **> 10 %** se asocian a peor pronóstico y obligan a valorar diuréticos o TRRC. *La app no calcula este porcentaje: es un marco de interpretación.*
-- Una **diuresis < 0,5 mL/kg/h durante ≥ 6 h** es criterio de **AKI (KDIGO)**: ver [gasto urinario](gasto-urinario.md).
-- Las **pérdidas insensibles** deben incluirse en las salidas: ver [pérdidas insensibles](perdidas-insensibles.md).
+- Una **diuresis < 0,5 mL/kg/h durante ≥ 6 h** es criterio de **AKI (KDIGO)**: ver [gasto urinario](gasto-urinario.html).
+- Las **pérdidas insensibles** deben incluirse en las salidas: ver [pérdidas insensibles](perdidas-insensibles.html).
 
 ---
 
@@ -148,7 +152,7 @@ Diuresis por kg = 2000 / 80 = 25,0
 | **Balance positivo leve mantenido** | Sobrecarga acumulada no detectada |
 | **Cumplimiento calculado con kcal previstas erróneas** | Objetivo nutricional mal fijado |
 | Interrupciones de la nutrición por pruebas/traslados | Cumplimiento bajo no atribuible a intolerancia |
-| **Síndrome de realimentación** al progresar rápido | Ver [realimentación](../protocolos/realimentacion.md) |
+| **Síndrome de realimentación** al progresar rápido | Ver [realimentación](../protocolos/realimentacion.html) |
 
 ---
 
@@ -165,13 +169,13 @@ Diuresis por kg = 2000 / 80 = 25,0
 
 ## 9. Relación con otras escalas y parámetros
 
-- **[Gasto urinario](gasto-urinario.md)**: diuresis en mL/kg/h y criterios KDIGO.
-- **[Pérdidas insensibles](perdidas-insensibles.md)**: se incluyen en las salidas.
-- **[Peso ideal](peso-ideal.md)** y **[mNUTRIC](../escalas/mnutric.md)** / **[NUTRIC](../escalas/nutric.md)**: valoración nutricional.
-- **[SOFA](../escalas/sofa.md)**: la diuresis (< 500 mL/día) puntúa en el componente renal.
-- **[Síndrome de realimentación](../protocolos/realimentacion.md)**: prevención al progresar el aporte.
-- **[Código Sepsis](../protocolos/codigo-sepsis.md)** y **[Shock](../protocolos/shock-critico.md)**: la reanimación con fluidos y el balance.
-- **[TRRC](../protocolos/trrc.md)**: ultrafiltración y balance extracorpóreo.
+- **[Gasto urinario](gasto-urinario.html)**: diuresis en mL/kg/h y criterios KDIGO.
+- **[Pérdidas insensibles](perdidas-insensibles.html)**: se incluyen en las salidas.
+- **[Peso ideal](peso-ideal.html)** y **[mNUTRIC](../escalas/mnutric.html)** / **[NUTRIC](../escalas/nutric.html)**: valoración nutricional.
+- **[SOFA](../escalas/sofa.html)**: la diuresis (< 500 mL/día) puntúa en el componente renal.
+- **[Síndrome de realimentación](../protocolos/realimentacion.html)**: prevención al progresar el aporte.
+- **[Código Sepsis](../protocolos/codigo-sepsis.html)** y **[Shock](../protocolos/shock-critico.html)**: la reanimación con fluidos y el balance.
+- **[TRRC](../protocolos/trrc.html)**: ultrafiltración y balance extracorpóreo.
 
 ---
 

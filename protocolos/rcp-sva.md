@@ -1,14 +1,18 @@
+---
+layout: default
+title: "Reanimación cardiopulmonar y soporte vital avanzado (RCP / SVA) en el paciente crítico"
+---
 # Reanimación cardiopulmonar y soporte vital avanzado (RCP / SVA) en el paciente crítico
 
-> 📖 **Fuentes:** Nolan JP, et al. European Resuscitation Council Guidelines 2021. Resuscitation 2021;161:1-60. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+> 📖 **Fuentes:** Soar J, et al. European Resuscitation Council Guidelines 2025: Adult Advanced Life Support. *Resuscitation*. 2025;215(Suppl 1):110769. doi:10.1016/j.resuscitation.2025.110769 · Nolan JP, et al. ERC and ESICM Guidelines 2025: Post-resuscitation care. *Resuscitation*. 2025;215(Suppl 1):110809. doi:10.1016/j.resuscitation.2025.110809 · Resuscitation Council UK. Adult ALS Guidelines 2025: https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/adult-advanced-life-support-guidelines · AHA. 2025 Guidelines for CPR and ECC, Adult Advanced Life Support: https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support.
 
-La parada cardiaca es la emergencia tiempo-dependiente por excelencia: la supervivencia cae en torno al 7-10 % por cada minuto sin compresiones y, en los ritmos desfibrilables, cada minuto de retraso de la desfibrilación reduce la probabilidad de éxito en torno al 10 %. Este protocolo desarrolla el **algoritmo de reanimación cardiopulmonar y soporte vital avanzado: compresiones, ritmos, fármacos, causas reversibles y cuidados posparada**, adaptado al paciente crítico ingresado en UCI y utilizable de forma autónoma a pie de cama.
+La parada cardiaca requiere reconocimiento inmediato, RCP de calidad y desfibrilación temprana cuando esté indicada. El pronóstico depende del ritmo, causa, respuesta y sistema de atención; evita extrapolar una cifra fija de supervivencia por minuto. Este resumen organiza **compresiones, ritmos, fármacos, causas reversibles y cuidados posparada**, pero los algoritmos y dosis se deben contrastar con ERC 2025, el equipo disponible y el protocolo vigente del centro.
 
 ## 1. Definición y objetivo
 
 ### 1.1 Definición
 
-La **parada cardiorrespiratoria (PCR)** es el cese brusco de la actividad mecánica cardiaca, con ausencia de circulación eficaz y de ventilación espontánea, que produce isquemia tisular generalizada. El **soporte vital avanzado (SVA)**, según las guías del European Resuscitation Council (ERC), es el conjunto de maniobras que, además de las compresiones y la ventilación, incluye desfibrilación, vía aérea avanzada, fármacos, tratamiento de las causas reversibles y cuidados posparada.
+La **parada cardiorrespiratoria (PCR)** es el cese brusco de la actividad mecánica cardiaca, con ausencia de circulación eficaz y de ventilación espontánea, que produce isquemia tisular generalizada. El **soporte vital avanzado (SVA)** comprende, además de compresiones y ventilación, desfibrilación, manejo de la vía aérea, fármacos, tratamiento de causas reversibles y cuidados posparada, de acuerdo con el algoritmo de ERC 2025 adoptado localmente.
 
 ### 1.2 Objetivo
 
@@ -91,11 +95,11 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 | Causa | Reconocimiento | Tratamiento específico |
 |---|---|---|
 | **Hipoxia** | Cianosis, tubo desplazado, mala ventilación, SpO₂ baja | Vía aérea permeable, oxígeno 100 %, comprobar tubo y capnografía, aspiración |
-| **Hipovolemia** | Hemorragia, taquicardia previa, PVC baja, piel fría | Cristaloides calentados 500-1000 mL, hemoderivados, control de la fuente de sangrado |
-| **Hipo/hiperpotasemia y otras alteraciones metabólicas** | Gasometría con K⁺ alterado, acidosis, hipocalcemia, hipomagnesemia | Hiperpotasemia: calcio, insulina-glucosa, bicarbonato, salbutamol. Hipopotasemia: reposición de K⁺ y Mg²⁺ |
+| **Hipovolemia** | Hemorragia, taquicardia previa, signos de bajo volumen circulante | Control de la causa y reposición guiada por el contexto; usar hemoderivados si hemorragia significativa. No administrar un bolo fijo de cristaloides a todo paciente en parada. |
+| **Hipo/hiperpotasemia y otras alteraciones metabólicas** | Contexto clínico/analítica compatible | Tratar la causa específica con el algoritmo de circunstancias especiales y protocolo local. Calcio, bicarbonato y magnesio **no se administran de rutina** durante la parada; reservar para indicaciones concretas (p. ej., hiperpotasemia, torsades/hipomagnesemia). |
 | **Hipotermia** | Temperatura central baja, contexto de exposición | Recalentamiento activo, maniobras de recalentamiento, considerar circulación extracorpórea |
 | **Trombosis coronaria** | Dolor torácico previo, cambios del ST, factores de riesgo | Coronariografía e ICP primaria; fibrinolisis si ICP no disponible en < 120 min |
-| **Trombosis pulmonar** | Factores de riesgo, disnea, sobrecarga derecha, ecografía | Fibrinolisis (alteplasa 50 mg IV), considerar ECMO/eCPR |
+| **Trombosis pulmonar** | Contexto compatible y evaluación clínica/ecográfica cuando disponible | Considerar fibrinólisis durante la RCP si se sospecha/identifica TEP como causa, según guía y protocolo (dosis y repetición varían); valorar prolongar RCP y eCPR en centros adecuados. |
 | **Neumotórax a tensión** | Ausencia unilateral de murmullo, desviación traqueal, asimetría torácica | Descompresión con aguja (2.º espacio intercostal, línea medioclavicular, o 4.º-5.º espacio, línea axilar anterior) y drenaje torácico |
 | **Taponamiento cardiaco** | Ingurgitación yugular, ruidos apagados, ecografía con derrame | Pericardiocentesis guiada por ecografía |
 | **Tóxicos** | Antecedente de intoxicación, pupilas, contexto | Antídoto específico (naloxona en opioides, bicarbonato en antidepresivos tricíclicos, emulsión lipídica en anestésicos locales) |
@@ -119,9 +123,9 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 |---|---|---|
 | ECG continuo | Identificar el ritmo y las transiciones | Vigilar arritmias de reperfusión |
 | SpO₂ | No fiable durante compresiones | 94-98 %, evitar hiperoxia |
-| Capnografía (EtCO₂) | > 10 mmHg indica compresiones eficaces | 35-45 mmHg, normocapnia |
+| Capnografía (EtCO₂) | Vigilar calidad/tendencia, ventilación y posible RCE; un valor aislado no determina calidad ni pronóstico | Titular ventilación a normocapnia, confirmada por gasometría cuando proceda |
 | Presión arterial invasiva | Curva de pulso indica compresiones eficaces | PAM ≥ 65 mmHg |
-| Temperatura central | Descartar hipotermia | 32-36 °C si control dirigido; evitar fiebre |
+| Temperatura central | Medir si procede; considerar hipotermia como causa reversible | En pacientes que no recuperan consciencia, prevenir fiebre; objetivo y duración del control térmico conforme a ERC/ESICM 2025 y protocolo. No inducir hipotermia a todos. |
 | Diuresis | — | ≥ 0,5 mL/kg/h |
 | Glucemia | Descartar hipoglucemia | 6-10 mmol/L (108-180 mg/dL) |
 
@@ -159,9 +163,10 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 
 1. **Confirmar el ritmo** en el monitor y **cargar el desfibrilador** mientras continúan las compresiones.
 2. **Descarga 150-200 J (bifásico)** o **360 J (monofásico)**, según el fabricante. Seguir las descargas con **RCP 2 minutos inmediata**, sin comprobar el pulso.
+   - La estrategia de hasta **tres descargas apiladas** solo se contempla en FV/TVSP presenciada y monitorizada con desfibrilador inmediatamente disponible; seguir el protocolo ERC 2025/local y contar esa secuencia como la primera descarga a efectos de fármacos.
 3. A los **2 minutos**, **reevaluar el ritmo**: si persiste la FV/TVSP, **nueva descarga** y RCP 2 min.
 4. **Adrenalina 1 mg IV/IO** (10 mL de 1:10.000) tras la **3.ª descarga**, y después **cada 3-5 minutos** mientras dure la reanimación.
-5. **Amiodarona 300 mg IV/IO en bolo** tras la **3.ª descarga**; **segunda dosis de 150 mg** si recurre el ritmo desfibrilable (o **lidocaína 100 mg**, seguida de 50 mg, como alternativa).
+5. **Amiodarona 300 mg IV/IO** tras un total de **3 descargas**; segunda dosis de **150 mg tras 5 descargas totales**, tanto si la FV/TVSP persiste como si recurre. Lidocaína es alternativa conforme a algoritmo/protocolo local.
 6. **Continuar ciclos de 2 minutos** de RCP con descarga cuando esté indicada y fármacos cada 3-5 minutos.
 7. **Buscar y tratar las causas reversibles** en paralelo (apartado 3.4 y 5.6).
 8. Tras el **RCE**, iniciar de inmediato los **cuidados posparada** (apartado 5.8).
@@ -179,27 +184,27 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 
 - **Solo si es necesario y por personal entrenado**; la ventilación con mascarilla y bolsa autoinflable es suficiente al inicio.
 - **Dispositivos supraglóticos** o **tubo endotraqueal** según la pericia del equipo; con vía aérea avanzada, **compresiones continuas y 1 ventilación cada 6 segundos (10/min)**.
-- **Capnografía** para **confirmar la posición del tubo** y **valorar la calidad de la RCP**: **EtCO₂ > 10 mmHg** indica compresiones eficaces; un **aumento brusco** del EtCO₂ sugiere **RCE**.
+- **Capnografía con curva** para confirmar la posición del tubo, vigilar ventilación y valorar tendencias durante RCP; un ascenso brusco puede sugerir RCE, pero debe integrarse con otros signos y no interrumpir compresiones por sí solo.
 - **Evitar la hiperventilación** (reduce el retorno venoso y el gasto cardiaco).
 - Oxígeno al **100 %** durante la reanimación; tras el RCE, titular para **SpO₂ 94-98 %**; aspirar secreciones si dificultan la ventilación y vigilar la presión del neumotaponamiento tras el RCE.
 
-> ⚠️ **Aviso:** un **EtCO₂ < 10 mmHg** durante la RCP obliga a revisar la técnica de compresiones, la posición del tubo y la ventilación antes de asumir un mal pronóstico.
+> ⚠️ **Aviso:** no uses un valor bajo aislado de EtCO₂ para predecir mal pronóstico ni finalizar la reanimación. Revisa compresiones, vía aérea, ventilación y contexto, y sigue el algoritmo local.
 
 ### 5.5 Fármacos
 
 | Fármaco | Indicación | Dosis y vía | Tiempo / repetición |
 |---|---|---|---|
 | **Adrenalina** | Todos los ritmos de parada | 1 mg IV/IO (10 mL de 1:10.000), seguido de 20 mL de suero | Ritmos no desfibrilables: lo antes posible. Desfibrilables: tras la 3.ª descarga. Repetir cada 3-5 min |
-| **Amiodarona** | FV/TVSP refractaria | 300 mg IV/IO en bolo (diluidos en 20 mL de glucosa 5 %) | Tras la 3.ª descarga; 2.ª dosis 150 mg si recurre |
-| **Lidocaína** | Alternativa a la amiodarona | 100 mg (1-1,5 mg/kg) IV/IO; 2.ª dosis 50 mg (0,5-0,75 mg/kg) | Tras la 3.ª descarga y en la recurrencia |
-| **Sulfato de magnesio** | Torsades de pointes o hipomagnesemia | 2 g IV/IO diluidos | Bolo único, repetible según necesidad |
-| **Bicarbonato sódico 8,4 %** | Hiperpotasemia, intoxicación por tricíclicos, acidosis grave | 50 mmol (1 mmol/kg) IV | No de rutina; según la causa |
-| **Calcio** | Hiperpotasemia, hipocalcemia, intoxicación por calcioantagonistas | Cloruro cálcico 10 % 10 mL o gluconato cálcico 10 % 30 mL IV | Según la causa |
+| **Amiodarona** | FV/TVSP | 300 mg IV/IO en bolo (dilución según protocolo/ficha técnica) | Tras 3 descargas totales; 150 mg tras 5 descargas totales, incluso si el ritmo fue intermitente |
+| **Lidocaína** | Alternativa a la amiodarona | 100 mg IV/IO; segunda dosis 50 mg (dosis ponderal/techo según guía y protocolo) | Secuencia según algoritmo ERC 2025/local; no retrasar descarga ni compresiones |
+| **Sulfato de magnesio** | Torsades de pointes (y causa específica documentada) | Según protocolo de circunstancias especiales | No usar de rutina en parada |
+| **Bicarbonato sódico** | Indicaciones específicas (p. ej., hiperpotasemia o intoxicación por tricíclicos) | Dosis según causa, concentración y protocolo | No usar de rutina ni solo por acidosis durante RCP |
+| **Calcio** | Indicaciones específicas (p. ej., hiperpotasemia, hipocalcemia o intoxicación por calcioantagonistas) | Dosis/formulación según causa y protocolo | No usar de rutina en parada |
 | **Glucosa** | Hipoglucemia confirmada | 25 g IV (glucosa 10-50 % según la concentración disponible) | Según glucemia |
 | **Naloxona** | Sospecha de intoxicación por opioides | 0,4-2 mg IV/IO | Repetible según respuesta |
 | **Cristaloides calentados** | Hipovolemia | 500-1000 mL IV en bolos | Revaluar la respuesta |
 
-> ⚠️ **Aviso:** **no administrar atropina de forma rutinaria** en la asistolia ni en la AESP, y **flush** con 20 mL de suero tras cada fármaco para asegurar su llegada al centro circulatorio.
+> ⚠️ **Aviso:** **no administrar atropina, calcio, bicarbonato ni magnesio de forma rutinaria** en la parada. Tras fármacos IV, realizar lavado del acceso según el volumen y protocolo del dispositivo; evitar una cifra universal si existe restricción de volumen o una vía distinta.
 
 ### 5.6 Técnicas y procedimientos durante la reanimación
 
@@ -222,7 +227,7 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 
 1. **Vía aérea y ventilación**: confirmar el tubo con capnografía; **SpO₂ 94-98 %**, evitar hiperoxia; **PaCO₂ 35-45 mmHg**, evitar hipercapnia e hipocapnia.
 2. **Hemodinámica**: **PAM ≥ 65 mmHg**; fluidos, **noradrenalina** y, si persiste el bajo gasto, **inotropos**; corregir la hipovolemia.
-3. **Control de temperatura**: **control dirigido 33-37,5 °C evitando la fiebre**; cuando esté indicado (por ejemplo, tras FV/TVSP de origen cardiaco) mantener una temperatura constante de **32-36 °C** durante al menos 24 h, con recalentamiento lento (0,25-0,5 °C/h) y prevención de la fiebre posterior.
+3. **Control de temperatura**: en pacientes que no recuperan consciencia, prevenir fiebre (temperatura >37,7 °C) durante al menos **72 h** tras RCE. Puede seleccionarse control dirigido entre **32-36 °C durante al menos 24 h** según situación y protocolo; no es necesario inducir hipotermia a todos. Evitar recalentamiento activo de pacientes espontáneamente hipotérmicos salvo indicación clínica.
 4. **Glucemia**: **normoglucemia**, evitando la hipoglucemia.
 5. **ECG de 12 derivaciones** y **coronariografía urgente** si sospecha de **IAM con SDST** o inestabilidad hemodinámica de origen coronario.
 6. **Sedación, analgesia y control de crisis epilépticas**; valorar EEG si sospecha de estado epiléptico no convulsivo.
@@ -234,7 +239,7 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 ### 5.9 Finalización de la reanimación
 
 - **RCE** con signos de circulación eficaz: pasar a cuidados posparada.
-- **Asistolia persistente** tras **más de 20 minutos** de SVA, con las causas reversibles descartadas o tratadas y sin RCE, permite considerar la finalización; la decisión es **médica, colegiada y documentada**. En hipotermia o intoxicación el tiempo no es un criterio válido, y una **orden de no reanimar** válida impide el inicio.
+- La duración aislada de la RCP **no determina** la finalización. La decisión corresponde al líder/equipo médico según ritmo, respuesta, causas reversibles, circunstancias, recursos y protocolo; documentar el razonamiento. Hipotermia, intoxicaciones y otras circunstancias especiales pueden requerir estrategias prolongadas. Respetar una orden válida de no reanimar conforme a normativa local.
 
 ## 6. Cuidados de enfermería y vigilancia
 
@@ -260,7 +265,7 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 | SpO₂ | Continuo | 94-98 % | Cada 15-30 min en la primera hora |
 | EtCO₂ / PaCO₂ | Continuo / gasometría | 35-45 mmHg | Cada 15-30 min inicialmente |
 | Presión arterial (preferible invasiva) | Continuo | PAM ≥ 65 mmHg | Cada 15 min |
-| Temperatura central | Continuo | 32-36 °C si control dirigido; sin fiebre | Cada hora |
+| Temperatura central | Continuo | Prevenir fiebre (>37,7 °C) ≥72 h; si control dirigido, 32-36 °C ≥24 h | Cada hora |
 | Glucemia | Cada 1-2 h | 6-10 mmol/L | Cada determinación |
 | Diuresis y electrolitos | Cada hora / cada 2-6 h | ≥ 0,5 mL/kg/h; normopotasemia | Balance y resultados |
 | Nivel de consciencia y pupilas | Cada hora | Detectar deterioro neurológico | Escala y observaciones |
@@ -352,7 +357,7 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 - **FV/TVSP refractaria** a varias descargas y fármacos: valorar **eCPR/ECMO** y avisar al equipo de circulación extracorpórea.
 - **Sospecha de causa reversible que requiere procedimiento** (taponamiento, neumotórax, trombosis coronaria o pulmonar): avisar al especialista correspondiente de forma simultánea.
 - **AESP sin causa evidente**: ecografía y analítica urgente en busca de las 4 H y 4 T.
-- **Sin RCE tras 20 minutos** de SVA con causas tratadas: decisión médica colegiada sobre la finalización.
+- La duración aislada (incluidos 20 minutos) no establece un criterio automático de finalización; decisión clínica según algoritmo, causas, respuesta, circunstancias y recursos, documentada por el equipo responsable.
 
 ### 9.3 Derivación tras el RCE
 
@@ -375,7 +380,7 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 - **30:2, 100-120/min, 5-6 cm**, reexpansión completa y **cambios de reanimador cada 2 minutos**.
 - **Desfibrilar cuanto antes** en FV/TVSP: **150-200 J bifásico**, seguido de **RCP 2 minutos**.
 - **Adrenalina 1 mg IV/IO cada 3-5 minutos** (en no desfibrilables lo antes posible; en desfibrilables, tras la 3.ª descarga) y **amiodarona 300 mg** tras la 3.ª descarga (150 mg si recurre).
-- **Buscar y tratar las 4 H y las 4 T**; la **capnografía** (EtCO₂ > 10 mmHg y ascenso brusco) informa de la calidad y del RCE.
+- **Buscar y tratar causas reversibles**; la capnografía informa de ventilación/tendencias y puede apoyar sospecha de RCE, sin utilizar valores aislados como pronóstico.
 - **Cuidados posparada**: SpO₂ 94-98 %, PaCO₂ 35-45 mmHg, PAM ≥ 65 mmHg, normoglucemia, control de temperatura evitando la fiebre, registro y debriefing.
 
 ### 10.2 Errores frecuentes
@@ -394,7 +399,7 @@ Las **escalas de alerta temprana (NEWS/MEWS)** permiten objetivar el deterioro: 
 
 ## Fuentes
 
-> 📖 **Fuentes:** Nolan JP, et al. European Resuscitation Council Guidelines 2021. Resuscitation 2021;161:1-60. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier.
+> 📖 **Fuentes:** Soar J, et al. ERC Guidelines 2025: Adult Advanced Life Support. *Resuscitation*. 2025;215(Suppl 1):110769. doi:10.1016/j.resuscitation.2025.110769 · Nolan JP, et al. ERC/ESICM Guidelines 2025: Post-resuscitation care. *Resuscitation*. 2025;215(Suppl 1):110809. doi:10.1016/j.resuscitation.2025.110809 · Resuscitation Council UK. Adult ALS Guidelines 2025: https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/adult-advanced-life-support-guidelines.
 
 ---
 

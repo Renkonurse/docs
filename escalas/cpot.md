@@ -1,6 +1,10 @@
+---
+layout: default
+title: "CPOT · Critical-Care Pain Observation Tool"
+---
 # CPOT · Critical-Care Pain Observation Tool
 
-> 📖 **Fuentes:** Gélinas C, Fillion L, Puntillo KA, Viens C, Fortier M. *Validation of the Critical-Care Pain Observation Tool in adult patients.* Am J Respir Crit Care Med. 2006;174(3):282-288. · Devlin JW, Skrobik Y, Gélinas C, et al. *PADIS Clinical Practice Guidelines.* Crit Care Med. 2018;46(9):e825-e873. · Lynn-McHale Wiegand DJ, ed. *AACN Procedure Manual for Critical Care.* 7th ed. Elsevier.
+> 📖 **Fuentes:** Gélinas C, et al. *Validation of the Critical-Care Pain Observation Tool in adult patients.* Am J Respir Crit Care Med. 2006;174:282-288. · Devlin JW, et al. PADIS Guidelines. *Crit Care Med*. 2018;46:e825-e873 (base). · Lewis K, et al. Focused PADIS update. *Crit Care Med*. 2025;53:e711-e727. doi:10.1097/CCM.0000000000006574 (actualización focal; la validación CPOT permanece en su publicación original).
 
 ## Qué mide y para qué sirve
 
@@ -136,7 +140,9 @@ Está **recomendada por las guías PADIS 2018** (junto con la BPS) y es una de l
 - **Reevaluar tras la analgesia** y registrar la intervención.
 - Recomendada por **PADIS 2018** junto con la BPS.
 - No es valorable con **bloqueo neuromuscular**.
+
 ---
+
 ## Evidencia y referencias
 
 - **Gélinas C, et al.** Validation of the Critical-Care Pain Observation Tool in adult patients. *Am J Crit Care* 2006;15:420-427.
@@ -146,6 +152,7 @@ Está **recomendada por las guías PADIS 2018** (junto con la BPS) y es una de l
 > Es observacional y requiere respuesta motora; no es válida en pacientes con bloqueo neuromuscular. Debe valorarse en reposo y durante procedimientos.
 
 ---
+
 ## Correspondencia con la app
 
 | Pantalla / contenido | Relación |

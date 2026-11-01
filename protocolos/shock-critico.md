@@ -1,8 +1,12 @@
+---
+layout: default
+title: "Shock y paciente crítico complejo: tipos, reconocimiento, monitorización y manejo inicial"
+---
 # Shock y paciente crítico complejo: tipos, reconocimiento, monitorización y manejo inicial
 
 *Reconocimiento, perfusión y reevaluación.*
 
-> 📖 **Fuentes:** Evans L, et al. Surviving Sepsis Campaign 2021. Crit Care Med 2021;49:e1063-e1143. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Nolan JP, et al. European Resuscitation Council Guidelines 2021. Resuscitation 2021;161:1-60.
+> 📖 **Fuentes:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med*. doi:10.1007/s00134-026-08361-1. · ERC Guidelines 2025. · Marino PL. *The ICU Book*. 4th ed. Las recomendaciones SSC 2021/ERC 2021 son antecedentes cuando hay actualización posterior.
 
 El shock es una situación tiempo-dependiente: la hipoperfusión mantenida produce disfunción celular y fallo multiorgánico irreversible. Este protocolo ordena la clasificación, la detección precoz, la valoración inicial, la actuación escalonada, los cuidados de enfermería y los criterios de escalado, para aplicarlo a pie de cama de forma autónoma.
 
@@ -87,7 +91,7 @@ El aporte de oxígeno a los tejidos depende del gasto cardiaco y del contenido a
 | ScvO₂ | < 70 % | Extracción aumentada de oxígeno |
 | Temperatura | > 38,3 °C o < 36 °C | La hipotermia es signo de mal pronóstico |
 
-### 3.3 Escala qSOFA (cribado a pie de cama)
+### 3.3 qSOFA (señal pronóstica, no cribado único)
 
 | Ítem | Punto de corte |
 |---|---|
@@ -153,13 +157,13 @@ La monitorización solo tiene sentido si se traduce en decisiones: **fluidos, va
 1. **Llama ayuda y activa el equipo.** No manejes un shock en solitario.
 2. **Oxigenoterapia** y control de la vía aérea si precisa; objetivo de saturación 94-98 % (88-92 % en riesgo de hipercapnia).
 3. **Acceso vascular** (2 vías periféricas de gran calibre o vía central) y extracción de analítica y cultivos.
-4. **Reanimación con fluidos** guiada por respuesta: cristaloides balanceados; **evitar sobrecarga**. En la sepsis, al menos 30 ml/kg en las primeras 3 horas; en el resto de shocks, bolos de 250-500 ml en 15-30 minutos con reevaluación tras cada uno.
+4. **Reanimación con fluidos** guiada por respuesta: cristaloides balanceados y vigilancia de sobrecarga. En hipoperfusión por sepsis/shock séptico, SSC 2026 sugiere al menos 30 ml/kg durante las primeras 3 horas (recomendación condicional), con reevaluación dinámica; no es una dosis rígida. En otros shocks, individualiza el volumen y velocidad según etiología, paciente y protocolo.
 5. **Vasopresores**: noradrenalina de elección (objetivo **PAM ≥ 65 mmHg**); añadir vasopresina o adrenalina si precisa.
 6. **Inotrópicos** (dobutamina) si disfunción miocárdica con gasto cardiaco bajo.
 7. **Tratar la causa**: control del foco, revascularización, pericardiocentesis, drenaje torácico, antitrombóticos o antitoxínicos según el caso.
 8. **Monitorizar la respuesta** tras cada intervención y documentar el efecto y los efectos adversos.
 9. **Reevaluar** perfusión, lactato, diuresis y estado neurológico de forma seriada.
-10. **Antibioterapia precoz** en el shock con sospecha infecciosa, en la primera hora.
+10. **Antimicrobianos:** en shock séptico o sepsis probable/definida, administrar de inmediato, idealmente dentro de 1 h; en posible sepsis sin shock, evaluación rápida y, si persiste sospecha, iniciar dentro de 3 h. Si probabilidad baja y sin shock, reevaluación estrecha puede preceder a la terapia.
 11. **Corregir alteraciones asociadas**: hipoglucemia o hiperglucemia, acidosis grave, hipocalcemia, hipotermia y coagulopatía.
 12. **Preparar el soporte avanzado** y el traslado a UCI si no hay respuesta.
 
@@ -186,7 +190,7 @@ La monitorización solo tiene sentido si se traduce en decisiones: **fluidos, va
 
 | Tipo | Medida clave |
 |---|---|
-| **Séptico** | Antibiótico en la primera hora, fluidos, noradrenalina y control del foco |
+| **Séptico** | Antimicrobianos según probabilidad/tiempo SSC 2026, reanimación individualizada, noradrenalina si persiste hipotensión y control temprano del foco |
 | **Cardiogénico** | Evitar la sobrecarga, inotrópico, vasopresor si PAM baja y revascularización precoz |
 | **Hipovolémico** | Control de la hemorragia, reposición con hemoderivados y ácido tranexámico si procede |
 | **Obstructivo** | Descompresión inmediata del neumotórax a tensión, pericardiocentesis o trombolisis |
@@ -249,7 +253,7 @@ La monitorización solo tiene sentido si se traduce en decisiones: **fluidos, va
 ## 8. Prevención
 
 - Detección precoz con signos de alarma, escalas y lactato en todo paciente de riesgo.
-- Activación del código sepsis y administración de antibiótico en la primera hora cuando proceda.
+- Activación del código sepsis y antimicrobianos según SSC 2026: inmediatos/idealmente ≤1 h en shock o sepsis probable/definida; evaluación rápida y hasta ≤3 h en posible sepsis sin shock si persiste la sospecha.
 - Uso racional de fluidos: bolos pequeños, reevaluación y suspensión ante la sobrecarga.
 - Cuidado de los dispositivos invasivos y prevención de la infección asociada.
 - Evitar nefrotóxicos y contrastes cuando exista alternativa; ajustar dosis al peso y a la función renal.
@@ -302,7 +306,7 @@ Avisa de inmediato al facultativo si aparece cualquiera de estos signos:
 | Confiar solo en la presión arterial | Shock normotenso no detectado | Lactato, perfusión y diuresis seriados |
 | Infundir fluidos sin reevaluar | Sobrecarga y edema pulmonar | Bolos pequeños con reevaluación clínica |
 | Administrar vasopresores en bolo | Arritmia e isquemia | Perfusión continua por vía central |
-| Retrasar el antibiótico por esperar cultivos | Aumento de mortalidad | Cultivos y antibiótico en la primera hora |
+| Retrasar antimicrobianos indicados por esperar cultivos | Demora del tratamiento necesario | Obtener cultivos primero si no ocasiona demora clínicamente relevante; aplicar tiempos SSC 2026 según shock y probabilidad de infección |
 | No tratar la causa | Shock refractario | Control del foco, drenaje o revascularización |
 | Atribuir la confusión a la sedación | Retraso diagnóstico | Descartar hipoperfusión y causas metabólicas |
 | No vigilar el punto de infusión de aminas | Necrosis por extravasación | Inspección horaria y actuación inmediata |
@@ -310,7 +314,7 @@ Avisa de inmediato al facultativo si aparece cualquiera de estos signos:
 
 ## Fuentes
 
-> 📖 **Fuentes:** Evans L, et al. Surviving Sepsis Campaign 2021. Crit Care Med 2021;49:e1063-e1143. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Nolan JP, et al. European Resuscitation Council Guidelines 2021. Resuscitation 2021;161:1-60.
+> 📖 **Fuentes:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med*. doi:10.1007/s00134-026-08361-1. · ERC Guidelines 2025. · Marino PL. *The ICU Book*. 4th ed.
 
 - **Evans L, et al.** Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. *Crit Care Med* 2021;49:e1063-e1143.
 - **Marino PL.** The ICU Book. 4th ed. Wolters Kluwer.

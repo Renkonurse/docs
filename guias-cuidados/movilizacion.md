@@ -1,6 +1,10 @@
+---
+layout: default
+title: "Movilización precoz del paciente crítico"
+---
 # Movilización precoz del paciente crítico
 
-> 📖 **Fuentes:** Devlin JW, et al. PADIS Guidelines (pain, agitation/sedation, delirium, immobility, sleep). Crit Care Med 2018;46:e825-e873. · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer.
+> 📖 **Fuentes:** Devlin JW, et al. PADIS Guidelines. *Crit Care Med*. 2018;46:e825-e873 (base). · Lewis K, et al. Focused PADIS update. *Crit Care Med*. 2025;53:e711-e727. doi:10.1097/CCM.0000000000006574 (sugiere condicionalmente movilización/rehabilitación mejorada frente a atención habitual en adultos críticos, cuando sea segura).
 
 > 🖥️ **Correspondencia con la app:** `PacienteCriticoComplejoActivity` (`feature_cuidados`), `ProcedimientosActivity` (`feature_sistemas`), `MrcSumActivity` (`feature_escalas`), `MonitorizacionActivity` (`feature_monitorizacion`) y `EcmoCuidadosActivity` (`feature_cardio`).
 

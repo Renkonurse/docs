@@ -1,3 +1,7 @@
+---
+layout: default
+title: "TRRC: parámetros, presiones y alarmas del circuito"
+---
 # TRRC: parámetros, presiones y alarmas del circuito
 
 > 📖 **Fuentes:** KDIGO. Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138. · ADQI (Acute Dialysis Quality Initiative) (https://www.adqi.org). · Lynn-McHale Wiegand DJ, ed. AACN Procedure Manual for Critical Care. 7th ed. Elsevier. · Marino PL. The ICU Book. 4th ed. Wolters Kluwer. · Manuales de las máquinas de TRRC: Baxter Prismaflex, Fresenius multiFiltrate y Nikkiso Aquarius. · Sociedad Española de Enfermería Intensiva y Crítica (SEEIUC) (https://www.seeiuc.org).
@@ -147,7 +151,11 @@ Antes de avisar, comprobar el peso del paciente, la UF neta programada, que las 
 | **PBP** | Presión prebomba (arterial) |
 | **Pven** | Presión venosa (retorno) |
 | **TRRC / CRRT** | Terapia de reemplazo renal continuo |
-## 12. Evidencia y referencias
+| **TPE** | Plasmaféresis terapéutica |
+
+---
+
+## Evidencia y referencias
 
 - **KDIGO.** Clinical Practice Guideline for Acute Kidney Injury. *Kidney Int Suppl* 2012;2:1-138.
 - **ADQI.** Consensos de anticoagulación regional con citrato, dosis de TRRC y manejo del circuito.
@@ -160,7 +168,7 @@ Antes de avisar, comprobar el peso del paciente, la UF neta programada, que las 
 
 ---
 
-## 13. Correspondencia con la app
+## Correspondencia con la app
 
 | Pantalla / contenido | Relación |
 |---|---|
