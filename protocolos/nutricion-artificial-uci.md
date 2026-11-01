@@ -1,80 +1,80 @@
 ---
 layout: default
-title: "NUTRICI?N ARTIFICIAL EN EL PACIENTE CR?TICO"
+title: "NUTRICIÓN ARTIFICIAL EN EL PACIENTE CRÍTICO"
 ---
-# NUTRICI?N ARTIFICIAL EN EL PACIENTE CR?TICO
+# NUTRICIÓN ARTIFICIAL EN EL PACIENTE CRÍTICO
 
 *Soporte nutricional enteral y parenteral en la unidad de cuidados intensivos.*
 
 > **Fuentes:** ESPEN Guidelines on Clinical Nutrition in the ICU (2019). ASPEN/SCCM Guidelines. SENPE. Documento educativo.
 
-## 1. Por qu? es importante
+## 1. Por qué es importante
 
-El paciente cr?tico entra en hipermetabolismo que provoca p?rdida muscular, inmunodepresi?n y mayor mortalidad. La nutrici?n precoz (24-48 h) reduce complicaciones.
+El paciente crítico entra en hipermetabolismo que provoca pérdida muscular, inmunodepresión y mayor mortalidad. La nutrición precoz (24-48 h) reduce complicaciones.
 
-## 2. Valoraci?n inicial
+## 2. Valoración inicial
 
-| Qu? valorar | C?mo |
+| Qué valorar | Cómo |
 |---|---|
-| Peso e IMC | < 18,5 o > 30 empeoran pron?stico |
-| Ingesta previa | D?as sin comer adecuadamente |
-| NUTRIC/mNUTRIC | Valora beneficio de nutrici?n aumentada |
-| Necesidades | 25-30 kcal/kg/d?a; 1,2-2,0 g prot/kg/d?a |
+| Peso e IMC | < 18,5 o > 30 empeoran pronóstico |
+| Ingesta previa | Días sin comer adecuadamente |
+| NUTRIC/mNUTRIC | Valora beneficio de nutrición aumentada |
+| Necesidades | 25-30 kcal/kg/día; 1,2-2,0 g prot/kg/día |
 
-## 3. V?a de administraci?n
+## 3. Vía de administración
 
-1. **Enteral (NG)** ? primera opci?n si intestino funciona
-2. **Enteral yeyunal** ? intolerancia g?strica o pancreatitis
-3. **Parenteral** ? contraindicaci?n o insuficiencia enteral
-4. **Mixta** ? enteral insuficiente en 4-7 d?as
+1. **Enteral (NG)** — primera opción si intestino funciona
+2. **Enteral yeyunal** — intolerancia gástrica o pancreatitis
+3. **Parenteral** — contraindicación o insuficiencia enteral
+4. **Mixta** — enteral insuficiente en 4-7 días
 
-## 4. Nutrici?n enteral
+## 4. Nutrición enteral
 
-- Iniciar en 24-48 h si estabilidad hemodin?mica
+- Iniciar en 24-48 h si estabilidad hemodinámica
 - Empezar 20-25 mL/h; progresar cada 8-12 h
-- Cabecero 30-45?; residuo cada 4-6 h (> 300-500 mL valorar)
+- Cabecero 30-45°; residuo cada 4-6 h (> 300-500 mL valorar)
 - Higiene oral cada 4 h; lavar sonda cada 4 h
 
 ### Complicaciones frecuentes
 
-| Complicaci?n | Qu? hacer |
+| Complicación | Qué hacer |
 |---|---|
-| Diarrea | Revisar f?rmacos; valorar fibra |
-| Residuo alto | Proquin?tico; post-pil?rica si persiste |
-| Distensi?n | Parar, valorar, avisar |
-| Broncoaspiraci?n | Cabecero 45?; valorar post-pil?rica |
+| Diarrea | Revisar fármacos; valorar fibra |
+| Residuo alto | Proquinético; post-pilórica si persiste |
+| Distensión | Parar, valorar, avisar |
+| Broncoaspiración | Cabecero 45°; valorar post-pilórica |
 
-## 5. Nutrici?n parenteral
+## 5. Nutrición parenteral
 
-- Indicaciones: ?leo > 5 d?as, obstrucci?n, pancreatitis grave
-- V?a central si osmolaridad > 900 mOsm/L
-- Glucosa 3-5 g/kg/d?a; l?pidos 0,7-1,5 g/kg/d?a; amino?cidos 1,2-2,0 g/kg/d?a
-- Bomba continua; nunca bolo; nevera 2-8 ?C
-- Glucemia cada 4-6 h; triglic?ridos semanal
+- Indicaciones: íleo > 5 días, obstrucción, pancreatitis grave
+- Vía central si osmolaridad > 900 mOsm/L
+- Glucosa 3-5 g/kg/día; lípidos 0,7-1,5 g/kg/día; aminoácidos 1,2-2,0 g/kg/día
+- Bomba continua; nunca bolo; nevera 2-8 °C
+- Glucemia cada 4-6 h; triglicéridos semanal
 
 ## 6. Situaciones especiales
 
-| Situaci?n | Ajuste |
+| Situación | Ajuste |
 |---|---|
-| S?ptico | No sobrealimentar; 10-20 kcal/kg primeros d?as |
-| TRRC | Prote?nas 1,5-2,5 g/kg; vitaminas hidrosolubles |
+| Séptico | No sobrealimentar; 10-20 kcal/kg primeros días |
+| TRRC | Proteínas 1,5-2,5 g/kg; vitaminas hidrosolubles |
 | Obeso | Peso ideal; 11-14 kcal/kg peso real |
-| Diabetes | F?rmula espec?fica; objetivo 140-180 mg/dL |
+| Diabetes | Fórmula específica; objetivo 140-180 mg/dL |
 
-## 7. S?ndrome de realimentaci?n
+## 7. Síndrome de realimentación
 
-Riesgo: IMC < 16, ingesta nula > 7 d?as, alcoholismo. Hipofosfatemia, hipopotasemia, hipomagnesemia. Prevenci?n: empezar con 10-15 kcal/kg/d?a; electrolitos cada 12 h los primeros 3 d?as.
+Riesgo: IMC < 16, ingesta nula > 7 días, alcoholismo. Hipofosfatemia, hipopotasemia, hipomagnesemia. Prevención: empezar con 10-15 kcal/kg/día; electrolitos cada 12 h los primeros 3 días.
 
-## 8. Monitorizaci?n
+## 8. Monitorización
 
-| Qu? | Cu?ndo |
+| Qué | Cuándo |
 |---|---|
 | Peso | Diario |
-| Balance h?drico | Horario |
+| Balance hídrico | Horario |
 | Glucemia | Cada 4-6 h al inicio |
 | K, P, Mg | Diario al inicio |
-| Triglic?ridos | Semanal (si NP) |
+| Triglicéridos | Semanal (si NP) |
 
 ---
 
-*Documento educativo. No sustituye a la prescripci?n m?dica.*
+*Documento educativo. No sustituye a la prescripción médica.*
